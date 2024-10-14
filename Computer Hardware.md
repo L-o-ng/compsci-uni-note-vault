@@ -1,0 +1,6 @@
+#linker
+
+## Components
++ [[CPU]]
++ 
+

@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "34d554cd0bf9af4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "27bd070f182b7586",
+        "type": "tabs",
+        "dimension": 44.54148471615721,
+        "children": [
+          {
+            "id": "a6e2a1332c02afa8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7d9d86cec5ec3e49",
+        "type": "tabs",
+        "dimension": 55.45851528384279,
+        "children": [
+          {
+            "id": "f52e172f809b2f5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MfCS Week 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad36f904cfe7ddc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2deb1d5908505614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c7c83fb5dec45c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9967216292dc7627",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "functions",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6dda1112c069c6c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "de83557098a9fda5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c216a7f30dc5f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b0450edf1dc1eb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c473a1eed84a7b2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0417c532d66ab87",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "64a02f0ed697da01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a6e2a1332c02afa8",
+  "lastOpenFiles": [
+    "MfCS Week 2.md",
+    "Functions and Inverse Functions.md",
+    "Sets and Functions.md",
+    "Groups.md",
+    "Fields.md",
+    "Mathematics for Computer Science Coursework.md",
+    "Practicals.md",
+    "Circuits.md",
+    "Binary Arithmetic.md",
+    "Quadratic Equations.md",
+    "Trigonometric Functions.md",
+    "Arc Lengths and Angles.md",
+    "Single Maths A.md",
+    "Trigonometry.md",
+    "Similar Triangles.md",
+    "Pythagoras' Theorem.md",
+    "Trig function Triangle.png",
+    "Radians.md",
+    "Radians.png",
+    "Circle.png",
+    "Pythagoras Theorem Proof.png",
+    "Foundations.md",
+    "Mr Based.png",
+    "Computer Hardware.md",
+    "Graph of square root.png",
+    "Negative Binary Numbers.md",
+    "Git.md",
+    "Gates.md",
+    "Digital Electronics.md",
+    "Computer Systems.md",
+    "Summations.md",
+    "Number Systems.md",
+    "Binary addition.png",
+    "Binary Multiplication.png",
+    "Canvas.canvas",
+    "Binary Example.png",
+    "Processor Microarchitecture.png",
+    "Untitled"
+  ]
+}
