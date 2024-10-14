@@ -6,14 +6,18 @@
       {
         "id": "27bd070f182b7586",
         "type": "tabs",
-        "dimension": 44.54148471615721,
+        "dimension": 44.541484716157214,
         "children": [
           {
             "id": "a6e2a1332c02afa8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,7 +25,7 @@
       {
         "id": "7d9d86cec5ec3e49",
         "type": "tabs",
-        "dimension": 55.45851528384279,
+        "dimension": 55.458515283842786,
         "children": [
           {
             "id": "f52e172f809b2f5b",
@@ -64,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "functions",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Git.md"
+              }
             }
           },
           {
@@ -132,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
