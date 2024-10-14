@@ -1,39 +1,5 @@
 #notes #incomplete 
 A field is much like a [[Groups|Group]], but with 2 operations. It is defined informally as a set with 2 operations defined on that set - addition and multiplication, which behave similarly for rational and real numbers, alongside the existence of an additive and multiplicative inverse.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Axioms (from [Wikipedia](https://en.wikipedia.org/wiki/Field_(mathematics)))
 + **Associativity** of addition and multiplication: $a+(b+c)=(a+b)+c$, and $a\cdot(b\cdot{c})=(a\cdot{b})\cdot{c}$.
 + **Commutativity** of addition and multiplication: $a+b=b+a\text{, and }ab=ba$.

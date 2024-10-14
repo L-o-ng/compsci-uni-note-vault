@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "27bd070f182b7586",
-        "type": "tabs",
-        "dimension": 44.541484716157214,
-        "children": [
-          {
-            "id": "a6e2a1332c02afa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7d9d86cec5ec3e49",
         "type": "tabs",
-        "dimension": 55.458515283842786,
         "children": [
           {
             "id": "f52e172f809b2f5b",
@@ -38,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8579a0d0549153bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Fields.md"
               }
             }
           },
@@ -139,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,9 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e2a1332c02afa8",
+  "active": "8579a0d0549153bb",
   "lastOpenFiles": [
     "MfCS Week 2.md",
+    "Git.md",
     "Functions and Inverse Functions.md",
     "Sets and Functions.md",
     "Groups.md",
@@ -195,7 +189,6 @@
     "Computer Hardware.md",
     "Graph of square root.png",
     "Negative Binary Numbers.md",
-    "Git.md",
     "Gates.md",
     "Digital Electronics.md",
     "Computer Systems.md",
