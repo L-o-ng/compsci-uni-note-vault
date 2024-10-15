@@ -8,7 +8,7 @@ We use capital letters to represent sets and lowercase letters for their element
 + $\in$ represents set membership.
 + $\notin$ represents not belonging to a set.
 + | or : means "such that".
-+ |A| means the cardinality of set A: the number of items within it.
++ |A| means the cardinality of set A: the number of distinct items within it.
 
 ### Intersect, Union, Exclusion
 Let A, B be sets.
@@ -59,15 +59,15 @@ An interval is represented by a line connecting 2 bounds.
 + **Powerset** - $\mathcal{P}(A)=\set{A^\prime:A^\prime\subseteq A}$, or the set of all subsets of $A$.
 + **Cartesian Product of $A$ and $B$** - The set of all ordered pairs with first element from A and second from B; $A\times B=\set{(a,b):a\in A, b\in B}$. Note that $(a,b)$ denotes an ordered pair.
 + **\[n]** - In Computer Science, this commonly represents $\set{1, 2, 3, 4, ..., n}$.
-
-## Functions
-A function of $f:A\to B$ is an assignment of a unique element of B to **every** element of A.
-+ $f:\mathbb{N}\to\mathbb{N}$, where $f(n)=n^2+3$.
-+ $f:\wp(\mathbb{N})\backslash\emptyset\to\mathbb{N}\text{ where }f(S)=\text{ the minimal element of }S$.
-
 ## Tuples
 Tuples are **ordered**.
 Changing the order of their elements is significant.
-
+## Set size
+The **cardinality** of a set is the number of distinct elements it contains.
+Two sets have the same size if there is a [[Functions in Computer Science#Injections, Surjections, and Bijections|bijection]] between them.
+	Formally, a set $A$ has size $n\in\mathbb{N}$ if there is a bijection between $A$ and the set \[$n$].
+If the number of elements is unbounded, we say the **cardinality** is infinite.
++ If there is a **bijection**, $f:A\to\mathbb{N}$ or $f:\mathbb{N}\to A$, we say $A$ is countably infinite.
++ If there is no **bijection** $f:A\to\mathbb{N}$, we say $A$ is uncountably infinite.
 
 

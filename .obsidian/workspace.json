@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7d9d86cec5ec3e49",
+        "id": "dd7a5d7348075b48",
         "type": "tabs",
         "children": [
           {
-            "id": "f52e172f809b2f5b",
+            "id": "995c9d7dbce92274",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MfCS Week 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8579a0d0549153bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fields.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fields.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +102,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fields.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fields.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,45 +138,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8579a0d0549153bb",
+  "active": "995c9d7dbce92274",
   "lastOpenFiles": [
+    "Arrays and Lists.md",
+    "Array example.png",
+    "Algorithms & Data Structures.md",
+    "Algorithms - Basics.md",
+    "Data Structures - Basics.md",
+    "Functions in Computer Science.md",
+    "Pseudo-code.md",
+    "Transistors.md",
+    "Fields.md",
+    "Functions and Inverse Functions.md",
+    "Sets.md",
+    "Mr Based.png",
+    "injections surjections bijections.png",
+    "Calculus.md",
+    "Mathematics for Computer Science.md",
+    "Trigonometric Functions.md",
+    "Pythagoras' Theorem.md",
+    "Radians.md",
     "MfCS Week 2.md",
     "Git.md",
-    "Functions and Inverse Functions.md",
-    "Sets and Functions.md",
     "Groups.md",
-    "Fields.md",
     "Mathematics for Computer Science Coursework.md",
     "Practicals.md",
     "Circuits.md",
     "Binary Arithmetic.md",
     "Quadratic Equations.md",
-    "Trigonometric Functions.md",
     "Arc Lengths and Angles.md",
     "Single Maths A.md",
-    "Trigonometry.md",
-    "Similar Triangles.md",
-    "Pythagoras' Theorem.md",
     "Trig function Triangle.png",
-    "Radians.md",
     "Radians.png",
     "Circle.png",
     "Pythagoras Theorem Proof.png",
-    "Foundations.md",
-    "Mr Based.png",
-    "Computer Hardware.md",
     "Graph of square root.png",
-    "Negative Binary Numbers.md",
-    "Gates.md",
-    "Digital Electronics.md",
-    "Computer Systems.md",
-    "Summations.md",
-    "Number Systems.md",
     "Binary addition.png",
     "Binary Multiplication.png",
     "Canvas.canvas",
-    "Binary Example.png",
-    "Processor Microarchitecture.png",
     "Untitled"
   ]
 }

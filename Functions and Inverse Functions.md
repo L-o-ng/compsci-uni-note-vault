@@ -1,4 +1,4 @@
-#notes #incomplete 
+#notes
 
 A **function** $f$ associates a **value** $f(x)$ to every number $x$ in its **domain**.
 ## Examples

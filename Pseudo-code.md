@@ -104,3 +104,9 @@ for i = 0 to 9; i += 2 do
 	print i
 end for
 ```
+## While Loops
+```
+while <condition> do
+	body
+end while
+```

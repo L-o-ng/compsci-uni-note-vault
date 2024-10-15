@@ -2,9 +2,10 @@
 ## Related
 + [[Single Maths A]]
 ## Notes
-+ [[Sets and Functions]]
++ [[Sets]]
 + [[Groups]]
 + [[Fields]]
++ [[Calculus]]
 + 
 ## Important
 **Bench test** - end of term 1, worth 34%

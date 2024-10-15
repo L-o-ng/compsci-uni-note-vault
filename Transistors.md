@@ -1,3 +1,3 @@
-#notes #incomplete 
+#definition 
 
 The building blocks of a circuit.
