@@ -5,6 +5,7 @@
 + [[Number Systems]]
 + [[Binary Arithmetic]]
 + [[Negative Binary Numbers]]
++ [[Floating Point Representation]]
 + 
 
 ## Important
