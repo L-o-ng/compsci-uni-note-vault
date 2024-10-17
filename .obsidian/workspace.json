@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ace0580550bf4df",
+        "id": "d20c18170cac4ba2",
         "type": "tabs",
         "children": [
           {
-            "id": "595eb286601be939",
+            "id": "3877cc407f43b3d1",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -159,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "595eb286601be939",
+  "active": "3877cc407f43b3d1",
   "lastOpenFiles": [
+    "HTML.md",
+    "Exponentials and Logarithms.md",
+    "Single Maths A.md",
+    "Simplifying Surds.md",
+    "Programming (Black).md",
     "Vector Spaces.md",
     "Linear Combinations.md",
     "Functions and Inverse Functions.md",
@@ -192,11 +197,6 @@
     "Negative Binary Numbers.md",
     "Binary Arithmetic.md",
     "Binary addition.png",
-    "Computer Systems.md",
-    "AaDS Week 2.md",
-    "Pseudo-code.md",
-    "Arc Lengths and Angles.md",
-    "Algorithms & Data Structures Coursework.md",
     "Canvas.canvas",
     "Untitled"
   ]

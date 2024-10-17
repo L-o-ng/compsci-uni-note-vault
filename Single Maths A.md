@@ -8,4 +8,6 @@
 + [[Functions and Inverse Functions]]
 + [[Trigonometry]]
 + [[Quadratic Equations]]
++ [[Simplifying Surds]]
++ [[Exponentials and Logarithms]]
 + 
