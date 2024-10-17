@@ -28,7 +28,20 @@ We can now define $\sqrt{x}$ as **the** inverse of $x^2$ that is also positive.
 + **Definition** - For every $x\ge0$, $\sqrt{x}$ is the **unique**, **non-negative number** such that $(\sqrt{x})^2=x$.
 
 ### Graph
-![[Graph of square root.png]]
+```functionplot
+---
+title: Square root
+xLabel: X
+yLabel: Y
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+f(x)=sqrt(x)
+g(x)=-sqrt(x)
+h(x)=x^2
+```
+
 Note, 
 + $\sqrt{x}\ge0$ always.
 + $\sqrt{x}$ not defined when $x\lt0$.

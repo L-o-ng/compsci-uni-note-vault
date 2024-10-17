@@ -4,8 +4,8 @@
 + [[Pseudo-code]]
 + [[Algorithms - Basics]]
 + [[Data Structures - Basics]]
-+ [[Arrays and Lists]]
-+ 
++ [[Arrays]]
++ [[Linked Lists]]]
 
 ## Important
 + **Book** - Data Structures and Algorithms in Python (or Java) | Goodrich et al
