@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6867bdb677f9775",
+            "id": "595eb286601be939",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "c06cb8757a9fdb70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked Lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linked Lists"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c06cb8757a9fdb70",
+  "active": "595eb286601be939",
   "lastOpenFiles": [
-    "Arrays.md",
+    "Vector Spaces.md",
+    "Linear Combinations.md",
+    "Functions and Inverse Functions.md",
+    "Mathematics for Computer Science.md",
+    "Linear Algebra.md",
+    "Sets.md",
+    "Calculus.md",
     "Linked Lists.md",
+    "Arrays.md",
     "Algorithms & Data Structures.md",
     "Data Structures - Basics.md",
     "Trigonometry.md",
@@ -190,7 +182,6 @@
     "sec csc cot.png",
     "Proofs of trig values.png",
     "More trig observations.png",
-    "Functions and Inverse Functions.md",
     "Radians.md",
     "Pythagoras' Theorem.md",
     "Even and Odd Trig function.png",
@@ -206,12 +197,6 @@
     "Pseudo-code.md",
     "Arc Lengths and Angles.md",
     "Algorithms & Data Structures Coursework.md",
-    "Algorithms - Basics.md",
-    "Practicals.md",
-    "Mathematics for Computer Science Coursework.md",
-    "Functions in Computer Science.md",
-    "Transistors.md",
-    "Fields.md",
     "Canvas.canvas",
     "Untitled"
   ]

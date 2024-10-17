@@ -103,6 +103,7 @@ Plot
 PIDAT
 Pa
 Pfff
+Polynomials
 IHDR
 IDATx
 ID
@@ -215,6 +216,7 @@ IW
 IHH
 IIIdG
 IWW
+Inserting
 yZ
 yC
 yU
@@ -402,6 +404,10 @@ ioo
 ikkkoooooocc
 ioog
 idd
+inserts
+into
+includes
+independent
 qi
 qH
 qSr
@@ -659,6 +665,10 @@ ddDz
 djjJ
 dmmmccC
 deeI
+different
+dependence
+dependent
+dimension
 oL
 om
 oV
@@ -761,6 +771,7 @@ oAAANN
 oY
 oMMM
 oooCC
+other
 RD
 Rpbr
 RJ
@@ -851,6 +862,7 @@ RPPh
 Ryy
 Rnnn
 RaFqP
+Related
 nR
 nW
 nT
@@ -1069,6 +1081,9 @@ fMvv
 fxxx
 fbb
 fffRJo
+fix
+forms
+form
 hO
 hf
 hA
@@ -1163,6 +1178,7 @@ hmm
 hjjZXXXXX
 hBHee
 head
+however
 pY
 pC
 pc
@@ -1259,6 +1275,9 @@ pss
 plus
 pointer
 points
+predecessors
+plain
+prove
 DQ
 DM
 DU
@@ -1359,6 +1378,8 @@ DRSScff
 Daaa
 DWWW
 DDDdddmm
+Dimension
+Dimensions
 sDK
 sk
 sz
@@ -1496,6 +1517,16 @@ svv
 sequential
 stores
 scattered
+successors
+say
+scalars
+scalar
+span
+spanning
+spans
+smallest
+standard
+sometimes
 TWe
 TBM
 Ti
@@ -1599,6 +1630,8 @@ TZk
 TSSSB
 TTt
 TKKK
+Topics
+Two
 JP
 Ju
 JQ
@@ -1691,6 +1724,7 @@ Jtt
 JKKO
 JKKK
 Jijj
+Jeffrey
 zG
 zd
 zj
@@ -1859,6 +1893,7 @@ CQQ
 CEEE
 CSS
 CNNN
+Commutative
 cd
 ce
 cNCw
@@ -1992,6 +2027,14 @@ cccWWWgggOOO
 caaA
 cI
 cbb
+contains
+countably
+commutative
+column
+covers
+combination
+combinations
+calculate
 kH
 ka
 kE
@@ -2067,6 +2110,8 @@ kaa
 kcc
 kgg
 kdddl
+kind
+known
 LL
 LN
 Lx
@@ -2167,6 +2212,8 @@ LEE
 LYYYii
 LSS
 LNNf
+List
+Linear
 tJ
 tf
 tR
@@ -2263,6 +2310,10 @@ tKQ
 tvv
 tttf
 tail
+test
+term
+there
+them
 Bh
 Bda
 Br
@@ -2352,6 +2403,8 @@ BHe
 BDD
 BjjjUUUBBB
 BQB
+Bench
+Basis
 ZY
 Zu
 ZzJ
@@ -2561,6 +2614,7 @@ mmmW
 mmM
 mhh
 made
+meaning
 WD
 WWx
 Wy
@@ -2739,6 +2793,10 @@ uqpGH
 uuuC
 uZ
 ua
+unbounded
+uncountably
+under
+using
 AI
 Az
 Ab
@@ -2830,6 +2888,11 @@ ASS
 Annn
 APPP
 APm
+And
+Altering
+Anything
+Alan
+Alternatives
 KN
 KV
 KO
@@ -2998,6 +3061,8 @@ VVv
 VVVuuu
 VFFFTT
 VWWSJ
+Vectors
+Vector
 Mz
 MR
 Mc
@@ -3107,6 +3172,7 @@ MMMY
 MEE
 MHHP
 MJiFF
+Mathematics
 SQl
 SkBl
 SK
@@ -3215,6 +3281,11 @@ Sh
 Spp
 SL
 SWW
+Scientists
+Sixth
+Span
+Spanning
+Space
 aQ
 ag
 aZ
@@ -3332,6 +3403,7 @@ ahhX
 aff
 alternative
 another
+alternatively
 wE
 wU
 wF
@@ -3417,6 +3489,11 @@ wUUU
 wsww
 wvvvww
 woY
+worth
+write
+words
+written
+well
 vh
 vU
 vx
@@ -3510,6 +3587,8 @@ vaa
 vZZ
 vSSS
 vMa
+vector
+vectors
 Ny
 Ngl
 Nz
@@ -3604,6 +3683,7 @@ NM
 NPP
 Ntss
 NOO
+Notation
 Yk
 YZ
 Yoj
@@ -3773,6 +3853,7 @@ GUMMMy
 GLL
 GMM
 Gs
+Given
 xcb
 xa
 xX
@@ -4050,6 +4131,10 @@ rrrXg
 rX
 rrrBBBZ
 rqq
+removes
+references
+row
+respectively
 ehO
 ef
 eWmI
@@ -4260,6 +4345,9 @@ linker
 list
 link
 last
+linear
+linearly
+least
 Ho
 Hf
 HdS
@@ -4430,6 +4518,7 @@ Formulae
 Find
 FPPPppp
 FDDDFF
+Formally
 jY
 jx
 jRg
@@ -4621,6 +4710,7 @@ OQT
 Other
 ODm
 Oegg
+Only
 QiG
 QFJ
 QUR
@@ -4820,6 +4910,10 @@ bee
 bqNN
 boo
 bllL
+bijection
+bold
+bytes
+basis
 ED
 EXD
 Es
@@ -4913,6 +5007,9 @@ EQT
 EUtZ
 Eyz
 Each
+Exam
+Engineers
+Edition
 äq
 gh
 gCn
