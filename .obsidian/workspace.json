@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSS.md",
+                "file": "CSy Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSS"
+              "title": "CSy Week 2"
             }
           }
         ]
@@ -165,11 +165,16 @@
   },
   "active": "bf7cd9c25724db08",
   "lastOpenFiles": [
-    "Computer Systems.md",
+    "Number Systems.md",
+    "CSy Week 2.md",
+    "HTML.md",
+    "Computer Systems Coursework.md",
+    "Practicals.md",
+    "AaDS Week 2.md",
     "CSS.md",
+    "Computer Systems.md",
     "Syntax CSS Examples.png",
     "CSS Syntax.png",
-    "HTML.md",
     "Programming (Black).md",
     "Possible Input Types.png",
     "Exponentials and Logarithms.md",
@@ -192,15 +197,10 @@
     "arccosx.png",
     "More Trigonometric Functions.md",
     "arcsinx.png",
-    "Main Trigonometric Functions.md",
     "sec csc cot.png",
     "Proofs of trig values.png",
     "More trig observations.png",
-    "Radians.md",
-    "Pythagoras' Theorem.md",
     "Even and Odd Trig function.png",
-    "MfCS Week 2.md",
-    "Floating Point Representation.md",
     "Canvas.canvas",
     "Untitled"
   ]

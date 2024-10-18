@@ -117,6 +117,7 @@ PwC
 Plain
 Prl
 Pseudo
+Place
 IHDR
 IDATx
 ID
@@ -455,6 +456,9 @@ iDh
 inserted
 instances
 identify
+inary
+instead
+increases
 qi
 qH
 qSr
@@ -535,6 +539,7 @@ qQD
 qCTUFT
 qqi
 quickly
+quantities
 Xz
 XQ
 XX
@@ -745,6 +750,9 @@ dlh
 display
 defaults
 default
+depending
+divide
+down
 oL
 om
 oV
@@ -953,6 +961,9 @@ Randomly
 Relative
 RZ
 RBG
+Representing
+Radix
+Repeatedly
 nR
 nW
 nT
@@ -1066,6 +1077,9 @@ name
 nNn
 needs
 noise
+names
+nibbles
+nibble
 fg
 fU
 fk
@@ -1301,6 +1315,7 @@ haI
 hCv
 hard
 hex
+human
 pY
 pC
 pc
@@ -1419,6 +1434,10 @@ pR
 pOg
 paragraph
 proportionally
+position
+power
+parts
+powers
 DQ
 DM
 DU
@@ -1534,6 +1553,9 @@ Dictation
 Drg
 DFx
 DTr
+Digits
+Dig
+Double
 sDK
 sk
 sz
@@ -1712,6 +1734,9 @@ suu
 sheets
 supports
 selectors
+system
+subscript
+separates
 TWe
 TBM
 Ti
@@ -1825,6 +1850,8 @@ Tables
 Types
 Tmaaa
 Tag
+Translation
+Translate
 JP
 Ju
 JQ
@@ -2111,6 +2138,7 @@ Ci
 Class
 Classes
 Colour
+CPU
 cd
 ce
 cNCw
@@ -2282,6 +2310,11 @@ calculated
 codes
 colour
 classes
+consistent
+conversion
+compact
+convert
+correct
 kH
 ka
 kE
@@ -2704,6 +2737,7 @@ Basic
 BRf
 BE
 BO
+Byte
 ZY
 Zu
 ZzJ
@@ -2936,6 +2970,9 @@ matches
 matched
 many
 measurement
+manner
+multiply
+maintaining
 WD
 WWx
 Wy
@@ -3038,6 +3075,7 @@ Where
 Wyv
 Wrl
 Wm
+Word
 uC
 uIOs
 uq
@@ -3135,6 +3173,7 @@ user
 uBWu
 uz
 units
+until
 AI
 Az
 Ab
@@ -3665,6 +3704,8 @@ ST
 SM
 SJY
 Selectors
+Sizes
+Starting
 aQ
 ag
 aZ
@@ -3912,6 +3953,8 @@ wCC
 wq
 websites
 wRi
+writing
+works
 vh
 vU
 vx
@@ -4121,6 +4164,7 @@ NMP
 Nn
 NgeD
 NR
+Nibble
 Yk
 YZ
 Yoj
@@ -4304,6 +4348,7 @@ Get
 GT
 Gv
 GRv
+Groups
 xcb
 xa
 xX
@@ -4609,6 +4654,10 @@ rb
 rzw
 read
 referred
+raised
+reach
+remainders
+readable
 ehO
 ef
 eWmI
@@ -4733,6 +4782,9 @@ eA
 es
 ehd
 example
+expressing
+examples
+everything
 lD
 le
 lgAg
@@ -4957,6 +5009,8 @@ HOF
 Hz
 HLeR
 Hp
+Hexadecimal
+Hex
 FC
 FT
 FP
@@ -5047,6 +5101,7 @@ Fieldset
 FqI
 FR
 Fx
+Fractions
 jY
 jx
 jRg
@@ -5253,6 +5308,7 @@ OL
 OW
 OwA
 OAF
+Otherwise
 QiG
 QFJ
 QUR
@@ -5476,6 +5532,8 @@ bh
 bad
 balance
 build
+base
+being
 ED
 EXD
 Es
@@ -5579,6 +5637,7 @@ Entity
 EnOZ
 EAq
 External
+EG
 äq
 gh
 gCn
@@ -5676,5 +5735,6 @@ ga
 gEW
 gy
 gm
+going
 Üfrpp
 öm
