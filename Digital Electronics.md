@@ -8,8 +8,8 @@ They are unlike analogue circuits which manipulate analogue signals, which are s
 ## Topics
 + [[Number Systems]]
 + [[Gates]]
-+ [[Boolean Algebra]]
-+ [[Circuits]]
++ [[Digital Abstraction in Chips]]
++ 
 
 
 ## Digital Signals

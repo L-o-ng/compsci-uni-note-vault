@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf7cd9c25724db08",
+            "id": "ba2f89a32fc75456",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSy Week 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSy Week 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Moore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,20 +160,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf7cd9c25724db08",
+  "active": "ba2f89a32fc75456",
   "lastOpenFiles": [
-    "Number Systems.md",
+    "Logic Levels.md",
+    "CPU.md",
+    "Moore's Law.md",
+    "Static Discipline.png",
+    "Logic Levels.png",
+    "Digital Abstraction in Chips.md",
+    "Digital Electronics.md",
+    "Logic Gates.md",
+    "Gates.md",
+    "Boolean Algebra.md",
+    "Circuits.md",
+    "Transistors.md",
+    "AND Gate from Transistors.png",
+    "NAND Gate.png",
+    "NOT Gate with Transistors.png",
+    "NOR Gate.png",
+    "NOT Gate.png",
+    "XOR gate.png",
+    "OR Gate.png",
+    "AND Gate.png",
     "CSy Week 2.md",
+    "Number Systems.md",
     "HTML.md",
     "Computer Systems Coursework.md",
     "Practicals.md",
     "AaDS Week 2.md",
     "CSS.md",
     "Computer Systems.md",
-    "Syntax CSS Examples.png",
-    "CSS Syntax.png",
     "Programming (Black).md",
-    "Possible Input Types.png",
     "Exponentials and Logarithms.md",
     "Single Maths A.md",
     "Simplifying Surds.md",
@@ -184,23 +198,6 @@
     "Linear Combinations.md",
     "Functions and Inverse Functions.md",
     "Mathematics for Computer Science.md",
-    "Linear Algebra.md",
-    "Sets.md",
-    "Calculus.md",
-    "Linked Lists.md",
-    "Arrays.md",
-    "Algorithms & Data Structures.md",
-    "Data Structures - Basics.md",
-    "Trigonometry.md",
-    "Inverse Trigonometric Functions.md",
-    "arctanx.png",
-    "arccosx.png",
-    "More Trigonometric Functions.md",
-    "arcsinx.png",
-    "sec csc cot.png",
-    "Proofs of trig values.png",
-    "More trig observations.png",
-    "Even and Odd Trig function.png",
     "Canvas.canvas",
     "Untitled"
   ]

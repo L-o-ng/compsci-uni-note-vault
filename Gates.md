@@ -1,5 +1,6 @@
 #notes 
 
+See also: [[Logic Gates]]
 [[Transistors]] are used to build gates for the [[CPU]].
 They take 0/1 inputs and produce 0/1 outputs, representing the presence of voltage.
 
