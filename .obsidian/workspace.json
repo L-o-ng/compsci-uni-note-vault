@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d20c18170cac4ba2",
+        "id": "19dfb7d90db9d40d",
         "type": "tabs",
         "children": [
           {
-            "id": "3877cc407f43b3d1",
+            "id": "bf7cd9c25724db08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CSS"
             }
           }
         ]
@@ -159,13 +163,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3877cc407f43b3d1",
+  "active": "bf7cd9c25724db08",
   "lastOpenFiles": [
+    "Computer Systems.md",
+    "CSS.md",
+    "Syntax CSS Examples.png",
+    "CSS Syntax.png",
     "HTML.md",
+    "Programming (Black).md",
+    "Possible Input Types.png",
     "Exponentials and Logarithms.md",
     "Single Maths A.md",
     "Simplifying Surds.md",
-    "Programming (Black).md",
     "Vector Spaces.md",
     "Linear Combinations.md",
     "Functions and Inverse Functions.md",
@@ -192,11 +201,6 @@
     "Even and Odd Trig function.png",
     "MfCS Week 2.md",
     "Floating Point Representation.md",
-    "Decimal to Floating Point example.png",
-    "Floating Point to Binary example.png",
-    "Negative Binary Numbers.md",
-    "Binary Arithmetic.md",
-    "Binary addition.png",
     "Canvas.canvas",
     "Untitled"
   ]

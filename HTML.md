@@ -1,4 +1,4 @@
-#notes #incomplete 
+#notes
 ## Common Syntax
 \<!DOCTYPE> Document type  
 \<HTML> Opening and closing tags of HTML Docs  
@@ -156,3 +156,44 @@ Forms are used for most user input in HTML.
 </form>
 // Nesting forms can cause unpredictable behaviour
 ```
+### Attributes
++ Autocomplete - Lets the browser autofill the element.
++ Action - Dictation how the form is processed - URL/PHP/JS
++ Method - HTTP method to submit the form - POST/GET
+### Fieldset & Legend
+The \<fieldset>\</fieldset> tag groups together forms.
+The \<legend>\</legend> tag labels forms.
+### Input Types
+![[Possible Input Types.png]]
+### Labels
+The label tag gives a caption for an item, and are often used with form elements.
+They are visually and programatically associated with the form they are ID-linked to, and increase the click window for the form element.
+#### Attributes
++ button
++ input
++ meter
++ output
++ progress
++ select 
++ text
+## Select 
+Select is a control that allows for a selection of multiple objects.
+```
+<label for="pet-select">choose pet</label>
+<select name="pets" id=pet-select>
+	<option value="Dog">Dog</option>
+	<option value="Cat">Cat</option>
+</select>
+```
+## Text Area
+This element is similar to the text feature, but can have multiple lines for larger user input.
+## Button
+`<button type="button">Button</button>` will perform an action when clicked.
+`<input type="submit" value="submit button"/>` will call the action element of a form.
+## Get & Post
++ These are ways of sending data, usually from forms.
+	+ GET appends the data to the end of the URL.
+	+ POST send the data to the server with environment variables.
+		+ This is slightly more secure, as the user cannot see the data in the browser, but is not secure on its own.
+## Style
+[[CSS]] can be used to style a HTML page.
