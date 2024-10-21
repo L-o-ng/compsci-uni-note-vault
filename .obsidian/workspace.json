@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "46276d31e6e7fa67",
+        "id": "968594dfb86c5e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "88de712e00b123c4",
+            "id": "5e80e84184815436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Hyperbolic Functions.md",
-                "mode": "source",
-                "source": false
+                "file": "Pictures/Circle.png"
               },
-              "icon": "lucide-file",
-              "title": "Hyperbolic Functions"
+              "icon": "lucide-image",
+              "title": "Circle"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,13 +161,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88de712e00b123c4",
+  "active": "86c7c83fb5dec45c",
   "lastOpenFiles": [
+    "Pictures/Binary Example.png",
+    "Pictures/Binary addition.png",
+    "Pictures/arccosx.png",
+    "Pictures/AND Gate.png",
+    "Pictures/Adding Component.png",
+    "Functions and Inverse Functions.md",
+    "Pictures/AND Gate from Transistors.png",
+    "Arc Lengths and Angles.md",
+    "MfCS Week 3.md",
+    "Pictures",
+    "MfCS Practical Week 3.png",
+    "Functions in Computer Science.md",
+    "injections surjections bijections.png",
+    "Mathematics for Computer Science Coursework.md",
+    "Hyperbolic Functions.md",
     "Complex Numbers.md",
     "Single Maths A.md",
-    "Complex Plane.png",
+    "Pictures/Complex Plane.png",
     "Inverse Hyperbolic Functions.md",
-    "Hyperbolic Functions.md",
     "Trigonometry.md",
     "Odd and Even Functions.md",
     "Exponentials and Logarithms.md",
@@ -185,23 +197,9 @@
     "Boolean Algebra.md",
     "Circuits.md",
     "Transistors.md",
-    "AND Gate from Transistors.png",
-    "NAND Gate.png",
-    "NOT Gate with Transistors.png",
-    "NOR Gate.png",
-    "NOT Gate.png",
-    "XOR gate.png",
-    "OR Gate.png",
     "CSy Week 2.md",
     "Number Systems.md",
     "HTML.md",
-    "Computer Systems Coursework.md",
-    "Practicals.md",
-    "AaDS Week 2.md",
-    "CSS.md",
-    "Computer Systems.md",
-    "Programming (Black).md",
-    "Canvas.canvas",
-    "Untitled"
+    "Canvas.canvas"
   ]
 }
