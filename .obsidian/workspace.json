@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "19dfb7d90db9d40d",
+        "id": "5f42d621766c30d4",
         "type": "tabs",
         "children": [
           {
-            "id": "ba2f89a32fc75456",
+            "id": "96ff0de3bda977d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Inverse Hyperbolic Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inverse Hyperbolic Functions"
+            }
+          },
+          {
+            "id": "efd9355f10f5950b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Numbers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complex Numbers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Moore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,8 +178,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2f89a32fc75456",
+  "active": "efd9355f10f5950b",
   "lastOpenFiles": [
+    "Complex Plane.png",
+    "Complex Numbers.md",
+    "Inverse Hyperbolic Functions.md",
+    "Hyperbolic Functions.md",
+    "Trigonometry.md",
+    "Odd and Even Functions.md",
+    "Exponentials and Logarithms.md",
     "Logic Levels.md",
     "CPU.md",
     "Moore's Law.md",
@@ -181,7 +206,6 @@
     "NOT Gate.png",
     "XOR gate.png",
     "OR Gate.png",
-    "AND Gate.png",
     "CSy Week 2.md",
     "Number Systems.md",
     "HTML.md",
@@ -191,13 +215,6 @@
     "CSS.md",
     "Computer Systems.md",
     "Programming (Black).md",
-    "Exponentials and Logarithms.md",
-    "Single Maths A.md",
-    "Simplifying Surds.md",
-    "Vector Spaces.md",
-    "Linear Combinations.md",
-    "Functions and Inverse Functions.md",
-    "Mathematics for Computer Science.md",
     "Canvas.canvas",
     "Untitled"
   ]

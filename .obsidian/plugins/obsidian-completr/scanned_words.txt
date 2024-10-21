@@ -148,6 +148,9 @@ Production
 Processors
 Power
 Performs
+Proved
+Properties
+PUlll
 IHDR
 IDATx
 ID
@@ -299,6 +302,7 @@ IcS
 IRG
 IJS
 Initially
+IJJj
 yZ
 yC
 yU
@@ -407,6 +411,7 @@ yhQh
 ynV
 yaC
 yyq
+ydd
 iv
 ic
 iXl
@@ -576,6 +581,10 @@ iDKS
 iOC
 integrated
 interconnected
+idaa
+ikks
+iAA
+iUVV
 qi
 qH
 qSr
@@ -777,6 +786,7 @@ XY
 Xwf
 Xnz
 XgL
+XLL
 dB
 do
 dK
@@ -936,6 +946,10 @@ doubles
 dissipation
 datapath
 devices
+definitions
+dahhh
+dQQQ
+dIe
 oL
 om
 oV
@@ -1066,6 +1080,7 @@ oTDQ
 ozQ
 oT
 ovU
+operatorname
 RD
 Rpbr
 RJ
@@ -1188,6 +1203,7 @@ RqC
 RHV
 Ryg
 Registers
+RSSw
 nR
 nW
 nT
@@ -1307,7 +1323,6 @@ nibble
 nllL
 nLhd
 nS
-nMOS
 nqZe
 neD
 nB
@@ -1476,6 +1491,8 @@ fvW
 frh
 fQI
 footprint
+frac
+fVVVD
 hO
 hf
 hA
@@ -1768,6 +1785,9 @@ pads
 pins
 proportional
 processing
+putting
+pCC
+plane
 DQ
 DM
 DU
@@ -1913,6 +1933,8 @@ DXs
 Discipline
 Dies
 Datapath
+DOO
+DIII
 sDK
 sk
 sz
@@ -2124,6 +2146,8 @@ still
 switched
 speed
 small
+sinh
+snn
 TWe
 TBM
 Ti
@@ -2262,6 +2286,8 @@ Ttt
 THXV
 TTm
 TO
+Then
+Tvvv
 JP
 Ju
 JQ
@@ -2383,6 +2409,7 @@ JCCCCCC
 JC
 Jq
 Jjv
+Jrvv
 zG
 zd
 zj
@@ -2491,6 +2518,7 @@ zO
 zTQ
 zxTS
 zOJ
+zzzAAA
 CD
 Cxi
 CJ
@@ -2614,6 +2642,9 @@ Chip
 CPUs
 Control
 Cache
+Claim
+Cos
+CN
 cd
 ce
 cNCw
@@ -2818,6 +2849,10 @@ cores
 capacity
 clock
 chip
+cosh
+clllhhhhhh
+cccc
+complex
 kH
 ka
 kE
@@ -3068,6 +3103,10 @@ LCf
 LQz
 Law
 Logic
+Logarithms
+Logarithm
+Laws
+Lnnn
 tJ
 tf
 tR
@@ -3212,6 +3251,7 @@ tPk
 tested
 transistors
 tells
+times
 Bh
 Bda
 Br
@@ -3452,6 +3492,7 @@ Ztcc
 Zieu
 ZwD
 ZTXX
+ZGm
 mJ
 mM
 mL
@@ -3866,6 +3907,7 @@ ureox
 ue
 uG
 uAu
+uRvvvrr
 AI
 Az
 Ab
@@ -3988,6 +4030,9 @@ ASUY
 AEe
 Av
 ALU
+Also
+Agree
+Argand
 KN
 KV
 KO
@@ -4085,6 +4130,7 @@ Kgg
 Klt
 KSK
 KB
+KKKSKo
 VU
 VB
 Vt
@@ -4203,6 +4249,7 @@ VULU
 Vp
 VFK
 VFn
+VE
 Mz
 MR
 Mc
@@ -4344,6 +4391,7 @@ MOz
 Multi
 Moore
 Microarchitecture
+Multiplying
 SQl
 SkBl
 SK
@@ -4499,6 +4547,7 @@ SKeU
 SqYB
 Static
 Silicon
+Sin
 aQ
 ag
 aZ
@@ -4669,6 +4718,10 @@ abbb
 aaaN
 aFd
 amount
+agree
+arcsinhx
+arcoshx
+arcosh
 wE
 wU
 wF
@@ -4799,6 +4852,7 @@ wUUkn
 wdE
 wires
 wafer
+wD
 vh
 vU
 vx
@@ -4921,6 +4975,8 @@ vsW
 vxxx
 vQb
 vuP
+vss
+vUUU
 Ny
 Ngl
 Nz
@@ -5050,6 +5106,9 @@ NNNiii
 NcWo
 NKa
 NGZC
+Now
+NKK
+Ntv
 Yk
 YZ
 Yoj
@@ -5280,6 +5339,7 @@ GhK
 GjQ
 Gvo
 GKd
+GRR
 xcb
 xa
 xX
@@ -5512,6 +5572,9 @@ Uh
 UAa
 Ufzf
 Unit
+UfEdgg
+UGGG
+UWW
 rn
 rM
 rI
@@ -5651,6 +5714,7 @@ rqh
 rwjZ
 rYP
 relatively
+rvv
 ehO
 ef
 eWmI
@@ -5797,6 +5861,7 @@ eif
 eAU
 etched
 expensive
+eFF
 lD
 le
 lgAg
@@ -5940,6 +6005,8 @@ luq
 lcC
 law
 longer
+let
+lYim
 Ho
 Hf
 HdS
@@ -6063,6 +6130,8 @@ HKTM
 HHHHHHH
 HVm
 HI
+Hyperbolic
+HDDIIIU
 FC
 FT
 FP
@@ -6177,6 +6246,8 @@ FVmm
 Fs
 FgZ
 Fg
+FDo
+FDDT
 jY
 jx
 jRg
@@ -6554,6 +6625,8 @@ Qgggee
 QoH
 QTUE
 QNK
+QE
+QQQD
 ba
 bM
 bhz
@@ -6692,6 +6765,7 @@ bbc
 bLk
 bBuR
 baaQ
+bullets
 ED
 EXD
 Es
@@ -6827,6 +6901,8 @@ EUU
 EQLMM
 EUUjx
 EJu
+Exponential
+Expression
 äq
 gh
 gCn
@@ -6946,6 +7022,7 @@ gV
 gWg
 gsV
 gOwO
+gOn
 Üfrpp
 ÜAv
 öm

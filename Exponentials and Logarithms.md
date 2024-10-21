@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 For $x \in \mathbb{R}$ we define: $$\exp x=e^x=\sum_{n=0}^\infty \frac{x^n}{n!}$$
 So, for example: 
@@ -56,4 +56,9 @@ $$x^n=\exp(n\ln x)=\exp(\underbrace{\ln x+\ln x+\ln x}_{\text{n times}})$$
 $$=\exp(\ln x)\exp(\ln x)\dots \exp(\ln x)$$
 $$=\underbrace{x\times x\times x\times x\times\dots \times x\times x\times x}_{\text{n times}}$$
 So it does agree.
+
+## More Observations
++ $x^1=x$
++ $x^0=1$
++ $x^{\frac{1}{2}}=\sqrt{ x }$
 
