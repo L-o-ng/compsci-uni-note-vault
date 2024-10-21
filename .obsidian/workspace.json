@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "968594dfb86c5e7b",
+        "id": "e7d278c3ff303403",
         "type": "tabs",
         "children": [
           {
-            "id": "5e80e84184815436",
+            "id": "e13b555a6a093b79",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pictures/Circle.png"
+                "file": "Proof by Induction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Circle"
+              "icon": "lucide-file",
+              "title": "Proof by Induction"
             }
           }
         ]
@@ -161,8 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86c7c83fb5dec45c",
+  "active": "e13b555a6a093b79",
   "lastOpenFiles": [
+    "Mathematical Proof.md",
+    "Irrationality of Square Roots.md",
+    "Proof by Contradiction.md",
+    "Proof by Exhaustion.md",
+    "Proof by Contraposition.md",
+    "Proof by Induction.md",
+    "Calculus.md",
+    "Pictures/Circle.png",
     "Pictures/Binary Example.png",
     "Pictures/Binary addition.png",
     "Pictures/arccosx.png",
@@ -188,18 +198,10 @@
     "Logic Levels.md",
     "CPU.md",
     "Moore's Law.md",
-    "Static Discipline.png",
-    "Logic Levels.png",
     "Digital Abstraction in Chips.md",
     "Digital Electronics.md",
     "Logic Gates.md",
     "Gates.md",
-    "Boolean Algebra.md",
-    "Circuits.md",
-    "Transistors.md",
-    "CSy Week 2.md",
-    "Number Systems.md",
-    "HTML.md",
     "Canvas.canvas"
   ]
 }

@@ -159,6 +159,7 @@ PXPP
 PXll
 PWWG
 Pll
+Previously
 IHDR
 IDATx
 ID
@@ -314,6 +315,8 @@ IJJj
 ILZ
 Is
 IDATN
+Inference
+Induction
 yZ
 yC
 yU
@@ -600,6 +603,7 @@ ikks
 iAA
 iUVV
 iKKKPP
+induction
 qi
 qH
 qSr
@@ -1533,6 +1537,9 @@ frac
 fVVVD
 fPh
 fddt
+formula
+follows
+false
 hO
 hf
 hA
@@ -1683,6 +1690,8 @@ hnVW
 hGcK
 hhhhhhhh
 hsv
+hypotheses
+hold
 pY
 pC
 pc
@@ -1837,6 +1846,8 @@ pmS
 pCZ
 pFyY
 pq
+proof
+proved
 DQ
 DM
 DU
@@ -2204,6 +2215,9 @@ slJs
 sAVu
 spg
 svvvuu
+states
+short
+sense
 TWe
 TBM
 Ti
@@ -2347,6 +2361,9 @@ Tvvv
 Ttc
 TGRR
 Tcccss
+Testing
+Template
+Theorem
 JP
 Ju
 JQ
@@ -2925,6 +2942,9 @@ cC
 ckV
 cw
 cccy
+conclusion
+components
+claim
 kH
 ka
 kE
@@ -3041,6 +3061,7 @@ ktT
 kj
 kHs
 ktp
+know
 LL
 LN
 Lx
@@ -3336,6 +3357,10 @@ times
 toqJ
 tNIJ
 tZZ
+theorem
+things
+true
+theorems
 Bh
 Bda
 Br
@@ -4004,6 +4029,7 @@ uRvvvrr
 uDS
 urr
 uKK
+unspecified
 AI
 Az
 Ab
@@ -4136,6 +4162,7 @@ Alb
 AQZ
 AXZZv
 AUU
+Assume
 KN
 KV
 KO
@@ -4509,6 +4536,7 @@ MYu
 MnK
 MHHHNN
 MYYY
+Mathematical
 SQl
 SkBl
 SK
@@ -4670,6 +4698,7 @@ Smp
 SHo
 SQQ
 Sztuu
+Show
 aQ
 ag
 aZ
@@ -4845,6 +4874,7 @@ arcsinhx
 arcoshx
 arcosh
 aJ
+assumed
 wE
 wU
 wF
@@ -4978,6 +5008,7 @@ wafer
 wD
 work
 wEzz
+want
 vh
 vU
 vx
@@ -5478,6 +5509,7 @@ GKd
 GRR
 GUV
 GJL
+General
 xcb
 xa
 xX
@@ -6298,6 +6330,7 @@ HDP
 Htu
 HoW
 HJJR
+Hypotheses
 FC
 FT
 FP
