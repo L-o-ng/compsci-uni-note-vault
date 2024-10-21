@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e7d278c3ff303403",
+        "id": "0fa06e64ab0b7660",
         "type": "tabs",
         "children": [
           {
-            "id": "e13b555a6a093b79",
+            "id": "586c30ba691eb650",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proof by Induction.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proof by Induction"
+              "title": "New tab"
             }
           }
         ]
@@ -163,14 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e13b555a6a093b79",
+  "active": "586c30ba691eb650",
   "lastOpenFiles": [
+    "Data Structures.md",
+    "Stacks.md",
+    "Algorithms.md",
+    "Linked Lists.md",
+    "Algorithms & Data Structures.md",
+    "Linked Lists vs Arrays.md",
+    "Doubly Linked Lists.md",
+    "Circularly Linked Lists.md",
+    "Pictures/Circularly linked list.png",
+    "Pictures/Doubly linked list.png",
+    "Arrays.md",
+    "Proof by Induction.md",
     "Mathematical Proof.md",
     "Irrationality of Square Roots.md",
     "Proof by Contradiction.md",
     "Proof by Exhaustion.md",
     "Proof by Contraposition.md",
-    "Proof by Induction.md",
     "Calculus.md",
     "Pictures/Circle.png",
     "Pictures/Binary Example.png",
@@ -185,23 +192,12 @@
     "Pictures",
     "MfCS Practical Week 3.png",
     "Functions in Computer Science.md",
-    "injections surjections bijections.png",
     "Mathematics for Computer Science Coursework.md",
     "Hyperbolic Functions.md",
     "Complex Numbers.md",
     "Single Maths A.md",
-    "Pictures/Complex Plane.png",
     "Inverse Hyperbolic Functions.md",
     "Trigonometry.md",
-    "Odd and Even Functions.md",
-    "Exponentials and Logarithms.md",
-    "Logic Levels.md",
-    "CPU.md",
-    "Moore's Law.md",
-    "Digital Abstraction in Chips.md",
-    "Digital Electronics.md",
-    "Logic Gates.md",
-    "Gates.md",
     "Canvas.canvas"
   ]
 }

@@ -63,3 +63,4 @@ Output: L, with v inserted after N
 	endif
 ```
 
+A [[Doubly Linked Lists|doubly linked list]], or a [[Circularly Linked Lists|circularly linked list]] fixes some issues with a linked list.

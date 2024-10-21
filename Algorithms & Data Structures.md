@@ -2,10 +2,13 @@
 
 ## Notes
 + [[Pseudo-code]]
-+ [[Algorithms - Basics]]
-+ [[Data Structures - Basics]]
++ [[Algorithms]]
++ [[Data Structures]]
 + [[Arrays]]
-+ [[Linked Lists]]]
++ [[Linked Lists]]
++ [[Stacks]]
++ [[Queues]]
++ 
 
 ## Important
 + **Book** - Data Structures and Algorithms in Python (or Java) | Goodrich et al
