@@ -36,7 +36,7 @@ cosh(x)=(E^x+E^-x)/2
 ## Properties
 For bullets 3 and 4 see [[Odd and Even Functions]]
 + $\sinh{0}=0$
-+ $\cosh 0=0$
++ $\cosh 0=1$
 + $\sinh(-x)=-\sinh(x)$
 + $\cosh(-x)=\cosh x$
 + $\cosh x+\sinh x=e^x$

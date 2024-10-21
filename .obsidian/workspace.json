@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5f42d621766c30d4",
+        "id": "46276d31e6e7fa67",
         "type": "tabs",
         "children": [
           {
-            "id": "96ff0de3bda977d0",
+            "id": "88de712e00b123c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverse Hyperbolic Functions.md",
+                "file": "Hyperbolic Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inverse Hyperbolic Functions"
-            }
-          },
-          {
-            "id": "efd9355f10f5950b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Complex Numbers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Complex Numbers"
+              "title": "Hyperbolic Functions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,10 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efd9355f10f5950b",
+  "active": "88de712e00b123c4",
   "lastOpenFiles": [
-    "Complex Plane.png",
     "Complex Numbers.md",
+    "Single Maths A.md",
+    "Complex Plane.png",
     "Inverse Hyperbolic Functions.md",
     "Hyperbolic Functions.md",
     "Trigonometry.md",

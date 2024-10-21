@@ -10,4 +10,5 @@
 + [[Quadratic Equations]]
 + [[Simplifying Surds]]
 + [[Exponentials and Logarithms]]
++ [[Complex Numbers]]
 + 

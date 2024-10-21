@@ -4548,6 +4548,7 @@ SqYB
 Static
 Silicon
 Sin
+Subtraction
 aQ
 ag
 aZ
@@ -4853,6 +4854,7 @@ wdE
 wires
 wafer
 wD
+work
 vh
 vU
 vx
@@ -5715,6 +5717,7 @@ rwjZ
 rYP
 relatively
 rvv
+rule
 ehO
 ef
 eWmI
@@ -5862,6 +5865,8 @@ eAU
 etched
 expensive
 eFF
+expected
+except
 lD
 le
 lgAg
@@ -6499,6 +6504,7 @@ Oks
 OpH
 Ouc
 OKU
+Operations
 QiG
 QFJ
 QUR
