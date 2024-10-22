@@ -9,6 +9,8 @@ See also: [[Gates]]
 ![[OR Gate.png]]
 ## XOR Gate
 ![[XOR gate.png]]
+XOR can also be constructed from trivial operations:
+$$(A+B)\cdot(\overline{A\cdot B})$$
 ## NOT Gate
 ![[NOT Gate.png]]
 ### From Transistors

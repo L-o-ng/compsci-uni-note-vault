@@ -11,7 +11,7 @@ Output: L with v inserted before N
 ```
 If L had no sentinels you would need to check if if the reference returned by `N.prev` was null so you do not try to get the `.next` value of a null reference.
 
-2) The code returns an integer `c` where `c` represents the number of times `k` appears in `A`.
+2) The code returns an integer `c` where `c` represents the number of times `k` appears in `A`
 3) 
 ```
 Input: list H containing entries of integer S and string N, list E containing integer S, string N

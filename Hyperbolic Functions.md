@@ -50,3 +50,9 @@ All similar to [[Main Trigonometric Functions]], but **not** the same!
 
 ## Inverses
 See [[Inverse Hyperbolic Functions]].
+
+## See also
++ $$\tanh=\frac{\sinh}{\cosh}$$
++ $$\operatorname{cosech}=\frac{1}{\sinh}$$
++ $$\operatorname{sech}=\frac{1}{\cosh}$$
+
