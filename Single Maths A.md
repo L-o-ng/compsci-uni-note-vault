@@ -11,4 +11,4 @@
 + [[Simplifying Surds]]
 + [[Exponentials and Logarithms]]
 + [[Complex Numbers]]
-+ 
++ [[Re() and Im()]]

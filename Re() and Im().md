@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 ## Definitions
 Let $z=x+iy \in \mathbb{C}$ then we define:
 + $\Re(z)=x$, or the "real part" of $z$.
@@ -14,4 +14,7 @@ If $\Re(z)=0\text{ ie }z=yi$ then $z$ is called purely imaginary.
 The $y\text{-axis}$ is called the imaginary axis.
 
 Note that in the complex plane: 
-+ 
++ $\Re(z)$ is the $x$ coordinate of $z$.
++ $\Im(z)$ is the y coordinate of $z$.
++ $|z|$ is the distance between $0$ and $z$.
++ $\overline{z}$ is the reflection in the real axis.

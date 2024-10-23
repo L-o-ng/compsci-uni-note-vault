@@ -2,4 +2,5 @@
 
 ## Notes 
 + [[Computer Hardware]]
++ [[Operating Systems]]
 + 
