@@ -1,4 +1,4 @@
-#notes 
+#definition 
 
 ## $\sqrt{ 2 }\notin \mathbb{Q}$
 

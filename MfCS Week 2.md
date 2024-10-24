@@ -47,7 +47,8 @@
 | 5                     | 0   | 5   | 4   | 3   | 2   | 1   |
 3) 
 	3) $\mathbb{Z}_5$ is a field. $\mathbb{Z}_6$ is not a field.
-	4) $\mathbb{Z}_n\text{ is a field if }n\in\set{2k:k\in\mathbb{Z}}.n\gt0$.
+	4) $\mathbb{Z}_{n}\text{ is a field if }n\text{ is prime}$.
 
 4) Learn $\LaTeX$
-``
+
+

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8df55ff38f046a69",
+        "id": "3e236a9607305cc7",
         "type": "tabs",
         "children": [
           {
-            "id": "6155667861000bbc",
+            "id": "d66c4490a5377c39",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTML"
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -151,17 +154,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false
     }
   },
-  "active": "6155667861000bbc",
+  "active": "d66c4490a5377c39",
   "lastOpenFiles": [
     "CSS.md",
+    "Algorithms.md",
+    "Irrationality of Square Roots.md",
+    "Linear Maps and Basis Vectors.md",
+    "Linear Algebra.md",
+    "Basis Representation.md",
+    "Linear Maps.md",
+    "Projection.md",
+    "Shearing.md",
+    "Vector Spaces.md",
+    "MfCS Week 2.md",
+    "Mathematics for Computer Science.md",
+    "Queues.md",
+    "Stacks.md",
+    "Computer Science Year 1 Practicals.md",
+    "Year 1 Computer Science.md",
     "Digital Design Principles.md",
     "Digital Electronics.md",
     "Re() and Im().md",
@@ -174,22 +192,7 @@
     "Input/Output.md",
     "Input",
     "Computational Thinking.md",
-    "MIPS.md",
-    "Computer Hardware.md",
-    "Instruction Set Architecture.md",
-    "Single Maths A.md",
-    "Complex Numbers.md",
-    "Computation in a Simple Processor.md",
-    "Multi-Core Computing.md",
-    "GPGPU Computing.md",
     "Pictures/Simplified Von Neumann Processor.png",
-    "Harvard Architechure.md",
-    "CPU.md",
-    "Modulus.md",
-    "MfCS Week 3.md",
-    "Complex Numbers Examples.md",
-    "Hyperbolic Functions.md",
-    "Fields.md",
     "Pictures/NAND gates.png",
     "Pictures/Mr Based.png",
     "Pictures/Circularly linked list.png",

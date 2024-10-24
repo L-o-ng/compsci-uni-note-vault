@@ -172,6 +172,7 @@ Program
 Perform
 Processing
 Pipeline
+Projection
 IHDR
 IDATx
 ID
@@ -342,6 +343,7 @@ Ilk
 Instruction
 Interlocked
 Interrupts
+Implemented
 yZ
 yC
 yU
@@ -664,6 +666,12 @@ interface
 interrupts
 instructs
 interrupt
+insertion
+inefficient
+inefficiency
+incremented
+ith
+incorrect
 qi
 qH
 qSr
@@ -775,6 +783,7 @@ qvZ
 qoe
 qFFF
 qzb
+queue
 Xz
 XQ
 XX
@@ -1082,6 +1091,8 @@ destination
 disk
 device
 deals
+deletion
+details
 oL
 om
 oV
@@ -1227,6 +1238,8 @@ ovfg
 oUo
 opcode
 operating
+obvious
+our
 RD
 Rpbr
 RJ
@@ -1368,6 +1381,8 @@ Rankings
 Rg
 Ring
 Rs
+Reflection
+Rotation
 nR
 nW
 nT
@@ -1696,6 +1711,10 @@ funct
 frees
 filesystem
 finished
+front
+forward
+forever
+fraction
 hO
 hf
 hA
@@ -1870,6 +1889,7 @@ hides
 handling
 helps
 handler
+homomorphisms
 pY
 pC
 pc
@@ -2051,6 +2071,9 @@ pushed
 performed
 put
 provides
+pointers
+preserve
+polynomials
 DQ
 DM
 DU
@@ -2216,6 +2239,7 @@ Disk
 Dynamic
 DRAM
 Devices
+Differentiation
 sDK
 sk
 sz
@@ -2473,6 +2497,8 @@ security
 stops
 suspends
 supply
+spaces
+simplest
 TWe
 TBM
 Ti
@@ -3027,6 +3053,7 @@ Cheap
 Cheaper
 Cisco
 Communication
+Canonical
 cd
 ce
 cNCw
@@ -3272,6 +3299,11 @@ concurrently
 calls
 card
 continues
+cell
+contradiction
+canonical
+characterised
+contradicts
 kH
 ka
 kE
@@ -3732,6 +3764,7 @@ through
 takes
 tasks
 total
+transformations
 Bh
 Bda
 Br
@@ -4178,6 +4211,9 @@ modifying
 mWT
 machine
 managing
+moving
+modulo
+map
 WD
 WWx
 Wy
@@ -4591,6 +4627,7 @@ Address
 Accumulator
 Assembly
 Abstracts
+After
 KN
 KV
 KO
@@ -5000,6 +5037,8 @@ Main
 Manages
 Maintains
 Modem
+Modules
+Maps
 SQl
 SkBl
 SK
@@ -5180,6 +5219,10 @@ Stages
 Starts
 Subtopics
 Sound
+Subtract
+Standard
+Scaling
+Since
 aQ
 ag
 aZ
@@ -5381,6 +5424,9 @@ application
 access
 actual
 alleviate
+available
+apply
+assumption
 wE
 wU
 wF
@@ -5670,6 +5716,7 @@ vJvp
 vG
 via
 versatile
+violates
 Ny
 Ngl
 Nz
@@ -6479,6 +6526,10 @@ resources
 restrictions
 recovery
 raises
+restricted
+rear
+requires
+respects
 ehO
 ef
 eWmI
@@ -6648,6 +6699,8 @@ eou
 execute
 etc
 executing
+elsewhere
+endomorphism
 lD
 le
 lgAg
@@ -6951,6 +7004,7 @@ Hypercube
 Hard
 HDD
 Handles
+Hence
 FC
 FT
 FP
@@ -7082,6 +7136,8 @@ Fetch
 Flash
 Faster
 Facilitates
+FIFO
+First
 jY
 jx
 jRg
@@ -7357,6 +7413,7 @@ OX
 OeY
 Ok
 Often
+Out
 QiG
 QFJ
 QUR
@@ -7499,6 +7556,7 @@ QTTt
 QhEeRB
 QDT
 QXe
+Queues
 ba
 bM
 bhz
@@ -7816,6 +7874,9 @@ EMF
 Execute
 Expensive
 Ethernet
+Element
+Embedding
+Every
 äq
 gh
 gCn
@@ -7947,6 +8008,8 @@ gfff
 gfR
 gLl
 graphics
+grow
+growing
 Üfrpp
 ÜAv
 ÜK
