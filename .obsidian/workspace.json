@@ -8,20 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d66c4490a5377c39",
+            "id": "ecb69a27aea57f47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTML.md",
+                "file": "Re() and Im().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Re() and Im()"
+            }
+          },
+          {
+            "id": "b0b9510031a2c86d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arg().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arg()"
+            }
+          },
+          {
+            "id": "52ad2e242a95011a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complex Numbers Examples.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Complex Numbers Examples"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,11 +102,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -162,11 +193,21 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d66c4490a5377c39",
+  "active": "b0b9510031a2c86d",
   "lastOpenFiles": [
+    "Pictures/Arg function diagram.png",
+    "Arg().md",
+    "Re() and Im().md",
+    "Complex Numbers Examples.md",
+    "Complex Numbers.md",
+    "Irrationality of Square Roots.md",
+    "Memory.md",
+    "Computation in a Simple Processor.md",
+    "Javascript.md",
+    "Programming (Black).md",
+    "HTML.md",
     "CSS.md",
     "Algorithms.md",
-    "Irrationality of Square Roots.md",
     "Linear Maps and Basis Vectors.md",
     "Linear Algebra.md",
     "Basis Representation.md",
@@ -180,18 +221,8 @@
     "Stacks.md",
     "Computer Science Year 1 Practicals.md",
     "Year 1 Computer Science.md",
-    "Digital Design Principles.md",
-    "Digital Electronics.md",
-    "Re() and Im().md",
-    "Input & Output.md",
-    "Memory.md",
-    "Processes.md",
-    "Operating Systems.md",
     "Pictures/Pasted image 20241023233403.png",
-    "Von-Neumann Architecture.md",
-    "Input/Output.md",
     "Input",
-    "Computational Thinking.md",
     "Pictures/Simplified Von Neumann Processor.png",
     "Pictures/NAND gates.png",
     "Pictures/Mr Based.png",
@@ -200,7 +231,6 @@
     "Pictures/Circle.png",
     "Pictures/Binary Example.png",
     "Pictures/Binary addition.png",
-    "Pictures/arccosx.png",
     "Pictures",
     "Canvas.canvas"
   ]
