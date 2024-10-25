@@ -1,5 +1,7 @@
 [
   "obsidian-completr",
   "obsidian-latex-suite",
-  "obsidian-functionplot"
+  "obsidian-functionplot",
+  "customjs",
+  "dataview"
 ]
