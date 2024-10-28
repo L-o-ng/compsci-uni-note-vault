@@ -26,19 +26,19 @@ After each `enqueue` operation, `r` is incremented.
 After each `dequeue` operation, `f` is incremented.
 We can use modulo arithmetic on `f` and `r` to avoid them growing forever.
 ### Methods on Array Implemented Queues
-```
+```size
 Input: none
 Output: size of queue
 	return (r - f) mod N
 ```
 
-```
+```isEmpty
 Input: none
 Output: bool indicating if the queue is empty
 	return r = f
 ```
 
-```
+```front
 Input: none
 Output: front item of queue
 	if isEmpty then
@@ -47,7 +47,7 @@ Output: front item of queue
 	return Q[f]
 ```
 
-```
+```enqueue
 Input: element e
 Output: Queue Q with element e inserted
 	if size = N - 1 then
@@ -57,7 +57,7 @@ Output: Queue Q with element e inserted
 	r <- (r + 1) mod N
 ```
 
-```
+```dequeue
 Input: none
 Output: front element of queue Q
 	if isEmpty then
@@ -68,4 +68,9 @@ Output: front element of queue Q
 	f <- (f + 1) mod N
 	return temp 
 ```
+### Efficiency
+If the size of the queue is `N`, then `f=r` and the isEmpty method returns true, even though the queue is not empty.
+We can avoid this problem by keeping the maximum number of elements that can be stored in the queue to `N-1`.
 
+This array-based implementation is time-efficient. All methods run in constant time.
+The capacity is fixed, however.
