@@ -1,4 +1,4 @@
-#notes #incomplete 
+#notes 
 
 A **queue** is a collection of objects that are inserted and removed according to the **FIFO**, or **First In First Out** principle.
 Element access and deletion is restricted to the first element in the sequence, which is called the *front* of the queue.

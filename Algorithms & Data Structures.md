@@ -8,6 +8,7 @@
 + [[Linked Lists]]
 + [[Stacks]]
 + [[Queues]]
++ [[Hash Tables]]
 + 
 
 ## Important
