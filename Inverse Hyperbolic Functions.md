@@ -11,7 +11,7 @@
 5) $\implies e^{2y}-2xe^y-1=0$
 6) Let $z=e^y \implies z^2-2xz-1=0$
 7) So $e^y=z=x \pm \sqrt{ x^2+1 }$
-8) $\sqrt{ x^2+1 }\gt x\text{ so }x-\sqrt{ x^2+1 }\lt0\text{ so this cannot equal }e^y \gt 0 \therefore\text{take the root}$
+8) $\sqrt{ x^2+1 }\gt x\text{ so }x-\sqrt{ x^2+1 }\lt0\text{ so this cannot equal }e^y \gt 0 \therefore\text{take the positive root}$
 9) $e^y=x+\sqrt{ x^2+1 }$
 10) $y=\ln(x+\sqrt{ x^2+1 })=\operatorname{arcsinh}x$
 ## And for arcoshx

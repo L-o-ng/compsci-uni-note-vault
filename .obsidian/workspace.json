@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean Algebra.md",
+                "file": "Polar Representation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boolean Algebra"
+              "title": "Polar Representation"
+            }
+          },
+          {
+            "id": "0956ec6a8f32e980",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -166,8 +176,22 @@
   },
   "active": "30b0d7cbf2551d88",
   "lastOpenFiles": [
-    "Pictures/Many Variable Theorems Boolean Algebra.png",
+    "Polar Representation.md",
+    "Arg().md",
+    "Pictures/Arg tan equation graph.png",
+    "Inverse Hyperbolic Functions.md",
+    "Hyperbolic Functions.md",
+    "Exponentials and Logarithms.md",
+    "Main Trigonometric Functions.md",
+    "Complex Numbers Examples.md",
+    "Re() and Im().md",
+    "Proof by Induction.md",
+    "HTML.md",
+    "Programming (Black).md",
+    "CSS.md",
+    "Year 1 Computer Science.md",
     "Boolean Algebra.md",
+    "Pictures/Many Variable Theorems Boolean Algebra.png",
     "Sum of Products vs Product of Sums.md",
     "Pictures/Sum of Products circuit.png",
     "Digital Electronics.md",
@@ -180,28 +204,15 @@
     "Pictures/CS week 3 NOR gate circuits.png",
     "Pictures/NOR gate circuits CS Week 3.png",
     "Computer Systems Coursework.md",
-    "Re() and Im().md",
-    "Arg().md",
     "Pictures/Arg function diagram.png",
-    "Complex Numbers Examples.md",
     "Complex Numbers.md",
     "Irrationality of Square Roots.md",
     "Memory.md",
     "Computation in a Simple Processor.md",
     "Javascript.md",
-    "Programming (Black).md",
-    "HTML.md",
-    "CSS.md",
-    "Algorithms.md",
-    "Linear Maps and Basis Vectors.md",
-    "Linear Algebra.md",
-    "Basis Representation.md",
-    "Linear Maps.md",
-    "Projection.md",
     "Pictures/Pasted image 20241023233403.png",
     "Input",
     "Pictures/Simplified Von Neumann Processor.png",
-    "Pictures/NAND gates.png",
     "Pictures",
     "Canvas.canvas"
   ]
