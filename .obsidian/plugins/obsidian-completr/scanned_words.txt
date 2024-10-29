@@ -202,6 +202,7 @@ PlU
 PBEB
 PPWi
 PfffLL
+Proving
 IHDR
 IDATx
 ID
@@ -402,6 +403,7 @@ IKKsg
 IDATS
 IIIv
 Ibb
+Identities
 yZ
 yC
 yU
@@ -1611,6 +1613,7 @@ RZZ
 Rmi
 RA
 Rii
+Reordering
 nR
 nW
 nT
@@ -1992,6 +1995,8 @@ fDv
 fBn
 fedd
 fzzz
+further
+formal
 hO
 hf
 hA
@@ -2405,6 +2410,8 @@ pZv
 poAA
 pIJ
 pWm
+products
+polynomial
 DQ
 DM
 DU
@@ -2890,6 +2897,7 @@ sfUU
 seE
 soE
 segment
+simplification
 TWe
 TBM
 Ti
@@ -3355,6 +3363,7 @@ znj
 ztSo
 zEW
 zzr
+zeroes
 CD
 Cxi
 CJ
@@ -3813,6 +3822,8 @@ coA
 cr
 cRo
 cNX
+creation
+corresponds
 kH
 ka
 kE
@@ -5822,6 +5833,7 @@ MLLp
 MMMa
 MSjMRR
 Mff
+Minimisation
 SQl
 SkBl
 SK
@@ -6285,6 +6297,7 @@ aRR
 aaat
 aaaaaa
 alv
+assume
 wE
 wU
 wF
@@ -6781,6 +6794,7 @@ Nrh
 NNNeeehhhg
 Nff
 NgII
+Non
 Yk
 YZ
 Yoj
@@ -6921,6 +6935,7 @@ YaV
 YRj
 Yvoo
 Yaa
+You
 Gckud
 GN
 GD
@@ -7557,6 +7572,8 @@ ruu
 rjj
 rri
 rdTT
+red
+replace
 ehO
 ef
 eWmI
@@ -7754,6 +7771,7 @@ ecX
 eLD
 eYY
 eeer
+exact
 lD
 le
 lgAg
@@ -9089,6 +9107,7 @@ Ee
 Ekw
 EQM
 EHG
+Examinable
 äq
 gh
 gCn

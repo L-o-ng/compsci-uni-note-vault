@@ -19,3 +19,6 @@ $$\array{\text{Clearly true for }n=1\\\text{Assume true for some }n\\\text{Then 
 ## Applications
 ### Computing $z^n$ Quickly
 $$\array{(1+i)^{10}=\left( \underbrace{\sqrt{ 2 }\left( \cos \frac{\pi}{4} +i\sin \frac{\pi}{4}\right)}_{\text{Polar representation}} \right)^{10}\\\implies (\sqrt{ 2 })^{10}\left( \cos \frac{\pi}{4}+i\sin \frac{\pi}{4} \right)^{10}\\\implies 2^5\underbrace{\left( \cos\left( \frac{10\pi}{4} \right)+i\sin\left( \frac{10\pi}{4} \right) \right)}_{\text{By De Moivre's Theorem}}\\\implies 32\left( \cos \frac{\pi}{2}+i\sin \frac{\pi}{2} \right)\\=32i }$$
+### Proving Trigonometric Identities
+For example, writing $\cos 3\theta$ as a polynomial in $\cos \theta$:
+$$\array{\cos 3\theta+i\sin 3\theta=(\cos \theta +i\sin \theta)^3\\=\cos^3\theta+3\cos^2\theta i\sin \theta+3\cos \theta(i\sin \theta)^2+(i\sin \theta)^3\text{, By binomial theorem}\\=\cos^3\theta-3\cos \theta \sin^2\theta+i(3\cos^2\theta \sin \theta-\sin^3\theta)\\\text{So }\cos 3\theta=\cos^3\theta-3\cos \theta \sin^2\theta\\=4\cos^3\theta-3\cos \theta}$$
