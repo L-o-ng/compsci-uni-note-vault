@@ -11,13 +11,28 @@
             "id": "81a6f799d09f574e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "0b233e10582a6b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Karnaugh Maps.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Karnaugh Maps"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,8 +174,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "81a6f799d09f574e",
+  "active": "0b233e10582a6b0d",
   "lastOpenFiles": [
+    "Pictures/PoS minimisation example.png",
+    "Pictures/Pasted image 20241029133945.png",
+    "Pictures/K-map display simplified.png",
+    "Pictures/K-map display simplification.png",
+    "Pictures/K-map for 7 segment display.png",
+    "Pictures/7-segment display driver.png",
+    "Karnaugh Maps.md",
+    "Pictures/K-map example 2.png",
+    "Pictures/K-map example 1.png",
+    "Pictures/K-map simplification.png",
+    "Pictures/Karnaugh map.png",
     "Arrays.md",
     "AaDS Week 4.md",
     "Algorithms & Data Structures Coursework.md",
@@ -185,19 +211,8 @@
     "Mathematics for Computer Science.md",
     "Vector Spaces.md",
     "Basis Representation.md",
-    "Linear Combinations.md",
-    "Linear Maps.md",
     "Pictures/Arg tan equation graph.png",
-    "Pictures/Many Variable Theorems Boolean Algebra.png",
-    "Pictures/Sum of Products circuit.png",
-    "Pictures/2 bit adder.png",
-    "Pictures/CS Week 3 NAND circuits.png",
-    "Pictures/CS week 3 NOR gate circuits.png",
-    "Pictures/NOR gate circuits CS Week 3.png",
-    "Pictures/Arg function diagram.png",
-    "Pictures/Pasted image 20241023233403.png",
     "Input",
-    "Pictures/Simplified Von Neumann Processor.png",
     "Pictures",
     "Canvas.canvas"
   ]
