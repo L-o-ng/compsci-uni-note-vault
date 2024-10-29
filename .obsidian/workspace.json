@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3e236a9607305cc7",
+        "id": "9884aebe82521596",
         "type": "tabs",
         "children": [
           {
-            "id": "63dac62f7b57f31c",
+            "id": "81a6f799d09f574e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hash Tables.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hash Tables"
+              "title": "New tab"
             }
           }
         ]
@@ -163,10 +159,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "63dac62f7b57f31c",
+  "active": "81a6f799d09f574e",
   "lastOpenFiles": [
-    "Double Hashing.md",
+    "Arrays.md",
+    "AaDS Week 4.md",
+    "Algorithms & Data Structures Coursework.md",
     "Hash Tables.md",
+    "Double Hashing.md",
     "Quadratic Probing.md",
     "Linear Probing.md",
     "Algorithms & Data Structures.md",
@@ -188,9 +187,6 @@
     "Basis Representation.md",
     "Linear Combinations.md",
     "Linear Maps.md",
-    "Linear Maps and Basis Vectors.md",
-    "Mathematics for Computer Science Coursework.md",
-    "Polar Representation.md",
     "Pictures/Arg tan equation graph.png",
     "Pictures/Many Variable Theorems Boolean Algebra.png",
     "Pictures/Sum of Products circuit.png",

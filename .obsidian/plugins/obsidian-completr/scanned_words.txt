@@ -189,6 +189,8 @@ PUv
 PMZB
 Pmfff
 Prove
+Periodically
+Postfix
 IHDR
 IDATx
 ID
@@ -1185,6 +1187,9 @@ derivative
 differentiable
 differentiating
 disperse
+during
+duplicates
+deleting
 oL
 om
 oV
@@ -1491,6 +1496,8 @@ RRRN
 Rfn
 Rx
 Regardless
+Regarding
+Recording
 nR
 nW
 nT
@@ -1845,6 +1852,11 @@ fkT
 fUK
 fvz
 fffqqq
+faster
+future
+follow
+found
+fair
 hO
 hf
 hA
@@ -2031,6 +2043,7 @@ hcc
 hence
 hand
 hash
+hinder
 pY
 pC
 pc
@@ -2234,6 +2247,13 @@ provided
 perfectly
 practically
 probe
+probes
+probing
+policies
+person
+presses
+popped
+pressed
 DQ
 DM
 DU
@@ -2411,6 +2431,7 @@ DxukuY
 Differentiability
 Dealing
 Divide
+Deletions
 sDK
 sk
 sz
@@ -2686,6 +2707,12 @@ superset
 said
 smooth
 schemes
+searches
+stoned
+supercomputer
+scheduling
+served
+state
 TWe
 TBM
 Ti
@@ -2856,6 +2883,8 @@ Theorems
 TpPo
 Terms
 That
+Tombstones
+True
 JP
 Ju
 JQ
@@ -3544,6 +3573,13 @@ collisions
 compression
 computable
 comes
+compared
+chaining
+competitive
+continue
+creating
+client
+come
 kH
 ka
 kE
@@ -3851,6 +3887,7 @@ LKS
 LjI
 LMcC
 LHw
+Local
 tJ
 tf
 tR
@@ -4047,6 +4084,10 @@ todo
 though
 table
 thought
+theoretical
+tombstones
+tombstone
+tomb
 Bh
 Bda
 Br
@@ -4527,6 +4568,8 @@ mCM
 mDG
 mx
 might
+major
+markers
 WD
 WWx
 Wy
@@ -4671,6 +4714,7 @@ WLUU
 Wji
 WZ
 Works
+Work
 uC
 uIOs
 uq
@@ -4818,6 +4862,8 @@ uki
 uEk
 uttLLL
 uniformly
+unusable
+undo
 AI
 Az
 Ab
@@ -4972,6 +5018,7 @@ Axiom
 AAAzzzB
 AAAl
 Applications
+Assuming
 KN
 KV
 KO
@@ -5406,6 +5453,8 @@ MHHHvvv
 Moivre
 Multiply
 MAD
+Managing
+Maintaining
 SQl
 SkBl
 SK
@@ -5602,6 +5651,8 @@ SWG
 Sum
 Sums
 Smoothness
+Stack
+Scheduling
 aQ
 ag
 aZ
@@ -5829,6 +5880,10 @@ addressing
 already
 accept
 accessing
+analyses
+along
+average
+allow
 wE
 wU
 wF
@@ -5986,6 +6041,8 @@ wiE
 wV
 wnn
 wLLL
+waiting
+webpages
 vh
 vU
 vx
@@ -6143,6 +6200,7 @@ vbZZZcc
 vgy
 vEQ
 viewed
+vacated
 Ny
 Ngl
 Nz
@@ -7014,6 +7072,15 @@ really
 run
 reduces
 random
+running
+record
+remedies
+reorganisation
+records
+resolution
+rehash
+reinserting
+restore
 ehO
 ef
 eWmI
@@ -7198,6 +7265,10 @@ entire
 entries
 equally
 entry
+experimental
+encounter
+encountered
+easily
 lD
 le
 lgAg
@@ -7374,6 +7445,7 @@ lkkk
 limit
 lookups
 likely
+lengthens
 Ho
 Hf
 HdS
@@ -7809,6 +7881,7 @@ jtM
 jGuu
 jnn
 jiI
+jobs
 Ow
 Osg
 OguH
@@ -7962,6 +8035,7 @@ OGGW
 OQ
 One
 Our
+Operation
 QiG
 QFJ
 QUR
@@ -8114,6 +8188,7 @@ QqR
 QKK
 QAA
 Quickly
+Queue
 ba
 bM
 bhz
@@ -8453,6 +8528,9 @@ EdzH
 EYY
 EBg
 EEEM
+EmptyQueueException
+EmptyStackException
+Evaluation
 äq
 gh
 gCn
