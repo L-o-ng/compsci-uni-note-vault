@@ -203,6 +203,7 @@ PBEB
 PPWi
 PfffLL
 Proving
+Piper
 IHDR
 IDATx
 ID
@@ -1997,6 +1998,8 @@ fedd
 fzzz
 further
 formal
+financial
+freelance
 hO
 hf
 hA
@@ -2412,6 +2415,11 @@ pIJ
 pWm
 products
 polynomial
+partner
+public
+podcaster
+previously
+project
 DQ
 DM
 DU
@@ -2898,6 +2906,9 @@ seE
 soE
 segment
 simplification
+specialising
+services
+speaker
 TWe
 TBM
 Ti
@@ -3083,6 +3094,7 @@ TvFf
 TWU
 TOO
 TYYy
+Twitter
 JP
 Ju
 JQ
@@ -3533,6 +3545,7 @@ CDB
 CuX
 Cfffj
 CBBH
+Consulting
 cd
 ce
 cNCw
@@ -3824,6 +3837,7 @@ cRo
 cNX
 creation
 corresponds
+contributes
 kH
 ka
 kE
@@ -4362,6 +4376,7 @@ tQUU
 tLW
 thUVV
 tDRV
+technologist
 Bh
 Bda
 Br
@@ -5369,6 +5384,8 @@ AC
 Around
 AFW
 AwO
+Andy
+API
 KN
 KV
 KO
@@ -5496,6 +5513,7 @@ KZZZYY
 KEE
 KZZ
 Kii
+Kirstie
 VU
 VB
 Vt
@@ -5834,6 +5852,8 @@ MMMa
 MSjMRR
 Mff
 Minimisation
+Mastodon
+Miller
 SQl
 SkBl
 SK
@@ -6050,6 +6070,8 @@ Scp
 SEEEhh
 Siiiqq
 SRRN
+Speakers
+She
 aQ
 ag
 aZ
@@ -6298,6 +6320,7 @@ aaat
 aaaaaa
 alv
 assume
+asset
 wE
 wU
 wF
@@ -6469,6 +6492,8 @@ wdx
 wvvF
 wgY
 wXo
+wealth
+worked
 vh
 vU
 vx
@@ -6795,6 +6820,8 @@ NNNeeehhhg
 Nff
 NgII
 Non
+NextWave
+Natalia
 Yk
 YZ
 Yoj
@@ -7074,6 +7101,8 @@ GdDTh
 GB
 GYG
 GGU
+Guest
+Galloway
 xcb
 xa
 xX
@@ -7772,6 +7801,7 @@ eLD
 eYY
 eeer
 exact
+enterprise
 lD
 le
 lgAg
@@ -7962,6 +7992,8 @@ lcaQ
 lMM
 lgK
 lyEGk
+leader
+lead
 Ho
 Hf
 HdS
