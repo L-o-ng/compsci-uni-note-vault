@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcd21471167c29e2",
+            "id": "2b9019db23a5113c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "2627d8a8bfa47b35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CThPanel Week 2.md",
+                "file": "Javascript and the DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CThPanel Week 2"
+              "title": "Javascript and the DOM"
             }
           }
         ]
@@ -164,31 +174,36 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "fcd21471167c29e2",
+  "active": "2b9019db23a5113c",
   "lastOpenFiles": [
-    "Calculus.md",
+    "Javascript and the DOM.md",
+    "CThPanel Week 1.md",
+    "Matrix Multiplication.md",
+    "Basis Images.md",
+    "Combining Linear Maps.md",
+    "The Identity Matrix.md",
+    "Trigonometric Differentiation.md",
+    "Linear Algebra.md",
+    "Linear Maps and Basis Vectors.md",
+    "Linear Maps.md",
+    "Basis Representation.md",
+    "Linear Probing.md",
+    "Hash Tables.md",
     "CThPanel Week 2.md",
+    "Calculus.md",
     "Differentiation.md",
     "Quotient Rule.md",
-    "Trigonometric Differentiation.md",
     "Chain Rule.md",
     "Computational Thinking Panel Coursework.md",
     "Year 1 Computer Science.md",
     "Computer Science Year 1 Practicals.md",
-    "CThPanel Week 1.md",
     "Polar Representation.md",
     "Arg().md",
     "Re() and Im().md",
     "Further Trigonometric Identities.md",
     "Consequences of Euler's Formula.md",
-    "Euler's Formula.md",
-    "Euler's Identity.md",
     "Pictures/e^itheta on the unit circle.png",
-    "Karnaugh Maps.md",
-    "Computer Systems.md",
-    "Mathematics for Computer Science.md",
     "Untitled.canvas",
-    "AaDS Week 4.md",
     "Pictures/PoS minimisation example.png",
     "Pictures/Pasted image 20241029133945.png",
     "Pictures/K-map display simplified.png",
@@ -198,11 +213,6 @@
     "Pictures/K-map example 2.png",
     "Pictures/K-map example 1.png",
     "Pictures/K-map simplification.png",
-    "Arrays.md",
-    "Algorithms & Data Structures Coursework.md",
-    "Hash Tables.md",
-    "Double Hashing.md",
-    "Quadratic Probing.md",
     "Input",
     "Pictures",
     "Canvas.canvas"
