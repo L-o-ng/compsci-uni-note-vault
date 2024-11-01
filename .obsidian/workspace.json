@@ -8,27 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b9019db23a5113c",
+            "id": "fc869fbd883a710c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MUX"
+            }
+          },
+          {
+            "id": "2445ef5bb6b84314",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "2627d8a8bfa47b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript and the DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Javascript and the DOM"
             }
           }
         ]
@@ -144,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for MUX"
             }
           }
         ],
@@ -171,48 +172,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b9019db23a5113c",
+  "active": "fc869fbd883a710c",
   "lastOpenFiles": [
+    "Circuits.md",
+    "A Simple ALU.md",
+    "MUX.md",
+    "Tristates.md",
+    "Pictures/Inverted tristate.png",
+    "Pictures/Tristate buffer truth table.png",
+    "Pictures/Tristate buffer.png",
+    "Pictures/Multiplexor.png",
+    "Multiplexors.md",
+    "Decoder.md",
+    "Pictures/3-8 decoder.png",
+    "Pictures/2 bit decoder.png",
+    "Pictures/1 bit decoder.png",
+    "Subtractor.md",
+    "Pictures/Subtractor.png",
+    "Adder.md",
+    "Pictures/Ripple Carry Adder.png",
+    "Pictures/Full adder.png",
+    "Half-Adders.md",
+    "Latches and Flip-Flops.md",
+    "CSy Week 4.md",
+    "Euler's Formula.md",
+    "Untitled.md",
+    "Boolean Algebra.md",
+    "Untitled 1.md",
+    "Sum of Products vs Product of Sums.md",
+    "Karnaugh Maps.md",
+    "Digital Electronics.md",
+    "Computer Systems Coursework.md",
+    "CSy Week 3.md",
     "Javascript and the DOM.md",
     "CThPanel Week 1.md",
     "Matrix Multiplication.md",
     "Basis Images.md",
     "Combining Linear Maps.md",
     "The Identity Matrix.md",
-    "Trigonometric Differentiation.md",
-    "Linear Algebra.md",
-    "Linear Maps and Basis Vectors.md",
-    "Linear Maps.md",
-    "Basis Representation.md",
-    "Linear Probing.md",
-    "Hash Tables.md",
-    "CThPanel Week 2.md",
-    "Calculus.md",
-    "Differentiation.md",
-    "Quotient Rule.md",
-    "Chain Rule.md",
-    "Computational Thinking Panel Coursework.md",
-    "Year 1 Computer Science.md",
-    "Computer Science Year 1 Practicals.md",
-    "Polar Representation.md",
-    "Arg().md",
-    "Re() and Im().md",
-    "Further Trigonometric Identities.md",
-    "Consequences of Euler's Formula.md",
-    "Pictures/e^itheta on the unit circle.png",
     "Untitled.canvas",
-    "Pictures/PoS minimisation example.png",
-    "Pictures/Pasted image 20241029133945.png",
-    "Pictures/K-map display simplified.png",
-    "Pictures/K-map display simplification.png",
-    "Pictures/K-map for 7 segment display.png",
-    "Pictures/7-segment display driver.png",
-    "Pictures/K-map example 2.png",
-    "Pictures/K-map example 1.png",
-    "Pictures/K-map simplification.png",
     "Input",
     "Pictures",
     "Canvas.canvas"
