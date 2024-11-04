@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0bff7878fad36d9f",
+        "id": "89e4c257d55fdd42",
         "type": "tabs",
         "children": [
           {
-            "id": "976c46c1af95901c",
+            "id": "373fc568886c95ff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MfCS Week 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MfCS Week 5"
             }
           }
         ]
@@ -161,8 +165,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "976c46c1af95901c",
+  "active": "373fc568886c95ff",
   "lastOpenFiles": [
+    "Chain Rule.md",
+    "MfCS Week 5.md",
+    "Differentiation.md",
+    "Limits of functions.md",
+    "The Power Rule.md",
+    "Trigonometric Differentiation.md",
+    "Product Rule.md",
+    "Basic Derivatives.md",
+    "Mathematics for Computer Science Coursework.md",
     "A Simple ALU.md",
     "Pictures/A Simple ALU.png",
     "MUX.md",
@@ -189,15 +202,7 @@
     "Complex Numbers.md",
     "Re() and Im().md",
     "Arg().md",
-    "Main Trigonometric Functions.md",
-    "Trigonometry.md",
-    "Arc Lengths and Angles.md",
-    "Radians.md",
-    "Circuits.md",
     "Pictures/Inverted tristate.png",
-    "Multiplexors.md",
-    "Decoder.md",
-    "Subtractor.md",
     "Untitled.canvas",
     "Input",
     "Pictures",
