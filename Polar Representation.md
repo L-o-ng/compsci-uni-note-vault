@@ -3,7 +3,7 @@
 The form: $$z=r(\cos \theta+i\sin \theta)$$is called the **polar** representation of $z$.
 It tells you immediately what $|z|$ and $\arg(z)$, or $r$ and $\theta$ are.
 ## Examples
-Q: $$\text{Write: }\array{z_{1}=1=\sqrt{ 3 }i\\z_{2}=17\left( \sin\left( \frac{\pi}{4}\right)+i\cos\left( \frac{\pi}{4} \right) \right)\\z_{3}=-7}\text{ in polar representation.}$$
+Q: $$\text{Write: }\array{z_{1}=1-\sqrt{ 3 }i\\z_{2}=17\left( \sin\left( \frac{\pi}{4}\right)+i\cos\left( \frac{\pi}{4} \right) \right)\\z_{3}=-7}\text{ in polar representation.}$$
 A: Find $|z|,\arg(z)$ and then write it in the form.
 1) $$\array{z_{1}=1-\sqrt{ 3 }\implies \array{|z_{1}|=\sqrt{1^2+\sqrt{ 3 }^2}=2\\arg(z_{1})=-\frac{\pi}{3}}\\\text{So }z_{1}=2\left( \cos\left( -\frac{\pi}{3} \right)+i\sin\left( -\frac{\pi}{3} \right) \right)}$$
 2) $$\array{z_{2}=17\left( \sin \frac{\pi}{4}+i\cos \frac{\pi}{4} \right)\\|z_{2}|=\sqrt{ 17\sin^2\frac{\pi}{4}+17\cos^2\frac{\pi}{4} }=17\\\arg(z)=\frac{\pi}{4}\\\text{So }z_{2}=17\left( \cos \frac{\pi}{4}+i\sin \frac{\pi}{4} \right)\\\text{NB: You cannot usually swap these!}}$$
