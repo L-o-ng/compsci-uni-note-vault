@@ -1357,6 +1357,8 @@ djsmY
 direction
 dHff
 disconnected
+directional
+dots
 oL
 om
 oV
@@ -2122,6 +2124,7 @@ finance
 far
 funnel
 formulae
+famous
 hO
 hf
 hA
@@ -3119,6 +3122,7 @@ steer
 several
 selectively
 simpler
+sqrt
 TWe
 TBM
 Ti
@@ -4112,6 +4116,7 @@ chooses
 cNRg
 cEd
 contrast
+cos
 kH
 ka
 kE
@@ -4850,6 +4855,7 @@ BCM
 BJVY
 Bna
 Buffers
+Binomia
 ZY
 Zu
 ZzJ
@@ -6013,6 +6019,7 @@ VVfkk
 VUk
 Vwy
 VDd
+Very
 Mz
 MR
 Mc
@@ -6442,6 +6449,8 @@ SCg
 Save
 Solving
 Solution
+Symbolab
+Store
 aQ
 ag
 aZ
@@ -8038,6 +8047,7 @@ rkÜ
 remaining
 rotate
 remember
+relates
 ehO
 ef
 eWmI
@@ -8475,6 +8485,7 @@ lXY
 lQB
 looks
 listen
+local
 Ho
 Hf
 HdS
@@ -9664,6 +9675,7 @@ Events
 ESa
 Expands
 Equations
+Even
 äq
 gh
 gCn
