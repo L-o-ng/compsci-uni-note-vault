@@ -4,38 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f46b3cf08d74a632",
+        "id": "f04ba849189cdf2a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae9a449224bcea41",
+            "id": "b5091d0d3054128a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AaDS Week 5.md",
+                "file": "Finding Independent Sets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AaDS Week 5"
+              "title": "Finding Independent Sets"
             }
           },
           {
-            "id": "fce8b472b1459dc9",
+            "id": "c6ebacfa1aa8a8c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Probing.md",
+                "file": "Solving Map Colouring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Probing"
+              "title": "Solving Map Colouring"
+            }
+          },
+          {
+            "id": "f9a62b02f83b42ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Travelling Salesman Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Travelling Salesman Problem"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,44 +194,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae9a449224bcea41",
+  "active": "f9a62b02f83b42ed",
   "lastOpenFiles": [
-    "Linear Probing.md",
-    "Hash Tables.md",
-    "AaDS Week 5.md",
-    "Algorithms & Data Structures Coursework.md",
-    "Further Trigonometric Identities.md",
-    "Geometric Multiplication.md",
-    "Exponentials and Logarithms.md",
-    "Euler's Identity.md",
-    "Euler's Formula.md",
-    "Consequences of Euler's Formula.md",
-    "Polar Representation.md",
-    "Finding Extrema.md",
-    "2024-11-04.md",
+    "Finding Independent Sets.md",
+    "Sports Day.md",
+    "Pictures/Sports day maximum independent set.png",
+    "Optimisation Problems.md",
+    "Solving Map Colouring.md",
+    "Pictures/2 colour crown graph.png",
+    "Pictures/3 colour crown graph.png",
+    "Pictures/5 colour crown graph.png",
+    "Pictures/Greedy colouring.png",
+    "Map Colouring.md",
+    "Decision Problems.md",
+    "Fundamental Problems.md",
+    "Pictures/Mr Acid.png",
+    "The Travelling Salesman Problem.md",
+    "Decision vs Search.md",
+    "Search Problems.md",
+    "Finding Routes.md",
+    "Draughts.md",
+    "Pictures/Map colouring.png",
+    "Abstraction.md",
+    "Computational Thinking.md",
+    "Fundamental Theorem of Algebra.md",
+    "Pictures/FToA proof part 2.png",
+    "Pictures/FToA proof part 1.png",
+    "Single Maths A.md",
+    "Polynomial Division.md",
     "MfCS Week 5.md",
-    "Chain Rule.md",
-    "Differentiation.md",
-    "Limits of functions.md",
-    "The Power Rule.md",
-    "Trigonometric Differentiation.md",
-    "Product Rule.md",
-    "Basic Derivatives.md",
-    "Mathematics for Computer Science Coursework.md",
-    "A Simple ALU.md",
-    "Pictures/A Simple ALU.png",
+    "Timing.md",
+    "Pictures/Static 1 hazard removal.png",
+    "Circuits.md",
+    "CThPanel Week 1.md",
+    "CThPanel Week 2.md",
     "MUX.md",
-    "Pictures/Economic MUX design.png",
-    "Pictures/8 input mux.png",
-    "Pictures/4 to one line multiplexor.png",
-    "Pictures/2 to 1 line multiplexor.png",
-    "Tristates.md",
-    "Basis Images.md",
-    "Pictures/Distinct solutions of example complex equation.png",
-    "Pictures/Complex multiplication example.png",
-    "Pictures/Complex Geometric Multiplication.png",
-    "Pictures/Complex Geometric Addition.png",
-    "Pictures/Inverted tristate.png",
+    "A Simple ALU.md",
+    "Computer Systems.md",
+    "Solving Complex Equations.md",
     "Untitled.canvas",
     "Input",
     "Pictures",

@@ -45,3 +45,17 @@ NAN
 \Downarrow
 \diamondsuit
 ABCC
+\And
+\arg
+\angle
+\tan
+\land
+\tanh
+\cancel{#}
+\langle
+\rangle
+\cancelto{#}{#}
+\bcancel{#}
+\phantom{#}
+\xcancel{#}
+\hphantom{#}

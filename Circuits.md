@@ -1,5 +1,7 @@
 #notes 
 
+Also see [[Timing]]
+
 A **circuit** is a network that processes *discrete-valued* variables.
 
 They have:
