@@ -220,6 +220,7 @@ Propagation
 Paths
 Problems
 Problem
+Plus
 IHDR
 IDATx
 ID
@@ -431,6 +432,8 @@ IZZ
 IIIzW
 Inverted
 Imagine
+Iteratively
+Iterate
 yZ
 yC
 yU
@@ -1384,6 +1387,7 @@ deciding
 develop
 denoting
 duration
+direct
 oL
 om
 oV
@@ -1759,6 +1763,7 @@ Rotates
 Rpp
 Removal
 Removing
+Remove
 nR
 nW
 nT
@@ -1940,6 +1945,8 @@ notions
 nature
 negatives
 noon
+nearest
+numerous
 fg
 fU
 fk
@@ -2635,6 +2642,8 @@ procedure
 possibility
 produced
 preferable
+participate
+proceed
 DQ
 DM
 DU
@@ -3401,6 +3410,7 @@ Table
 Tristates
 Timing
 Time
+Thus
 JP
 Ju
 JQ
@@ -3875,6 +3885,8 @@ Corollary
 Comparing
 Can
 Colouring
+Corresponding
+Conversely
 cd
 ce
 cNCw
@@ -4233,6 +4245,8 @@ city
 correspond
 colouring
 choosing
+cases
+choose
 kH
 ka
 kE
@@ -4807,6 +4821,8 @@ tour
 touch
 touches
 throughout
+towns
+town
 Bh
 Bda
 Br
@@ -5375,6 +5391,9 @@ minimisation
 maximisation
 minutes
 maximu
+motorways
+motorway
+maximise
 WD
 WWx
 Wy
@@ -5713,6 +5732,7 @@ undergoes
 unchanged
 undertaken
 unused
+unvisited
 AI
 Az
 Ab
@@ -5883,6 +5903,7 @@ AMMMEEEVV
 Arrow
 Additional
 America
+Answer
 KN
 KV
 KO
@@ -6168,6 +6189,7 @@ Vwy
 VDd
 Very
 Vertex
+Vertices
 Mz
 MR
 Mc
@@ -6602,6 +6624,7 @@ Store
 Start
 Sketch
 Solutions
+Sometimes
 aQ
 ag
 aZ
@@ -6880,6 +6903,12 @@ aim
 appropriate
 availability
 athletes
+approach
+acceptable
+aims
+avoiding
+abstracted
+athlete
 wE
 wU
 wF
@@ -7243,6 +7272,7 @@ vertices
 vertex
 various
 visiting
+verify
 Ny
 Ngl
 Nz
@@ -8232,6 +8262,9 @@ region
 returning
 rest
 repeatedly
+relation
+route
+routes
 ehO
 ef
 eWmI
@@ -8849,6 +8882,7 @@ Hj
 Handlers
 Hazards
 Hazard
+Having
 FC
 FT
 FP
@@ -9881,6 +9915,7 @@ Expands
 Equations
 Even
 Exactly
+Edges
 äq
 gh
 gCn
@@ -10062,6 +10097,7 @@ green
 graphs
 greedily
 guest
+greedy
 Üfrpp
 ÜAv
 ÜK

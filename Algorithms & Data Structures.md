@@ -9,6 +9,8 @@
 + [[Stacks]]
 + [[Queues]]
 + [[Hash Tables]]
++ [[Recursion]]
++ [[Backtracking]]
 + 
 
 ## Important

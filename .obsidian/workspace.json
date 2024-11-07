@@ -8,49 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5091d0d3054128a",
+            "id": "9b743f93efaa1870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finding Independent Sets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding Independent Sets"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "c6ebacfa1aa8a8c9",
+            "id": "8f841d486dee82ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solving Map Colouring.md",
+                "file": "Determinants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solving Map Colouring"
-            }
-          },
-          {
-            "id": "f9a62b02f83b42ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Travelling Salesman Problem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Travelling Salesman Problem"
+              "title": "Determinants"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,25 +176,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f9a62b02f83b42ed",
+  "active": "8f841d486dee82ef",
   "lastOpenFiles": [
-    "Finding Independent Sets.md",
-    "Sports Day.md",
-    "Pictures/Sports day maximum independent set.png",
-    "Optimisation Problems.md",
+    "Pictures/Pythagoras-proof-anim.svg",
+    "Determinants.md",
+    "Basis Images.md",
+    "The Identity Matrix.md",
+    "Matrix Multiplication.md",
+    "A Knight's Tour.md",
+    "Pictures/A knights tour.png",
+    "Backtracking.md",
+    "Algorithms & Data Structures.md",
+    "Recursion.md",
     "Solving Map Colouring.md",
+    "Finding Independent Sets.md",
+    "MfCS Week 5.md",
+    "Fundamental Problems.md",
+    "Optimisation Problems.md",
+    "Sports Day.md",
+    "Search Problems.md",
+    "Finding Routes.md",
+    "Decision vs Search.md",
+    "Map Colouring.md",
+    "The Travelling Salesman Problem.md",
+    "Pictures/Sports day maximum independent set.png",
     "Pictures/2 colour crown graph.png",
     "Pictures/3 colour crown graph.png",
     "Pictures/5 colour crown graph.png",
     "Pictures/Greedy colouring.png",
-    "Map Colouring.md",
     "Decision Problems.md",
-    "Fundamental Problems.md",
     "Pictures/Mr Acid.png",
-    "The Travelling Salesman Problem.md",
-    "Decision vs Search.md",
-    "Search Problems.md",
-    "Finding Routes.md",
     "Draughts.md",
     "Pictures/Map colouring.png",
     "Abstraction.md",
@@ -221,17 +214,6 @@
     "Pictures/FToA proof part 2.png",
     "Pictures/FToA proof part 1.png",
     "Single Maths A.md",
-    "Polynomial Division.md",
-    "MfCS Week 5.md",
-    "Timing.md",
-    "Pictures/Static 1 hazard removal.png",
-    "Circuits.md",
-    "CThPanel Week 1.md",
-    "CThPanel Week 2.md",
-    "MUX.md",
-    "A Simple ALU.md",
-    "Computer Systems.md",
-    "Solving Complex Equations.md",
     "Untitled.canvas",
     "Input",
     "Pictures",
