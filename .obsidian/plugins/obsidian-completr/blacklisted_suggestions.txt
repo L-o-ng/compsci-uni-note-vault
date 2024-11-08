@@ -59,3 +59,11 @@ ABCC
 \phantom{#}
 \xcancel{#}
 \hphantom{#}
+\triangle
+\vphantom{#}
+\triangleq
+\triangledown
+\triangleleft
+\triangleright
+\trianglelefteq
+NAND

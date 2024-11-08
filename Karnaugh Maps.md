@@ -29,7 +29,7 @@ Here, each circle represents an *implicant*. The largest possible circles repres
 ### Example 2 with Wrap-Around
 ![[K-map example 2.png]]
 ## Usage
-K-maps are often used in **7-segment display drivers**.
+K-maps are often used to simplify **7-segment display drivers**.
 ![[7-segment display driver.png]]
 There are 4 binary inputs that identify 10 outputs, each a number on the display.
 

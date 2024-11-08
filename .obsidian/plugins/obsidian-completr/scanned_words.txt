@@ -221,6 +221,12 @@ Paths
 Problems
 Problem
 Plus
+Pictures
+Pythagoras
+Practical
+Pascal
+Propagate
+Partial
 IHDR
 IDATx
 ID
@@ -842,6 +848,10 @@ indeed
 instance
 incident
 increasingly
+involving
+interger
+impractical
+implicitly
 qi
 qH
 qSr
@@ -1388,6 +1398,9 @@ develop
 denoting
 duration
 direct
+determinant
+det
+decoder
 oL
 om
 oV
@@ -1579,6 +1592,8 @@ otherwise
 ordering
 optimal
 occurring
+occurs
+obviously
 RD
 Rpbr
 RJ
@@ -1764,6 +1779,8 @@ Rpp
 Removal
 Removing
 Remove
+Recall
+RHS
 nR
 nW
 nT
@@ -2176,6 +2193,9 @@ factors
 finding
 feasible
 finish
+fewer
+flip
+flops
 hO
 hf
 hA
@@ -2644,6 +2664,7 @@ produced
 preferable
 participate
 proceed
+propagated
 DQ
 DM
 DU
@@ -2847,6 +2868,9 @@ Different
 Diagrams
 Demands
 Decision
+Determinant
+Decoder
+Deeper
 sDK
 sk
 sz
@@ -3211,6 +3235,11 @@ slots
 slot
 schedule
 schedules
+svg
+signed
+symmetry
+summations
+silicone
 TWe
 TBM
 Ti
@@ -3411,6 +3440,7 @@ Tristates
 Timing
 Time
 Thus
+Triangle
 JP
 Ju
 JQ
@@ -3887,6 +3917,9 @@ Can
 Colouring
 Corresponding
 Conversely
+Coefficient
+Combining
+Chaining
 cd
 ce
 cNCw
@@ -4247,6 +4280,10 @@ colouring
 choosing
 cases
 choose
+cdot
+circuitry
+computed
+carries
 kH
 ka
 kE
@@ -4583,6 +4620,9 @@ Look
 Listening
 LJR
 Line
+LHS
+Lookahead
+Latches
 tJ
 tf
 tR
@@ -4996,6 +5036,7 @@ BJVY
 Bna
 Buffers
 Binomia
+Binomial
 ZY
 Zu
 ZzJ
@@ -5394,6 +5435,8 @@ maximu
 motorways
 motorway
 maximise
+mathbf
+multi
 WD
 WWx
 Wy
@@ -5733,6 +5776,7 @@ unchanged
 undertaken
 unused
 unvisited
+undefined
 AI
 Az
 Ab
@@ -5904,6 +5948,7 @@ Arrow
 Additional
 America
 Answer
+Adder
 KN
 KV
 KO
@@ -6190,6 +6235,7 @@ VDd
 Very
 Vertex
 Vertices
+Via
 Mz
 MR
 Mc
@@ -6391,6 +6437,7 @@ MUX
 Multiplexor
 MBBB
 Manipulating
+Matrix
 SQl
 SkBl
 SK
@@ -6625,6 +6672,7 @@ Start
 Sketch
 Solutions
 Sometimes
+Synchronous
 aQ
 ag
 aZ
@@ -6909,6 +6957,9 @@ aims
 avoiding
 abstracted
 athlete
+anim
+area
+asserts
 wE
 wU
 wF
@@ -7273,6 +7324,7 @@ vertex
 various
 visiting
 verify
+vmatrix
 Ny
 Ngl
 Nz
@@ -7728,6 +7780,7 @@ Galloway
 Generative
 GVV
 Greedy
+Generate
 xcb
 xa
 xX
@@ -8265,6 +8318,9 @@ repeatedly
 relation
 route
 routes
+ripple
+require
+receive
 ehO
 ef
 eWmI
@@ -8498,6 +8554,7 @@ edges
 edge
 extend
 earliest
+expanded
 lD
 le
 lgAg
@@ -8713,6 +8770,7 @@ letting
 light
 longest
 lowest
+lookahead
 Ho
 Hf
 HdS
@@ -9040,6 +9098,7 @@ FgNC
 Found
 Figuring
 Formal
+Factorial
 jY
 jx
 jRg
@@ -9733,6 +9792,7 @@ buffer
 brief
 border
 blue
+begin
 ED
 EXD
 Es
@@ -9916,6 +9976,7 @@ Equations
 Even
 Exactly
 Edges
+Exponentials
 äq
 gh
 gCn

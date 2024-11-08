@@ -11,9 +11,8 @@ They are unlike analogue circuits which manipulate analogue signals, which are s
 + [[Digital Abstraction in Chips]]
 + [[Boolean Algebra]]
 + [[Digital Design Principles]]
-+ [[Circuits]]
++ [[Circuits and Combinational Logic]]
++ [[Sequential Circuits]]
 + 
-
-
 ## Digital Signals
 Digital signals are representations of analogue waves. A [[Number Systems#Binary|binary]] sequence is mapped to either the amplitude or frequency of the analogue signal.

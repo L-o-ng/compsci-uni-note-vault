@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f04ba849189cdf2a",
+        "id": "88602687b2e6c551",
         "type": "tabs",
         "children": [
           {
-            "id": "9b743f93efaa1870",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "8f841d486dee82ef",
+            "id": "00bee965219b6fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinants.md",
+                "file": "Digital Electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Determinants"
+              "title": "Digital Electronics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -145,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Digital Electronics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Digital Electronics"
             }
           }
         ],
@@ -162,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,44 +165,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f841d486dee82ef",
+  "active": "00bee965219b6fe8",
   "lastOpenFiles": [
-    "Pictures/Pythagoras-proof-anim.svg",
-    "Determinants.md",
-    "Basis Images.md",
-    "The Identity Matrix.md",
-    "Matrix Multiplication.md",
-    "A Knight's Tour.md",
-    "Pictures/A knights tour.png",
-    "Backtracking.md",
-    "Algorithms & Data Structures.md",
-    "Recursion.md",
-    "Solving Map Colouring.md",
-    "Finding Independent Sets.md",
-    "MfCS Week 5.md",
-    "Fundamental Problems.md",
-    "Optimisation Problems.md",
-    "Sports Day.md",
-    "Search Problems.md",
-    "Finding Routes.md",
-    "Decision vs Search.md",
-    "Map Colouring.md",
-    "The Travelling Salesman Problem.md",
-    "Pictures/Sports day maximum independent set.png",
-    "Pictures/2 colour crown graph.png",
-    "Pictures/3 colour crown graph.png",
-    "Pictures/5 colour crown graph.png",
-    "Pictures/Greedy colouring.png",
-    "Decision Problems.md",
-    "Pictures/Mr Acid.png",
-    "Draughts.md",
-    "Pictures/Map colouring.png",
-    "Abstraction.md",
-    "Computational Thinking.md",
-    "Fundamental Theorem of Algebra.md",
-    "Pictures/FToA proof part 2.png",
-    "Pictures/FToA proof part 1.png",
+    "Sequential Circuits.md",
+    "Flip-Flops.md",
+    "Synchronous Circuits.md",
+    "Pictures/Pasted image 20241108165411.png",
+    "Latches.md",
+    "Pictures/D Latch.png",
+    "Pictures/SR Latch Symbol.png",
+    "Pictures/SR Latch Truth table.png",
+    "Pictures/SR Latch.png",
+    "Latches and Flip-Flops.md",
+    "Digital Electronics.md",
+    "Circuits and Combinational Logic.md",
+    "Half-Adders.md",
+    "Adder.md",
+    "Advanced Adders.md",
+    "Pictures/2-level CLA.png",
+    "Generation and Propagation in a CLA.md",
+    "Pictures/Chaining CLAs.png",
+    "MSI Chip 74x283.md",
+    "Pictures/MSI Chip 74x283.png",
+    "Pictures/Partial Full Adder.png",
+    "Pictures/Carry-Lookahead Adder 2.png",
+    "A Simple ALU.md",
+    "MUX.md",
+    "Karnaugh Maps.md",
+    "CSy Week 3.md",
+    "Logic Levels.md",
+    "Binary Arithmetic.md",
+    "Floating Point Representation.md",
+    "Transistors.md",
+    "Logic Gates.md",
+    "Decoder.md",
+    "Javascript and the DOM.md",
     "Single Maths A.md",
+    "Euler's Formula.md",
+    "The Binomial Theorem.md",
     "Untitled.canvas",
     "Input",
     "Pictures",

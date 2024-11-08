@@ -11,7 +11,6 @@
 + [[Simplifying Surds]]
 + [[Exponentials and Logarithms]]
 + [[Complex Numbers]]
-+ [[Re() and Im()]]
 + [[Polynomial Division]]
 + [[Fundamental Theorem of Algebra]]
 + 
