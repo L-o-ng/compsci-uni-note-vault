@@ -50,24 +50,26 @@ If a matrix $B$ is like $A$ but with two columns swapped then $\det(B)=-\det(A)$
 + If a matrix $A$ has a column made up of zeroes then $\det(A)=0$.
 + If a scalar multiple of one column is added to another column then the determinant is unchanged.
 + If a matrix $A$ has columns that are linearly dependent then $\det(A)=0$.
-### Determinant of a Diagonal Meteor
-$$\array{\begin{vmatrix}
+### Determinant of a Diagonal Matrix
+$$\begin{align}
+\array{\begin{vmatrix}
 2 & 0 & 0 \\
 0 & 4 & 0 \\
 0 & 0 & -3
-\end{vmatrix}=2\cdot \begin{vmatrix}
+\end{vmatrix}&=2\cdot \begin{vmatrix}
 1 & 0 & 0 \\
 0 & 4 & 0 \\
 0 & 0 & -3
-\end{vmatrix}\\=2\cdot 4 \cdot \begin{vmatrix}
+\end{vmatrix}\\&=2\cdot 4 \cdot \begin{vmatrix}
 1 & 0 & 0 \\
 0 & 1 & 0 \\
 0 & 0 & -3
-\end{vmatrix}\\=2\cdot 4\cdot -3\cdot \begin{vmatrix}
+\end{vmatrix}\\&=2\cdot 4\cdot -3\cdot \begin{vmatrix}
 1 & 0 & 0 \\
 0 & 1 & 0 \\
 0 & 0 & 1
-\end{vmatrix}\\=-24}$$
+\end{vmatrix}\\&=-24}
+\end{align}$$
 ## Alternative Derivation of $\mathbf{2 \times 2}$ Determinant
 - Use linearity on the first column to expand out
 - Then expand out the second column

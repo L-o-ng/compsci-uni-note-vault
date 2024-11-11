@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 A function $f(z)$ takes a complex number $z$ and outputs a complex number $f(z)$.
 ## Examples
@@ -25,15 +25,37 @@ A: $$\begin{matrix}
 $$\overline{e^z}=e^x(\cos y+i\sin y)=e^x(\cos y-i\sin y)=\overline{e^xe^{iy}}=e^xe^{-iy}=e^{x-iy}=e^{\overline{z}}$$
 ### Trigonometric Definitions
 Recall the 2 main [[Further Trigonometric Identities]].
-todo!
-
+Using these, we define for any complex $z$:
+$$\begin{array} \\
+\cos z=\frac{e^{iz}+e^{-iz}}{2} \\
+\sin z=\frac{e^{iz}-e^{-iz}}{2i} \\
+\cosh z=\frac{e^z+e^{-z}}{2} \\
+\sinh z=\frac{e^z-e^{-z}}{2}
+\end{array}$$
+Notice that: 
++ $$\cosh(iz)=\cos z$$
++ $$\cos(iz)=\cosh z$$
++ $$\sinh(iz)=\frac{e^{iz}-e^{-iz}}{2}=i\sin z$$
++ $$\sin(iz)=i\sinh z$$
+Now see [[More Complex Trigonometry]]
 #### Further Definitions
 Q: In terms of $\Re(z)$ and $\Im(z)$, what are $\Re(\sin z)$ and $|\cosh z|$
 A:
-$$\begin{matrix}
+$$\begin{align}
 \text{Let }z=x+iy, \text{then } \sin z &=\frac{e^{i(x+iy)}-e^{-i(x+iy)}}{2i} \\
 &=-\frac{i}{2}(e^{ix}e^{-y}-e^{-ix}e^y) \\
 &=-\frac{i}{2}((\cos x+i\sin x)e^{-y}-(\cos x-i\sin x)e^y) \\
-&=-\frac{i}{2}
-\end{matrix}$$
-todo!
+&=-\frac{i}{2}\cos xe^{-y}+\frac{1}{2}\sin xe^{-y}+\frac{i}{2}\cos xe^y+\frac{1}{2}\sin xe^y \\ 
+
+\text{So }\Re(\sin z)=\sin x\cdot \frac{e^y+e^{-y}}{2}=\sin x\cosh y \\
+\text{So, in general, }\underline{\Re(\sin z)=\sin \Re(z)\cosh \Im(z)}
+\end{align}$$
+$$\begin{align} \\
+|\cosh z|^2 &=\cosh z \cdot\overline{\cosh z}=\frac{e^z+e^{-z}}{2}\cdot \overline{\frac{e^z+e^{-z}}{2}} \\
+&=\frac{1}{4}(e^z+e^{-z})(e^{\overline{z}}+e^{-\overline{z}}) \\
+&=\frac{1}{4}(e^{z+\overline{z}}+e^{-z+\overline{z}}+e^{z-\overline{z}}+e^{-(z+\overline{z})}) \\
+&=\frac{1}{2}\left( \frac{e^{z+\overline{z}}+e^{-(z+\overline{z})}}{2} \right)+\frac{1}{2}\left( \frac{e^{z-\overline{z}}+e^{-(z-\overline{z})}}{2} \right) \\
+&=\frac{1}{2}\left( \frac{e^{2\Re(z)}+e^{-2\Re(z)}}{2} \right)+\frac{1}{2}\left( \frac{e^{2i \Im(z)}+e^{-2i \Im(z)}}{2} \right) \\
+&=\frac{1}{2}\cosh(2\Re(z))+\frac{1}{2}\cos(2\Im(z)) \\
+\therefore |\cosh z|=\sqrt{ \frac{1}{2}\cosh(2x)+\frac{1}{2}\cos(2y) }
+\end{align}$$

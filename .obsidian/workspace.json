@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88602687b2e6c551",
+        "id": "eac50e10a8eeac60",
         "type": "tabs",
         "children": [
           {
-            "id": "00bee965219b6fe8",
+            "id": "6f43b0dec57745e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital Electronics.md",
+                "file": "Abstraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Digital Electronics"
+              "title": "Abstraction"
             }
           }
         ]
@@ -95,12 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AaDS Week 3.md",
+                "file": "Transcendental Equations.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AaDS Week 3"
+              "title": "Outgoing links from Transcendental Equations"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital Electronics.md",
+                "file": "Transcendental Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +144,15 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Digital Electronics"
+              "title": "Backlinks for Transcendental Equations"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +165,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00bee965219b6fe8",
+  "active": "6f43b0dec57745e7",
   "lastOpenFiles": [
-    "Sequential Circuits.md",
+    "CSS.md",
+    "Determinants.md",
+    "Linear Algebra.md",
     "Flip-Flops.md",
+    "Timing.md",
+    "Map Colouring.md",
+    "Untitled.md",
+    "Pictures/Enabled flip flop.png",
+    "Pictures/Register as D Flip Flops.png",
+    "Pictures/Full and Compact D Flip Flop Symbols.png",
+    "Pictures/D Flip Flop.png",
     "Synchronous Circuits.md",
+    "Circuits and Combinational Logic.md",
+    "Euler's Formula.md",
+    "More Complex Trigonometry.md",
+    "Functions of a Complex Variable.md",
+    "Transcendental Equations.md",
+    "Complex Numbers.md",
+    "Further Trigonometric Identities.md",
+    "Consequences of Euler's Formula.md",
+    "Polar Representation.md",
+    "Arg().md",
+    "Re() and Im().md",
+    "Solving Complex Equations.md",
+    "Modulus.md",
+    "Digital Electronics.md",
+    "Sequential Circuits.md",
     "Pictures/Pasted image 20241108165411.png",
     "Latches.md",
     "Pictures/D Latch.png",
@@ -177,32 +201,8 @@
     "Pictures/SR Latch Truth table.png",
     "Pictures/SR Latch.png",
     "Latches and Flip-Flops.md",
-    "Digital Electronics.md",
-    "Circuits and Combinational Logic.md",
     "Half-Adders.md",
-    "Adder.md",
-    "Advanced Adders.md",
     "Pictures/2-level CLA.png",
-    "Generation and Propagation in a CLA.md",
-    "Pictures/Chaining CLAs.png",
-    "MSI Chip 74x283.md",
-    "Pictures/MSI Chip 74x283.png",
-    "Pictures/Partial Full Adder.png",
-    "Pictures/Carry-Lookahead Adder 2.png",
-    "A Simple ALU.md",
-    "MUX.md",
-    "Karnaugh Maps.md",
-    "CSy Week 3.md",
-    "Logic Levels.md",
-    "Binary Arithmetic.md",
-    "Floating Point Representation.md",
-    "Transistors.md",
-    "Logic Gates.md",
-    "Decoder.md",
-    "Javascript and the DOM.md",
-    "Single Maths A.md",
-    "Euler's Formula.md",
-    "The Binomial Theorem.md",
     "Untitled.canvas",
     "Input",
     "Pictures",

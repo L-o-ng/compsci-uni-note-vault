@@ -1,4 +1,6 @@
-#notes #homework-needed 
+#notes
+
+See also: [[Consequences of Euler's Formula]]
 
 $$\cos \theta+i\sin \theta=e^{i\theta}$$
 ## What is $e^{i\theta}$?
@@ -12,4 +14,11 @@ giving a complex number for every real $\theta$.
 + $$\array{e^{i\theta}e^{ix}=e^{i(\theta+x)}\\e^{i n\theta}=(e^{i\theta})^n\\\text{The same as the real proof.}}$$
 + $$1=e^0=e^{i 0}=e^{i\theta-i\theta}=e^{i\theta}e^{-i\theta}\therefore e^{-i\theta}=\frac{1}{e^{i\theta}}\text{ As for real numbers.}$$
 ## Proof (Non-Examinable)
-todo!
+$$\begin{align}
+\frac{d}{d\theta}(e^{-i\theta}(\cos \theta+i\sin \theta)) &=\frac{d}{d\theta}e^{-i\theta}(\cos \theta+i\sin \theta)+e^{-i\theta} \frac{d}{d\theta}(\cos \theta+i\sin \theta) \\
+&=-ie^{-i\theta}(\cos \theta+i\sin \theta)+e^{-i\theta}(-\sin \theta+i\cos \theta) \\
+&=0 \\
+&\therefore e^{-i\theta}(\cos \theta+i\sin \theta)=\text{constant - independent of }\theta \\
+&\text{Let }\theta=0\text{ then }e^{-i 0}(\cos 0+i\sin 0)=1=\text{constant} \\
+&\text{So }\underline{\cos \theta+i\sin \theta=e^{i\theta}}
+\end{align}$$

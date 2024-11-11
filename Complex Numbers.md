@@ -5,7 +5,7 @@
 + See [[Re() and Im()]] for further notes and identities.
 + Also see [[Solving Complex Equations]]
 + See [[Functions of a Complex Variable]]
-+ 
++ See [[Transcendental Equations]]
 
 To every point $(x,y)$ in the plane we associate a **complex number** $x+iy,(x,y \in \mathbb{R})$
 + $\mathbb{C}$ = Set of all complex numbers.

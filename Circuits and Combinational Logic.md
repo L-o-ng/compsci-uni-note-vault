@@ -28,4 +28,4 @@ To design **very large** circuits, we must follow combinational logic rules:
 + [[A Simple ALU]]
 ### Notes
 Adders, decoders, and [[MUX|multiplexors]] are known as **combinatorial circuits**, meaning their output depends only on the current input.
-[[Latches and Flip-Flops]] are called **sequential circuits**, as their output depends on *state* and *input* together.
+[[Latches]] and [[Flip-Flops]] are called **sequential circuits**, as their output depends on *state* and *input* together.

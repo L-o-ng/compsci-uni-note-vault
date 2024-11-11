@@ -852,6 +852,9 @@ involving
 interger
 impractical
 implicitly
+implies
+incorporates
+internet
 qi
 qH
 qSr
@@ -997,6 +1000,7 @@ querySelector
 qoT
 quadratic
 quality
+questions
 Xz
 XQ
 XX
@@ -1401,6 +1405,10 @@ direct
 determinant
 det
 decoder
+determined
+disguised
+driven
+depended
 oL
 om
 oV
@@ -1964,6 +1972,7 @@ negatives
 noon
 nearest
 numerous
+neglect
 fg
 fU
 fk
@@ -2196,6 +2205,9 @@ finish
 fewer
 flip
 flops
+functional
+flop
+facilitate
 hO
 hf
 hA
@@ -2665,6 +2677,7 @@ preferable
 participate
 proceed
 propagated
+perhaps
 DQ
 DM
 DU
@@ -3240,6 +3253,9 @@ signed
 symmetry
 summations
 silicone
+side
+sufficiently
+suffice
 TWe
 TBM
 Ti
@@ -3441,6 +3457,7 @@ Timing
 Time
 Thus
 Triangle
+Transcendental
 JP
 Ju
 JQ
@@ -3920,6 +3937,8 @@ Conversely
 Coefficient
 Combining
 Chaining
+Consequences
+Compact
 cd
 ce
 cNCw
@@ -4284,6 +4303,15 @@ cdot
 circuitry
 computed
 carries
+computations
+clocks
+closely
+conclusions
+confused
+channels
+communicating
+channel
+congestion
 kH
 ka
 kE
@@ -4431,6 +4459,7 @@ kmo
 kZXA
 kVXX
 kVy
+knowledge
 LL
 LN
 Lx
@@ -4863,6 +4892,9 @@ touches
 throughout
 towns
 town
+transcendental
+tends
+taken
 Bh
 Bda
 Br
@@ -5437,6 +5469,14 @@ motorway
 maximise
 mathbf
 multi
+mathbb
+moment
+manipulated
+mirror
+multilayered
+models
+messages
+message
 WD
 WWx
 Wy
@@ -5777,6 +5817,8 @@ undertaken
 unused
 unvisited
 undefined
+underlying
+upon
 AI
 Az
 Ab
@@ -5949,6 +5991,7 @@ Additional
 America
 Answer
 Adder
+Abstractions
 KN
 KV
 KO
@@ -6438,6 +6481,7 @@ Multiplexor
 MBBB
 Manipulating
 Matrix
+Modulus
 SQl
 SkBl
 SK
@@ -6673,6 +6717,7 @@ Sketch
 Solutions
 Sometimes
 Synchronous
+Symbols
 aQ
 ag
 aZ
@@ -6960,6 +7005,8 @@ athlete
 anim
 area
 asserts
+abstractions
+acquisition
 wE
 wU
 wF
@@ -7150,6 +7197,7 @@ wP
 weak
 wish
 whether
+whenever
 vh
 vU
 vx
@@ -7449,7 +7497,6 @@ NAYd
 NXrW
 Nv
 NBB
-NAND
 NNNiii
 NcWo
 NKa
@@ -8073,6 +8120,7 @@ Uaa
 Usage
 Uni
 Update
+Unlike
 rn
 rM
 rI
@@ -8321,6 +8369,8 @@ routes
 ripple
 require
 receive
+remembers
+reality
 ehO
 ef
 eWmI
@@ -8555,6 +8605,9 @@ edge
 extend
 earliest
 expanded
+equate
+enabled
+enable
 lD
 le
 lgAg
@@ -8771,6 +8824,9 @@ light
 longest
 lowest
 lookahead
+lets
+loaded
+life
 Ho
 Hf
 HdS
@@ -9099,6 +9155,9 @@ Found
 Figuring
 Formal
 Factorial
+Flip
+Flops
+Flop
 jY
 jx
 jRg
@@ -9793,6 +9852,7 @@ brief
 border
 blue
 begin
+bank
 ED
 EXD
 Es
@@ -9977,6 +10037,7 @@ Even
 Exactly
 Edges
 Exponentials
+Enabled
 äq
 gh
 gCn
@@ -10159,6 +10220,8 @@ graphs
 greedily
 guest
 greedy
+general
+gated
 Üfrpp
 ÜAv
 ÜK
