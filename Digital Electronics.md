@@ -13,6 +13,8 @@ They are unlike analogue circuits which manipulate analogue signals, which are s
 + [[Digital Design Principles]]
 + [[Circuits and Combinational Logic]]
 + [[Sequential Circuits]]
-+ 
++ [[Binary Arithmetic]]
++ [[Negative Binary Numbers]]
++ [[Floating Point Representation]]
 ## Digital Signals
 Digital signals are representations of analogue waves. A [[Number Systems#Binary|binary]] sequence is mapped to either the amplitude or frequency of the analogue signal.

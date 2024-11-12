@@ -2,12 +2,7 @@
 
 ## Notes
 + [[Digital Electronics]]
-+ [[Number Systems]]
-+ [[Binary Arithmetic]]
-+ [[Negative Binary Numbers]]
-+ [[Floating Point Representation]]
-+ 
-
++ [[Machine Architecture]]
 ## Important
 + **Textbook** - Digital Design and Computer Architecture | Morgan Kauffman, 2012
 

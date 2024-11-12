@@ -67,3 +67,13 @@ ABCC
 \triangleright
 \trianglelefteq
 NAND
+LOAded
+REAl
+REAd
+REAr
+REAch
+REAdy
+REAlly
+REAders
+REAlity
+REAdable

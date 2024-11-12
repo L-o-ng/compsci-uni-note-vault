@@ -1409,6 +1409,7 @@ determined
 disguised
 driven
 depended
+developed
 oL
 om
 oV
@@ -2884,6 +2885,7 @@ Decision
 Determinant
 Decoder
 Deeper
+Designing
 sDK
 sk
 sz
@@ -3256,6 +3258,7 @@ silicone
 side
 sufficiently
 suffice
+study
 TWe
 TBM
 Ti
@@ -4312,6 +4315,8 @@ channels
 communicating
 channel
 congestion
+clockwise
+currently
 kH
 ka
 kE
@@ -4652,6 +4657,8 @@ Line
 LHS
 Lookahead
 Latches
+LMC
+Little
 tJ
 tf
 tR
@@ -5992,6 +5999,7 @@ America
 Answer
 Adder
 Abstractions
+ATmega
 KN
 KV
 KO
@@ -6482,6 +6490,7 @@ MBBB
 Manipulating
 Matrix
 Modulus
+Man
 SQl
 SkBl
 SK
@@ -7007,6 +7016,8 @@ area
 asserts
 abstractions
 acquisition
+architectures
+albeit
 wE
 wU
 wF
@@ -7198,6 +7209,7 @@ weak
 wish
 whether
 whenever
+widely
 vh
 vU
 vx
@@ -7373,6 +7385,7 @@ various
 visiting
 verify
 vmatrix
+version
 Ny
 Ngl
 Nz
@@ -9476,6 +9489,7 @@ Ozyy
 Ordering
 Optimally
 Optimisation
+Overview
 QiG
 QFJ
 QUR
