@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 ## Compilation
 Compilation turns *all* of the program into machine code to be run on a specific machine.
 ## Interpretation

@@ -1,8 +1,12 @@
-#linker #homework-needed 
+#linker
 ## Notes
 + [[Programming Paradigms]]
 + [[Why so many Languages?]]
 + [[Syntax and Semantics]]
 + [[Compilation and Interpretation]]
-+ todo! Lexical Analysis onwards
++ [[Compilation Steps]]
++ [[Regular Expressions]]
++ [[Finite State Machine]]
+
+
 

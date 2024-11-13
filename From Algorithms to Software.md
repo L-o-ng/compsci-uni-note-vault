@@ -1,4 +1,4 @@
-#linker 
+#notes 
 
 **Algorithms** are elusive and informal objects.
 A **programming language** provides a means for translating an algorithm into a form suitable for execution by a computer.

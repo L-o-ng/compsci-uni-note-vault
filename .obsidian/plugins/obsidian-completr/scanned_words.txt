@@ -228,6 +228,7 @@ Pascal
 Propagate
 Partial
 Possibilities
+Parse
 IHDR
 IDATx
 ID
@@ -443,6 +444,7 @@ Iteratively
 Iterate
 Interpretation
 Interpreted
+Intermediate
 yZ
 yC
 yU
@@ -863,6 +865,10 @@ interim
 interspersed
 interpret
 initial
+involves
+informal
+implementations
+imply
 qi
 qH
 qSr
@@ -1420,6 +1426,11 @@ depended
 developed
 description
 disconnect
+denote
+derivatives
+determine
+directions
+del
 oL
 om
 oV
@@ -1614,6 +1625,8 @@ occurring
 occurs
 obviously
 optimising
+onwards
+operator
 RD
 Rpbr
 RJ
@@ -1986,6 +1999,7 @@ nearest
 numerous
 neglect
 natural
+nabla
 fg
 fU
 fk
@@ -2222,6 +2236,8 @@ functional
 flop
 facilitate
 flexible
+flattens
+flat
 hO
 hf
 hA
@@ -2695,6 +2711,12 @@ perhaps
 pages
 precise
 portable
+parser
+produces
+parse
+phase
+partial
+pronounced
 DQ
 DM
 DU
@@ -2902,6 +2924,8 @@ Determinant
 Decoder
 Deeper
 Designing
+Derivatives
+Directional
 sDK
 sk
 sz
@@ -3277,6 +3301,15 @@ suffice
 study
 spends
 semi
+syntactic
+syn
+stream
+suitable
+surface
+steepest
+slope
+scale
+symbol
 TWe
 TBM
 Ti
@@ -3479,6 +3512,9 @@ Time
 Thus
 Triangle
 Transcendental
+Token
+Tree
+Tokens
 JP
 Ju
 JQ
@@ -3962,6 +3998,7 @@ Consequences
 Compact
 Compilation
 Compiled
+Code
 cd
 ce
 cNCw
@@ -4341,6 +4378,12 @@ computers
 compiled
 compile
 completion
+compiler
+converting
+converts
+converted
+catch
+continuity
 kH
 ka
 kE
@@ -4683,6 +4726,7 @@ Lookahead
 Latches
 LMC
 Little
+Lexical
 tJ
 tf
 tR
@@ -4929,6 +4973,12 @@ taken
 translates
 translations
 translated
+token
+tree
+trans
+translation
+tokens
+translating
 Bh
 Bda
 Br
@@ -5512,6 +5562,8 @@ multilayered
 models
 messages
 message
+multivariate
+magnitude
 WD
 WWx
 Wy
@@ -5675,6 +5727,7 @@ WDRRR
 Waiting
 Why
 Whereas
+Way
 uC
 uIOs
 uq
@@ -6030,6 +6083,7 @@ Adder
 Abstractions
 ATmega
 Analyse
+Analysis
 KN
 KV
 KO
@@ -6759,6 +6813,8 @@ Synchronous
 Symbols
 Sufficiently
 Spectrum
+Stream
+Speeds
 aQ
 ag
 aZ
@@ -7052,6 +7108,15 @@ architectures
 albeit
 activity
 analysing
+alphabet
+accepted
+analyser
+assembly
+accounts
+ascent
+approximation
+arbitrarily
+approximately
 wE
 wU
 wF
@@ -7420,6 +7485,7 @@ visiting
 verify
 vmatrix
 version
+view
 Ny
 Ngl
 Nz
@@ -7875,6 +7941,7 @@ Generative
 GVV
 Greedy
 Generate
+Geometrically
 xcb
 xa
 xX
@@ -8419,6 +8486,11 @@ receive
 remembers
 reality
 runs
+regular
+refined
+reading
+recognising
+respect
 ehO
 ef
 eWmI
@@ -8656,6 +8728,9 @@ expanded
 equate
 enabled
 enable
+expressions
+elusive
+explicitly
 lD
 le
 lgAg
@@ -8878,6 +8953,8 @@ life
 language
 languages
 libraries
+lex
+lexical
 Ho
 Hf
 HdS
@@ -9906,6 +9983,8 @@ blue
 begin
 bank
 been
+bytecode
+behaved
 ED
 EXD
 Es
@@ -10092,6 +10171,7 @@ Edges
 Exponentials
 Enabled
 Easily
+Easier
 äq
 gh
 gCn
@@ -10276,6 +10356,9 @@ guest
 greedy
 general
 gated
+generation
+grad
+greatest
 Üfrpp
 ÜAv
 ÜK
