@@ -227,6 +227,7 @@ Practical
 Pascal
 Propagate
 Partial
+Possibilities
 IHDR
 IDATx
 ID
@@ -440,6 +441,8 @@ Inverted
 Imagine
 Iteratively
 Iterate
+Interpretation
+Interpreted
 yZ
 yC
 yU
@@ -855,6 +858,11 @@ implicitly
 implies
 incorporates
 internet
+intention
+interim
+interspersed
+interpret
+initial
 qi
 qH
 qSr
@@ -1410,6 +1418,8 @@ disguised
 driven
 depended
 developed
+description
+disconnect
 oL
 om
 oV
@@ -1603,6 +1613,7 @@ optimal
 occurring
 occurs
 obviously
+optimising
 RD
 Rpbr
 RJ
@@ -1974,6 +1985,7 @@ noon
 nearest
 numerous
 neglect
+natural
 fg
 fU
 fk
@@ -2209,6 +2221,7 @@ flops
 functional
 flop
 facilitate
+flexible
 hO
 hf
 hA
@@ -2679,6 +2692,9 @@ participate
 proceed
 propagated
 perhaps
+pages
+precise
+portable
 DQ
 DM
 DU
@@ -3259,6 +3275,8 @@ side
 sufficiently
 suffice
 study
+spends
+semi
 TWe
 TBM
 Ti
@@ -3942,6 +3960,8 @@ Combining
 Chaining
 Consequences
 Compact
+Compilation
+Compiled
 cd
 ce
 cNCw
@@ -4317,6 +4337,10 @@ channel
 congestion
 clockwise
 currently
+computers
+compiled
+compile
+completion
 kH
 ka
 kE
@@ -4902,6 +4926,9 @@ town
 transcendental
 tends
 taken
+translates
+translations
+translated
 Bh
 Bda
 Br
@@ -5076,6 +5103,7 @@ Bna
 Buffers
 Binomia
 Binomial
+Bytecode
 ZY
 Zu
 ZzJ
@@ -5646,6 +5674,7 @@ WJv
 WDRRR
 Waiting
 Why
+Whereas
 uC
 uIOs
 uq
@@ -6000,6 +6029,7 @@ Answer
 Adder
 Abstractions
 ATmega
+Analyse
 KN
 KV
 KO
@@ -6727,6 +6757,8 @@ Solutions
 Sometimes
 Synchronous
 Symbols
+Sufficiently
+Spectrum
 aQ
 ag
 aZ
@@ -7018,6 +7050,8 @@ abstractions
 acquisition
 architectures
 albeit
+activity
+analysing
 wE
 wU
 wF
@@ -8384,6 +8418,7 @@ require
 receive
 remembers
 reality
+runs
 ehO
 ef
 eWmI
@@ -8840,6 +8875,9 @@ lookahead
 lets
 loaded
 life
+language
+languages
+libraries
 Ho
 Hf
 HdS
@@ -9867,6 +9905,7 @@ border
 blue
 begin
 bank
+been
 ED
 EXD
 Es
@@ -10052,6 +10091,7 @@ Exactly
 Edges
 Exponentials
 Enabled
+Easily
 äq
 gh
 gCn
