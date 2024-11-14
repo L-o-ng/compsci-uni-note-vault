@@ -45,3 +45,32 @@ It can hence be removed by covering the adjacent prime implicants by a redundant
 ### Examples
 #### Removing a 1
 ![[Static 1 hazard removal.png]]
+## The Dynamic Discipline
+The **Dynamic Discipline** restricts us to using circuits satisfying timing constraints that allow us to combine components.
+>$t_{\text{setup}}$ is the time before the rising edge during which the inputs **must** be stable.
+>$t_{\text{hold}}$ is the time after the rising edge during which the inputs **must** be stable.
+>$t_{\text{ccq}}$ is the time until output starts to change.
+>$t_{\text{pcq}}$ is the time by which the output has stabilised.
+
+![[Dynamic Discipline.png]]
+With these constraints we can think of signals as discrete in time as well as logic.
+### Setting Time
+![[Setting Time under the Dynamic Discipline.png]]
+Rearranging the bottom equation we find that: $$t_{\text{pd}}<T_{\text{c}}-(t_{\text{pcq}}+t_{\text{setup}})$$
+The bracketed expression is called the **sequencing overhead**.
+The clock speed and sequencing overhead are normally fixed, and the designer must work with them.
+Designers must get all elements of [[Circuits and Combinational Logic|Combinational Logic]] to work within the bound on $t_{\text{pd}}$ in order for the circuit to be reliable.
+![[Minimum Delay.png]]
+There is also a **minimum delay** requirement:
++ D2 must hold its value for at least $t_{\text{hold}}$ time after the rising edge.
++ It could change as soon as $t_{\text{ccq}}+t_{\text{cd}}$
++ Designers have a **min-delay constant**: $$t_{\text{ccq}}+t_{\text{cd}}>t_{\text{hold}}\implies t_{\text{cd}} > t_{\text{hold}}-t_{\text{ccq}}$$
++ Often in order to allow direct connection of [[Flip-Flops]], $t_{\text{hold}}<t_{\text{ccq}}$, so the *min-delay constant* isn't technically an issue.
+#### Example
+![[Min-Delay Constant Example.png]]
+![[Min-Delay Constant Example Fixed.png]]
+## Pipelining
+This is a method of increasing the clock frequency.
+![[Pipelining 1.png]]
+![[Pipelining 2.png]]
+![[Pipelining 3.png]]

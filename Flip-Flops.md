@@ -1,5 +1,4 @@
-#notes #homework-needed 
-
+#notes
 ## D Flip-Flops
 In a [[Latches#D Latch|D-Latch]] the output can change **whenever** the clock is high.
 A D flip-flop lets the output change only at the **specific moment** the clock goes high - its **rising edge**.
@@ -14,4 +13,4 @@ An **enabled flip flop** incorporates an additional input (**enable**) to contro
 ![[Enabled flip flop.png]]
 $EN$ can control the input with a multiplexor, or can control the clock. This is called a **gated clock**. However, gated clocks can cause **timing errors and glitches**.
 ## Designing Flip-Flops
-todo!
+![[Flip Flop Design.png]]
