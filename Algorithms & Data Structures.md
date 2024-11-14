@@ -11,6 +11,8 @@
 + [[Hash Tables]]
 + [[Recursion]]
 + [[Backtracking]]
+## Links
++ [[Asymptotics]]
 + 
 
 ## Important
