@@ -229,6 +229,8 @@ Propagate
 Partial
 Possibilities
 Parse
+Produce
+Pipelining
 IHDR
 IDATx
 ID
@@ -445,6 +447,7 @@ Iterate
 Interpretation
 Interpreted
 Intermediate
+Interchange
 yZ
 yC
 yU
@@ -873,6 +876,11 @@ improved
 identical
 incoming
 interchangeably
+inconsistent
+infinitely
+interfaces
+increasing
+invertible
 qi
 qH
 qSr
@@ -1435,6 +1443,7 @@ derivatives
 determine
 directions
 del
+designer
 oL
 om
 oV
@@ -1631,6 +1640,7 @@ obviously
 optimising
 onwards
 operator
+overhead
 RD
 Rpbr
 RJ
@@ -1819,6 +1829,9 @@ Remove
 Recall
 RHS
 Relevant
+Row
+Regularity
+Rearranging
 nR
 nW
 nT
@@ -2005,6 +2018,7 @@ numerous
 neglect
 natural
 nabla
+normally
 fg
 fU
 fk
@@ -2245,6 +2259,7 @@ flattens
 flat
 falls
 feeding
+free
 hO
 hf
 hA
@@ -2455,6 +2470,7 @@ hot
 hazards
 hazard
 honour
+higher
 pY
 pC
 pc
@@ -2726,6 +2742,8 @@ partial
 pronounced
 portions
 passing
+possibilities
+pivot
 DQ
 DM
 DU
@@ -2935,6 +2953,8 @@ Deeper
 Designing
 Derivatives
 Directional
+Dividing
+Designers
 sDK
 sk
 sz
@@ -3322,6 +3342,15 @@ symbol
 strategy
 sorted
 sort
+successive
+smaller
+submodules
+swapped
+satisfying
+starts
+stabilised
+sequencing
+soon
 TWe
 TBM
 Ti
@@ -3527,6 +3556,7 @@ Transcendental
 Token
 Tree
 Tokens
+Three
 JP
 Ju
 JQ
@@ -4013,6 +4043,7 @@ Compiled
 Code
 Complexity
 Comparison
+Conversion
 cd
 ce
 cNCw
@@ -4402,6 +4433,10 @@ conditions
 construction
 caused
 concerns
+constants
+constraints
+connection
+coefficient
 kH
 ka
 kE
@@ -4746,6 +4781,7 @@ LMC
 Little
 Lexical
 Logically
+Locate
 tJ
 tf
 tR
@@ -5001,6 +5037,9 @@ translating
 technicalities
 transit
 task
+transformed
+think
+technically
 Bh
 Bda
 Br
@@ -5176,6 +5215,8 @@ Buffers
 Binomia
 Binomial
 Bytecode
+Bias
+Boolean
 ZY
 Zu
 ZzJ
@@ -5751,6 +5792,8 @@ Waiting
 Why
 Whereas
 Way
+Well
+With
 uC
 uIOs
 uq
@@ -5932,6 +5975,7 @@ undefined
 underlying
 upon
 unstable
+uniformity
 AI
 Az
 Ab
@@ -6108,6 +6152,11 @@ Abstractions
 ATmega
 Analyse
 Analysis
+Additionally
+Algorithm
+Assumed
+Algebraic
+Algebra
 KN
 KV
 KO
@@ -6240,6 +6289,7 @@ KJJBCC
 Kpi
 KMyi
 Kuratowski
+Knowledge
 VU
 VB
 Vt
@@ -6599,6 +6649,8 @@ Manipulating
 Matrix
 Modulus
 Man
+Manipulation
+Modularity
 SQl
 SkBl
 SK
@@ -6841,6 +6893,8 @@ Stream
 Speeds
 Swaps
 Sorting
+Setting
+Systems
 aQ
 ag
 aZ
@@ -7148,6 +7202,9 @@ additions
 arranged
 ascending
 analysis
+augmented
+alter
+arbitrary
 wE
 wU
 wF
@@ -7518,6 +7575,8 @@ verify
 vmatrix
 version
 view
+vice
+versa
 Ny
 Ngl
 Nz
@@ -7686,6 +7745,7 @@ NnZ
 NVJfa
 NbV
 NNNvWI
+Nothing
 Yk
 YZ
 Yoj
@@ -7974,6 +8034,8 @@ GVV
 Greedy
 Generate
 Geometrically
+Gaussian
+Gates
 xcb
 xa
 xX
@@ -8526,6 +8588,14 @@ respect
 rises
 results
 race
+ref
+rref
+reused
+restricts
+reliable
+requirement
+removal
+relevant
 ehO
 ef
 eWmI
@@ -8772,6 +8842,9 @@ expressed
 evaluated
 evaluate
 estimate
+elementary
+echelon
+everywhere
 lD
 le
 lgAg
@@ -8998,6 +9071,7 @@ lex
 lexical
 leads
 loops
+leftmost
 Ho
 Hf
 HdS
@@ -9168,6 +9242,7 @@ Handlers
 Hazards
 Hazard
 Having
+Hierarchy
 FC
 FT
 FP
@@ -9329,6 +9404,7 @@ Factorial
 Flip
 Flops
 Flop
+Form
 jY
 jx
 jRg
@@ -10030,6 +10106,8 @@ bytecode
 behaved
 behaviours
 buffers
+bottom
+bracketed
 ED
 EXD
 Es
@@ -10217,6 +10295,11 @@ Exponentials
 Enabled
 Easily
 Easier
+Echelon
+Extracting
+Elimination
+Except
+Encouraging
 äq
 gh
 gCn
@@ -10406,6 +10489,7 @@ grad
 greatest
 generate
 guarantee
+grouped
 Üfrpp
 ÜAv
 ÜK
