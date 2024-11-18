@@ -20,7 +20,7 @@ In a circuit, the **critical path** is the path determining the *propagation del
 	In other words, it is the longest path in the circuit: $$t_{pd}=2t_{pd\textunderscore AND} +t_{pd \textunderscore OR}$$
 The **short path** is the path determining the *contamination delay* of the circuit.
 	It is the shortest path in the circuit: $$t_{cd}=t_{cd \textunderscore AND}$$
-## Gate Delay
+## Glitches
 As well as slowing down the operation of logic circuits, gate delay can also create **hazards** or **glitches** at the output. These manifest as unwanted brief logic level changes at the output in response to changing inputs.
 They are classified into 2 types:
 + **Static** - The output undergoes a momentary transition when one input changes when it was supposed to remain unchanged.

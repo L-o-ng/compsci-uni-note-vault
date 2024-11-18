@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e3fca7a1930c9a85",
+        "id": "8afa2a9bca61dcf3",
         "type": "tabs",
         "children": [
           {
-            "id": "9dfd028f429d9a1b",
+            "id": "3cec01ca09ad8fda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Systems Benchtest Reference Page.md",
+                "file": "Elements of Real Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Computer Systems Benchtest Reference Page"
+              "title": "Elements of Real Analysis"
+            }
+          },
+          {
+            "id": "70d53006d25c489c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Limits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Limits"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Karnaugh Maps.md",
+                "file": "Computer Systems Benchtest Reference Page.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Karnaugh Maps"
+              "title": "Outgoing links from Computer Systems Benchtest Reference Page"
             }
           },
           {
@@ -147,12 +162,12 @@
               "title": "Backlinks for Computer Systems Benchtest Reference Page"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,44 +179,44 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9dfd028f429d9a1b",
+  "active": "70d53006d25c489c",
   "lastOpenFiles": [
-    "Matrix Form of a Linear System.md",
-    "Functionally Complete Sets.md",
+    "Elements of Real Analysis.md",
+    "Polar Representation.md",
+    "Arg().md",
+    "Solving Complex Equations.md",
+    "Consequences of Euler's Formula.md",
+    "Complex Numbers.md",
+    "Functions of a Complex Variable.md",
+    "Transcendental Equations.md",
+    "Further Trigonometric Identities.md",
+    "Hyperbolic Functions.md",
+    "Methods for Computing Limits.md",
+    "Pictures/Limits method 3 proof 2.png",
+    "Pictures/Limits method 3 proof.png",
+    "Pinching Theorem.md",
+    "Limits.md",
+    "Single Maths A.md",
+    "Limits of functions.md",
+    "Logic Levels.md",
     "Computer Systems Benchtest Reference Page.md",
     "Timing.md",
-    "Adder.md",
-    "Systems of Linear Equations.md",
-    "Augmented Matrices and Elementary Row Operations.md",
     "Boolean Algebra.md",
-    "Sum of Products vs Product of Sums.md",
+    "Circuits and Combinational Logic.md",
+    "Decoder.md",
+    "Logic Gates.md",
+    "Karnaugh Maps.md",
+    "Tristates.md",
+    "MUX.md",
+    "Little Minion Computer.md",
     "Pictures/NAND Functional Set.png",
     "Pictures/NOR Functional Set.png",
-    "Logic Gates.md",
-    "Computer Systems.md",
-    "Karnaugh Maps.md",
-    "Generation and Propagation in a CLA.md",
-    "Digital Electronics.md",
-    "Number Systems.md",
-    "Digital Design Principles.md",
-    "Circuits and Combinational Logic.md",
-    "Sequential Circuits.md",
-    "Floating Point Representation.md",
-    "Digital Abstraction in Chips.md",
-    "Logic Levels.md",
-    "Gates.md",
-    "CPU.md",
-    "Transistors.md",
-    "Foundations.md",
-    "Linear Algebra.md",
     "Pictures/Pipelining 3.png",
     "Pictures/Pipelining 2.png",
     "Pictures/Pipelining 1.png",
     "Pictures/Min-Delay Constant Example Fixed.png",
     "Pictures/Min-Delay Constant Example.png",
     "Pictures/Minimum Delay.png",
-    "Pictures/Setting Time under the Dynamic Discipline.png",
-    "Pictures/Dynamic Discipline.png",
     "Untitled.canvas",
     "Input",
     "Pictures",

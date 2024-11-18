@@ -231,6 +231,8 @@ Possibilities
 Parse
 Produce
 Pipelining
+PRINT
+Precise
 IHDR
 IDATx
 ID
@@ -448,6 +450,7 @@ Interpretation
 Interpreted
 Intermediate
 Interchange
+INPUT
 yZ
 yC
 yU
@@ -881,6 +884,8 @@ infinitely
 interfaces
 increasing
 invertible
+interestingly
+infinities
 qi
 qH
 qSr
@@ -1444,6 +1449,8 @@ determine
 directions
 del
 designer
+described
+definite
 oL
 om
 oV
@@ -1641,6 +1648,8 @@ optimising
 onwards
 operator
 overhead
+operates
+operated
 RD
 Rpbr
 RJ
@@ -1832,6 +1841,8 @@ Relevant
 Row
 Regularity
 Rearranging
+READ
+Roughly
 nR
 nW
 nT
@@ -2260,6 +2271,7 @@ flat
 falls
 feeding
 free
+finds
 hO
 hf
 hA
@@ -2471,6 +2483,7 @@ hazards
 hazard
 honour
 higher
+happens
 pY
 pC
 pc
@@ -2744,6 +2757,10 @@ portions
 passing
 possibilities
 pivot
+paper
+pass
+phases
+performs
 DQ
 DM
 DU
@@ -2955,6 +2972,8 @@ Derivatives
 Directional
 Dividing
 Designers
+Digit
+Depth
 sDK
 sk
 sz
@@ -3351,6 +3370,14 @@ starts
 stabilised
 sequencing
 soon
+slip
+subtract
+slips
+split
+specified
+sin
+specially
+speaking
 TWe
 TBM
 Ti
@@ -3557,6 +3584,7 @@ Token
 Tree
 Tokens
 Three
+Trays
 JP
 Ju
 JQ
@@ -4044,6 +4072,9 @@ Code
 Complexity
 Comparison
 Conversion
+Calculator
+Counter
+Cycle
 cd
 ce
 cNCw
@@ -4437,6 +4468,11 @@ constants
 constraints
 connection
 coefficient
+cycle
+calculator
+copy
+cancel
+considering
 kH
 ka
 kE
@@ -4782,6 +4818,9 @@ Little
 Lexical
 Logically
 Locate
+Likewise
+LOAD
+Large
 tJ
 tf
 tR
@@ -5040,6 +5079,8 @@ task
 transformed
 think
 technically
+tray
+third
 Bh
 Bda
 Br
@@ -5217,6 +5258,7 @@ Binomial
 Bytecode
 Bias
 Boolean
+BREAK
 ZY
 Zu
 ZzJ
@@ -5628,6 +5670,10 @@ message
 multivariate
 magnitude
 multiplications
+mailboxes
+mailbox
+minion
+mathematically
 WD
 WWx
 Wy
@@ -5794,6 +5840,7 @@ Whereas
 Way
 Well
 With
+Working
 uC
 uIOs
 uq
@@ -6157,6 +6204,8 @@ Algorithm
 Assumed
 Algebraic
 Algebra
+ADD
+Arguement
 KN
 KV
 KO
@@ -6651,6 +6700,8 @@ Modulus
 Man
 Manipulation
 Modularity
+Minion
+Mailboxes
 SQl
 SkBl
 SK
@@ -6895,6 +6946,8 @@ Swaps
 Sorting
 Setting
 Systems
+STORE
+SUBTRACT
 aQ
 ag
 aZ
@@ -7205,6 +7258,9 @@ analysis
 augmented
 alter
 arbitrary
+act
+acts
+approaches
 wE
 wU
 wF
@@ -7746,6 +7802,7 @@ NVJfa
 NbV
 NNNvWI
 Nothing
+NEG
 Yk
 YZ
 Yoj
@@ -8036,6 +8093,7 @@ Generate
 Geometrically
 Gaussian
 Gates
+Glitches
 xcb
 xa
 xX
@@ -8596,6 +8654,9 @@ reliable
 requirement
 removal
 relevant
+resets
+reads
+raise
 ehO
 ef
 eWmI
@@ -8845,6 +8906,7 @@ estimate
 elementary
 echelon
 everywhere
+enter
 lD
 le
 lgAg
@@ -9072,6 +9134,8 @@ lexical
 leads
 loops
 leftmost
+little
+load
 Ho
 Hf
 HdS
@@ -9405,6 +9469,7 @@ Flip
 Flops
 Flop
 Form
+Features
 jY
 jx
 jRg
@@ -9724,6 +9789,9 @@ Ordering
 Optimally
 Optimisation
 Overview
+Opcodes
+OUTPUT
+OUT
 QiG
 QFJ
 QUR
@@ -10108,6 +10176,9 @@ behaviours
 buffers
 bottom
 bracketed
+buttons
+boxed
+boxing
 ED
 EXD
 Es
@@ -10300,6 +10371,8 @@ Extracting
 Elimination
 Except
 Encouraging
+Essential
+Extra
 äq
 gh
 gCn

@@ -1,5 +1,7 @@
 {
   "vimMode": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Pictures"
+  "attachmentFolderPath": "Pictures",
+  "useTab": true,
+  "tabSize": 4
 }
