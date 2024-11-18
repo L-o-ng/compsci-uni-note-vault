@@ -5,4 +5,5 @@
 + [[MfCS Week 4]]
 + [[MfCS Week 5]]
 + [[MfCS Week 6]]
++ [[MfCS Week 7]]
 + 

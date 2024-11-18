@@ -1,0 +1,4 @@
+#coursework 
+
+1) $$\large \array{& \\ \text{Q: }& \\ & \text{Consider that }f(x,y,z)=\sin (3x+y)=2x^3y^2z + 3yz^2-z^3\cos y \\ &\text{Determine }\nabla f, \text{and so the rate of increase of }f\text{ at } \\ &\begin{pmatrix}\pi \\ -\pi \\ 2\end{pmatrix}\text{ in the direction } \begin{pmatrix} 1 \\ -2 \\ 2\end{pmatrix} \\ \text{A: } &\\ &\begin{align} f_{x}&=3\cos(3x+y)-6x^2y^2z \\ f_{y}&=\cos(3x+y)-4x^3yz+3z^2+z^3\sin y \\ f_{z}&=-2x^3y^2+6yz-3z^2\cos y \end{align} \\ &\implies \nabla f=\begin{pmatrix} f_{x} \\ f_{y} \\ f_{z} \end{pmatrix}\cdot \begin{pmatrix}\frac{1}{3} & -\frac{2}{3} & \frac{2}{3} \end{pmatrix} \\ \text{With: } \\ &\eqalign{f_{x}&=3-12\pi^4 \\ f_{y}&=13+8\pi^4 \\ f_{z}&=-2\pi^5-12p\pi+12 \\ } \\ &\eqalign{\text{So }\nabla f&=\frac{1}{3}(3-12\pi^4)-\frac{2}{3}(13+8\pi^4)+\frac{2}{3}(-2\pi^5-12\pi+12) \\ &=1-4\pi^4-\frac{26}{3}-\frac{16}{3}\pi^4-\frac{4}{3}\pi^5-8\pi+8 \\ &=\underline{-\frac{4}{3}\pi^5-\frac{28}{3}\pi^4-8\pi+\frac{1}{3}}}}$$
+2) 

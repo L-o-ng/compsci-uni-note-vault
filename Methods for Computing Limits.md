@@ -1,5 +1,7 @@
 #notes 
 
+For method 5, see [[Calculus of Limits Theorem]]
+For method 6, see [[Changing Variables in Limits]]
 ## Method 1
 If **nothing special happens**, then the limit is just the function value.
 ie: 
@@ -66,3 +68,17 @@ $$\text{This is true for both }0<x< \frac{\pi}{2} \text{ and }-\frac{\pi}{2}<x<0
 Now use the pinching theorem, as $x \to 0, \cos x \to 1$
 $$\therefore \frac{\sin x}{x} \to 1 \text{ as }x \to 0$$
 ![[Limits method 3 proof 2.png]]
+
+```functionplot
+---
+title: 
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+f(x)=sin(x) / x
+g(x) = 1/x
+h(x) = -1/x
+```

@@ -233,6 +233,7 @@ Produce
 Pipelining
 PRINT
 Precise
+Practice
 IHDR
 IDATx
 ID
@@ -451,6 +452,7 @@ Interpreted
 Intermediate
 Interchange
 INPUT
+Indeed
 yZ
 yC
 yU
@@ -1451,6 +1453,7 @@ del
 designer
 described
 definite
+dimensional
 oL
 om
 oV
@@ -1843,6 +1846,7 @@ Regularity
 Rearranging
 READ
 Roughly
+Rule
 nR
 nW
 nT
@@ -2272,6 +2276,8 @@ falls
 feeding
 free
 finds
+fine
+floating
 hO
 hf
 hA
@@ -2761,6 +2767,7 @@ paper
 pass
 phases
 performs
+pinching
 DQ
 DM
 DU
@@ -4075,6 +4082,9 @@ Conversion
 Calculator
 Counter
 Cycle
+Continuous
+Calculus
+Chain
 cd
 ce
 cNCw
@@ -5081,6 +5091,7 @@ think
 technically
 tray
 third
+tan
 Bh
 Bda
 Br
@@ -5674,6 +5685,7 @@ mailboxes
 mailbox
 minion
 mathematically
+mostly
 WD
 WWx
 Wy
@@ -6023,6 +6035,7 @@ underlying
 upon
 unstable
 uniformity
+underbrace
 AI
 Az
 Ab
@@ -7261,6 +7274,7 @@ arbitrary
 act
 acts
 approaches
+amounts
 wE
 wU
 wF
@@ -7633,6 +7647,8 @@ version
 view
 vice
 versa
+vary
+varying
 Ny
 Ngl
 Nz
@@ -8907,6 +8923,7 @@ elementary
 echelon
 everywhere
 enter
+equals
 lD
 le
 lgAg
@@ -9307,6 +9324,7 @@ Hazards
 Hazard
 Having
 Hierarchy
+Harder
 FC
 FT
 FP
