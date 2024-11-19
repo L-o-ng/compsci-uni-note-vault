@@ -26,7 +26,7 @@ $$\overline{e^z}=e^x(\cos y+i\sin y)=e^x(\cos y-i\sin y)=\overline{e^xe^{iy}}=e^
 ### Trigonometric Definitions
 Recall the 2 main [[Further Trigonometric Identities]].
 Using these, we define for any complex $z$:
-$$\begin{array} \\
+$$\LARGE\begin{array} \\
 \cos z=\frac{e^{iz}+e^{-iz}}{2} \\
 \sin z=\frac{e^{iz}-e^{-iz}}{2i} \\
 \cosh z=\frac{e^z+e^{-z}}{2} \\

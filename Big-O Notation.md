@@ -41,9 +41,13 @@ To establish that $f(x)$ is $O(g(x))$ we only need one pair: we can be 'generous
 | $O(n!)$                              | Factorial   |
 
 ## Examples
-### Example 1
+### Key Examples
+todo! polynomials and insertion sort
+### Other Examples
+#### Example 1
 Let $f(x)=x^2+2x+1$. Then $f(x)=O(x^2)$
 #### Proof
 >For $x \ge 1$, we have $1 \le x \le x^2$. That gives: $$f(x)=x^2 + 2x + 1 \le x^2 + 2x^2+x^2=4x$$for $x \ge 1$. Because the above inequality holds for every positive $x \ge 1$, using $k=1, C=4$ as witnesses, we get: $$f(x) \le C\cdot x^2$$for every $x \ge k$.
-### Example 2
+#### Example 2
 todo!
+

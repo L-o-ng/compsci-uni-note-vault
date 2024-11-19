@@ -234,6 +234,7 @@ Pipelining
 PRINT
 Precise
 Practice
+Polynomial
 IHDR
 IDATx
 ID
@@ -888,6 +889,10 @@ increasing
 invertible
 interestingly
 infinities
+inflection
+introduced
+inequality
+inverses
 qi
 qH
 qSr
@@ -1653,6 +1658,8 @@ operator
 overhead
 operates
 operated
+orders
+observe
 RD
 Rpbr
 RJ
@@ -2490,6 +2497,7 @@ hazard
 honour
 higher
 happens
+hardly
 pY
 pC
 pc
@@ -2768,6 +2776,8 @@ pass
 phases
 performs
 pinching
+proven
+proving
 DQ
 DM
 DU
@@ -3385,6 +3395,9 @@ specified
 sin
 specially
 speaking
+stationary
+seen
+sizes
 TWe
 TBM
 Ti
@@ -4085,6 +4098,9 @@ Cycle
 Continuous
 Calculus
 Chain
+Complexities
+Constant
+Cubic
 cd
 ce
 cNCw
@@ -4483,6 +4499,8 @@ calculator
 copy
 cancel
 considering
+curvature
+complexities
 kH
 ka
 kE
@@ -4831,6 +4849,7 @@ Locate
 Likewise
 LOAD
 Large
+Logarithmic
 tJ
 tf
 tR
@@ -5092,6 +5111,8 @@ technically
 tray
 third
 tan
+tangent
+trivially
 Bh
 Bda
 Br
@@ -5270,6 +5291,8 @@ Bytecode
 Bias
 Boolean
 BREAK
+Big
+Because
 ZY
 Zu
 ZzJ
@@ -5686,6 +5709,7 @@ mailbox
 minion
 mathematically
 mostly
+members
 WD
 WWx
 Wy
@@ -5853,6 +5877,7 @@ Way
 Well
 With
 Working
+Witnesses
 uC
 uIOs
 uq
@@ -6036,6 +6061,7 @@ upon
 unstable
 uniformity
 underbrace
+univariate
 AI
 Az
 Ab
@@ -6715,6 +6741,8 @@ Manipulation
 Modularity
 Minion
 Mailboxes
+Multivariate
+Meaning
 SQl
 SkBl
 SK
@@ -7275,6 +7303,9 @@ act
 acts
 approaches
 amounts
+abuse
+allowed
+arctan
 wE
 wU
 wF
@@ -7468,6 +7499,9 @@ whether
 whenever
 widely
 worst
+worse
+witnesses
+witness
 vh
 vU
 vx
@@ -8403,6 +8437,8 @@ Usage
 Uni
 Update
 Unlike
+Univariate
+Usually
 rn
 rM
 rI
@@ -8924,6 +8960,10 @@ echelon
 everywhere
 enter
 equals
+extrema
+extremum
+equatable
+establish
 lD
 le
 lgAg
@@ -9153,6 +9193,9 @@ loops
 leftmost
 little
 load
+logarithms
+logarithm
+laws
 Ho
 Hf
 HdS
@@ -9325,6 +9368,7 @@ Hazard
 Having
 Hierarchy
 Harder
+Hessian
 FC
 FT
 FP
@@ -9488,6 +9532,7 @@ Flops
 Flop
 Form
 Features
+Furthermore
 jY
 jx
 jRg
@@ -9978,6 +10023,7 @@ Qeee
 Qq
 QWs
 Qm
+Quadratic
 ba
 bM
 bhz
@@ -10197,6 +10243,8 @@ bracketed
 buttons
 boxed
 boxing
+big
+bounded
 ED
 EXD
 Es
@@ -10391,6 +10439,9 @@ Except
 Encouraging
 Essential
 Extra
+Equals
+Evaluate
+Express
 äq
 gh
 gCn
@@ -10581,6 +10632,9 @@ greatest
 generate
 guarantee
 grouped
+gather
+growth
+generous
 Üfrpp
 ÜAv
 ÜK

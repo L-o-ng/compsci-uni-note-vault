@@ -1,4 +1,4 @@
-#notes 
+#notes #homework-needed 
 
 See [[Polar Representation]] for an alternative way of expressing a complex number.
 
@@ -34,3 +34,4 @@ Therefore, ==draw a picture to see what theta really is!==
 1) $arg(\overline{z})=-\arg(z)$
 2) $\arg(-z)=\pi+\arg(z)$
 3) $\arg(rz),r \in \mathbb{R}=\array{\arg(z)&:r>0\\\pi+\arg(z) &:r<0\\undefined &: r=0}$
+todo! check if arctan
