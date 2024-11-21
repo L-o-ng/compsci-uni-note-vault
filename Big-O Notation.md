@@ -40,6 +40,25 @@ To establish that $f(x)$ is $O(g(x))$ we only need one pair: we can be 'generous
 | $O(c^n)\text{ for }c>1$              | Exponential |
 | $O(n!)$                              | Factorial   |
 
+```functionplot
+---
+title: Time Complexities
+xLabel: 
+yLabel: 
+bounds: [0,20,0,40]
+disableZoom: false
+grid: true
+---
+a=1
+b=log(x)
+c = x
+d = x * log(x)
+e = x*2
+f = x^3
+g = 2^x
+h=x!
+```
+
 ## Examples
 ### Key Examples
 todo! polynomials and insertion sort
@@ -50,4 +69,8 @@ Let $f(x)=x^2+2x+1$. Then $f(x)=O(x^2)$
 >For $x \ge 1$, we have $1 \le x \le x^2$. That gives: $$f(x)=x^2 + 2x + 1 \le x^2 + 2x^2+x^2=4x$$for $x \ge 1$. Because the above inequality holds for every positive $x \ge 1$, using $k=1, C=4$ as witnesses, we get: $$f(x) \le C\cdot x^2$$for every $x \ge k$.
 #### Example 2
 todo!
+## Big-O vs Exact Time Complexity
+Say we have time complexity $5n^2+3n$, and we say it is $O(n^2)$, we:
++ Lose information about the exact number of basic operations for a given $n$ value.
++ Gain a simple way of expressing that the time complexity grows with the square of the input size.
 

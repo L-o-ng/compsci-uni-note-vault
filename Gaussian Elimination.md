@@ -1,8 +1,12 @@
-#notes #homework-needed 
+#notes 
 
 The goal of Gaussian Elimination is to transform a matrix to a [[Augmented Matrices and Elementary Row Operations#Row Echelon Form|ref]] by using row operations.
 ## Algorithm
-1) Locate the pivot column: the leftmost column that contains a non-zero: 
-$$\left(\begin{array}\\
-todo
-\end{array}\right)$$todo!
+1) Locate the pivot column: the leftmost column that contains a non-zero: $$\left(\begin{array}\\0 & 0 & -2 & 0 & 7 & 12 \\2 & 4 & -10 & 6 & 12 & 28 \\2 & 4 & -5 & 6 & -5 & -1\end{array}\right)$$
+   Here, it is the first column.
+2) Choose a pivot - a non-zero in the pivot column and interchange the first row with another, if necessary, to move the pivot to the top in this column:$$\begin{pmatrix}2 & 4 & -10 & 6 & 12 & 28 \\0 & 0 & -2 & 0 & 7 & 12 \\2 & 4 & -5 & 6 & -5 & -1\end{pmatrix}$$
+   Here, the middle row was interchanged with the top.
+3) If $a$ is the pivot, multiply the first row by $\frac{1}{a}$ to get a leading 1: $$\begin{pmatrix}1 & 2 & -5 & 3 & 6 & 14 \\0 & 0 & -2 & 0 & 7 & 12 \\2 & 4 & -5 & 6 & -5 & -1\end{pmatrix}$$
+4) Add suitable multiples of the first row to all the rows below so that all numbers below the leading 1 are 0s: $$\begin{pmatrix}1 & 2 & -5 & 3 & 6 & 14 \\0 & 0 & -2 & 0 & 7 & 12 \\0 & 0 & 5 & 0 & -17 & -29\end{pmatrix}$$
+5) Now separate the top row from the rest and repeat steps 1-5 for the matrix below the line: $$\array{\left(\array{1 & 2 & -5 & 3 & 6 & 14 \\ \hline 0 & 0 & -2 & 0 & 7 & 12\\ 0 & 0 & 5 & 0 & -17 & -29}\right) \\ \\\left(\array{1 & 2 & -5 & 3 & 6 & 14 \\ \hline 0 & 0 & 1 & 0 & -\frac{7}{2} & -6\\ 0 & 0 & 5 & 0 & -17 & -29}\right) \\ \\\left(\array{1 & 2 & -5 & 3 & 6 & 14 \\ 0 & 0 & 1 & 0 & -\frac{7}{2} & -6\\ \hline 0 & 0 & 0 & 0 & \frac{1}{2} & 1}\right) \\ \\\left(\array{1 & 2 & -5 & 3 & 6 & 14 \\ 0 & 0 & 1 & 0 & -\frac{7}{2} & -6\\ \hline 0 & 0 & 0 & 0 & 1 & 2}\right) \\ \\}$$The last matrix is in **ref**, and is the output of Gaussian Elimination.
+6) To find the **rref**, we need one step on top of Gaussian Elimination. Beginning from the last non-zero row and working upwards, add suitable multiples of each row to create 0s above the leading 1s: $$\begin{align}\left(\array{1 & 2 & -5 & 3 & 6 & 14 \\0 & 0 & 1 & 0 & 0 & 1 \\0 & 0 & 0 & 0 & 1 & 2}\right) &\quad\text{Added } \frac{7}{2}\times 3^\text{rd}\text{ row to}2^\text{nd}\text{ row.} \\ \\\left(\array{1 & 2 & -5 & 3 & 0 & 2 \\0 & 0 & 1 & 0 & 0 & 1 \\0 & 0 & 0 & 0 & 1 & 2}\right) &\quad\text{Added }-6\times 3^\text{rd}\text{ row to }1^\text{st}\text{ row.} \\ \\\left(\array{1 & 2 & 0 & 3 & 0 & 7 \\0 & 0 & 1 & 0 & 0 & 1 \\0 & 0 & 0 & 0 & 1 & 2}\right) &\quad\text{Added }5\times 2^\text{nd}\text{ row to }1^\text{st}\text{ row.}\end{align}$$

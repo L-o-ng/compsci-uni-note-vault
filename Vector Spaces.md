@@ -20,7 +20,6 @@ $F \times V \to V$ is known as scalar multiplication.
 + $1\mathbf{v}=\mathbf{v}$
 + $a(\mathbf{u}+\mathbf{v})=a\mathbf{u}+a\mathbf{v}$
 + $(a+b)\mathbf{v}=a\mathbf{v}+b\mathbf{v}$
-+ [[Mathematics for Computer Science#Important|The Textbook]] Only covers vectors over $\mathbb{R}$.
 ## Examples
 + $\mathbb{R}^3 = \mathbb{R}\times \mathbb{R}\times \mathbb{R}$ over $\mathbb{R}$.
 	+ Vectors in $\mathbb{R}^3$, scalars in $\mathbb{R}$.

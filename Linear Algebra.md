@@ -9,4 +9,12 @@
 + [[Basis Images]]
 + [[Systems of Linear Equations]]
 + [[Gaussian Elimination]]
-+ 
++ [[Homogenous Linear Systems]]
++ [[Inverse Matrices]]
++ [[Matrix Dimensional Space and Rank]]
++ [[Kernel of a Linear Map]]
+
+$$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}
+\epsilon^\prime[T|_{A}]\epsilon & * \\
+\hline 0 & _{\overline{B}^\prime}[\overline{T}]_{\overline{B}}
+\end{array}\right]$$
