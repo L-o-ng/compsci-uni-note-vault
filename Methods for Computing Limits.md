@@ -2,6 +2,7 @@
 
 For method 5, see [[Calculus of Limits Theorem]]
 For method 6, see [[Changing Variables in Limits]]
+For a final method, see [[L'Hopital's Rule]]
 ## Method 1
 If **nothing special happens**, then the limit is just the function value.
 ie: 

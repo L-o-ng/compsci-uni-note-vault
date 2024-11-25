@@ -24,6 +24,7 @@ For $g:\mathbb{N}\to \mathbb{N}$:$$\begin{matrix}
 \le &: O(g) &= \{ f:\mathbb{N}\to \mathbb{N}|\exists C,k>0:f(n)\le C\cdot g(n)\forall n \ge k \} \\
 \ge &: \Omega(g) &=\{ f:\mathbb{N}\to \mathbb{N}|\exists C,k > 0:f(n) \ge C\cdot g(n)\forall n \ge k \} \\
 = &: \Theta(g) &= O(g)\cap \Omega(g) \\
-< &: o(g) &= todo! \\
-> &: \omega(g) &= todo!
+< &: o(g) &= \{ f:\mathbb{N} \to \mathbb{N}|\forall C>0\exists k>0:C\cdot f(n)<g(n)\forall n \ge k \} \\
+> &: \omega(g) &= \{ f:\mathbb{N}\to \mathbb{N}|\forall C>0\exists k>0:C\cdot g(n) < f(n)\forall n \ge k \}
 \end{matrix}$$
+

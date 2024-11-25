@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "83118a01c3528f9b",
+        "id": "77ac84ddffd7e225",
         "type": "tabs",
         "children": [
           {
-            "id": "e811ef284c3303fb",
+            "id": "2beb8cea6e96da90",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MfCS Week 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MfCS Week 8"
+            }
+          }
+        ]
+      },
+      {
+        "id": "92da89bef0db451b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7c9ee85b8947a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Determinants.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Determinants"
             }
           }
         ]
@@ -48,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homew",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -90,12 +115,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asymptotics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Asymptotics"
+              "title": "Outgoing links"
             }
           },
           {
@@ -141,8 +165,7 @@
               "title": "Backlinks"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,34 +182,37 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e811ef284c3303fb",
+  "active": "2beb8cea6e96da90",
   "lastOpenFiles": [
+    "Determinants.md",
+    "MfCS Week 8.md",
+    "Mathematics for Computer Science Coursework.md",
+    "Programming an LMC.md",
+    "Little Minion Computer.md",
+    "Integration in Theory.md",
+    "Pictures/Integration as a Limit Explanation.png",
+    "Pictures/Integration Definition 1.png",
+    "Integration.md",
+    "Single Maths A.md",
+    "Methods for Computing Limits.md",
+    "L'Hopital's Rule.md",
+    "Differentiation from First Principles.md",
+    "Pictures/First-Principles1.gif",
+    "Arg().md",
+    "Solving Complex Equations.md",
+    "Negative Binary Numbers.md",
+    "CThPanel Week 3.md",
+    "CThPanel Week 1.md",
+    "Big-O Notation.md",
+    "Asymptotics.md",
+    "Hessian Matrices.md",
+    "Calculus.md",
+    "Smoothness and Higher Order Derivatives.md",
+    "2nd Derivative Test for Extrema.md",
+    "Gaussian Elimination.md",
     "Augmented Matrices and Elementary Row Operations.md",
     "Linear Algebra.md",
     "Mathematics for Computer Science.md",
-    "Year 1 Computer Science.md",
-    "Gaussian Elimination.md",
-    "Asymptotics.md",
-    "Hessian Matrices.md",
-    "Homogenous Linear Systems.md",
-    "Vector Spaces.md",
-    "Arrays.md",
-    "Matrix Form of a Linear System.md",
-    "Inverse Matrices.md",
-    "Kernel of a Linear Map.md",
-    "Matrix Dimensional Space and Rank.md",
-    "Same Order Growth Rates.md",
-    "Big-Omega Notation.md",
-    "Little-omega Notation.md",
-    "Sublinear Functions.md",
-    "Little-o Notation.md",
-    "Big-O Notation.md",
-    "Exponentials and Logarithms.md",
-    "Advanced Adders.md",
-    "Sum and Product Rules for Big-O Notation.md",
-    "CThPanel Week 3.md",
-    "Computational Thinking Panel Coursework.md",
-    "AaDS Week 7.md",
     "Pictures/Bivariate Extrema requiring further checking 3.png",
     "Pictures/Bivariate Extrema further checking 2.png",
     "Pictures/Bivariate Extrema about requiring further checks.png",
@@ -194,9 +220,6 @@
     "Pictures/Bivariate Extrema Example 1.png",
     "Pictures/Quadratic Approximation Example 3.png",
     "Pictures/Quadratic Approximation Example 2.png",
-    "Pictures/Quadratic Approximation Example 1.png",
-    "Pictures/Animated_illustration_of_inflection_point.gif",
-    "Pictures/Limits method 3 proof 2.png",
     "Untitled.canvas",
     "Input",
     "Pictures",

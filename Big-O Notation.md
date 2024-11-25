@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 It is difficult to compute the **exact** number of operations.
 Usually, we don't need it. It is sufficient to **estimate** this number, or **give bounds**.
@@ -61,14 +61,38 @@ h=x!
 
 ## Examples
 ### Key Examples
-todo! polynomials and insertion sort
+#### Polynomial Evaluation
+The polynomial $$f(x)=a_{n}x^n+a_{n-1}x^{n-1}+\dots+a_{2}x^2+a_{1}x+a_{0}$$at a fixed value $x_{0}$ can be evaluated as follows:
+```
+power <- 1
+y <- a_0
+for i <- 1 to n do
+	power <- power * x_0
+	y <- y + a_i * power
+endfor
+```
+So, $$y=a_{n}x_{0}^n+a_{n-1}x_{0}^{n-1}+\dots+a_{2}x^2+a_{1}x_{0}+a_{0}$$If we use this procedure, then we will need $2n$ multiplications and $n$ additions to evaluate a polynomial of degree $n$ at $x=x_{0}$.
+The algorithm is $O(n)$.
+#### Insertion Sort
+The real numbers $a_{1},\dots,a_{n}\ge 2$ can be *sorted*, or arranged in **ascending order**, by the insertion sort algorithm:
+```
+for j <- 2 to n do
+	x <- a_j
+	i <- j - 1
+	while i > 0 and a_i > x do
+		a_i+1 <- a_i
+		i <- i - 1
+	endwhile
+	a_i+1 <- x
+endfor
+```
+The **worst case** number of comparisons $a_{i}>x$ is: $$1+2+\dots+(n-1)=\sum_{i=1}^{n-1}i=\frac{n(n-1)}{2}$$If $a_{1} \le a_{2} \le\dots \le a_{n}$ then the number of comparisons $a_{i}>x$ is $n-1$.
+The algorithm is $O(n^2)$.
 ### Other Examples
 #### Example 1
 Let $f(x)=x^2+2x+1$. Then $f(x)=O(x^2)$
 #### Proof
 >For $x \ge 1$, we have $1 \le x \le x^2$. That gives: $$f(x)=x^2 + 2x + 1 \le x^2 + 2x^2+x^2=4x$$for $x \ge 1$. Because the above inequality holds for every positive $x \ge 1$, using $k=1, C=4$ as witnesses, we get: $$f(x) \le C\cdot x^2$$for every $x \ge k$.
-#### Example 2
-todo!
 ## Big-O vs Exact Time Complexity
 Say we have time complexity $5n^2+3n$, and we say it is $O(n^2)$, we:
 + Lose information about the exact number of basic operations for a given $n$ value.

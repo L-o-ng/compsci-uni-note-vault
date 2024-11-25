@@ -82,7 +82,7 @@ $$\begin{align}
 ## Determinant of $\mathbf{n\times n}$
 Expanding out indefinitely to matrices whose columns are _permutations_ of the identity
 Based on this we can use the _Laplace expansion_ 
-$$det(C) = \\sum_{j=1}^n (-1)^{i+j}c_{ij}M_{ij}$$
+$$det(C) = \sum_{j=1}^n (-1)^{i+j}c_{ij}M_{ij}$$
 Where $M_{ij}$ is the minor: the determinant of the matrix $C$ with row $i$ and column $j$ removed
 This works for any $i$: usually people use $i=1$
 
