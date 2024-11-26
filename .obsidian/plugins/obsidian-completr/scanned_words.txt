@@ -7135,6 +7135,7 @@ Summary
 Sort
 SUB
 STO
+Swapping
 aQ
 ag
 aZ
