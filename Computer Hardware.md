@@ -3,7 +3,7 @@
 ## Components
 + [[CPU]]
 + [[Von-Neumann Architecture]]
-+ [[Harvard Architechure]]
++ [[Harvard Architecture]]
 + [[Memory]]
 + [[Computation in a Simple Processor]]
 + [[Multi-Core Computing]]
