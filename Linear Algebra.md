@@ -13,6 +13,8 @@
 + [[Inverse Matrices]]
 + [[Matrix Dimensional Space and Rank]]
 + [[Kernel of a Linear Map]]
++ [[Geometry]]
++ 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}
 \epsilon^\prime[T|_{A}]\epsilon & * \\

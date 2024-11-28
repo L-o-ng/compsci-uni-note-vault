@@ -239,6 +239,10 @@ Partner
 Patient
 Platform
 Please
+Partitioning
+Partition
+Positive
+Provable
 IHDR
 IDATx
 ID
@@ -464,6 +468,8 @@ ICF
 Integral
 InMail
 Importantly
+Idea
+Inequality
 yZ
 yC
 yU
@@ -911,6 +917,8 @@ interchanged
 inconclusive
 integral
 implemented
+invariant
+iteration
 qi
 qH
 qSr
@@ -1057,6 +1065,8 @@ qoT
 quadratic
 quality
 questions
+quick
+quadrivium
 Xz
 XQ
 XX
@@ -1483,6 +1493,7 @@ disregarding
 downwards
 directing
 directly
+desirable
 oL
 om
 oV
@@ -1689,6 +1700,7 @@ oriented
 orthogonal
 opposite
 overflows
+originally
 RD
 Rpbr
 RJ
@@ -1886,6 +1898,8 @@ Rule
 Robustness
 Responsible
 Register
+Recursive
+Recursively
 nR
 nW
 nT
@@ -2075,6 +2089,9 @@ nabla
 normally
 nerdy
 natively
+necessarily
+norms
+norm
 fg
 fU
 fk
@@ -2326,6 +2343,7 @@ firm
 faceless
 final
 flow
+four
 hO
 hf
 hA
@@ -2832,6 +2850,12 @@ performing
 propagates
 propagate
 parabolic
+partitions
+pairwise
+picks
+partitioning
+prior
+parallel
 DQ
 DM
 DU
@@ -3051,6 +3075,8 @@ Durham
 Development
 Didn
 DAT
+Depending
+Definite
 sDK
 sk
 sz
@@ -3474,6 +3500,16 @@ signs
 simple
 support
 scaled
+somewhat
+sub
+sequences
+shoves
+strictly
+stability
+surfaces
+solids
+subjects
+shortened
 TWe
 TBM
 Ti
@@ -3683,6 +3719,7 @@ Three
 Trays
 Telegraph
 Twos
+Traditional
 JP
 Ju
 JQ
@@ -4193,6 +4230,9 @@ Commutes
 Choose
 Complement
 Calculation
+Concatenate
+Combined
+Constructed
 cd
 ce
 cNCw
@@ -4597,6 +4637,8 @@ centric
 coding
 chained
 clearly
+chosen
+cent
 kH
 ka
 kE
@@ -5222,6 +5264,8 @@ totals
 tiny
 temporarily
 transferred
+three
+treated
 Bh
 Bda
 Br
@@ -5831,6 +5875,7 @@ measures
 middle
 multiples
 modified
+merge
 WD
 WWx
 Wy
@@ -6187,6 +6232,7 @@ underbrace
 univariate
 undoes
 upwards
+untouched
 AI
 Az
 Ab
@@ -7136,6 +7182,7 @@ Sort
 SUB
 STO
 Swapping
+Split
 aQ
 ag
 aZ
@@ -7458,6 +7505,8 @@ achieved
 advertising
 accredited
 analysed
+anything
+among
 wE
 wU
 wF
@@ -7657,6 +7706,7 @@ witness
 worldwide
 worries
 workspace
+withing
 vh
 vU
 vx
@@ -8012,6 +8062,8 @@ Nothing
 NEG
 Nadia
 NHS
+Norm
+Norms
 Yk
 YZ
 Yoj
@@ -8307,6 +8359,7 @@ Graham
 Google
 GTM
 Gain
+Geometry
 xcb
 xa
 xX
@@ -8876,6 +8929,11 @@ raise
 reader
 reasonable
 repeat
+recursive
+regards
+recursing
+rearrange
+relations
 ehO
 ef
 eWmI
@@ -9370,6 +9428,7 @@ logarithms
 logarithm
 laws
 learn
+later
 Ho
 Hf
 HdS
@@ -9550,6 +9609,7 @@ Halt
 Handling
 Harvard
 Holding
+Homogeneity
 FC
 FT
 FP
@@ -10215,6 +10275,7 @@ Qq
 QWs
 Qm
 Quadratic
+Quick
 ba
 bM
 bhz
@@ -10441,6 +10502,7 @@ business
 bridging
 bowl
 bundles
+bigger
 ED
 EXD
 Es
@@ -10644,6 +10706,8 @@ European
 EMEA
 Exact
 Explanation
+Etymology
+Euclidian
 äq
 gh
 gCn
@@ -10843,6 +10907,9 @@ gap
 generates
 gets
 grows
+guaranteed
+guys
+generalization
 Üfrpp
 ÜAv
 ÜK
