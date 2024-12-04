@@ -55,4 +55,17 @@ See [[Inverse Hyperbolic Functions]].
 + $$\tanh=\frac{\sinh}{\cosh}$$
 + $$\operatorname{cosech}=\frac{1}{\sinh}$$
 + $$\operatorname{sech}=\frac{1}{\cosh}$$
+## $\tanh$
+
+```functionplot
+---
+title: tanh
+xLabel: 
+yLabel: 
+bounds: [-10,10,-10,10]
+disableZoom: false
+grid: true
+---
+tanh(x) = ((E^x-E^-x)/2)/((E^x+E^-x)/2)
+```
 

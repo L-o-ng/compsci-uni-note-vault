@@ -470,6 +470,9 @@ InMail
 Importantly
 Idea
 Inequality
+Integrals
+Integrate
+Indefinite
 yZ
 yC
 yU
@@ -919,6 +922,8 @@ integral
 implemented
 invariant
 iteration
+intuitively
+improper
 qi
 qH
 qSr
@@ -2092,6 +2097,7 @@ natively
 necessarily
 norms
 norm
+noted
 fg
 fU
 fk
@@ -2344,6 +2350,7 @@ faceless
 final
 flow
 four
+factorial
 hO
 hf
 hA
@@ -2856,6 +2863,8 @@ picks
 partitioning
 prior
 parallel
+problematic
+pixel
 DQ
 DM
 DU
@@ -3077,6 +3086,7 @@ Didn
 DAT
 Depending
 Definite
+Derivative
 sDK
 sk
 sz
@@ -3510,6 +3520,7 @@ surfaces
 solids
 subjects
 shortened
+sensor
 TWe
 TBM
 Ti
@@ -3869,6 +3880,7 @@ JUPP
 Junior
 Just
 Jonathan
+Jacobian
 zG
 zd
 zj
@@ -4639,6 +4651,9 @@ chained
 clearly
 chosen
 cent
+continuously
+considered
+camera
 kH
 ka
 kE
@@ -5266,6 +5281,7 @@ temporarily
 transferred
 three
 treated
+transpose
 Bh
 Bda
 Br
@@ -5876,6 +5892,7 @@ middle
 multiples
 modified
 merge
+misleading
 WD
 WWx
 Wy
@@ -6423,6 +6440,7 @@ Agency
 Airbus
 Alternate
 ACCs
+Approximations
 KN
 KV
 KO
@@ -7183,6 +7201,7 @@ SUB
 STO
 Swapping
 Split
+Steps
 aQ
 ag
 aZ
@@ -7507,6 +7526,8 @@ accredited
 analysed
 anything
 among
+anywhere
+adjust
 wE
 wU
 wF
@@ -7707,6 +7728,7 @@ worldwide
 worries
 workspace
 withing
+wrong
 vh
 vU
 vx
@@ -8360,6 +8382,7 @@ Google
 GTM
 Gain
 Geometry
+Guess
 xcb
 xa
 xX
@@ -8656,6 +8679,7 @@ Unlike
 Univariate
 Usually
 University
+Useful
 rn
 rM
 rI
@@ -8934,6 +8958,8 @@ regards
 recursing
 rearrange
 relations
+reals
+rigorous
 ehO
 ef
 eWmI
@@ -9195,6 +9221,7 @@ engagement
 elimination
 eigenvectors
 eigenvalues
+extension
 lD
 le
 lgAg
@@ -9429,6 +9456,7 @@ logarithm
 laws
 learn
 later
+limits
 Ho
 Hf
 HdS
@@ -9610,6 +9638,7 @@ Handling
 Harvard
 Holding
 Homogeneity
+Hopital
 FC
 FT
 FP
@@ -9779,6 +9808,7 @@ FAPI
 FACP
 Final
 Formalities
+Factorise
 jY
 jx
 jRg
@@ -10106,6 +10136,7 @@ Odds
 Officer
 Omega
 Original
+Occasionally
 QiG
 QFJ
 QUR
@@ -10503,6 +10534,7 @@ bridging
 bowl
 bundles
 bigger
+brightness
 ED
 EXD
 Es

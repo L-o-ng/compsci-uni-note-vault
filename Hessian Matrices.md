@@ -11,4 +11,4 @@ f_{xx} & f_{yx} \\
 f_{xy} & f_{yy}
 \end{bmatrix}$$
 This contains information about curvature in all directions.
-Also, $\mathbf{H}_{f}$ is the [[Jacobian]] of $\nabla f$.
+Also, $\mathbf{H}_{f}$ is the [[Jacobian Matrix|Jacobian]] of $\nabla f$.

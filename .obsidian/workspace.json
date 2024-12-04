@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7c31d0cf69d258d2",
+        "id": "4fcdedc3db6b7bb7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1cb15c2a18f52b5",
+            "id": "674c0d66a5dd894f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Integration by Substitution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integration by Substitution"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,35 +162,35 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d1cb15c2a18f52b5",
+  "active": "674c0d66a5dd894f",
   "lastOpenFiles": [
-    "Generalised Norms.md",
-    "Orthonormality.md",
-    "Geometry.md",
-    "Non-Euclidean Geometry.md",
-    "Dot Product.md",
-    "Other Norms.md",
-    "P-Norms.md",
-    "Euclidean Norm.md",
-    "Manhattan Norm.md",
-    "Unit Vectors.md",
-    "Linear Algebra.md",
-    "Sorting Algorithms.md",
-    "Quick Sort.md",
-    "Insertion Sort.md",
-    "Pictures/Quick Sort Partitioning.png",
-    "Merge Sort.md",
-    "Bubble Sort.md",
-    "Selection Sort.md",
-    "Algorithms & Data Structures.md",
-    "Fundamental Theorem of Calculus.md",
     "Integration.md",
+    "Integrating Rational Functions.md",
+    "Inverse Hyperbolic Functions.md",
+    "Vector Valued Functions.md",
+    "Jacobian Matrix.md",
+    "Calculus.md",
+    "Hessian Matrices.md",
+    "Smoothness and Higher Order Derivatives.md",
+    "2nd Derivative Test for Extrema.md",
+    "Hyperbolic Functions.md",
+    "Euler-Gamma Function.md",
+    "Generalised Norms.md",
+    "Integration by Substitution.md",
+    "Exponentials and Logarithms.md",
+    "L'Hopital's Rule.md",
+    "Differentiation.md",
+    "Basic Derivatives.md",
+    "Elements of Real Analysis.md",
+    "Differentiation from First Principles.md",
+    "Continuity and Differentiability.md",
+    "Methods for Computing Limits.md",
+    "Infinity in Limits.md",
+    "Calculus of Limits Theorem.md",
     "Methods for Finding Anti-Derivatives.md",
-    "Integration in Practise.md",
-    "Integration in Theory.md",
-    "Anti-Derivative.md",
-    "Properties of the Integral.md",
-    "MIPS.md",
+    "Careers.md",
+    "Bivariate Extrema Examples.md",
+    "Pictures/Quick Sort Partitioning.png",
     "Pictures/Harvard Architecture.png",
     "Pictures/Von Neumann Architecture.png",
     "Pictures/Big O functions to order.png",

@@ -12,4 +12,7 @@
 + [[Quadratic Approximations]]
 + [[Smoothness and Higher Order Derivatives]]
 + [[2nd Derivative Test for Extrema]]
++ [[Automatic Differentiation]]
++ [[Vector Valued Functions]]
++ [[Jacobian Matrix]]
 + 
