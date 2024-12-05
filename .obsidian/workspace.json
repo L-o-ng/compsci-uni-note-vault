@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4fcdedc3db6b7bb7",
+        "id": "a7803f3c4380ec0d",
         "type": "tabs",
         "children": [
           {
-            "id": "674c0d66a5dd894f",
+            "id": "17ed3f2418da395c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integration by Substitution.md",
+                "file": "Rank Nullity Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration by Substitution"
+              "title": "Rank Nullity Theorem"
             }
           }
         ]
@@ -162,8 +162,19 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "674c0d66a5dd894f",
+  "active": "17ed3f2418da395c",
   "lastOpenFiles": [
+    "Linear Algebra.md",
+    "Rank Nullity Theorem.md",
+    "Inverse Matrices.md",
+    "Kernel of a Linear Map.md",
+    "Geometry.md",
+    "Orthonormality.md",
+    "Dot Product.md",
+    "Linear Maps.md",
+    "CthPanel Week 5.md",
+    "Computational Thinking Panel Coursework.md",
+    "Integration by Substitution.md",
     "Integration.md",
     "Integrating Rational Functions.md",
     "Inverse Hyperbolic Functions.md",
@@ -176,20 +187,9 @@
     "Hyperbolic Functions.md",
     "Euler-Gamma Function.md",
     "Generalised Norms.md",
-    "Integration by Substitution.md",
     "Exponentials and Logarithms.md",
     "L'Hopital's Rule.md",
     "Differentiation.md",
-    "Basic Derivatives.md",
-    "Elements of Real Analysis.md",
-    "Differentiation from First Principles.md",
-    "Continuity and Differentiability.md",
-    "Methods for Computing Limits.md",
-    "Infinity in Limits.md",
-    "Calculus of Limits Theorem.md",
-    "Methods for Finding Anti-Derivatives.md",
-    "Careers.md",
-    "Bivariate Extrema Examples.md",
     "Pictures/Quick Sort Partitioning.png",
     "Pictures/Harvard Architecture.png",
     "Pictures/Von Neumann Architecture.png",

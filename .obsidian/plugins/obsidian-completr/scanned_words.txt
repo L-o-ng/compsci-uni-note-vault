@@ -924,6 +924,7 @@ invariant
 iteration
 intuitively
 improper
+inner
 qi
 qH
 qSr
@@ -1706,6 +1707,7 @@ orthogonal
 opposite
 overflows
 originally
+orthonormal
 RD
 Rpbr
 RJ
@@ -2865,6 +2867,7 @@ prior
 parallel
 problematic
 pixel
+projection
 DQ
 DM
 DU
@@ -3087,6 +3090,7 @@ DAT
 Depending
 Definite
 Derivative
+Dot
 sDK
 sk
 sz
@@ -4245,6 +4249,7 @@ Calculation
 Concatenate
 Combined
 Constructed
+Calculating
 cd
 ce
 cNCw
@@ -6945,6 +6950,7 @@ Matt
 McNeill
 Mnemonic
 Most
+Matrices
 SQl
 SkBl
 SK

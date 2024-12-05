@@ -14,6 +14,7 @@
 + [[Matrix Dimensional Space and Rank]]
 + [[Kernel of a Linear Map]]
 + [[Geometry]]
++ [[Rank Nullity Theorem]]
 + 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}
