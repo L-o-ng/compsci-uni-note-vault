@@ -243,6 +243,7 @@ Partitioning
 Partition
 Positive
 Provable
+Parameters
 IHDR
 IDATx
 ID
@@ -925,6 +926,7 @@ iteration
 intuitively
 improper
 inner
+interoperability
 qi
 qH
 qSr
@@ -1907,6 +1909,9 @@ Responsible
 Register
 Recursive
 Recursively
+Reducing
+REST
+Results
 nR
 nW
 nT
@@ -2100,6 +2105,7 @@ necessarily
 norms
 norm
 noted
+nullity
 fg
 fU
 fk
@@ -2353,6 +2359,7 @@ final
 flow
 four
 factorial
+fitting
 hO
 hf
 hA
@@ -2868,6 +2875,7 @@ parallel
 problematic
 pixel
 projection
+published
 DQ
 DM
 DU
@@ -3091,6 +3099,7 @@ Depending
 Definite
 Derivative
 Dot
+Dimensionality
 sDK
 sk
 sz
@@ -5898,6 +5907,7 @@ multiples
 modified
 merge
 misleading
+media
 WD
 WWx
 Wy
@@ -7208,6 +7218,7 @@ STO
 Swapping
 Split
 Steps
+Speeding
 aQ
 ag
 aZ
@@ -7534,6 +7545,7 @@ anything
 among
 anywhere
 adjust
+architectural
 wE
 wU
 wF
@@ -9228,6 +9240,7 @@ elimination
 eigenvectors
 eigenvalues
 extension
+eliminating
 lD
 le
 lgAg
