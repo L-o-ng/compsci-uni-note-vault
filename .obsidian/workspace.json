@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSy Week 9.md",
+                "file": "Programming in AVR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CSy Week 9"
+              "title": "Programming in AVR"
             }
           }
         ]
@@ -164,9 +164,20 @@
   },
   "active": "aa6fc974985419ff",
   "lastOpenFiles": [
+    "Pictures/AVR Programming C++ Shell Example.png",
+    "Programming in AVR.md",
+    "AVR.md",
+    "ATmega328P.md",
+    "Pictures/ATmega328P IO ports.png",
+    "Pictures/ATmega328P flash.png",
+    "Pictures/ATmega238P SRAM.png",
+    "Pictures/ATmega328P status register example.png",
+    "Pictures/ATmega328P Registers example 2.png",
+    "Pictures/ATmega328P Register example.png",
+    "MSI Chip 74x283.md",
+    "CSy Week 9.md",
     "Pictures/MIPS Register Allocation Chart.png",
     "Computer Systems Coursework.md",
-    "CSy Week 9.md",
     "REST.md",
     "Programming (Black).md",
     "Rank Nullity Theorem.md",
@@ -186,20 +197,9 @@
     "Vector Valued Functions.md",
     "Jacobian Matrix.md",
     "Calculus.md",
-    "Hessian Matrices.md",
-    "Smoothness and Higher Order Derivatives.md",
-    "2nd Derivative Test for Extrema.md",
-    "Hyperbolic Functions.md",
     "Pictures/Quick Sort Partitioning.png",
     "Pictures/Harvard Architecture.png",
     "Pictures/Von Neumann Architecture.png",
-    "Pictures/Big O functions to order.png",
-    "Pictures/Integration as a Limit Explanation.png",
-    "Pictures/Integration Definition 1.png",
-    "Pictures/First-Principles1.gif",
-    "Pictures/Bivariate Extrema requiring further checking 3.png",
-    "Pictures/Bivariate Extrema further checking 2.png",
-    "Pictures/Bivariate Extrema about requiring further checks.png",
     "Untitled.canvas",
     "Input",
     "Pictures",
