@@ -3,6 +3,9 @@
 For any $x \in \mathbb{R}$ we define:
 + Hyperbolic Sin: $$\sinh x=\frac{e^x-e^{-x}}{2}$$
 + Hyperbolic Cos: $$\cosh x=\frac{e^x+e^{-x}}{2}$$
++ Hyperbolic Tan: $$\tanh=\frac{e^x-e^{-x}}{e^{ x }+e^{ -x }}$$
++ Hyperbolic Sec: $$\operatorname{sech}(x)=\frac{2}{e^{ x }+e^{ -x }}$$
++ Hyperbolic Cosec: $$\operatorname{cosech}(x)=\frac{2}{e^{ x }-e^{ -x }}$$
 ## Plots
 ### sinh
 ```functionplot

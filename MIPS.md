@@ -1,12 +1,26 @@
 #notes 
 
+See also: [[Programming for MIPS]]
+
 MIPS stands for **Microprocessor without Interlocked Pipeline Stages**. It is used in silicon graphics, Nintendo consoles, Cisco, etc.
+## Design
+### Principles
++ Simplicity favours regularity.
++ Make the common case fast.
++ Smaller is faster.
++ Good design demands good compromises.
+### Architecture
+MIPS is based on a 32-bit processor: 
++ It has 32-bit words.
++ There are about 110 instructions in its instruction set.
++ There are 32 general purpose registers.
+![[MIPS Register Allocation Chart.png]]
 ## Example
 In this example, it is assumed that:
 + 4Gb memory has $2^{32}$ memory locations - so the address bus is 32 bits wide.
 + words are 4 bytes long - so the data bus is 32 bits wide.
 + When we request the contents of a memory address $m$, the contents of addresses $m, m+1, m+2,m+3$ are returned.
-+ There are 32-bit registers named `$zero`, which always holds 0, `$s1,$s2,...,$s7`.
++ There is a 32-bit register named `$zero`, which always holds 0, and general purpose registers `$s1,$s2,...,$s7`.
 ### Assembly
 `lw $s1, ($s2)` : `$s1` takes the value of the memory location held in `$s2`.
 `addi $s1, $s2, x` : `$s1` takes the value of `$s2` + `x`.

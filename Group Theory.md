@@ -1,0 +1,4 @@
+#linker 
+## Notes
++ [[Symmetries]]
++ 

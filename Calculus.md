@@ -15,4 +15,8 @@
 + [[Automatic Differentiation]]
 + [[Vector Valued Functions]]
 + [[Jacobian Matrix]]
++ [[Euler's Number]]
++ See also: [[Trigonometry]]
++ See also: [[Hyperbolic Functions]] : Used in [[Neural Network Activation Functions]]
++ [[Derivatives of Hyperbolic Functions]] : Used in [[Neural Network Activation Functions]]
 + 

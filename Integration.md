@@ -9,6 +9,7 @@
 + [[Euler-Gamma Function]]
 + [[Integration by Substitution]]
 + [[Integrating Rational Functions]]
++ [[Integrating Hard Trigonometric Functions]]
 + 
 ## Useful Integrals
 $$\eqalign{

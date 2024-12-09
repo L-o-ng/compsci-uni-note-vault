@@ -1,9 +1,11 @@
 #module 
 ## Related
 + [[Single Maths A]]
-## Notes
+## Links
 + [[Calculus]]
 + [[Linear Algebra]]
+## Notes
++ [[Complexity Classes]]
 + 
 ## Important
 **Bench test** - end of term 1, worth 34%

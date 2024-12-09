@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7803f3c4380ec0d",
+        "id": "bd9334e36487969c",
         "type": "tabs",
         "children": [
           {
-            "id": "aa6fc974985419ff",
+            "id": "837136626cf591f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming in AVR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Programming in AVR"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +69,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,44 +157,44 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "aa6fc974985419ff",
+  "active": "837136626cf591f7",
   "lastOpenFiles": [
-    "Pictures/AVR Programming C++ Shell Example.png",
-    "Programming in AVR.md",
-    "AVR.md",
-    "ATmega328P.md",
-    "Pictures/ATmega328P IO ports.png",
-    "Pictures/ATmega328P flash.png",
-    "Pictures/ATmega238P SRAM.png",
-    "Pictures/ATmega328P status register example.png",
-    "Pictures/ATmega328P Registers example 2.png",
-    "Pictures/ATmega328P Register example.png",
-    "MSI Chip 74x283.md",
-    "CSy Week 9.md",
-    "Pictures/MIPS Register Allocation Chart.png",
-    "Computer Systems Coursework.md",
-    "REST.md",
-    "Programming (Black).md",
-    "Rank Nullity Theorem.md",
-    "Linear Algebra.md",
-    "Inverse Matrices.md",
-    "Kernel of a Linear Map.md",
-    "Geometry.md",
-    "Orthonormality.md",
-    "Dot Product.md",
-    "Linear Maps.md",
-    "CthPanel Week 5.md",
-    "Computational Thinking Panel Coursework.md",
-    "Integration by Substitution.md",
-    "Integration.md",
-    "Integrating Rational Functions.md",
-    "Inverse Hyperbolic Functions.md",
-    "Vector Valued Functions.md",
-    "Jacobian Matrix.md",
+    "Neural Network Activation Functions.md",
     "Calculus.md",
-    "Pictures/Quick Sort Partitioning.png",
-    "Pictures/Harvard Architecture.png",
-    "Pictures/Von Neumann Architecture.png",
+    "Mathematics for Computer Science.md",
+    "Complexity Classes.md",
+    "Pictures/Complexity Classes.png",
+    "Hyperbolic Functions.md",
+    "Derivatives of Hyperbolic Functions.md",
+    "Euler's Number.md",
+    "MfCS Week 10.md",
+    "Augmented Matrices and Elementary Row Operations.md",
+    "Gaussian Elimination.md",
+    "Matrix Dimensional Space and Rank.md",
+    "MfCS Week 8.md",
+    "Inverse Matrices.md",
+    "Linear Algebra.md",
+    "Rank Nullity Theorem.md",
+    "Euler-Gamma Function.md",
+    "Integration.md",
+    "Mathematics for Computer Science Coursework.md",
+    "Integrating Rational Functions.md",
+    "Integrating Hard Trigonometric Functions.md",
+    "Symmetries.md",
+    "Pictures/Group Theory Equilateral Triangle Symmetries.png",
+    "Group Theory.md",
+    "Single Maths A.md",
+    "Master Theorem.md",
+    "Recurrences.md",
+    "Induction.md",
+    "Pictures/MIPS Register Allocation Chart.png",
+    "Pictures/MSI Chip 74x283.png",
+    "Pictures/Pasted image 20241113201722.png",
+    "Pictures/Pasted image 20241108165411.png",
+    "Pictures/Pasted image 20241029133945.png",
+    "Pictures/Pasted image 20241023233403.png",
+    "Pictures/Automatic Differentiation Reverse Mode Explanation.png",
+    "Pictures/Automatic Differentiation Reverse Mode.png",
     "Untitled.canvas",
     "Input",
     "Pictures",
