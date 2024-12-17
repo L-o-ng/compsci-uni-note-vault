@@ -5,7 +5,6 @@
 + [[Von-Neumann Architecture]]
 + [[MIPS]]
 + [[ATmega328P]]
-+ [[AVR]]
 + [[Programming in AVR]]
 + [[CISC and RISC]]
 + [[Pipelining]]

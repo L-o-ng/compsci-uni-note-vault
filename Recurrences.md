@@ -14,4 +14,6 @@ d & \text{if }n \leq c\text{, for constants }c,d > 0 \\
 ## Notes
 + [[Induction]] 
 + [[Master Theorem]]
++ [[Analysing QuickSort]]
++ [[Randomised Quicksort]]
 + 
