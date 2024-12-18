@@ -300,6 +300,8 @@ PdP
 PDJD
 Prx
 Pds
+Process
+PageRank
 IHDR
 IDATx
 ID
@@ -1124,6 +1126,7 @@ igE
 iUJ
 iKX
 indirect
+implying
 qi
 qH
 qSr
@@ -1310,6 +1313,7 @@ qLb
 qPI
 qLx
 qGC
+quicksort
 Xz
 XQ
 XX
@@ -1831,6 +1835,7 @@ dBb
 dpw
 derived
 derive
+days
 oL
 om
 oV
@@ -2077,6 +2082,8 @@ oBBBKKKSSS
 oZD
 oHaI
 ops
+overall
+outcomes
 RD
 Rpbr
 RJ
@@ -2331,6 +2338,10 @@ RKfJ
 RPEh
 RISC
 RISCs
+Recursion
+Randomisation
+Randomised
+RQS
 nR
 nW
 nT
@@ -2865,6 +2876,7 @@ fkoc
 fhlP
 fPuw
 flipping
+forecast
 hO
 hf
 hA
@@ -3130,6 +3142,7 @@ hmb
 hgVF
 hQbR
 hij
+hope
 pY
 pC
 pc
@@ -3480,6 +3493,9 @@ pCe
 pvi
 pbo
 parallelogram
+partition
+probability
+probabilities
 DQ
 DM
 DU
@@ -4257,6 +4273,15 @@ slowed
 shear
 squish
 shape
+splits
+spawns
+somewhere
+sides
+shuffled
+surfer
+steady
+sparse
+songs
 TWe
 TBM
 Ti
@@ -4513,6 +4538,7 @@ TDQ
 TpCj
 TDm
 TTA
+Taking
 JP
 Ju
 JQ
@@ -5623,6 +5649,8 @@ cHf
 cuu
 cnOC
 ckgk
+candidates
+chord
 kH
 ka
 kE
@@ -6061,6 +6089,7 @@ LpD
 LqL
 LwmpEk
 LPAE
+LARGE
 tJ
 tf
 tR
@@ -6383,6 +6412,9 @@ tttzzz
 tge
 taB
 translate
+tomorrow
+today
+transitions
 Bh
 Bda
 Br
@@ -7145,6 +7177,9 @@ mhD
 mhr
 modes
 micro
+mix
+median
+musical
 WD
 WWx
 Wy
@@ -7346,6 +7381,7 @@ WNx
 WRqU
 WWnXXuXX
 Whm
+Weather
 uC
 uIOs
 uq
@@ -7564,6 +7600,7 @@ uDd
 uUwu
 uQb
 unsigned
+unbalanced
 AI
 Az
 Ab
@@ -8440,6 +8477,7 @@ MLX
 Mvu
 Mhc
 MQsY
+Markov
 SQl
 SkBl
 SK
@@ -8746,6 +8784,7 @@ SVP
 SrcF
 SxA
 SkV
+SMALL
 aQ
 ag
 aZ
@@ -9128,6 +9167,7 @@ ahfhYd
 aEdw
 aGh
 aBU
+accurate
 wE
 wU
 wF
@@ -9382,6 +9422,7 @@ wzG
 wHz
 wSqp
 wIX
+weather
 vh
 vU
 vx
@@ -10935,6 +10976,11 @@ rKBw
 rBBBKKKSSS
 rtP
 reducing
+ratio
+ratios
+randomisation
+reasonably
+randomly
 ehO
 ef
 eWmI
@@ -11236,6 +11282,9 @@ emx
 eZa
 essentially
 enabling
+extremely
+eigenvector
+eigenvalue
 lD
 le
 lgAg
@@ -12153,6 +12202,7 @@ jiDVE
 jGd
 jYH
 jyH
+jumps
 Ow
 Osg
 OguH
@@ -12871,6 +12921,8 @@ bQYb
 bIxc
 biased
 bias
+balanced
+branches
 ED
 EXD
 Es
@@ -13124,6 +13176,7 @@ EHA
 Ewt
 Eph
 EhN
+Eigenvectors
 äq
 gh
 gCn
@@ -13371,6 +13424,7 @@ gqH
 gVU
 gII
 gJx
+guess
 Üfrpp
 ÜAv
 ÜK

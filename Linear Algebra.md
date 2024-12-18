@@ -15,6 +15,9 @@
 + [[Kernel of a Linear Map]]
 + [[Geometry]]
 + [[Rank Nullity Theorem]]
++ [[PageRank]]
++ [[Markov Chains and Processes]]
++ [[Eigenvectors and Eigenvalues]]
 + 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}

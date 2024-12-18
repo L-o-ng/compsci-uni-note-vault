@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f0467dd04876b6",
+        "id": "3fac73fcacb1d3c6",
         "type": "tabs",
         "children": [
           {
-            "id": "3f0b788eee8e7868",
+            "id": "6c5c6b8c4e585a42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Randomised Quicksort.md",
+                "file": "Linear Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Randomised Quicksort"
+              "title": "Linear Algebra"
             }
           }
         ]
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,14 +163,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "3f0b788eee8e7868",
+  "active": "6c5c6b8c4e585a42",
   "lastOpenFiles": [
+    "Markov Chains and Processes.md",
+    "Linear Algebra.md",
+    "Eigenvectors and Eigenvalues.md",
+    "PageRank.md",
+    "Pipelining.md",
+    "Pictures/Superscalar Processing.png",
+    "Pictures/Pipelining.png",
     "Randomised Quicksort.md",
-    "Analysing QuickSort.md",
+    "Induction.md",
     "Recurrences.md",
+    "Quick Sort.md",
+    "Analysing QuickSort.md",
     "Master Theorem.md",
     "Sum and Product Rules for Big-O Notation.md",
-    "Induction.md",
     "Negative Binary Numbers.md",
     "Asymptotics.md",
     "Same Order Growth Rates.md",
@@ -184,12 +193,6 @@
     "Projection.md",
     "Shearing.md",
     "Gaussian Elimination.md",
-    "Euler-Gamma Function.md",
-    "Complex Numbers.md",
-    "Functions of a Complex Variable.md",
-    "Single Maths A.md",
-    "Polynomial Division.md",
-    "Elements of Real Analysis.md",
     "Pictures/Animated_illustration_of_inflection_point.gif",
     "Pictures/AND Gate.png",
     "Pictures/5 colour crown graph.png",
@@ -198,8 +201,6 @@
     "Pictures/3D function heatmap.png",
     "Pictures/3-8 decoder.png",
     "Pictures/1 bit decoder.png",
-    "Pictures/2 bit adder.png",
-    "Pictures/Automatic Differentiation Step 1.png",
     "Untitled.canvas",
     "Input",
     "Pictures",
