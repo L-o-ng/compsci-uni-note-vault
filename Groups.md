@@ -10,7 +10,7 @@ $\star$ is an abstract operation, just like $f$ or $x$ are abstract functions an
 ## Examples
 + The real numbers with the + operation.
 + The integers with the + operation.
-+ **Symmetries**.
++ [[Symmetries]].
 Anything we know about groups in general we know about all these groups.
 ==For example, identity is unique==
 ### Proof that identity in groups is unique
@@ -18,7 +18,6 @@ Identity is unique.
 Consider $e_1 \star e_2=e_2\text{ because }e_2\text{ is identity.}$
 $=> e_1\star e_2=e_1$
 So, $e_1=e_1\star e_2=e_2$.
-
 ## Finite Groups
 It is common in CS to study finite sets like bits.
 In general we can study $Z_n$ modulo (clock) arithmetic.
