@@ -143,3 +143,15 @@ Associative
 \upphi
 \Upphi
 \uppsi
+implement
+implemented
+implementing
+implementation
+reasonable
+\subset
+\Subset
+\subseteq
+\substack{#}
+\subseteqq
+\subsetneq
+typical

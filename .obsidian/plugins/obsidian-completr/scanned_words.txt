@@ -302,6 +302,10 @@ Prx
 Pds
 Process
 PageRank
+Property
+Prize
+Possible
+Popular
 IHDR
 IDATx
 ID
@@ -580,6 +584,9 @@ IPA
 Ifr
 IXN
 ImD
+Isn
+Inefficient
+Intel
 yZ
 yC
 yU
@@ -757,6 +764,7 @@ yCA
 yNt
 yhw
 ynP
+yet
 iv
 ic
 iXl
@@ -1127,6 +1135,16 @@ iUJ
 iKX
 indirect
 implying
+interest
+impossible
+iterates
+intend
+incompletely
+inspire
+individuals
+individual
+involved
+incrementally
 qi
 qH
 qSr
@@ -1314,6 +1332,7 @@ qPI
 qLx
 qGC
 quicksort
+quicker
 Xz
 XQ
 XX
@@ -1837,6 +1856,10 @@ derived
 derive
 days
 discussed
+dealt
+dominates
+dominant
+deterministic
 oL
 om
 oV
@@ -2085,6 +2108,9 @@ oHaI
 ops
 overall
 outcomes
+outer
+ought
+objections
 RD
 Rpbr
 RJ
@@ -2343,6 +2369,8 @@ Recursion
 Randomisation
 Randomised
 RQS
+Reasons
+Relevance
 nR
 nW
 nT
@@ -2571,6 +2599,8 @@ nIU
 nvl
 nEUL
 noting
+never
+nets
 fg
 fU
 fk
@@ -2879,6 +2909,11 @@ fhlP
 fPuw
 flipping
 forecast
+favourable
+force
+fittest
+fitness
+fitter
 hO
 hf
 hA
@@ -3147,6 +3182,8 @@ hij
 hope
 happen
 homomorphism
+hidden
+heuristic
 pY
 pC
 pc
@@ -3500,6 +3537,11 @@ parallelogram
 partition
 probability
 probabilities
+purposefully
+poly
+population
+populations
+pheromone
 DQ
 DM
 DU
@@ -3780,6 +3822,8 @@ DHW
 DPBTn
 DDX
 Dihedral
+Deciding
+Deploys
 sDK
 sk
 sz
@@ -4288,6 +4332,15 @@ steady
 sparse
 songs
 symmetries
+strongly
+scenario
+sorting
+suppresses
+stated
+stringent
+solvable
+survival
+stochastic
 TWe
 TBM
 Ti
@@ -4545,6 +4598,9 @@ TpCj
 TDm
 TTA
 Taking
+Throughout
+TSP
+Transform
 JP
 Ju
 JQ
@@ -5199,6 +5255,10 @@ CISC
 Comparatively
 CISCs
 CISs
+Constrictions
+Check
+Checkable
+Colony
 cd
 ce
 cNCw
@@ -5659,6 +5719,10 @@ candidates
 chord
 compose
 commute
+caters
+checkable
+correlates
+crossover
 kH
 ka
 kE
@@ -6419,6 +6483,11 @@ translate
 tomorrow
 today
 transitions
+terminates
+transmitted
+tractable
+thread
+tours
 Bh
 Bda
 Br
@@ -7184,6 +7253,8 @@ micro
 mix
 median
 musical
+mean
+mutation
 WD
 WWx
 Wy
@@ -7386,6 +7457,7 @@ WRqU
 WWnXXuXX
 Whm
 Weather
+Witness
 uC
 uIOs
 uq
@@ -7605,6 +7677,7 @@ uUwu
 uQb
 unsigned
 unbalanced
+unless
 AI
 Az
 Ab
@@ -7838,6 +7911,12 @@ AtH
 AGi
 Adp
 AtC
+Assumption
+Asymptotic
+Answers
+Approaches
+Ant
+ACO
 KN
 KV
 KO
@@ -8482,6 +8561,7 @@ Mhc
 MQsY
 Markov
 Modulo
+Millennium
 SQl
 SkBl
 SK
@@ -8790,6 +8870,8 @@ SxA
 SkV
 SMALL
 Symmetries
+Surely
+Such
 aQ
 ag
 aZ
@@ -9174,6 +9256,15 @@ aGh
 aBU
 accurate
 associative
+arise
+algorithmic
+acceptance
+accepting
+ascertain
+agents
+artificial
+ants
+attract
 wE
 wU
 wF
@@ -9429,6 +9520,7 @@ wHz
 wSqp
 wIX
 weather
+weighted
 vh
 vU
 vx
@@ -9651,6 +9743,7 @@ vbe
 vCCCKKKSSS
 vET
 variety
+verifies
 Ny
 Ngl
 Nz
@@ -9878,6 +9971,7 @@ NpB
 NfqP
 Nowadays
 Newer
+Nature
 Yk
 YZ
 Yoj
@@ -10261,6 +10355,8 @@ GuA
 Guessing
 Group
 Give
+Generating
+Genetic
 xcb
 xa
 xX
@@ -10649,6 +10745,7 @@ Ubl
 Uqt
 UvL
 Ucg
+Unfortunately
 rn
 rM
 rI
@@ -10991,6 +11088,10 @@ reasonably
 randomly
 remainder
 recall
+research
+reflective
+realistic
+recursion
 ehO
 ef
 eWmI
@@ -11296,6 +11397,10 @@ extremely
 eigenvector
 eigenvalue
 equilateral
+exits
+evaluating
+elegantly
+evaporate
 lD
 le
 lgAg
@@ -11583,6 +11688,8 @@ lPJ
 lea
 lGD
 lengths
+loop
+legitimate
 Ho
 Hf
 HdS
@@ -11813,6 +11920,8 @@ HzQ
 Hr
 Hs
 HdE
+Hidden
+Heuristic
 FC
 FT
 FP
@@ -12023,6 +12132,7 @@ Fah
 Fnx
 FAp
 Finite
+Fix
 jY
 jx
 jRg
@@ -12431,6 +12541,7 @@ Omj
 OzB
 Oac
 Order
+Outcomes
 QiG
 QFJ
 QUR
@@ -12936,6 +13047,9 @@ biased
 bias
 balanced
 branches
+bubble
+brute
+breeding
 ED
 EXD
 Es
@@ -13190,6 +13304,7 @@ Ewt
 Eph
 EhN
 Eigenvectors
+Efficiently
 äq
 gh
 gCn
@@ -13438,6 +13553,8 @@ gVU
 gII
 gJx
 guess
+guide
+gigantic
 Üfrpp
 ÜAv
 ÜK
