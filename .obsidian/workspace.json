@@ -11,10 +11,14 @@
             "id": "d5a01dc11b4dbbff",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Single Maths A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Single Maths A"
             }
           }
         ]
@@ -163,9 +167,9 @@
   },
   "active": "d5a01dc11b4dbbff",
   "lastOpenFiles": [
+    "Collection Test 1 Reference Page.md",
     "Inverse Hyperbolic Functions.md",
     "Hyperbolic Functions.md",
-    "Collection Test 1 Reference Page.md",
     "Polar Representation.md",
     "Methods for Computing Limits.md",
     "Limits.md",
