@@ -1,4 +1,4 @@
-#notes 
+**#notes 
 
 See also: [[Linear Approximations]]
 See also: [[Multivariate Calculus]]

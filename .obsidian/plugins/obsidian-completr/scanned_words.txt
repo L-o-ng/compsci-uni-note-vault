@@ -587,6 +587,7 @@ ImD
 Isn
 Inefficient
 Intel
+Integration
 yZ
 yC
 yU
@@ -944,7 +945,6 @@ iix
 issues
 indicating
 initially
-implementation
 initialised
 issue
 indicate
@@ -998,7 +998,6 @@ iNa
 industry
 integrating
 iterate
-implement
 important
 imperative
 intermediate
@@ -1067,7 +1066,6 @@ interchange
 interchanged
 inconclusive
 integral
-implemented
 invariant
 iteration
 intuitively
@@ -4601,6 +4599,7 @@ Taking
 Throughout
 TSP
 Transform
+Tan
 JP
 Ju
 JQ
@@ -5259,6 +5258,7 @@ Constrictions
 Check
 Checkable
 Colony
+Cosec
 cd
 ce
 cNCw
@@ -6221,7 +6221,6 @@ tuple
 those
 this
 time
-typical
 terminate
 take
 tE
@@ -7917,6 +7916,8 @@ Answers
 Approaches
 Ant
 ACO
+Abelian
+About
 KN
 KV
 KO
@@ -8872,6 +8873,7 @@ SMALL
 Symmetries
 Surely
 Such
+Sec
 aQ
 ag
 aZ
@@ -9265,6 +9267,7 @@ agents
 artificial
 ants
 attract
+anti
 wE
 wU
 wF
@@ -11017,7 +11020,6 @@ resets
 reads
 raise
 reader
-reasonable
 repeat
 recursive
 regards

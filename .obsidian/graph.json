@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#incomplete",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
       "query": "tag:#homework-needed",
       "color": {
         "a": 1,
@@ -74,6 +67,6 @@
   "repelStrength": 12.2916666666667,
   "linkStrength": 1,
   "linkDistance": 182,
-  "scale": 0.31854036803445723,
+  "scale": 0.6511067253114806,
   "close": true
 }

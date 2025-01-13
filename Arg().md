@@ -34,4 +34,3 @@ Therefore, ==draw a picture to see what theta really is!==
 1) $arg(\overline{z})=-\arg(z)$
 2) $\arg(-z)=\pi+\arg(z)$
 3) $\arg(rz),r \in \mathbb{R}=\array{\arg(z)&:r>0\\\pi+\arg(z) &:r<0\\undefined &: r=0}$
-todo! check if arctan
