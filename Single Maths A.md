@@ -15,5 +15,7 @@
 + [[Elements of Real Analysis]]
 + [[Integration]]
 + [[Group Theory]]
++ [[Series and Power Series]]
++ 
 ## Quick Access
 + 

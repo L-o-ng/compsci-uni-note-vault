@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases.md",
+                "file": "Convergence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Databases"
+              "title": "Convergence"
+            }
+          },
+          {
+            "id": "34375b30fe12ed81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Series and Power Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Series and Power Series"
             }
           }
         ]
@@ -165,8 +179,13 @@
   },
   "active": "ac7be355b781336c",
   "lastOpenFiles": [
-    "Relational Calculus and Algebra.md",
+    "Series and Power Series.md",
+    "Convergence.md",
+    "Terminology for Series.md",
+    "Single Maths A.md",
+    "Elements of Real Analysis.md",
     "Databases.md",
+    "Relational Calculus and Algebra.md",
     "Querying with SQL.md",
     "Normalisation in the Relational Data Model.md",
     "Entity Relationship modelling.md",
@@ -188,13 +207,8 @@
     "Trivial Search.md",
     "Stronger Sorting Algorithms.md",
     "Radix Sort vs Bucket Sort.md",
-    "Radix Sort.md",
     "Pictures/Radix Sort Ex2.png",
     "Pictures/Radix Sort Ex1.png",
-    "Bucket Sort.md",
-    "Matrix Decomposition.md",
-    "Linear Algebra.md",
-    "Eigenvectors and Eigenvalues.md",
     "Pictures/Selection Sort Worst Case Upper Bound Analysis.png",
     "Pictures/injections surjections bijections.png",
     "Pictures/Superscalar Processing.png",
