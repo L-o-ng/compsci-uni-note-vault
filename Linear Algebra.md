@@ -18,6 +18,7 @@
 + [[PageRank]]
 + [[Markov Chains and Processes]]
 + [[Eigenvectors and Eigenvalues]]
++ [[Matrix Decomposition]]
 + 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}

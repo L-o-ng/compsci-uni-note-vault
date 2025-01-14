@@ -8,4 +8,3 @@ This is a parabola open up when $f{^\prime}{^\prime}(x_{0})>0$ and parabola open
 ![[Quadratic Approximation Example 1.png]]
 ![[Quadratic Approximation Example 2.png]]
 ![[Quadratic Approximation Example 3.png]]
-

@@ -15,6 +15,8 @@
 + [[Asymptotics]]
 + [[Sorting Algorithms]]
 + [[Recurrences]]
++ [[Stronger Sorting Algorithms]]
++ [[Searching Algorithms]]
 + 
 
 ## Important
@@ -22,6 +24,3 @@
 + **Coursework** - Due ==23rd of January 2025==
 + **Summative Assessment** - End of year
 + **Practicals** - ncc1.clients.dur.ac.uk/COMP1081/
-+ 
-
-

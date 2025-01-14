@@ -155,3 +155,13 @@ reasonable
 \subseteqq
 \subsetneq
 typical
+\oldstyle
+DSS
+correspond
+corresponds
+immediate
+consist
+consists
+consistent
+consisting
+secure
