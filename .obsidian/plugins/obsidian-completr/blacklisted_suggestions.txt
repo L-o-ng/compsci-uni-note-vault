@@ -165,3 +165,9 @@ consists
 consistent
 consisting
 secure
+execute
+executed
+initial
+mathematics
+mathematical
+Communicate

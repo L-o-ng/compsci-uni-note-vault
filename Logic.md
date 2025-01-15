@@ -1,0 +1,18 @@
+#linker 
+
+Every logic comprises of:
++ A **formal language** for making statements about certain objects.
++ A **formal system** for *reasoning* about properties of these objects.
+English is too rich to be formally described; the meaning of sentences can be ambiguous, and paradoxes can be formed, so we need a different way to express logic.
+
+---
+
+Once the *formulae* of a logic have been defined, there are 2 fundamental aspects:
++ A system of *deduction* by which **proofs** can be constructed.
+	+ So, a **proof system**.
++ A notion of *meaning* by which the truth of some property of some object can be determined.
+	+ So, its **semantics**.
+## Notes
++ [[Components of Logic]]
++ [[Uses of Logic]]
++ 
