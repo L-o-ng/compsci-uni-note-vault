@@ -171,3 +171,8 @@ initial
 mathematics
 mathematical
 Communicate
+satisfied
+\upvarpi
+Recursive
+recurse
+recursive

@@ -17,6 +17,7 @@
 + [[Recurrences]]
 + [[Stronger Sorting Algorithms]]
 + [[Searching Algorithms]]
++ [[Selecting Algorithms]]
 + 
 
 ## Important

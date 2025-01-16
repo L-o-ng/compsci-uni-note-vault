@@ -13,26 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic.md",
+                "file": "Median of Medians.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Logic"
-            }
-          },
-          {
-            "id": "1b4af62e6dcb71e7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Median of Medians"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Median of Medians.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Median of Medians"
             }
           }
         ],
@@ -174,10 +164,21 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "1b4af62e6dcb71e7",
+  "active": "4d013702eddd5401",
   "lastOpenFiles": [
-    "Relational Calculus and Algebra.md",
+    "Quick Select.md",
+    "Median of Medians.md",
+    "Selecting Algorithms.md",
+    "Binary Search.md",
+    "Algorithms & Data Structures.md",
+    "Searching Algorithms.md",
+    "Propositional Logic.md",
     "Logic.md",
+    "The Church-Turing Thesis.md",
+    "Gödel's Incompleteness Theorems.md",
+    "Hilbert's Programme.md",
+    "Russell's Paradox.md",
+    "Relational Calculus and Algebra.md",
     "Computational Thinking.md",
     "Uses of Logic.md",
     "Pictures/jpg",
@@ -193,17 +194,7 @@
     "Entity Relationship modelling.md",
     "Pictures/ER Modelling.png",
     "Relational Data Model for Structured Data.md",
-    "Database Management Systems.md",
     "Pictures/Database Architecture.png",
-    "Binary Search.md",
-    "Computer Systems.md",
-    "CSS.md",
-    "LU Decomposition.md",
-    "AaDS Week 11.md",
-    "Algorithms & Data Structures Coursework.md",
-    "among us.md",
-    "Searching Algorithms.md",
-    "Binary Searc.md",
     "Pictures/Radix Sort Ex2.png",
     "Pictures/Radix Sort Ex1.png",
     "Pictures/Selection Sort Worst Case Upper Bound Analysis.png",

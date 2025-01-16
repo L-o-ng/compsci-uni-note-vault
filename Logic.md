@@ -15,4 +15,9 @@ Once the *formulae* of a logic have been defined, there are 2 fundamental aspect
 ## Notes
 + [[Components of Logic]]
 + [[Uses of Logic]]
++ [[Russell's Paradox]]
++ [[Hilbert's Programme]]
++ [[Gödel's Incompleteness Theorems]]
++ [[The Church-Turing Thesis]]
++ [[Propositional Logic]]
 + 
