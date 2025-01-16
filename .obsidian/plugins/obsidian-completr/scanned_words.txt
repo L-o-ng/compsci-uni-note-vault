@@ -313,6 +313,7 @@ Pen
 People
 Procedures
 Propositional
+Part
 IHDR
 IDATx
 ID
@@ -2353,7 +2354,6 @@ Rule
 Robustness
 Responsible
 Register
-Recursive
 Recursively
 Reducing
 REST
@@ -3614,6 +3614,8 @@ paradoxes
 propositions
 propositional
 paradigm
+papers
+proposed
 DQ
 DM
 DU
@@ -4435,6 +4437,7 @@ slides
 selecting
 sortedness
 sought
+showing
 TWe
 TBM
 Ti
@@ -4697,6 +4700,7 @@ TSP
 Transform
 Tan
 TTTX
+Turing
 JP
 Ju
 JQ
@@ -5363,6 +5367,7 @@ CfMT
 Consequently
 Condition
 Construction
+Church
 cd
 ce
 cNCw
@@ -6281,6 +6286,8 @@ LPAE
 LARGE
 Limited
 Logical
+Latex
+Lambda
 tJ
 tf
 tR
@@ -6615,6 +6622,8 @@ tTz
 transactions
 trade
 tautology
+truthiness
+thesis
 Bh
 Bda
 Br
@@ -7391,6 +7400,8 @@ mHN
 maintain
 metadata
 manipulation
+medians
+machines
 WD
 WWx
 Wy
@@ -7820,6 +7831,7 @@ uuunnn
 unified
 unsuccessful
 unsorted
+unsolvable
 AI
 Az
 Ab
@@ -8066,6 +8078,7 @@ Arbitrary
 Actual
 Application
 Administrators
+Alonzo
 KN
 KV
 KO
@@ -9437,6 +9450,7 @@ aspects
 association
 ascertained
 assumes
+asks
 wE
 wU
 wF
@@ -11198,7 +11212,6 @@ reads
 raise
 reader
 repeat
-recursive
 regards
 recursing
 rearrange
@@ -11219,7 +11232,6 @@ rCl
 rUV
 reU
 rEJ
-recurse
 recurrence
 rank
 reached
@@ -11280,6 +11292,9 @@ rich
 rightmost
 recursed
 randomised
+rote
+reformatting
+researchers
 ehO
 ef
 eWmI
@@ -11595,6 +11610,7 @@ enforce
 electronic
 explicit
 evaluates
+embody
 lD
 le
 lgAg
@@ -13526,6 +13542,7 @@ Easy
 Essentially
 English
 Equivalence
+Entsheidungsproblem
 äq
 gh
 gCn

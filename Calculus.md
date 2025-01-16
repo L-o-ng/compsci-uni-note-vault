@@ -19,4 +19,5 @@
 + See also: [[Trigonometry]]
 + See also: [[Hyperbolic Functions]] : Used in [[Neural Network Activation Functions]]
 + [[Derivatives of Hyperbolic Functions]] : Used in [[Neural Network Activation Functions]]
++ [[Lagrange Multipliers]]
 + 

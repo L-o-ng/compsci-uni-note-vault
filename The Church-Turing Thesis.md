@@ -1,3 +1,5 @@
+#notes 
+
 Part of [[Hilbert's Programme]] was to solve the Entsheidungsproblem which asks for:
 + An algorithm that takes an input of a description of a formal language and a mathematical statement in the language.
 + It then produces an output of either *true* or *false*, dependent on the truthiness of the statement.
