@@ -3907,6 +3907,7 @@ DBMS
 Documented
 Developers
 DBA
+Difference
 sDK
 sk
 sz
@@ -4438,6 +4439,7 @@ selecting
 sortedness
 sought
 showing
+slight
 TWe
 TBM
 Ti
@@ -7402,6 +7404,7 @@ metadata
 manipulation
 medians
 machines
+manipulations
 WD
 WWx
 Wy
@@ -13796,6 +13799,7 @@ gigantic
 gGR
 gCH
 geometric
+generalisation
 Üfrpp
 ÜAv
 ÜK

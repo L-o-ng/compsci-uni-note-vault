@@ -62,4 +62,13 @@ $$
 S=\sum_{n=1}^{\infty} \frac{1}{n}
 $$
 Here the terms are $a_{n}= \frac{1}{n}, n\geq 1$. This has $\lim_{ n \to \infty }a_{n}=0$. but the series still diverges!
-todo! rest of harmonic series proof
+#### Proof of Divergence
+Some of the first partial sums are:
+$$
+S_{1}=1,S_{2}=1+\frac{1}{2}=\frac{3}{2},S_{4}=S_{2}+\frac{1}{3}+\frac{1}{4}> \frac{3}{2} + \frac{1}{4} + \frac{1}{4} =2
+$$
+This leads to the guess that we always have:
+$$
+S_{2n}\geq \frac{N}{2}+1
+$$
+This can be proved by [[Proof by Induction|induction]], so the partial sums tend to $\infty$ as $N \to \infty$. The harmonic series is therefore *divergent*.

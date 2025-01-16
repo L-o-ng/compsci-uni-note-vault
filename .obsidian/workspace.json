@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "995cfe7ab7068e71",
+        "id": "9fbd635416be4dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "4153d31a025a3c22",
+            "id": "635657441fb1142d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -69,13 +69,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -160,8 +158,13 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "4153d31a025a3c22",
+  "active": "86c7c83fb5dec45c",
   "lastOpenFiles": [
+    "Series and Power Series.md",
+    "Finding the Sum of a Series.md",
+    "Calculus on Series.md",
+    "Convergence.md",
+    "Single Maths A.md",
     "Calculus.md",
     "Multivariate Differentiation.md",
     "The Church-Turing Thesis.md",
@@ -187,12 +190,7 @@
     "Uses of Logic.md",
     "Pictures/jpg",
     "Components of Logic.md",
-    "Convergence.md",
-    "Series and Power Series.md",
     "Terminology for Series.md",
-    "Single Maths A.md",
-    "Elements of Real Analysis.md",
-    "Databases.md",
     "Pictures/ER Modelling.png",
     "Pictures/Database Architecture.png",
     "Pictures/Radix Sort Ex2.png",
