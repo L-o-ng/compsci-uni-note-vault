@@ -5,7 +5,7 @@ They are made up of millions of [[Transistors|transistors]] interconnected by mi
 
 ## Production
 + Initially, hundreds of copies of the same IC are **etched** on a wafer of silicon (a **die**).
-+ Dies are tested and each error-die is cut and **mounted** in a **package** with the die's **pads** connected to the package **pins**.
++ Dies are tested and each error-free die is cut and **mounted** in a **package** with the die's **pads** connected to the package **pins**.
 ### Multi-core Processors
 + Multiple independent cores/CPUs are manufactured on the *same* IC.
 

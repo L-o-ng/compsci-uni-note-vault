@@ -1,4 +1,5 @@
 #notes 
+
 ![[Simplified Von Neumann Processor.png]]
 ## Registers
 + **Registers** are on-chip memory locations, limited in number according to hardware design decisions, and are at the top of the memory hierarchy.

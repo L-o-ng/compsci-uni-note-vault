@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "635657441fb1142d",
+            "id": "e2381114ea83a3b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Database Design.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Database Design"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -127,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Median of Medians.md",
+                "file": "Database Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Median of Medians"
+              "title": "Backlinks for Database Design"
             }
           }
         ],
@@ -158,39 +163,39 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "86c7c83fb5dec45c",
+  "active": "e2381114ea83a3b9",
   "lastOpenFiles": [
-    "Series and Power Series.md",
-    "Finding the Sum of a Series.md",
-    "Calculus on Series.md",
-    "Convergence.md",
-    "Single Maths A.md",
-    "Calculus.md",
-    "Multivariate Differentiation.md",
-    "The Church-Turing Thesis.md",
-    "Lagrange Multipliers.md",
+    "Databases.md",
+    "Database Management Systems.md",
+    "Database Design.md",
+    "Relational Data Model for Structured Data.md",
+    "Entity Relationship modelling.md",
+    "Optimisation Problems.md",
+    "Plagiarism.md",
+    "P=NP.md",
+    "Efficiency and Complexity.md",
+    "Problem Hardness.md",
+    "Different Machines and Time Complexity.md",
+    "Worst-Case Upper Bounds.md",
+    "Measuring the Time Taken by an Algorithm.md",
+    "Algorithms over Implementations.md",
+    "Time.md",
+    "Analysis of Algorithms.md",
+    "Computational Thinking.md",
+    "Compilation and Interpretation.md",
+    "Programming Languages.md",
+    "Why so many Languages.md",
+    "From Algorithms to Software.md",
+    "Abstraction.md",
+    "Decision vs Search.md",
+    "Decision Problems.md",
+    "Search Problems.md",
+    "Fundamental Problems.md",
     "Pictures/Lagrange Multipliers 4.png",
     "Pictures/Lagrange Multipliers 3.png",
     "Pictures/Lagrange Multipliers 2.png",
     "Pictures/Lagrange Multipliers 1.png",
-    "Year 1 Computer Science.md",
-    "Median of Medians.md",
-    "Quick Select.md",
-    "Selecting Algorithms.md",
-    "Binary Search.md",
-    "Algorithms & Data Structures.md",
-    "Searching Algorithms.md",
-    "Propositional Logic.md",
-    "Logic.md",
-    "Gödel's Incompleteness Theorems.md",
-    "Hilbert's Programme.md",
-    "Russell's Paradox.md",
-    "Relational Calculus and Algebra.md",
-    "Computational Thinking.md",
-    "Uses of Logic.md",
     "Pictures/jpg",
-    "Components of Logic.md",
-    "Terminology for Series.md",
     "Pictures/ER Modelling.png",
     "Pictures/Database Architecture.png",
     "Pictures/Radix Sort Ex2.png",
