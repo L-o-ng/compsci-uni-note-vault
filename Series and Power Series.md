@@ -18,4 +18,5 @@ This may tend to an individual limit.
 + [[Convergence]]
 + [[Finding the Sum of a Series]]
 + [[Calculus on Series]]
-+ 
++ [[Convergence Tests]]
+

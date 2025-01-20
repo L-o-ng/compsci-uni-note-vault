@@ -798,6 +798,7 @@ ynP
 yet
 ySB
 yield
+yellow
 iv
 ic
 iXl
@@ -1185,6 +1186,10 @@ ignore
 interleave
 independence
 improvements
+integrate
+integrals
+introduce
+implication
 qi
 qH
 qSr
@@ -1379,6 +1384,7 @@ qcll
 qfF
 qCg
 queries
+quotient
 Xz
 XQ
 XX
@@ -1929,6 +1935,11 @@ desktop
 destinations
 detailed
 detection
+drawing
+differentiate
+divergence
+decreasing
+divergent
 oL
 om
 oV
@@ -2183,6 +2194,7 @@ objections
 obtaining
 oEP
 offsets
+objective
 RD
 Rpbr
 RJ
@@ -2454,6 +2466,7 @@ Relationships
 Relations
 Recapitulation
 Requirements
+Ratio
 nR
 nW
 nT
@@ -2689,6 +2702,7 @@ nyWn
 nÄ
 naive
 notion
+numerator
 fg
 fU
 fk
@@ -3012,6 +3026,7 @@ focus
 failures
 forced
 failure
+finitely
 hO
 hf
 hA
@@ -3287,6 +3302,7 @@ hjE
 harmonic
 heart
 handled
+hyperbola
 pY
 pC
 pc
@@ -3663,6 +3679,8 @@ peripheral
 priority
 plagiarise
 production
+plug
+perpendicular
 DQ
 DM
 DU
@@ -4494,6 +4512,7 @@ seconds
 steal
 standards
 sharing
+satisfy
 TWe
 TBM
 Ti
@@ -4762,6 +4781,8 @@ Thread
 Threads
 Timeout
 Tuple
+Tests
+Test
 JP
 Ju
 JQ
@@ -5436,6 +5457,10 @@ Courses
 Centralisation
 Committee
 Conceptual
+Curves
+Constrained
+Compare
+Cauchy
 cd
 ce
 cNCw
@@ -5919,6 +5944,15 @@ consideration
 crediting
 commit
 citing
+constrained
+contours
+curve
+constraint
+curves
+contradicting
+calculus
+cancellation
+convergent
 kH
 ka
 kE
@@ -6107,6 +6141,7 @@ kAa
 kuz
 kbLH
 kHI
+knowing
 LL
 LN
 Lx
@@ -6367,6 +6402,8 @@ Latex
 Lambda
 Life
 Language
+Lagrange
+Lagrangian
 tJ
 tf
 tR
@@ -7498,6 +7535,9 @@ manipulations
 massively
 microcontroller
 mainly
+minima
+minimise
+maxima
 WD
 WWx
 Wy
@@ -7930,6 +7970,8 @@ unsuccessful
 unsorted
 unsolvable
 useable
+usual
+unknowns
 AI
 Az
 Ab
@@ -8181,6 +8223,8 @@ Arduinos
 Admit
 ANSI
 American
+Another
+Arithmetico
 KN
 KV
 KO
@@ -8563,6 +8607,7 @@ VTR
 VAx
 VCN
 Verification
+Validity
 Mz
 MR
 Mc
@@ -8833,6 +8878,8 @@ Management
 Mutual
 Merriam
 Modelling
+Multipliers
+Multiplier
 SQl
 SkBl
 SK
@@ -9573,6 +9620,8 @@ avoided
 ambiguities
 accessibility
 adapted
+amongst
+affect
 wE
 wU
 wF
@@ -10678,6 +10727,7 @@ Geometric
 GPGPU
 GPUs
 GPGPUs
+Goal
 xcb
 xa
 xX
@@ -11436,6 +11486,7 @@ restores
 relational
 redundancy
 realises
+restriction
 ehO
 ef
 eWmI
@@ -12054,6 +12105,7 @@ lists
 lapsed
 lots
 literary
+lambda
 Ho
 Hf
 HdS
@@ -12918,6 +12970,8 @@ Outcomes
 ORU
 Once
 Organisation
+Observe
+Optimise
 QiG
 QFJ
 QUR
@@ -13143,6 +13197,7 @@ QNs
 QQq
 Quicksort
 Query
+Quotient
 ba
 bM
 bhz
@@ -13434,6 +13489,7 @@ buckets
 beats
 bHF
 backup
+barely
 ED
 EXD
 Es
@@ -13700,6 +13756,7 @@ Entsheidungsproblem
 Exit
 Event
 Execution
+Exponentiating
 äq
 gh
 gCn
