@@ -1931,7 +1931,6 @@ diverge
 diverges
 deduction
 declarative
-decompose
 desktop
 destinations
 detailed
@@ -6492,7 +6491,6 @@ tApp
 tuu
 trr
 tSHIIIAA
-triangle
 tFFFII
 tttF
 ttt
