@@ -324,6 +324,7 @@ Plagiarism
 Potentially
 Phases
 Planning
+PLU
 IHDR
 IDATx
 ID
@@ -1940,6 +1941,7 @@ differentiate
 divergence
 decreasing
 divergent
+decomposed
 oL
 om
 oV
@@ -3027,6 +3029,7 @@ failures
 forced
 failure
 finitely
+fails
 hO
 hf
 hA
@@ -3681,6 +3684,9 @@ plagiarise
 production
 plug
 perpendicular
+permute
+permutation
+permuting
 DQ
 DM
 DU
@@ -9622,6 +9628,7 @@ accessibility
 adapted
 amongst
 affect
+advance
 wE
 wU
 wF

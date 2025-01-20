@@ -63,4 +63,31 @@ I=\begin{pmatrix}
 3 & 4
 \end{pmatrix}=L
 $$
-todo! Permutation matrices onwards
+## Permutation Matrices
+The LU method fails when row exchanges must be used.
+We can instead permute rows/equations in advance.
+
+>A **permutation matrix** is a square matrix $P$ obtained from $I$ by permuting its rows.
+
+For example,
+$$
+\begin{pmatrix}
+0 & 0 & 0 & 1 \\
+0 & 1 & 0 & 0 \\
+1 & 0 & 0 & 0 \\
+0 & 0 & 1 & 0
+\end{pmatrix}
+$$
+So,
++ If $P$ has size $n\times n$ then for any $n\times m$ matrix $A$, $PA$ is the matrix obtained from $A$ by permuting its rows in the same way.
++ $P$ is invertible and $P^{-1}=P^{T}$ which is also a permutation matrix.
+## PLU Decomposition
+
+>A **PLU-Decomposition** of a square matrix $A$ is a representation $A=PLU$ where $P$ is a permutation matrix, $L$ is lower triangular and $U$ is upper triangular.
+
+Note that $A=PLU$ is equivalent to $P^{T}A=LU$ because $P^{-1}=P^{T}$.
+
+>Every square matrix has a PLU-decomposition.
+### How to use it:
++ Since $P^{T}$ is invertible, $A\mathbf{x}=\mathbf{b}$ has the same solutions as $P^{T}A\mathbf{x}=P^{T}\mathbf{b}$.
++ Compute $\mathbf{b}'=P^{T}=\mathbf{b}$, write the above system as $LU\mathbf{x}=\mathbf{b}'$ as solve as before.
