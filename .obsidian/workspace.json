@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "016bb0ea87baf411",
+        "id": "cc96543f5fbe5425",
         "type": "tabs",
         "children": [
           {
-            "id": "6e0bfeea38384e68",
+            "id": "b8e6f58b008a704f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LU Decomposition.md",
+                "file": "Alternating Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LU Decomposition"
+              "title": "Alternating Series"
+            }
+          },
+          {
+            "id": "c174e7034fca9cbf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -95,11 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Storing Data on a Binary Tree.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Storing Data on a Binary Tree"
             }
           },
           {
@@ -133,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design.md",
+                "file": "Storing Data on a Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +154,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Database Design"
+              "title": "Backlinks for Storing Data on a Binary Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,35 +174,36 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "6e0bfeea38384e68",
+  "active": "b8e6f58b008a704f",
   "lastOpenFiles": [
-    "LU Decomposition.md",
-    "MfCS Week 12.md",
+    "Alternating Series.md",
     "Convergence Tests.md",
-    "Mathematics for Computer Science Coursework.md",
     "Series and Power Series.md",
-    "Pictures/Integral Test for Convergence Further Examples.png",
     "Calculus on Series.md",
-    "Lagrange Multipliers.md",
+    "Finding the Sum of a Series.md",
+    "Convergence.md",
+    "Riemann Rearrangement Theorem.md",
+    "Radix Sort.md",
+    "Single Maths A.md",
+    "Backtracking.md",
     "Median of Medians.md",
-    "Database Design.md",
-    "Databases.md",
-    "Database Management Systems.md",
-    "Relational Data Model for Structured Data.md",
-    "Entity Relationship modelling.md",
-    "Optimisation Problems.md",
-    "Plagiarism.md",
-    "P=NP.md",
-    "Efficiency and Complexity.md",
-    "Problem Hardness.md",
-    "Different Machines and Time Complexity.md",
-    "Worst-Case Upper Bounds.md",
-    "Measuring the Time Taken by an Algorithm.md",
-    "Algorithms over Implementations.md",
-    "Time.md",
-    "Analysis of Algorithms.md",
-    "Computational Thinking.md",
-    "Compilation and Interpretation.md",
+    "AaDS Week 12.md",
+    "Algorithms & Data Structures Coursework.md",
+    "AaDS Week 11.md",
+    "Storing Data on a Binary Tree.md",
+    "Rooted Binary Trees.md",
+    "Arithmetic Expressions on a Binary Tree.md",
+    "Pictures/Arithmetic on Binary Trees.png",
+    "Trees.md",
+    "Algorithms & Data Structures.md",
+    "Selecting Algorithms.md",
+    "Quick Select.md",
+    "Quick Select vs Median of Medians.md",
+    "Linear Algebra.md",
+    "Characteristic Equations.md",
+    "Geometry.md",
+    "Kernel of a Linear Map.md",
+    "Pictures/Integral Test for Convergence Further Examples.png",
     "Pictures/Lagrange Multipliers 4.png",
     "Pictures/Lagrange Multipliers 3.png",
     "Pictures/Lagrange Multipliers 2.png",
@@ -202,7 +213,6 @@
     "Pictures/Database Architecture.png",
     "Pictures/Radix Sort Ex2.png",
     "Pictures/Radix Sort Ex1.png",
-    "Pictures/Selection Sort Worst Case Upper Bound Analysis.png",
     "Untitled.canvas",
     "Input",
     "Pictures",

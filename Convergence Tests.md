@@ -2,38 +2,39 @@
 
 Often we want to decide whether a series converges without knowing the exact value of its sum. Since negative terms introduce cancellation, we assume all terms in the following series that $a_{n}\geq 0$.
 ## Tests
+### Tests for Positive Sums
 Note that the convergence/divergence of a series does **not** change when we change **finitely** many terms.
-### Comparison Test
+#### Comparison Test
 Given $S=\sum a_{n}$, find some other series $T=\sum b_{n}$ whose convergence/divergence is known to compare it to.
 + If $T$ converges and $a_{n}\leq b_{n}\forall n>k$ for some $k$ then $S$ converges.
 + If $T$ diverges and $a_{n}\geq b_{n}\forall n>k$ for some $k$ then $S$ diverges.
-#### Example
+##### Example
 Consider $S=\sum \frac{2^{n}+5}{3^{n+1}}$. We can compare it to the convergent geometric series $T=\sum\left( \frac{2}{3} \right)^{n}$. We have $a_{n}<b_{n},n>1$ since for $n \in \Bbb{N}$:
 $$
 \frac{2^{n}+5}{3^{n+1}}< \frac{2^{n}}{3^{n}}\iff 2^{n}+5<3\cdot 2^{n}\iff 5<2^{n+1}\iff n\geq 2
 $$
 So we have $S$ converges by comparison to a geometric series.
-### Quotient Test
+#### Quotient Test
 Given $S=\sum a_{n}$, take some $T=\sum b_{n}$ and consider $\rho=\lim_{ n \to \infty } \frac{a_{n}}{b_{n}}$ if it exists.
 + If $\rho$ is finite and non-zero, then $S,T$ either both converge or both diverge.
 + If $\rho=0$ and $T$ converges, then $S$ also converges.
 + If $\rho=0$ and $S$ diverges, then $T$ also diverges.
 + If $\rho$ does not exist then the test is inconclusive.
-#### Example
+##### Example
 Consider $S=\sum \frac{2^{n}+5}{3^{n+1}}$. Compare it to $T=\sum\left( \frac{2}{3} \right)^{n}$:
 $$
 \rho=\lim_{ n \to \infty } \frac{2^{n}+5}{3^{n+1}}\left( \frac{3}{2} \right)^{n}=\frac{1}{3}
 $$
 So we know both $S$ and $T$ converge or diverge. We know that $T$ converges, so $S$ is convergent also by the quotient test.
-### Ratio Test
+#### Ratio Test
 Consider $\rho=\lim_{ n \to \infty } \frac{a_{n+1}}{a_{n}}$, if it exists.
 + If $\rho<1$ then $S$ converges.
 + If $\rho >1$ then $S$ diverges.
 + If $\rho=1$, or the limit does not exist, then the test is inconclusive.
-#### Examples
-##### Example 1
+##### Examples
+###### Example 1
 Consider $S=\sum \frac{2^{n}+5}{3^{n+1}}$. Then $\rho=\frac{2}{3}$ so $S$ converges by the ratio test.
-##### Example 2
+###### Example 2
 Consider $S=\sum_{n=0}^{\infty} \frac{n^{2}}{2^{n}}$. Then:
 $$
 \Large
@@ -43,12 +44,12 @@ $$
 &= \frac{1}{2} \left( 1+\frac{1}{n} \right)^{2} \to \frac{1}{2} \text{ as } n \to \infty
 }
 $$
-### Cauchy's Root Test
+#### Cauchy's Root Test
 Consider $\rho=\lim_{ n \to \infty } a_{n}^{1/n}$, if it exists.
 + If $\rho<1$ then $S$ converges.
 + If $\rho>1$ then $S$ diverges.
 + If $\rho=1$ or the limit does not exist then the test is inconclusive.
-#### Example
+##### Example
 Consider $S=\sum_{n=1}^{\infty} \frac{2n}{3^{n}}$. The $n$-th root of the $n$-th term is:
 $$
 \left( \frac{2n}{3^{n}} \right)^{1/n}=\frac{(2n)^{1/n}}{3}
@@ -67,15 +68,15 @@ $$
 \lim_{ n \to \infty } \frac{(2n)^{1/n}}{3}=\frac{1}{3}<1
 $$
 So $S$ converges by the root test.
-### Integral Test
+#### Integral Test
 Suppose we can find a *decreasing* positive function $f:f(n)=a_{n}$. Then $\sum_{n=1}^{\infty}a_{n}$ converges if and only if:
 $$
 \lim_{ N \to \infty } \int_{1}^{N} f(x)dx \space \text{exists}
 $$
 The idea it that the finite integral is a good approximation of the partial sums of the series, so if the limit of the integral exists, then the implication is that the series converges.
 An important note is to ==explicitly verify that the function is decreasing before applying the test==.
-#### Examples
-##### Example 1
+##### Examples
+###### Example 1
 For $S=\sum_{n=1}^{\infty} \frac{1}{n^{q}},q>0$ we can take $f(x)=\frac{1}{x^{q}}$, which is decreasing in $x$. Here, $S$ is the harmonic series in the case $q=1$, which is known to be divergent. So, we can assume that $q \neq 1$. In this case, we have:
 $$
 \eqalign{
@@ -87,5 +88,48 @@ $$
 So:
 + If $q>1$ then we get $\lim_{ N \to \infty } \frac{1}{N^{q-1}}=0$, so $\lim_{ N \to \infty }\int_{1}^{N}f(x)dx = \frac{1}{q-1}$ so the series $S$ converges by the integral test.
 + If $q<1$ then $\lim_{ N \to \infty } \frac{1}{N^{q-1}}=\infty$ and the integrals have no limit as $N \to \infty$ so the series $S$ diverges by the integral test.
-##### Further Examples
+###### Further Examples
 ![[Integral Test for Convergence Further Examples.png]]
+### Tests for Convergence on Series with Negative Terms
+Consider first that the convergence of a series is independent of the values of finitely many terms at the beginning of the series. Convergence/Divergence of a series does not change when we alter finitely many of its terms. If a series $S = \sum_{n=0}^{\infty}a_{n}$ has only finitely many negative terms and we have $a_{n}\geq 0$ for $n\geq k$ then $S$ is convergent if and only if $S=\sum_{n=k}^{\infty}$ is convergent, and we can apply the previous [[Convergence Tests#Tests for Positive Sums|tests]] to the series $S$.
+There are, however, many series with infinitely many positive **and** negative terms. For series like this, there are 2 further notions of convergence:
+#### Absolute and Conditional Convergence
+##### Absolute Convergence
+$S=\sum_{n=1}^{\infty}a_{n}$ is called ***absolutely convergent***  if the series $\sum_{n=1}^{\infty}|a_{n}|$ converges. It is a non-trivial fact that absolutely convergent series also converge in the usual sense. So,
+$$
+\text{If }\sum |a_{n}| \text{ converges, so does }\sum a_{n}
+$$
+##### Conditional Convergence
+$S=\sum_{n=1}^{\infty}a_{n}$ is called ***conditionally convergent*** if $S$ converges but $\sum_{n=1}^{\infty}|a_{n}|$ does not.
+
+---
+
+Absolutely convergent series are "well-behaved" in the sense that the order of all the terms in the summation can be changed without any impact on the sum of the series. This is not true for conditional convergence.
+The [[Riemann Rearrangement Theorem]] means you can ==never change the order of terms in a conditionally convergent series==.
+
+We can use the fact that absolutely convergent series are also normally convergent to generalise some of the previous tests.
+#### Generalised Comparison Test
+Consider we are given $S=\sum a_{n}$ and another series $T=\sum b_{n}$. If $T$ converges and:
+$$
+|a_{n}|\leq b_{n}\forall n>k\text{ for some }k
+$$
+then $S$ converges absolutely and so also converges normally.
+#### Generalised Ratio Test
+Consider:
+$$
+\rho=\lim_{ n \to \infty } \left|\frac{a_{n+1}}{a_{n}}\right|
+$$
+if it exists.
+1) If $\rho<1$, then $S$ converges absolutely and so also normally.
+2) If $\rho>1$, then $S$ diverges.
+3) If $\rho=1$ or the limit does not exist then the test is inconclusive.
+#### Generalised Root Test
+Consider:
+$$
+\rho=\lim_{ n \to \infty } |a_{n}|^{1/n}
+$$
+if it exists.
+1) If $\rho<1$, then $S$ converges absolutely and so also normally.
+2) If $\rho>1$, then $S$ diverges.
+3) If $\rho=1$ or the limit does not exist then the test is inconclusive.
+

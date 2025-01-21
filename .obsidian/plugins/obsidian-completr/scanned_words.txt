@@ -325,6 +325,7 @@ Potentially
 Phases
 Planning
 PLU
+Path
 IHDR
 IDATx
 ID
@@ -619,6 +620,7 @@ Increased
 Instance
 Independence
 Institute
+Informal
 yZ
 yC
 yU
@@ -1191,6 +1193,9 @@ integrate
 integrals
 introduce
 implication
+iterations
+implemented
+interchanges
 qi
 qH
 qSr
@@ -1941,6 +1946,15 @@ divergence
 decreasing
 divergent
 decomposed
+designated
+descendants
+disjoint
+directed
+depth
+deepest
+delete
+dictionary
+destroyed
 oL
 om
 oV
@@ -2704,6 +2718,8 @@ nÄ
 naive
 notion
 numerator
+nonexistent
+navigate
 fg
 fU
 fk
@@ -3029,6 +3045,7 @@ forced
 failure
 finitely
 fails
+fulfil
 hO
 hf
 hA
@@ -3686,6 +3703,10 @@ perpendicular
 permute
 permutation
 permuting
+parentless
+parent
+predecessor
+properly
 DQ
 DM
 DU
@@ -3980,6 +4001,8 @@ DBA
 Difference
 Dispatch
 Dis
+Done
+Divergence
 sDK
 sk
 sz
@@ -4518,6 +4541,16 @@ steal
 standards
 sharing
 satisfy
+subspace
+substitution
+subtree
+subtrees
+successor
+stage
+stages
+summation
+star
+starred
 TWe
 TBM
 Ti
@@ -5466,6 +5499,11 @@ Curves
 Constrained
 Compare
 Cauchy
+Characteristic
+Childless
+Clearly
+Convergence
+Conditional
 cd
 ce
 cNCw
@@ -5958,6 +5996,15 @@ contradicting
 calculus
 cancellation
 convergent
+characteristic
+consists
+circumstantial
+children
+child
+candidate
+conditionally
+conditional
+confirm
 kH
 ka
 kE
@@ -6409,6 +6456,7 @@ Life
 Language
 Lagrange
 Lagrangian
+Lemma
 tJ
 tf
 tR
@@ -6750,6 +6798,10 @@ tied
 tweaks
 theft
 technical
+trees
+traversed
+technique
+tests
 Bh
 Bda
 Br
@@ -7008,6 +7060,7 @@ Bridges
 Between
 Blocked
 Blocks
+Backtracking
 ZY
 Zu
 ZzJ
@@ -7542,6 +7595,8 @@ mainly
 minima
 minimise
 maxima
+mathematics
+marked
 WD
 WWx
 Wy
@@ -7748,6 +7803,7 @@ Witness
 WeJ
 Ways
 Webster
+WHAT
 uC
 uIOs
 uq
@@ -8229,6 +8285,8 @@ ANSI
 American
 Another
 Arithmetico
+Absolutely
+Alternating
 KN
 KV
 KO
@@ -9213,6 +9271,9 @@ StudentCourses
 SPARC
 Schema
 Standards
+Siblings
+Simulate
+Sudoku
 aQ
 ag
 aZ
@@ -9627,6 +9688,12 @@ adapted
 amongst
 affect
 advance
+approximate
+again
+arguments
+alternating
+alternate
+arrange
 wE
 wU
 wF
@@ -10341,6 +10408,7 @@ Nowadays
 Newer
 Nature
 National
+Negative
 Yk
 YZ
 Yoj
@@ -10528,6 +10596,7 @@ YKT
 Ymc
 YQZ
 Yield
+Yes
 Gckud
 GN
 GD
@@ -10733,6 +10802,7 @@ GPGPU
 GPUs
 GPGPUs
 Goal
+Generalised
 xcb
 xa
 xX
@@ -11492,6 +11562,9 @@ relational
 redundancy
 realises
 restriction
+recursive
+recursively
+rooted
 ehO
 ef
 eWmI
@@ -11814,6 +11887,9 @@ expectation
 existing
 entities
 extracting
+eigenspace
+executed
+extensions
 lD
 le
 lgAg
@@ -12111,6 +12187,9 @@ lapsed
 lots
 literary
 lambda
+locate
+labeled
+lookup
 Ho
 Hf
 HdS
@@ -13762,6 +13841,7 @@ Exit
 Event
 Execution
 Exponentiating
+Eigenspaces
 äq
 gh
 gCn
@@ -14016,6 +14096,8 @@ gGR
 gCH
 geometric
 generalisation
+grid
+generalise
 Üfrpp
 ÜAv
 ÜK

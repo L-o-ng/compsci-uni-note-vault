@@ -18,6 +18,7 @@
 + [[Stronger Sorting Algorithms]]
 + [[Searching Algorithms]]
 + [[Selecting Algorithms]]
++ [[Trees]]
 + 
 
 ## Important

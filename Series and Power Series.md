@@ -19,4 +19,6 @@ This may tend to an individual limit.
 + [[Finding the Sum of a Series]]
 + [[Calculus on Series]]
 + [[Convergence Tests]]
++ [[Alternating Series]]
++ 
 

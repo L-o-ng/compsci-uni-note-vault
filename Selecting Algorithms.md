@@ -13,4 +13,5 @@ However, there may be faster solutions.
 ## Notes
 + [[Quick Select]]
 + [[Median of Medians]]
++ [[Quick Select vs Median of Medians]]
 + 
