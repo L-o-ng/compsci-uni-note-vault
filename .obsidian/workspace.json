@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8e6f58b008a704f",
+            "id": "c174e7034fca9cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternating Series.md",
+                "file": "Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alternating Series"
-            }
-          },
-          {
-            "id": "c174e7034fca9cbf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Binary Search Tree"
             }
           }
         ]
@@ -174,8 +164,16 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b8e6f58b008a704f",
+  "active": "c174e7034fca9cbf",
   "lastOpenFiles": [
+    "Rooted Binary Trees.md",
+    "Binary Search Tree.md",
+    "Tree Traversal.md",
+    "Trees.md",
+    "Array-Based Representation of a Binary Tree.md",
+    "Pictures/Array representation binary tree.png",
+    "Storing Data on a Binary Tree.md",
+    "Year 1 Computer Science.md",
     "Alternating Series.md",
     "Convergence Tests.md",
     "Series and Power Series.md",
@@ -190,19 +188,12 @@
     "AaDS Week 12.md",
     "Algorithms & Data Structures Coursework.md",
     "AaDS Week 11.md",
-    "Storing Data on a Binary Tree.md",
-    "Rooted Binary Trees.md",
     "Arithmetic Expressions on a Binary Tree.md",
     "Pictures/Arithmetic on Binary Trees.png",
-    "Trees.md",
     "Algorithms & Data Structures.md",
     "Selecting Algorithms.md",
     "Quick Select.md",
     "Quick Select vs Median of Medians.md",
-    "Linear Algebra.md",
-    "Characteristic Equations.md",
-    "Geometry.md",
-    "Kernel of a Linear Map.md",
     "Pictures/Integral Test for Convergence Further Examples.png",
     "Pictures/Lagrange Multipliers 4.png",
     "Pictures/Lagrange Multipliers 3.png",
@@ -212,7 +203,6 @@
     "Pictures/ER Modelling.png",
     "Pictures/Database Architecture.png",
     "Pictures/Radix Sort Ex2.png",
-    "Pictures/Radix Sort Ex1.png",
     "Untitled.canvas",
     "Input",
     "Pictures",

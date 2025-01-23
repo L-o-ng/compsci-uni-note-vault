@@ -10,4 +10,6 @@ So we can navigate the tree much like a list.
 ## Why?
 Binary trees, if implemented properly, provide fast insert, lookup, and delete operations.
 Suppose we have a sequence of dictionary operations; we can start with an empty tree, then:
-+ todo! finish this.
++ **Insert** - Traverse the tree according to fixed rules and insert the element in an appropriate place.
++ **Lookup** - Traverse the tree according to fixed rules.
++ **Delete** - Do a *lookup*, and if found, delete and fix tree structure if necessary.

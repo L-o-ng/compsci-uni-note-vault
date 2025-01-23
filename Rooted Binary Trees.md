@@ -6,6 +6,8 @@ A rooted tree has one node, known as the root, which is designated as the topmos
 ## Notes
 + [[Arithmetic Expressions on a Binary Tree]]
 + [[Storing Data on a Binary Tree]]
++ [[Array-Based Representation of a Binary Tree]]
++ [[Binary Search Tree]]
 + 
 ## Formally
 > A (rooted) binary tree is a finite set of nodes which are either empty or consists of a root and 2 disjoint binary trees - left subtree and right subtree.

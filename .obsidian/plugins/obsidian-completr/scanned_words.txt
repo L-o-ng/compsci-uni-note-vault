@@ -1955,6 +1955,8 @@ deepest
 delete
 dictionary
 destroyed
+destroy
+deleted
 oL
 om
 oV
@@ -3707,6 +3709,7 @@ parentless
 parent
 predecessor
 properly
+printed
 DQ
 DM
 DU
@@ -4821,6 +4824,8 @@ Timeout
 Tuple
 Tests
 Test
+Traversal
+Take
 JP
 Ju
 JQ
@@ -5504,6 +5509,7 @@ Childless
 Clearly
 Convergence
 Conditional
+Copy
 cd
 ce
 cNCw
@@ -6457,6 +6463,7 @@ Language
 Lagrange
 Lagrangian
 Lemma
+Lookup
 tJ
 tf
 tR
@@ -6802,6 +6809,7 @@ trees
 traversed
 technique
 tests
+traversal
 Bh
 Bda
 Br
@@ -7597,6 +7605,8 @@ minimise
 maxima
 mathematics
 marked
+modify
+match
 WD
 WWx
 Wy
@@ -9274,6 +9284,7 @@ Standards
 Siblings
 Simulate
 Sudoku
+Search
 aQ
 ag
 aZ
@@ -11565,6 +11576,7 @@ restriction
 recursive
 recursively
 rooted
+recurses
 ehO
 ef
 eWmI
@@ -12190,6 +12202,7 @@ lambda
 locate
 labeled
 lookup
+leaf
 Ho
 Hf
 HdS
