@@ -20,5 +20,7 @@ This may tend to an individual limit.
 + [[Calculus on Series]]
 + [[Convergence Tests]]
 + [[Alternating Series]]
++ [[Approximation of Series]]
++ [[Power Series and Taylor Series]]
 + 
 

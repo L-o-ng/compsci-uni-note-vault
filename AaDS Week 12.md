@@ -1,4 +1,4 @@
-#notes 
+#coursework 
 
 1) Simulate radix sort on the following list: `243, 2121, 13, 788, 9152, 373, 94, 761, 128, 259, 0
 	1) 

@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 See [[Polar Representation]] for an alternative way of expressing a complex number.
 
