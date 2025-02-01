@@ -20,6 +20,8 @@
 + [[Eigenvectors and Eigenvalues]]
 + [[Matrix Decomposition]]
 + [[Characteristic Equations]]
++ [[Principal Component Analysis]]
++ [[Complex Vector Spaces]]
 + 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}

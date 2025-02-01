@@ -58,4 +58,10 @@ x_{2}
 }
 $$
 The subspace consists of all vectors of the form $(x,10x)$. One basis is $\{ (1,10) \}$.
-todo! WHAT 
+## Multiplicities of an Eigenvalue
+Let $\lambda_{0}$ be an eigenvalue of matrix $A$.
++ The **algebraic multiplicity** of $\lambda_{0}$ is the power $k$ with which $(\lambda-\lambda_{0})$ appears as a factor of $\det(\lambda I-A)$ - the characteristic polynomial of $A$.
+	+ For example: If $\det(\lambda I-A)=(\lambda-2)^{3}\cdot(\lambda+5)^{2}\dots$ then it's 3 for 2 and 2 for -5.
++ The **geometric multiplicity** of $\lambda_{0}$ is the dimension of the eigenspace corresponding to $\lambda_{0}$
+>Let $A$ be any square matrix. For every eigenvalue of $A$, its algebraic multiplicity is greater than or equal to its geometric multiplicity.
+

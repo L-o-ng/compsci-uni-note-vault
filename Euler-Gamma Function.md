@@ -17,4 +17,3 @@ So, $$\array{\eqalign{
 \text{So }\underline{\Gamma(n)=(n-1)!,\quad n \in \Bbb{Z}}
 }$$
 $\Gamma(x)$ is an extension of the factorial -1 to all **reals** > 0.
-todo!

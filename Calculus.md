@@ -21,4 +21,5 @@
 + [[Derivatives of Hyperbolic Functions]] : Used in [[Neural Network Activation Functions]]
 + [[Lagrange Multipliers]]
 + [[Series and Power Series]] : cross-link from [[Single Maths A]]
++ [[Nature of Bivariate Extrema]]
 + 

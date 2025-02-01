@@ -326,6 +326,7 @@ Phases
 Planning
 PLU
 Path
+Puzzle
 IHDR
 IDATx
 ID
@@ -1197,6 +1198,7 @@ implication
 iterations
 implemented
 interchanges
+investigated
 qi
 qH
 qSr
@@ -1958,6 +1960,9 @@ dictionary
 destroyed
 destroy
 deleted
+decompose
+degenerated
+degeneration
 oL
 om
 oV
@@ -2485,6 +2490,7 @@ Relations
 Recapitulation
 Requirements
 Ratio
+Rovers
 nR
 nW
 nT
@@ -4558,6 +4564,9 @@ starred
 specify
 studying
 saw
+separately
+singularity
+singularities
 TWe
 TBM
 Ti
@@ -4830,6 +4839,7 @@ Tests
 Test
 Traversal
 Take
+Team
 JP
 Ju
 JQ
@@ -5514,6 +5524,7 @@ Clearly
 Convergence
 Conditional
 Copy
+City
 cd
 ce
 cNCw
@@ -6017,6 +6028,7 @@ conditional
 confirm
 cross
 calculating
+clear
 kH
 ka
 kE
@@ -7820,6 +7832,7 @@ WeJ
 Ways
 Webster
 WHAT
+Wanderers
 uC
 uIOs
 uq
@@ -8048,6 +8061,8 @@ unsolvable
 useable
 usual
 unknowns
+universal
+update
 AI
 Az
 Ab
@@ -8303,6 +8318,7 @@ Another
 Arithmetico
 Absolutely
 Alternating
+Against
 KN
 KV
 KO
@@ -9291,6 +9307,8 @@ Siblings
 Simulate
 Sudoku
 Search
+Score
+Searching
 aQ
 ag
 aZ
@@ -9712,6 +9730,7 @@ alternating
 alternate
 arrange
 approximations
+advantage
 wE
 wU
 wF
@@ -10821,6 +10840,7 @@ GPUs
 GPGPUs
 Goal
 Generalised
+Goals
 xcb
 xa
 xX
@@ -11216,6 +11236,7 @@ USB
 Universal
 UML
 Unified
+United
 rn
 rM
 rI
@@ -11584,6 +11605,7 @@ recursive
 recursively
 rooted
 recurses
+rise
 ehO
 ef
 eWmI
@@ -11909,6 +11931,10 @@ extracting
 eigenspace
 executed
 extensions
+extended
+endpoints
+ensure
+excessive
 lD
 le
 lgAg
@@ -12662,6 +12688,7 @@ Fqpss
 Flexible
 Flags
 Free
+Football
 jY
 jx
 jRg
@@ -13595,6 +13622,7 @@ beats
 bHF
 backup
 barely
+beyond
 ED
 EXD
 Es
