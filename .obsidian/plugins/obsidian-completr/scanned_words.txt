@@ -1963,6 +1963,13 @@ deleted
 decompose
 degenerated
 degeneration
+detect
+decomposing
+diagonalisable
+diagonalise
+decomposes
+diagonalises
+diagonalised
 oL
 om
 oV
@@ -2218,6 +2225,7 @@ obtaining
 oEP
 offsets
 objective
+old
 RD
 Rpbr
 RJ
@@ -2491,6 +2499,7 @@ Recapitulation
 Requirements
 Ratio
 Rovers
+Repair
 nR
 nW
 nT
@@ -3331,6 +3340,7 @@ harmonic
 heart
 handled
 hyperbola
+heights
 pY
 pC
 pc
@@ -4567,6 +4577,10 @@ saw
 separately
 singularity
 singularities
+stop
+scales
+scaling
+shorthand
 TWe
 TBM
 Ti
@@ -4840,6 +4854,7 @@ Test
 Traversal
 Take
 Team
+Trace
 JP
 Ju
 JQ
@@ -6828,6 +6843,9 @@ traversed
 technique
 tests
 traversal
+trinode
+taller
+triangle
 Bh
 Bda
 Br
@@ -7087,6 +7105,7 @@ Between
 Blocked
 Blocks
 Backtracking
+BST
 ZY
 Zu
 ZzJ
@@ -8319,6 +8338,7 @@ Arithmetico
 Absolutely
 Alternating
 Against
+AVL
 KN
 KV
 KO
@@ -9309,6 +9329,9 @@ Sudoku
 Search
 Score
 Searching
+Stop
+Simply
+Similar
 aQ
 ag
 aZ
@@ -9731,6 +9754,7 @@ alternate
 arrange
 approximations
 advantage
+ancestor
 wE
 wU
 wF
@@ -10216,6 +10240,8 @@ vjrbsvydbivdfjfvnsk
 views
 valuation
 volunteers
+violate
+violated
 Ny
 Ngl
 Nz
@@ -11606,6 +11632,12 @@ recursively
 rooted
 recurses
 rise
+rebalancing
+rotations
+restructuring
+repair
+reversal
+reports
 ehO
 ef
 eWmI
@@ -11935,6 +11967,8 @@ extended
 endpoints
 ensure
 excessive
+equivalently
+eigenspaces
 lD
 le
 lgAg
@@ -12473,6 +12507,7 @@ HVL
 Have
 Hardware
 Harmonic
+Height
 FC
 FT
 FP
@@ -13623,6 +13658,8 @@ bHF
 backup
 barely
 beyond
+balancing
+bases
 ED
 EXD
 Es
@@ -13891,6 +13928,9 @@ Event
 Execution
 Exponentiating
 Eigenspaces
+Eigenvalues
+Early
+Eigendecomposition
 äq
 gh
 gCn
@@ -14147,6 +14187,7 @@ geometric
 generalisation
 grid
 generalise
+grandchild
 Üfrpp
 ÜAv
 ÜK

@@ -22,6 +22,7 @@
 + [[Characteristic Equations]]
 + [[Principal Component Analysis]]
 + [[Complex Vector Spaces]]
++ [[Eigendecomposition#Diagonalisation]]
 + 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}

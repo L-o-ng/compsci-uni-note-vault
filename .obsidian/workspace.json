@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3e84942b8c652bd3",
+        "id": "7b24fcb81c5863ee",
         "type": "tabs",
         "children": [
           {
-            "id": "77233fa9302428fc",
+            "id": "e5e7ace8c2669691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nature of Bivariate Extrema.md",
+                "file": "Eigendecomposition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nature of Bivariate Extrema"
+              "title": "Eigendecomposition"
+            }
+          },
+          {
+            "id": "84c68731e945d466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eigenvectors and Eigenvalues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eigenvectors and Eigenvalues"
             }
           }
         ]
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo!",
+                "query": "pairwise",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,48 +179,48 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "77233fa9302428fc",
+  "active": "e5e7ace8c2669691",
   "lastOpenFiles": [
+    "Eigenvectors and Eigenvalues.md",
+    "Linear Algebra.md",
+    "Eigendecomposition.md",
+    "Similarity in Linear Maps.md",
+    "Similarity of Matrices.md",
+    "Abelian Groups.md",
+    "Canvas.canvas",
+    "Untitled.canvas",
+    "AVL Trees.md",
+    "Balanced Binary Search Trees.md",
+    "Trees.md",
+    "Algorithms & Data Structures.md",
+    "LU Decomposition.md",
+    "Matrix Decomposition.md",
+    "Differentiation.md",
+    "Convergence on Power Series.md",
+    "Alternating Series.md",
+    "Convergence Tests.md",
+    "Infinity in Limits.md",
+    "Complex Power Series.md",
+    "Series and Power Series.md",
+    "Calculus on Series.md",
+    "Convergence.md",
+    "Limits of functions.md",
+    "Methods for Computing Limits.md",
+    "Limits.md",
+    "Nature of Bivariate Extrema.md",
     "Pictures/Multivariate Extrema Eigenvalue test.png",
     "Calculus.md",
-    "Nature of Bivariate Extrema.md",
-    "Array-Based Representation of a Binary Tree.md",
-    "Rooted Binary Trees.md",
-    "Trees.md",
-    "Linear Algebra.md",
-    "Complex Vector Spaces.md",
-    "Principal Component Analysis.md",
     "Pictures/Principal Component Analysis Example.png",
-    "Characteristic Equations.md",
-    "Balanced Binary Search Trees.md",
-    "AVL Trees.md",
     "Pictures/AVL Tree deletion.png",
     "Pictures/AVL Tree Insertion.png",
-    "Tree Rotations.md",
     "Pictures/Trinode Restructuring 2.png",
     "Pictures/Trinode Restructuring 1.png",
     "Pictures/Tree Rotation.png",
-    "Binary Search Tree.md",
-    "Convergence.md",
-    "Solving Complex Equations.md",
-    "Propositional Logic.md",
-    "Generalised Norms.md",
-    "Euler-Gamma Function.md",
-    "Database Design.md",
-    "Alternating Series.md",
-    "Infinity in Limits.md",
-    "Complex Power Series.md",
-    "Power Series and Taylor Series.md",
-    "Convergence on Power Series.md",
-    "Convergence Tests.md",
     "Pictures/Array representation binary tree.png",
     "Pictures/Arithmetic on Binary Trees.png",
     "Pictures/Integral Test for Convergence Further Examples.png",
-    "Pictures/Lagrange Multipliers 4.png",
     "Pictures/jpg",
-    "Untitled.canvas",
     "Input",
-    "Pictures",
-    "Canvas.canvas"
+    "Pictures"
   ]
 }

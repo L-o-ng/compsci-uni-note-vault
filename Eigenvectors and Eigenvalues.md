@@ -51,3 +51,5 @@ A\mathbf{x}=\begin{pmatrix}
 6
 \end{pmatrix}=3\mathbf{x}
 $$
+## Linear (In)Dependency
+>If vectors $\mathbf{v}_{1},\dots,\mathbf{v}_{n}$ are eigenvectors of a matrix $A$ corresponding to pairwise distinct eigenvalues $\lambda_{1},\dots,\lambda_{n}$ then the set $\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ is linearly independent.
