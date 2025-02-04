@@ -2500,6 +2500,7 @@ Requirements
 Ratio
 Rovers
 Repair
+Recursive
 nR
 nW
 nT
@@ -3064,6 +3065,7 @@ failure
 finitely
 fails
 fulfil
+facts
 hO
 hf
 hA
@@ -4023,6 +4025,7 @@ Dispatch
 Dis
 Done
 Divergence
+Dependency
 sDK
 sk
 sz
@@ -5540,6 +5543,7 @@ Convergence
 Conditional
 Copy
 City
+Conjugate
 cd
 ce
 cNCw
@@ -6044,6 +6048,8 @@ confirm
 cross
 calculating
 clear
+corresponds
+consist
 kH
 ka
 kE
@@ -6846,6 +6852,9 @@ traversal
 trinode
 taller
 triangle
+transform
+transformed
+tuples
 Bh
 Bda
 Br
@@ -7644,6 +7653,7 @@ mathematics
 marked
 modify
 match
+multiplicity
 WD
 WWx
 Wy
@@ -8994,6 +9004,8 @@ Merriam
 Modelling
 Multipliers
 Multiplier
+Multiplicity
+Multiplicities
 SQl
 SkBl
 SK
@@ -9332,6 +9344,7 @@ Searching
 Stop
 Simply
 Similar
+Symmetric
 aQ
 ag
 aZ
@@ -11969,6 +11982,7 @@ ensure
 excessive
 equivalently
 eigenspaces
+eigendecomposition
 lD
 le
 lgAg
@@ -13931,6 +13945,7 @@ Eigenspaces
 Eigenvalues
 Early
 Eigendecomposition
+Eigenvalue
 äq
 gh
 gCn

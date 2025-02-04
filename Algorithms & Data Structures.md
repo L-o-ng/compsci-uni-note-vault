@@ -19,6 +19,7 @@
 + [[Searching Algorithms]]
 + [[Selecting Algorithms]]
 + [[Trees]]
++ [[Priority Queues]]
 + 
 
 ## Important

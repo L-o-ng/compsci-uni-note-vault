@@ -8,3 +8,6 @@
 ### Recursive Algorithms
 + [[Merge Sort]]
 + [[Quick Sort]]
+### Other Algorithms
++ [[Heap Sort]]
++ 

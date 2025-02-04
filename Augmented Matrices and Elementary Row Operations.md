@@ -96,5 +96,5 @@ x_{3}-x_{4}&=5
 + The variables corresponding to the leading 1s, here $x_{1}$ and $x_{3}$ are the **leading variables**.
 + The other 3 are **free variables**.
 + Generally, the solution is the leading variables expressed by the free variables.
-+ For the above system, $x_{1}=x_{2}-2x_{4}+2,x_{3}=x_{4}+5$, $x_{2},x_{4}$ are arbitrary numbers.
++ For the above system, $x_{1}=x_{2}-2x_{4}+2,x_{3}=-x_{4}+5$, $x_{2},x_{4}$ are arbitrary numbers.
 
