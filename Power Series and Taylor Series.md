@@ -11,4 +11,8 @@ For example, we saw for the geometric series that $\sum_{n=0}^{\infty}x^{n}= \fr
 + [[Convergence on Power Series]]
 + [[Complex Power Series]]
 + [[Calculus on Power Series]]
++ [[Generalised Power Series]]
++ [[Taylor Series]]
++ [[Analytic Functions]]
++ [[Taylor's Theorem]]
 + 

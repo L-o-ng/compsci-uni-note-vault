@@ -15,4 +15,4 @@ If we take the geometric series and set $z=-w^{2}$ we get:
 $$
 P(w)=\sum_{n=0}^{\infty} (-w^{2})^{n}=\sum_{n=0}^{\infty} (-1)^{n}w^{2n}= \frac{1}{1+w^{2}}
 $$
-This complex-valued series converges for $|w|<1$, since it is a geometric series in $-w^{2}$ and converges therefore for $|w|^{2}=|-w^{2}|<1$ and has singularities at $w=\pm i$ on the circle $|w|=1$
+This complex-valued series converges for $|w|<1$, since it is a geometric series in $-w^{2}$ and converges therefore for $|w|^{2}=|-w^{2}|<1$ and has singularities at $w=\pm i$ on the circle $|w|=1$.

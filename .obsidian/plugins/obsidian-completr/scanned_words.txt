@@ -327,6 +327,8 @@ Planning
 PLU
 Path
 Puzzle
+Physically
+Performance
 IHDR
 IDATx
 ID
@@ -623,6 +625,8 @@ Independence
 Institute
 Informal
 Implement
+Indices
+Interestingly
 yZ
 yC
 yU
@@ -1199,6 +1203,9 @@ iterations
 implemented
 interchanges
 investigated
+implementation
+inserting
+initial
 qi
 qH
 qSr
@@ -1394,6 +1401,7 @@ qfF
 qCg
 queries
 quotient
+queues
 Xz
 XQ
 XX
@@ -2501,6 +2509,8 @@ Ratio
 Rovers
 Repair
 Recursive
+Replace
+Recurse
 nR
 nW
 nT
@@ -2739,6 +2749,7 @@ notion
 numerator
 nonexistent
 navigate
+namely
 fg
 fU
 fk
@@ -3343,6 +3354,10 @@ heart
 handled
 hyperbola
 heights
+heaps
+highest
+heap
+holding
 pY
 pC
 pc
@@ -3729,6 +3744,9 @@ parent
 predecessor
 properly
 printed
+priorities
+peel
+progressively
 DQ
 DM
 DU
@@ -4026,6 +4044,7 @@ Dis
 Done
 Divergence
 Dependency
+Delete
 sDK
 sk
 sz
@@ -4584,6 +4603,9 @@ stop
 scales
 scaling
 shorthand
+swap
+sitting
+subgroup
 TWe
 TBM
 Ti
@@ -4858,6 +4880,9 @@ Traversal
 Take
 Team
 Trace
+Tighter
+Triangles
+Taylor
 JP
 Ju
 JQ
@@ -5544,6 +5569,9 @@ Conditional
 Copy
 City
 Conjugate
+Call
+Checking
+Closure
 cd
 ce
 cNCw
@@ -6050,6 +6078,8 @@ calculating
 clear
 corresponds
 consist
+calculation
+course
 kH
 ka
 kE
@@ -6503,6 +6533,7 @@ Lagrange
 Lagrangian
 Lemma
 Lookup
+Loose
 tJ
 tf
 tR
@@ -6855,6 +6886,7 @@ triangle
 transform
 transformed
 tuples
+theory
 Bh
 Bda
 Br
@@ -7115,6 +7147,7 @@ Blocked
 Blocks
 Backtracking
 BST
+Bound
 ZY
 Zu
 ZzJ
@@ -7654,6 +7687,7 @@ marked
 modify
 match
 multiplicity
+multiplied
 WD
 WWx
 Wy
@@ -7862,6 +7896,7 @@ Ways
 Webster
 WHAT
 Wanderers
+Whilst
 uC
 uIOs
 uq
@@ -9006,6 +9041,9 @@ Multipliers
 Multiplier
 Multiplicity
 Multiplicities
+Max
+Min
+Move
 SQl
 SkBl
 SK
@@ -9345,6 +9383,10 @@ Stop
 Simply
 Similar
 Symmetric
+Swap
+Subgroup
+Subtracting
+Sigma
 aQ
 ag
 aZ
@@ -9768,6 +9810,8 @@ arrange
 approximations
 advantage
 ancestor
+accepts
+appropriately
 wE
 wU
 wF
@@ -10025,6 +10069,7 @@ wIX
 weather
 weighted
 wake
+whichever
 vh
 vU
 vx
@@ -11276,6 +11321,8 @@ Universal
 UML
 Unified
 United
+Upper
+Uses
 rn
 rM
 rI
@@ -11651,6 +11698,7 @@ restructuring
 repair
 reversal
 reports
+ranges
 ehO
 ef
 eWmI
@@ -11983,6 +12031,8 @@ excessive
 equivalently
 eigenspaces
 eigendecomposition
+extract
+exit
 lD
 le
 lgAg
@@ -12522,6 +12572,9 @@ Have
 Hardware
 Harmonic
 Height
+Heap
+Heaps
+Heapify
 FC
 FT
 FP
@@ -12738,6 +12791,7 @@ Flexible
 Flags
 Free
 Football
+FSM
 jY
 jx
 jRg
@@ -13946,6 +14000,7 @@ Eigenvalues
 Early
 Eigendecomposition
 Eigenvalue
+Else
 äq
 gh
 gCn
