@@ -20,4 +20,9 @@ Once the *formulae* of a logic have been defined, there are 2 fundamental aspect
 + [[Gödel's Incompleteness Theorems]]
 + [[The Church-Turing Thesis]]
 + [[Propositional Logic]]
++ [[Functional Completeness]]
++ [[Conjunctive Normal Form]]
++ [[Proof Systems on Propositional Logic]] - In particular, [[Proof Systems on Propositional Logic#Well-Known Rules|Rules]]
++ [[Natural Deduction]]
++ [[Resolution as a Proof System]]
 + 

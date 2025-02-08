@@ -22,5 +22,6 @@ This may tend to an individual limit.
 + [[Alternating Series]]
 + [[Approximation of Series]]
 + [[Power Series and Taylor Series]]
++ [[Evaluating Limits with Taylor Series]]
 + 
 

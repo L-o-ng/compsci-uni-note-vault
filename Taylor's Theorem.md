@@ -17,4 +17,16 @@ Taylor's theorem lets use use bounds like this to bound the error in a given pol
 ## Example
 Q: Find a Taylor polynomial approximation to $\cos(0.5)$ accurate to $\pm0.01$.
 A:
-todo!
+We take $f(x)=\cos x, f'(x)=\sin x,f''(x)=-\cos x,f'''(x)=-\sin x,f^{(4)}(x)=\cos x$ and so on. Consider an expansion around $x=0$, since we can evaluate the derivatives there: $f(0)=1, f'(0)=0, f''(0)=-1,f'''(0)=0$ and so on. The simplest approximation is $$p_{1}(x)=f(0)+xf'(0)=1$$ This will not meet the accuracy target. We can check this with the remainder term:
+$$
+R_{2}(x)=\frac{1}{2}f''(\xi)x^{2},R_{2}(0.5)=-\frac{1}{8}\cos \xi
+$$
+All we can say about $\cos \xi$ is that it takes values in $[-1,1]$, so we know that $|R_{2}(0.5)|\leq \frac{1}{8}$, so we need a smaller error.
+The next Taylor polynomials are $p_{2}(x)=p_{3}(x)=1-\frac{1}{2}x^{2}$, leading to an error:
+$$
+R_{4}(0.5)=\frac{f^{(4)}(\xi)}{4!}(0.5)^{4}=0.0026\cos \xi
+$$
+for some $\xi \in(0,0.5)$, so $|R_{4}(0.5)|\leq 0.0026$, so $p_{3}$ is a good enough approximation:
+$$
+\cos(0.5)\approx p_{3}(0.5)=1-\frac{1}{2}(0.5)^{2}=0.875
+$$
