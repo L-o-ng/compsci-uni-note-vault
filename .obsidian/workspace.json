@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "733e9ef8831512a0",
+            "id": "b5ce9cf9cb099d48",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proof Systems on Propositional Logic.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proof Systems on Propositional Logic"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radius of conv",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,12 +92,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof Systems on Propositional Logic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Proof Systems on Propositional Logic"
+              "title": "Outgoing links"
             }
           },
           {
@@ -139,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof Systems on Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Proof Systems on Propositional Logic"
+              "title": "Backlinks"
             }
           }
         ]
@@ -169,34 +163,34 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "733e9ef8831512a0",
+  "active": "b5ce9cf9cb099d48",
   "lastOpenFiles": [
-    "Uses of Logic.md",
-    "Proof Systems on Propositional Logic.md",
-    "Resolution as a Proof System.md",
-    "Logic.md",
-    "Natural Deduction.md",
-    "Functional Completeness.md",
-    "Conjunctive Normal Form.md",
-    "Propositional Logic.md",
-    "SAT-Solving.md",
-    "Functionally Complete Sets.md",
-    "Evaluating Limits with Taylor Series.md",
+    "Not Work.md",
+    "LU Decomposition.md",
+    "Inner Product Spaces.md",
+    "Standard Theorems on Inner Product Spaces.md",
+    "Complex Inner Product.md",
+    "Other Inner Products.md",
+    "Evaluation Inner Product.md",
+    "DnD1 - Lore.md",
+    "Standard Inner Product.md",
+    "Characteristic Equations.md",
+    "DnD1 - Story.md",
+    "DnD1 - Character.md",
+    "DnD.md",
+    "Matrix Inner Product.md",
+    "Weighted Euclidean Inner Product.md",
+    "Orthonormality.md",
+    "Geometry.md",
+    "Norms.md",
+    "Convergence.md",
     "Series and Power Series.md",
-    "Taylor's Theorem.md",
-    "Power Series and Taylor Series.md",
-    "CT Week 14.md",
-    "Computational Thinking Coursework.md",
-    "Analytic Functions.md",
     "Taylor Series.md",
-    "Linear Approximations.md",
-    "Generalised Power Series.md",
-    "Calculus on Power Series.md",
-    "Convergence on Power Series.md",
-    "Complex Power Series.md",
-    "Nature of Bivariate Extrema.md",
-    "Calculus.md",
-    "Heaps.md",
+    "P-Norms.md",
+    "Linear Algebra.md",
+    "Generalised Norms.md",
+    "Matrix Decomposition.md",
+    "Eigendecomposition.md",
     "Pictures/Heap Data Structure Example.png",
     "Canvas.canvas",
     "Untitled.canvas",

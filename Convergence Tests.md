@@ -104,7 +104,7 @@ $S=\sum_{n=1}^{\infty}a_{n}$ is called ***conditionally convergent*** if $S$ con
 
 ---
 
-Absolutely convergent series are "well-behaved" in the sense that the order of all the terms in the summation can be changed without any impact on the sum of the series. This is not true for conditional convergence.
+Absolutely convergent series are "well-behaved" in the sense that the order of all the terms in the summation can be changed without any impact on the sum of the series. This is not true for conditional convergence.`
 The [[Riemann Rearrangement Theorem]] means you can ==never change the order of terms in a conditionally convergent series==.
 
 We can use the fact that absolutely convergent series are also normally convergent to generalise some of the previous tests.

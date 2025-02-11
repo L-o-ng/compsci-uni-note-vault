@@ -23,6 +23,7 @@
 + [[Principal Component Analysis]]
 + [[Complex Vector Spaces]]
 + [[Eigendecomposition#Diagonalisation]]
++ [[Inner Product Spaces]]
 + 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}

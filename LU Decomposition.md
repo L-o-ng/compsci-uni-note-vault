@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 >An **LU Decomposition** of a square matrix $A$ is a product representation $A=LU$ where $L$ is *lower triangular* and $U$ is *upper triangular*.
 

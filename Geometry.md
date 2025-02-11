@@ -4,12 +4,8 @@
 
 Geometry concerns the length of vectors; **norms**, and angles *between* vectors.
 ## Notes
-+ [[Euclidean Norm]]
++ [[Norms]]
 + [[Unit Vectors]]
-+ [[Generalised Norms]]
-+ [[Manhattan Norm]]
-+ [[P-Norms]]
-+ [[Other Norms]]
 + [[Non-Euclidean Geometry]]
 + [[Dot Product]]
 + [[Orthonormality]]
