@@ -4,17 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "2c141439ccf5b8d6",
+        "id": "be0ae9494f45eab9",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ce9cf9cb099d48",
+            "id": "e62a38b804df65f1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Selection and Adversaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Selection and Adversaries"
+            }
+          },
+          {
+            "id": "387e66e12b6c905e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stronger Sorting Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stronger Sorting Algorithms"
+            }
+          },
+          {
+            "id": "b432030671c1efb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Taylor Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taylor Series"
             }
           }
         ]
@@ -92,11 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fundamental Theorem of Algebra.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Fundamental Theorem of Algebra"
             }
           },
           {
@@ -134,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Selection and Adversaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +177,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Selection and Adversaries"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,34 +198,35 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "b5ce9cf9cb099d48",
+  "active": "e62a38b804df65f1",
   "lastOpenFiles": [
+    "Taylor Series.md",
+    "Taylor's Theorem.md",
+    "Selection and Adversaries.md",
+    "Trees.md",
+    "Sorting Trees and Decision Trees.md",
+    "Stronger Sorting Algorithms.md",
+    "Algorithms & Data Structures.md",
+    "Sorting Algorithms.md",
+    "Searching Algorithms.md",
+    "Other Inner Products.md",
+    "Fundamental Theorem of Algebra.md",
+    "Evaluation Inner Product.md",
+    "Inner Product Spaces.md",
+    "Complex Inner Product.md",
+    "Standard Theorems on Inner Product Spaces.md",
+    "Linear Algebra.md",
+    "Heap Sort.md",
+    "Summations.md",
+    "Natural Deduction.md",
+    "Logic.md",
+    "Proof Systems on Propositional Logic.md",
+    "Pictures/Decision Tree Selection Sort.png",
+    "Heaps.md",
+    "Standard Inner Product.md",
+    "Weighted Euclidean Inner Product.md",
     "Not Work.md",
     "LU Decomposition.md",
-    "Inner Product Spaces.md",
-    "Standard Theorems on Inner Product Spaces.md",
-    "Complex Inner Product.md",
-    "Other Inner Products.md",
-    "Evaluation Inner Product.md",
-    "DnD1 - Lore.md",
-    "Standard Inner Product.md",
-    "Characteristic Equations.md",
-    "DnD1 - Story.md",
-    "DnD1 - Character.md",
-    "DnD.md",
-    "Matrix Inner Product.md",
-    "Weighted Euclidean Inner Product.md",
-    "Orthonormality.md",
-    "Geometry.md",
-    "Norms.md",
-    "Convergence.md",
-    "Series and Power Series.md",
-    "Taylor Series.md",
-    "P-Norms.md",
-    "Linear Algebra.md",
-    "Generalised Norms.md",
-    "Matrix Decomposition.md",
-    "Eigendecomposition.md",
     "Pictures/Heap Data Structure Example.png",
     "Canvas.canvas",
     "Untitled.canvas",
@@ -202,7 +238,6 @@
     "Pictures/Trinode Restructuring 1.png",
     "Pictures/Tree Rotation.png",
     "Pictures/Array representation binary tree.png",
-    "Pictures/Arithmetic on Binary Trees.png",
     "Pictures/jpg",
     "Input",
     "Pictures"
