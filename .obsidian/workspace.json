@@ -4,52 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "be0ae9494f45eab9",
+        "id": "013cfb3b54a3f7c6",
         "type": "tabs",
         "children": [
           {
-            "id": "e62a38b804df65f1",
+            "id": "1bb313a5d3cff2e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Selection and Adversaries.md",
+                "file": "Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selection and Adversaries"
+              "title": "Logic"
             }
           },
           {
-            "id": "387e66e12b6c905e",
+            "id": "0865f98342036659",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stronger Sorting Algorithms.md",
+                "file": "Resolution as a Proof System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stronger Sorting Algorithms"
-            }
-          },
-          {
-            "id": "b432030671c1efb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Taylor Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Taylor Series"
+              "title": "Resolution as a Proof System"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,15 +184,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "e62a38b804df65f1",
+  "active": "0865f98342036659",
   "lastOpenFiles": [
+    "Logic.md",
+    "Generalised Resolution.md",
+    "Resolution as a Proof System.md",
+    "Algorithms & Data Structures.md",
     "Taylor Series.md",
-    "Taylor's Theorem.md",
+    "Stronger Sorting Algorithms.md",
+    "Pictures/MSI Chip 74x283.png",
+    "Pictures/Mr Based.png",
+    "Pictures/Mr Acid.png",
+    "Computer Systems.md",
     "Selection and Adversaries.md",
+    "Taylor's Theorem.md",
     "Trees.md",
     "Sorting Trees and Decision Trees.md",
-    "Stronger Sorting Algorithms.md",
-    "Algorithms & Data Structures.md",
     "Sorting Algorithms.md",
     "Searching Algorithms.md",
     "Other Inner Products.md",
@@ -219,14 +212,10 @@
     "Heap Sort.md",
     "Summations.md",
     "Natural Deduction.md",
-    "Logic.md",
     "Proof Systems on Propositional Logic.md",
     "Pictures/Decision Tree Selection Sort.png",
     "Heaps.md",
     "Standard Inner Product.md",
-    "Weighted Euclidean Inner Product.md",
-    "Not Work.md",
-    "LU Decomposition.md",
     "Pictures/Heap Data Structure Example.png",
     "Canvas.canvas",
     "Untitled.canvas",
@@ -235,9 +224,6 @@
     "Pictures/AVL Tree deletion.png",
     "Pictures/AVL Tree Insertion.png",
     "Pictures/Trinode Restructuring 2.png",
-    "Pictures/Trinode Restructuring 1.png",
-    "Pictures/Tree Rotation.png",
-    "Pictures/Array representation binary tree.png",
     "Pictures/jpg",
     "Input",
     "Pictures"

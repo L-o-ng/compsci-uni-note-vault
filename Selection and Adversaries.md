@@ -34,3 +34,4 @@ When the algorithm asks to compare $i:j$, reply as follows:
 One comparison gives $\leq 1$ bits of new relevant information.
 In total, the algorithm needs $n-1$ bits of information to make a decision.
 Hence $\geq n-1$ comparisons are necessary.
+
