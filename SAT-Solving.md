@@ -16,4 +16,16 @@ Suppose we further consider formulae where:
 2) Every variable appears in at most $s$ clauses.
 This yields the $(k,s)$-SAT problem.
 Every instance of $(3,3)$-SAT is satiable, but $(3,4)$-SAT is NP-complete.
+### Automated Reasoning
++ Software and hardware verification;
++ AI - planning and constraint satisfaction;
++ Circuit design;
++ Cryptography;
++ Databases;
++ Mathematical theorem proving.
 ## Notes
++ [[Motivations for SAT-Solving]]
++ [[DIMACS Format]]
++ [[Satisfiability of Formulae and Clause-Sets]]
++ [[List of Defining Clause-Sets]]
++ todo! A Search Algorithm onwards

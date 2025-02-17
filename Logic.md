@@ -25,4 +25,7 @@ Once the *formulae* of a logic have been defined, there are 2 fundamental aspect
 + [[Proof Systems on Propositional Logic]] - In particular, [[Proof Systems on Propositional Logic#Well-Known Rules|Rules]]
 + [[Natural Deduction]]
 + [[Resolution as a Proof System]]
++ [[Other Logic Systems]]
++ [[Satisfactions and Consequences in Logic]]
++ [[SAT-Solving]]
 + 

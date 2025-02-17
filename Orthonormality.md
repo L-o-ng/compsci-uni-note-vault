@@ -5,7 +5,7 @@ Vectors are *normal* if their [[Euclidean Norm]], or $\ell_{2}$ norm, is 1.
 A set of vectors is *orthonormal* if they are all orthogonal and normal.
 
 It is often useful to have an **orthonormal basis** for a [[Vector Spaces|Vector Space]].
-## Orthogonality
+## Orthogonal Complement
 >Vectors $\mathbf{u},\mathbf{v}$ in an inner product space $V$ are called **orthogonal** if $\langle\mathbf{u},\mathbf{v}\rangle=0$.
 
 >Let $W$ be a subspace in an inner product space $V$. Then the set:$$W^{\perp}=\{ \mathbf{x}\in V|\langle\mathbf{u},\mathbf{x}\rangle=0\forall \mathbf{u}\in W \}$$is called the **orthogonal complement** of $W$.

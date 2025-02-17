@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "013cfb3b54a3f7c6",
+        "id": "e13171f587d1bc90",
         "type": "tabs",
         "children": [
           {
-            "id": "1bb313a5d3cff2e5",
+            "id": "bf847911fb871151",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Logic.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Logic"
-            }
-          },
-          {
-            "id": "0865f98342036659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resolution as a Proof System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resolution as a Proof System"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "todo!",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Selection and Adversaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Selection and Adversaries"
+              "title": "Backlinks"
             }
           }
         ],
@@ -184,38 +165,39 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "0865f98342036659",
+  "active": "bf847911fb871151",
   "lastOpenFiles": [
+    "Orthogonal and Orthonormal Sets of Vectors.md",
+    "Computational Thinking Panel Coursework.md",
+    "CThPanel Week 2.md",
+    "CThPanel Week 3.md",
+    "Computational Thinking Coursework Speech.md",
+    "The Gram-Schmidt Process.md",
+    "Groups.md",
+    "Similarity of Matrices.md",
+    "Linear Algebra.md",
+    "Inner Product Spaces.md",
+    "Orthonormality.md",
+    "SAT-Solving.md",
+    "Satisfiability of Formulae and Clause-Sets.md",
+    "Standard Inner Product.md",
+    "Other Inner Products.md",
+    "List of Defining Clause-Sets.md",
+    "Lagrange Multipliers.md",
     "Logic.md",
-    "Generalised Resolution.md",
+    "Natural Deduction.md",
     "Resolution as a Proof System.md",
-    "Algorithms & Data Structures.md",
     "Taylor Series.md",
-    "Stronger Sorting Algorithms.md",
+    "Calculus of Limits Theorem.md",
+    "MfCS Week 6.md",
+    "Mathematics for Computer Science Coursework.md",
+    "Taylor's Theorem.md",
+    "MfCS Week 16.md",
+    "Pictures/SAT-Solving Motivation Circuit Example.png",
     "Pictures/MSI Chip 74x283.png",
     "Pictures/Mr Based.png",
     "Pictures/Mr Acid.png",
-    "Computer Systems.md",
-    "Selection and Adversaries.md",
-    "Taylor's Theorem.md",
-    "Trees.md",
-    "Sorting Trees and Decision Trees.md",
-    "Sorting Algorithms.md",
-    "Searching Algorithms.md",
-    "Other Inner Products.md",
-    "Fundamental Theorem of Algebra.md",
-    "Evaluation Inner Product.md",
-    "Inner Product Spaces.md",
-    "Complex Inner Product.md",
-    "Standard Theorems on Inner Product Spaces.md",
-    "Linear Algebra.md",
-    "Heap Sort.md",
-    "Summations.md",
-    "Natural Deduction.md",
-    "Proof Systems on Propositional Logic.md",
     "Pictures/Decision Tree Selection Sort.png",
-    "Heaps.md",
-    "Standard Inner Product.md",
     "Pictures/Heap Data Structure Example.png",
     "Canvas.canvas",
     "Untitled.canvas",
@@ -223,7 +205,6 @@
     "Pictures/Principal Component Analysis Example.png",
     "Pictures/AVL Tree deletion.png",
     "Pictures/AVL Tree Insertion.png",
-    "Pictures/Trinode Restructuring 2.png",
     "Pictures/jpg",
     "Input",
     "Pictures"
