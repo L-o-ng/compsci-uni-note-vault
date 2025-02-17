@@ -20,6 +20,7 @@
 + [[Selecting Algorithms]]
 + [[Trees]]
 + [[Priority Queues]]
++ [[Graph Theory]]
 + 
 
 ## Important

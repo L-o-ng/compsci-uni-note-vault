@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e13171f587d1bc90",
+        "id": "4643695f96b44440",
         "type": "tabs",
         "children": [
           {
-            "id": "bf847911fb871151",
+            "id": "dcced01ffab7067d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Graph Classes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Graph Classes"
             }
           }
         ]
@@ -135,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Graph Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Graph Classes"
             }
           }
         ],
@@ -165,8 +170,21 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "bf847911fb871151",
+  "active": "dcced01ffab7067d",
   "lastOpenFiles": [
+    "Pictures/Graph Classes Other.png",
+    "Pictures/Graph Class C4.png",
+    "Pictures/Graph Class P3.png",
+    "Pictures/Pasted image 20250217174224.png",
+    "Graph Theory.md",
+    "Graph Classes.md",
+    "Graph Theory Terminology.md",
+    "Types of Graph.md",
+    "Pictures/Types of Graph Example 3.png",
+    "Pictures/Types of Graph Example 2.png",
+    "Pictures/Types of Graph Example 1.png",
+    "Algorithms & Data Structures.md",
+    "Selection and Adversaries.md",
     "Orthogonal and Orthonormal Sets of Vectors.md",
     "Computational Thinking Panel Coursework.md",
     "CThPanel Week 2.md",
@@ -186,25 +204,12 @@
     "Lagrange Multipliers.md",
     "Logic.md",
     "Natural Deduction.md",
-    "Resolution as a Proof System.md",
-    "Taylor Series.md",
-    "Calculus of Limits Theorem.md",
-    "MfCS Week 6.md",
-    "Mathematics for Computer Science Coursework.md",
-    "Taylor's Theorem.md",
-    "MfCS Week 16.md",
     "Pictures/SAT-Solving Motivation Circuit Example.png",
     "Pictures/MSI Chip 74x283.png",
     "Pictures/Mr Based.png",
     "Pictures/Mr Acid.png",
-    "Pictures/Decision Tree Selection Sort.png",
-    "Pictures/Heap Data Structure Example.png",
     "Canvas.canvas",
     "Untitled.canvas",
-    "Pictures/Multivariate Extrema Eigenvalue test.png",
-    "Pictures/Principal Component Analysis Example.png",
-    "Pictures/AVL Tree deletion.png",
-    "Pictures/AVL Tree Insertion.png",
     "Pictures/jpg",
     "Input",
     "Pictures"
