@@ -339,6 +339,7 @@ Phandulin
 Pages
 Push
 Projections
+Phandelver
 IHDR
 IDATx
 ID
@@ -642,6 +643,8 @@ Integrating
 Inner
 Invited
 IEX
+Interrogation
+Infiltrate
 yZ
 yC
 yU
@@ -1238,6 +1241,8 @@ insatiability
 indicated
 inductively
 implement
+isomorphic
+infiltrate
 qi
 qH
 qSr
@@ -2033,6 +2038,8 @@ describes
 dKa
 devised
 double
+dwarves
+deadly
 oL
 om
 oV
@@ -2582,6 +2589,8 @@ RgJ
 Reasoning
 Resolving
 Represent
+Rusty
+Reyna
 nR
 nW
 nT
@@ -2826,6 +2835,7 @@ neighbourhood
 normalise
 negate
 nonempty
+negotiation
 fg
 fU
 fk
@@ -3456,6 +3466,8 @@ horses
 hNI
 hDJ
 halt
+hypercube
+hostage
 pY
 pC
 pc
@@ -3858,6 +3870,9 @@ permutations
 pux
 pVdD
 planning
+pictured
+play
+pact
 DQ
 DM
 DU
@@ -4174,6 +4189,7 @@ Dru
 DDDB
 Discrete
 Defining
+Dimensional
 sDK
 sk
 sz
@@ -4764,6 +4780,12 @@ satisfiability
 satisfiable
 simplifies
 subspaces
+subgraph
+sent
+slaughter
+spider
+splitting
+siege
 TWe
 TBM
 Ti
@@ -5052,6 +5074,7 @@ Theoretical
 Tseitin
 Transformation
 Tseitins
+Tankard
 JP
 Ju
 JQ
@@ -5760,6 +5783,9 @@ Clause
 Centre
 CThPanel
 CthPanel
+Complete
+Cragmore
+Castle
 cd
 ce
 cNCw
@@ -6305,6 +6331,11 @@ consisting
 constructing
 completed
 confusion
+cube
+cubes
+chains
+captured
+capture
 kH
 ka
 kE
@@ -6495,6 +6526,7 @@ kbLH
 kHI
 knowing
 knaves
+kills
 LL
 LN
 Lx
@@ -7138,6 +7170,7 @@ tbc
 tov
 tem
 tautological
+terrified
 Bh
 Bda
 Br
@@ -7407,6 +7440,7 @@ Barkeep
 BdF
 Bia
 BSg
+Bipartite
 ZY
 Zu
 ZzJ
@@ -7957,6 +7991,9 @@ meet
 mountain
 mountains
 magical
+mentions
+magic
+monsters
 WD
 WWx
 Wy
@@ -8402,6 +8439,7 @@ update
 unsatisfiable
 umbrella
 uniquely
+unsurprised
 AI
 Az
 Ab
@@ -8669,6 +8707,7 @@ AIO
 ADRL
 Automated
 Apply
+Ambushed
 KN
 KV
 KO
@@ -9058,6 +9097,7 @@ Validity
 VIm
 VPH
 Vkko
+Victory
 Mz
 MR
 Mc
@@ -9341,6 +9381,7 @@ Mountain
 Meet
 MSE
 Moreover
+Minor
 SQl
 SkBl
 SK
@@ -9697,6 +9738,8 @@ Sub
 Solvers
 Schmidt
 Syntactic
+Successfully
+Spells
 aQ
 ag
 aZ
@@ -10135,6 +10178,9 @@ adventurer
 adversary
 anymore
 allowing
+abducted
+ago
+attacked
 wE
 wU
 wF
@@ -10401,6 +10447,8 @@ weights
 wise
 wuO
 wet
+wolf
+wizards
 vh
 vU
 vx
@@ -11271,6 +11319,8 @@ Gundren
 Growing
 Greet
 Gram
+Graphs
+Goblins
 xcb
 xa
 xX
@@ -12065,6 +12115,7 @@ rjMM
 roM
 raining
 resolve
+repelled
 ehO
 ef
 eWmI
@@ -12422,6 +12473,7 @@ equisatisfiability
 equisatisfiable
 eliminated
 entity
+eating
 lD
 le
 lgAg
@@ -12731,6 +12783,7 @@ log
 lost
 lsb
 lie
+located
 Ho
 Hf
 HdS
@@ -12977,6 +13030,8 @@ Hamming
 Hallwinter
 Hermitian
 HyR
+Hideout
+Hear
 FC
 FT
 FP
@@ -13196,6 +13251,8 @@ Football
 FSM
 Facts
 Fact
+Fandalin
+Forge
 jY
 jx
 jRg
@@ -13390,6 +13447,7 @@ jyH
 jumps
 jRe
 jewellery
+jail
 Ow
 Osg
 OguH
@@ -13616,6 +13674,7 @@ Orsik
 Orthogonality
 Orthogonal
 Orthogonalisation
+Orcs
 QiG
 QFJ
 QUR
@@ -14149,6 +14208,7 @@ black
 bodies
 brothers
 become
+bipartite
 ED
 EXD
 Es
@@ -14693,6 +14753,9 @@ guilt
 gear
 gone
 gdJ
+goblins
+goblin
+gnomes
 Üfrpp
 ÜAv
 ÜK

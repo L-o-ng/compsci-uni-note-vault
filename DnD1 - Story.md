@@ -17,5 +17,19 @@
 + Set off to Phandulin;
 + Come to a clearing, deep within a valley;
 + There are 2 horses with arrows scattered in their bodies;
+## Session 1
++ Ambushed by 3 goblins;
++ Orsik unsurprised;
++ Victory; Interrogation: Goblins sent from the Cragmore Hideout;
++ Gundren and Sildar abducted by goblins; Sildar lies in Cragmore, with Gundren perhaps taken elsewhere;
++ Agree to infiltrate with terrified goblin;
++ Infiltrate Cragmore; Hear chains etc;
++ Free a wolf which runs away;
++ Minor hostage situation involving Sildar; Reyna kills him after a brief unsuccessful negotiation;
++ Successfully save Sildar and slaughter goblins;
++ Sildar mentions that Gundren is in the goblin "eating jail";
++ The captured goblin mentions that the "black spider" ordered the Cragmore goblins to capture Gundren;
++ Continue to Phandalin with Sildar, where he reveals secrets about Waveecho cave;
++ Arrive at Phandalin, which appears to be a lawless town;
 tbc!
 
