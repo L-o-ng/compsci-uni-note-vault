@@ -37,7 +37,7 @@ $$
 Let $\lambda_{0}$ be an eigenvalue of $A$ and consider the equation $(\lambda_{0}I-A)\mathbf{x}=0$.
 The **null space** of $\lambda_{0}I-A$ is called the **eigenspace** of $A$ corresponding to $\lambda_{0}$.
 The non-0 vectors in this space are the eigenvectors of $A$ corresponding to $\lambda_{0}$.
-To find a basis in this subspace, use the algorithm for finding a basis in the null space matrix. (todo! locate this and link)
+To find a basis in this subspace, use the algorithm for finding a basis in the null space matrix.
 ### Example
 Find (a basis of) the eigenspace of $A=\begin{pmatrix}2&-1\\10&-9\end{pmatrix}$ corresponding to $\lambda=-8$.
 

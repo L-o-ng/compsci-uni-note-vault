@@ -17,7 +17,15 @@ OS main functions:
 + Maintains filesystem - access restrictions
 + Deals with networking and provides security.
 + Facilitates error handling and recovery.
-## Subtopics
+## Notes
++ [[Operating System Operations]]
++ [[Privileged OS Operations]]
++ [[Operating System Types]]
++ [[Operating System Services]]
++ [[User Interfaces]]
++ [[Implementing an Operating System]]
++ [[Operating System Structure]]
++ 
+## Small Notes
 + [[Input & Output]]
 + [[Processes]]
-+ 

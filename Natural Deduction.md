@@ -120,5 +120,155 @@ q \implies r
 p \implies (q \implies r) & \implies i 2-6
 \end{array}
 $$
-
-todo! add all the examples :(
+### Example 4 - $\vee$-elimination
+Here we prove the sequent $q \implies r \vdash (p\vee q)\implies (p\vee r)$:
+$$
+\begin{array}{cc|c}
+1.& q \implies r & \text{premise} \\
+\array{
+2.\\3.\\4.\\5.\\6.\\7.\\8.\\
+} &
+\boxed{\array{
+p \vee q \\
+\boxed{\array{
+p  \\
+p \vee r 
+}} \\
+\boxed{\array{
+q  \\
+r  \\
+p \vee r
+}} \\
+p \vee r
+}} &
+\array{
+\text{assumption} \\
+\text{assumption} \\
+\vee i 3 \\
+\text{assumption} \\
+\implies e 1 5 \\
+\vee i 6 \\
+\vee e 2-7
+} \\
+9.& (p\vee q)\implies(p \vee r)&\implies i 2-8
+\end{array}
+$$
+### Example 5 - Complex $\vee$-elimination
+Here we prove the sequent $p \vee (q \vee r) \vdash(p\vee q)\vee r$:
+$$
+\begin{array}{cc|c}
+1.& p \vee (q \vee r) & \text{premise} \\
+\array{
+2.\\3.\\4.
+} &
+\boxed{\array{
+p  \\
+p\vee q  \\
+(p \vee q) \vee r 
+}} &
+\array{
+\text{assumption} \\
+\vee i 2 \\
+\vee i 3
+} \\
+\array{
+5.\\6.\\7.\\8.\\9.\\10.\\11.
+} &
+\boxed{\array{
+p \vee r  \\
+\boxed{\array{
+q  \\
+p \vee q  \\
+(p \vee q) \vee r 
+}} \\
+\boxed{\array{
+r  \\
+(p \vee q) \vee r
+}}
+}} &
+\array{
+\text{assumption} \\
+\text{assumption} \\
+\vee i 6 \\
+\vee i 7 \\
+\text{assumption} \\
+\vee i 9 \\
+\vee e 5-10
+} \\
+12.& (p \vee q) \vee r& \vee e 2 - 11
+\end{array}
+$$
+### Example 6 - Negations
+Here we prove the sequent $x \implies(y \implies z),x,¬z \vdash ¬y$:
+$$
+\begin{array}{cc|c}
+1.& x \implies(y \implies z) & \text{premise} \\
+2.& x & \text{premise} \\
+3.& ¬z & \text{premise} \\
+\array{
+4.\\5.\\6.\\7.
+} &
+\boxed{\array{
+y  \\
+y \implies z  \\
+z  \\
+\bot
+}} &
+\array{
+\text{assumption} \\
+\implies e 1 2 \\
+\implies e 4 5 \\
+¬e 3 6
+} \\
+8.& ¬y & ¬i 4-7
+\end{array}
+$$
+### Example 7 - Complex Negations
+Here we prove the sequent $x \vee ¬y \vdash y \implies x$:
+$$
+\begin{array}{cc|c}
+1.& x \vee ¬y & \text{premise} \\
+\array{
+2.\\3.\\4.\\5.
+} &
+\boxed{\array{
+x  \\
+\boxed{\array{
+y  \\
+x
+}} \\
+y \implies x
+}} &
+\array{
+\text{assumption} \\
+\text{assumption} \\
+\text{copy } 2 \\
+\implies i 3-4
+} \\
+\array{
+6.\\7.\\8.\\9.\\10.
+} &
+\boxed{\array{
+¬y  \\
+\boxed{\array{
+y  \\
+\bot  \\
+x 
+}} \\
+y \implies x
+}} &
+\array{
+\text{assumption} \\
+\text{assumption} \\
+¬e 6 7 \\
+\bot e 8 \\
+\implies i 7-9
+} \\
+11.&y \implies x & \vee e 1 \space 2 - 5 \space 6 - 10
+\end{array}
+$$
+### Example 8 - Proving Theorems
+Here we prove the sequent $(p \implies (¬p \vee q)) \vee (p \implies ¬q)$:
+$$
+\begin{array}{cc|c} 1.& q \vee¬q & \text{LEM} \\ \array{ 2.\\3.\\4.\\5.\\6.\\7. } & \boxed{\array{ q  \\ ¬p \vee q  \\ \boxed{\array{ p  \\ ¬p \vee q }} \\ p \implies (¬p \vee q) \\ (p \implies (¬p \vee q))\vee (p \implies ¬q) }} & \array{ \text{assumption} \\ \vee i 2 \\ \text{assumption} \\ \text{copy }3 \\ \implies i 4-5 \\ \vee i 6 } \\ \array{ 8.\\9.\\10.\\11.\\12. } & \boxed{\array{ ¬q  \\ \boxed{\array{ p  \\ ¬q }} \\ p \implies ¬q  \\ (p \implies (¬p \vee q)) \vee (p \implies ¬q) }} & \array{ \text{assumption} \\ \text{assumption} \\ \text{copy }8 \\ \implies i 9-10 \\ \vee i 11 } \\ 13.& (p \implies (¬p \vee q)) \vee (p \implies ¬q) & \vee e \space 1 \space 2-7 \space 8-12 \end{array}
+$$

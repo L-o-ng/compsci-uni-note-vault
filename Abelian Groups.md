@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 In general, we do *not* require, $x \bullet y = y \bullet x \space\forall x,y \in\text{group}$.
 However, this does happen to be true most of the time; a key example of the opposite is $D_{3}$ or the equilateral triangle symmetry group.

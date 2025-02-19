@@ -79,3 +79,7 @@ Conversely, can an inverse exist if $\operatorname{dim}(X) > \operatorname{dim}(
 + This means there is a non-zero vector that maps to zero - the [[Kernel of a Linear Map|kernel]] is non-trivial.
 + So, any inverse cannot be unique because $f(\mathbf{x}+\mathbf{k})=f(\mathbf{x})$ if $\mathbf{k}$ is in the kernel.
 + Hence, the inverse does not exist.
+
+$$
+
+$$

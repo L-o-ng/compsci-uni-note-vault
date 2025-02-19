@@ -28,4 +28,5 @@ Every instance of $(3,3)$-SAT is satiable, but $(3,4)$-SAT is NP-complete.
 + [[DIMACS Format]]
 + [[Satisfiability of Formulae and Clause-Sets]]
 + [[List of Defining Clause-Sets]]
-+ todo! A Search Algorithm onwards
++ [[Pure Literals]] - See especially [[Pure Literals#DPLL Algorithm]]
++ 

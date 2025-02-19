@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 ## Orthogonal Projections
 >If $W$ is a subspace in a finite-dimensional [[Inner Product Spaces|inner product space]] $V$ then every vector $\mathbf{u} \in V$ can be uniquely expressed as $\mathbf{u}=\mathbf{w}_{1}+\mathbf{w}_{2}$ where $\mathbf{w}_{1} \in W,\mathbf{w}_{2}\in W^{\bot}$.
 
@@ -25,5 +25,15 @@ Once we have an orthogonal basis for $W$, we can normalise all vectors within.
 ### Algorithm
 To convert a linearly independent set $S=\{ \mathbf{u}_{1},\dots,\mathbf{u}_{n} \}$ into an orthogonal basis for $\operatorname{span}(S)$ you can perform the following algorithm:
 1) $\mathbf{v}_{1}=\mathbf{u}_{1}$
-2) todo! finish this :( 
+2) $\mathbf{v}_{2}=\mathbf{u}_{2}-\operatorname{proj}_{W_{1}}\mathbf{u}_{2}=\mathbf{u}_{2}-\frac{\langle\mathbf{u}_{2},\mathbf{v}_{1}\rangle}{\|\mathbf{v}_{1}\|^{2}}\mathbf{v}_{1}$
+3) $\mathbf{v}_{3}=\mathbf{u}_{3}-\operatorname{proj}_{W_{2}}\mathbf{u}_{3}=\mathbf{u}_{3}-\frac{\langle\mathbf{u}_{3},\mathbf{v}_{1}\rangle}{\|\mathbf{v}_{1}\|^{2}}\mathbf{v}_{1} - \frac{\langle\mathbf{u}_{3},\mathbf{v}_{2}\rangle}{\|\mathbf{v}_{2}\|^{2}}\mathbf{v}_{2}$
+4) $\mathbf{v}_{4}=\mathbf{u}_{4}-\operatorname{proj}_{W_{3}}\mathbf{u}_{4}=\mathbf{u}_{4}-\frac{\langle\mathbf{u}_{3},\mathbf{v}_{1}\rangle}{\|\mathbf{v}_{1}\|^{2}}\mathbf{v}_{1} - \frac{\langle\mathbf{u}_{3},\mathbf{v}_{2}\rangle}{\|\mathbf{v}_{2}\|^{2}}\mathbf{v}_{2} - \frac{\langle\mathbf{u}_{4},\mathbf{v}_{3}\rangle}{\|\mathbf{v}_{3}\|^{2}}\mathbf{v}_{3}$
+$\quad \vdots$
+(continue for $n$ steps)
+Optionally, normalise all vectors $\mathbf{v}_{i}$ if an orthonormal basis is needed.
+### Examples
+#### Example 1
+![[Gram-Schmidt Example 1.png]]
+#### Example 2
+![[Gram-Schmidt Example 2.png]]
 

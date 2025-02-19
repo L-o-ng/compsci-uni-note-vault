@@ -29,5 +29,12 @@ A $K_{n}$ therefore has $\begin{pmatrix}n\\2\end{pmatrix}=\frac{1}{2}n(n-1)$ edg
 #### N-Dimensional Graphs
 >The ($n$-dimensional) **hypercube** or $n$-cube $Q_{n}$ with $n \geq 1$ is the graph with:$$V=\{ (e_{1},\dots,e_{n})|e_{i}\in \{ 0,1 \}(i=1,\dots,n) \}$$
 >in which 2 vertices are neighbours if and only if the corresponding rows differ in exactly one entry.
-
-todo! more on n-cubes.
+##### Theorem
+>All $n$-cubes are *bipartite*.
+###### Proof
++ We give a **bipartition** of the vertex set of the $n$-cube:
+	+ Let $V_{1}$ contain all the vertices with an odd number of 1s;
+	+ Let $V_{2}$ contain all vertices with an even number of 1s (possible 0);
++ This is clearly a partition of $V$ into two disjoint sets.
++ It is easy to see that each edge has one endpoint in each set.
++ Therefore, all $n$-cubes are bipartite.

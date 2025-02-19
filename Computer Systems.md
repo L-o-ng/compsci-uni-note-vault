@@ -4,6 +4,7 @@
 + [[Digital Electronics]]
 + [[Machine Architecture]]
 + [[Databases]]
++ [[Operating Systems]]
 + 
 ## Reference Pages
 + [[Computer Systems Benchtest Reference Page]]

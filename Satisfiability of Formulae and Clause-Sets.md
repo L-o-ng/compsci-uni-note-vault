@@ -54,3 +54,25 @@ Let $\psi$ be a propositional formula and $T(\psi)$ the clause-set obtained usin
 + $\psi$ is a tautology if and only if $T(¬\psi)$ is unsatisfiable.
 + Let $n$ be the number of occurrences of binary connectives in $\psi$. Then, $T(\psi)$ contains at most $4n+1$ clauses, with each clause containing at most 3 literals. And so, $|T(\psi)|=O(n)$; this means the number of clauses in $T(\psi)$ is linear in the number $n$ of occurrences of binary connectives in $\psi$.
 + Note that $\psi,T(\psi)$ are equisatisfiable but *not* logically equivalent.
+## A Search Algorithm
+```
+fn A
+in F
+op "sat" or "unsat"
+	if var(F) = emptyset then
+		if F = emptyset then
+			exit(sat)
+		else
+			exit(unsat)
+		endif
+	else
+		choose x in var(F) // x is the branching variable
+		if A(F[x = 0]) = sat then
+			exit(sat)
+		else if A(F[x = 1]) = sat then
+			exit(sat)
+		else
+			exit(unsat)
+		endif
+	endif
+```

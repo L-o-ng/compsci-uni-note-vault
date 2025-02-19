@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f7decdd3520376",
+        "id": "9b6a7d56bd316435",
         "type": "tabs",
         "children": [
           {
-            "id": "f5d5cb0d471a65e7",
+            "id": "fcfe6f9683ec217e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Normalisation in the Relational Data Model.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Normalisation in the Relational Data Model"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo!",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph Classes.md",
+                "file": "Normalisation in the Relational Data Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Graph Classes"
+              "title": "Backlinks for Normalisation in the Relational Data Model"
             }
           }
         ],
@@ -166,44 +169,44 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "f5d5cb0d471a65e7",
+  "active": "fcfe6f9683ec217e",
   "lastOpenFiles": [
-    "DnD1 - Lore.md",
-    "DnD1 - Story.md",
+    "Databases.md",
+    "Entity Relationship modelling.md",
+    "MfCS Week 5.md",
+    "Pictures/Example ER Diagram.png",
+    "Augmented Matrices and Elementary Row Operations.md",
+    "Relational Data Model for Structured Data.md",
+    "Pictures/Hierarchical Database Model.png",
+    "Pictures/Network Database Model.png",
+    "Fundamental Problems.md",
+    "Pictures/Mr Acid.png",
+    "Pictures/Foreign Keys example.png",
     "Graph Classes.md",
-    "Pictures/Graph Classes Other.png",
-    "Pictures/Graph Class C4.png",
-    "Pictures/Graph Class P3.png",
-    "Pictures/Pasted image 20250217174224.png",
     "Graph Theory.md",
-    "Graph Theory Terminology.md",
-    "Types of Graph.md",
-    "Pictures/Types of Graph Example 3.png",
-    "Pictures/Types of Graph Example 2.png",
-    "Pictures/Types of Graph Example 1.png",
-    "Algorithms & Data Structures.md",
-    "Selection and Adversaries.md",
-    "Orthogonal and Orthonormal Sets of Vectors.md",
-    "Computational Thinking Panel Coursework.md",
-    "CThPanel Week 2.md",
-    "CThPanel Week 3.md",
-    "Computational Thinking Coursework Speech.md",
-    "The Gram-Schmidt Process.md",
-    "Groups.md",
-    "Similarity of Matrices.md",
-    "Linear Algebra.md",
-    "Inner Product Spaces.md",
-    "Orthonormality.md",
-    "SAT-Solving.md",
-    "Satisfiability of Formulae and Clause-Sets.md",
-    "Standard Inner Product.md",
-    "Other Inner Products.md",
-    "List of Defining Clause-Sets.md",
+    "Pictures/Pasted image 20250217174224.png",
+    "Pictures/Pasted image 20250219035646.png",
+    "Untitled.md",
+    "Pictures/Candidate Key Example.png",
+    "Pictures/Domain of an attribute.png",
+    "Pictures/Relational Data Model Terminology.png",
+    "Database Design.md",
+    "Generalised Norms.md",
     "Lagrange Multipliers.md",
-    "Logic.md",
-    "Pictures/SAT-Solving Motivation Circuit Example.png",
-    "Pictures/MSI Chip 74x283.png",
-    "Pictures/Mr Based.png",
+    "Heaps.md",
+    "Solving Complex Equations.md",
+    "Natural Deduction.md",
+    "CSS.md",
+    "Abelian Groups.md",
+    "Uses of Logic.md",
+    "SAT-Solving.md",
+    "Linear Algebra.md",
+    "Orthogonal and Orthonormal Sets of Vectors.md",
+    "The Gram-Schmidt Process.md",
+    "Inner Product Spaces.md",
+    "Complex Inner Product.md",
+    "Weighted Euclidean Inner Product.md",
+    "Matrix Inner Product.md",
     "Canvas.canvas",
     "Untitled.canvas",
     "Pictures/jpg",

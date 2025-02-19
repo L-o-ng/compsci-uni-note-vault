@@ -7,3 +7,5 @@ Normalisation allows a database designer to identify a set of relations wit desi
 
 This is an example of a *bottom-up* technique, but allows *validation* of top-down design.
 
+todo! lecture 5 onwards :)
+
