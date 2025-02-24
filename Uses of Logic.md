@@ -25,7 +25,7 @@ An input $\mathbf{v}$ can be said to *satisfy* $\boldsymbol{\rho}$ if throughout
 ## Databases
 A [[Databases|database]] is a structured collection of logical records.
 A database query language, such as [[Querying with SQL|SQL]] is a language for asking and answering questions of this structured data.
-SQL queries, such as `SELECT Group, Genre FROM Music` have expressive power closely related to [[Predicate Logic]].
+SQL queries, such as `SELECT Group, Genre FROM Music` have expressive power closely related to [[First-Order Logic]].
 ## Formal Methods
 A **formal method** is the use of mathematically-based techniques for the specification and verification of computer systems. Formal methods are used to *prove* programs have certain properties, without *just* relying on testing.
 ### Model Checking

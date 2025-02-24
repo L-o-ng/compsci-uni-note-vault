@@ -61,18 +61,18 @@ in F
 op "sat" or "unsat"
 	if var(F) = emptyset then
 		if F = emptyset then
-			exit(sat)
+			return "sat"
 		else
-			exit(unsat)
+			return "unsat"
 		endif
 	else
 		choose x in var(F) // x is the branching variable
 		if A(F[x = 0]) = sat then
-			exit(sat)
+			return "sat"
 		else if A(F[x = 1]) = sat then
-			exit(sat)
+			return "sat"
 		else
-			exit(unsat)
+			return "unsat"
 		endif
 	endif
 ```

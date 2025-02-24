@@ -36,18 +36,18 @@ op "sat" or "unsat"
 	F <- PL(F)
 	if var(F) = emptyset then
 		if F = emptyset then
-			exit(sat)
+			return "sat"
 		else 
-			exit(unsat)
+			return "unsat"
 		endif
 	else 
 		choose x in var(F) // x is the branching variable
-		if A(F[x = 0]) = sat then
-			exit(sat)
-		else if A(F[x = 1]) = sat then 
-			exit(sat)
+		if DPLL(F[x = 0]) = sat then
+			return "sat"
+		else if DPLL(F[x = 1]) = sat then 
+			return "sat"
 		else
-			exit(unsat)
+			return "unsat"
 		endif
 	endif
 ```
@@ -67,5 +67,5 @@ A combination of **branching heuristics** with:
 + Non-Chronological Backtracking;
 + Restart Strategies;
 + Implementation of Propagation.
-See also: [SatLive](www.satlive.org) :(
+See also: [SatLive](https://www.satlive.org) :(
 

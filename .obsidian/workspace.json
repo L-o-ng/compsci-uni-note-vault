@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6a7d56bd316435",
+        "id": "90f135a5a23c821a",
         "type": "tabs",
         "children": [
           {
-            "id": "fcfe6f9683ec217e",
+            "id": "1f12892ee0d1da93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Normalisation in the Relational Data Model.md",
+                "file": "Relational Calculus and Algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normalisation in the Relational Data Model"
+              "title": "Relational Calculus and Algebra"
+            }
+          },
+          {
+            "id": "2afe60be96c53713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pure Literals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pure Literals"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "######",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normalisation in the Relational Data Model.md",
+                "file": "Relational Calculus and Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Normalisation in the Relational Data Model"
+              "title": "Backlinks for Relational Calculus and Algebra"
             }
           }
         ],
@@ -169,44 +184,43 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "fcfe6f9683ec217e",
+  "active": "1f12892ee0d1da93",
   "lastOpenFiles": [
-    "Databases.md",
-    "Entity Relationship modelling.md",
-    "MfCS Week 5.md",
-    "Pictures/Example ER Diagram.png",
-    "Augmented Matrices and Elementary Row Operations.md",
-    "Relational Data Model for Structured Data.md",
-    "Pictures/Hierarchical Database Model.png",
-    "Pictures/Network Database Model.png",
-    "Fundamental Problems.md",
-    "Pictures/Mr Acid.png",
-    "Pictures/Foreign Keys example.png",
-    "Graph Classes.md",
-    "Graph Theory.md",
-    "Pictures/Pasted image 20250217174224.png",
-    "Pictures/Pasted image 20250219035646.png",
-    "Untitled.md",
-    "Pictures/Candidate Key Example.png",
-    "Pictures/Domain of an attribute.png",
-    "Pictures/Relational Data Model Terminology.png",
-    "Database Design.md",
-    "Generalised Norms.md",
-    "Lagrange Multipliers.md",
-    "Heaps.md",
-    "Solving Complex Equations.md",
-    "Natural Deduction.md",
-    "CSS.md",
-    "Abelian Groups.md",
-    "Uses of Logic.md",
+    "Pure Literals.md",
+    "Relational Calculus and Algebra.md",
+    "Pictures/Relational Algebra Division.png",
     "SAT-Solving.md",
-    "Linear Algebra.md",
-    "Orthogonal and Orthonormal Sets of Vectors.md",
+    "Satisfiability of Formulae and Clause-Sets.md",
+    "Advanced Adders.md",
+    "Normalisation in the Relational Data Model.md",
+    "List of Defining Clause-Sets.md",
     "The Gram-Schmidt Process.md",
-    "Inner Product Spaces.md",
-    "Complex Inner Product.md",
-    "Weighted Euclidean Inner Product.md",
-    "Matrix Inner Product.md",
+    "CT Week 16.md",
+    "Linear Algebra.md",
+    "Resolution as a Proof System.md",
+    "Computational Thinking Coursework.md",
+    "CT Week 15.md",
+    "Databases.md",
+    "First-Order Logic.md",
+    "Uses of Logic.md",
+    "Logic.md",
+    "Querying with SQL.md",
+    "Pictures/Normalisation Overall Method.png",
+    "Pictures/3NF Method 2.png",
+    "Pictures/3NF Method 1.png",
+    "Pictures/2NF Method 2.png",
+    "Pictures/2NF Method 1.png",
+    "Pictures/Separate Relation 1NF.png",
+    "Pictures/Flattening 1NF.png",
+    "Pictures/1NF Example.png",
+    "Pictures/Transitive Functional Dependency.png",
+    "Entity Relationship modelling.md",
+    "Computer Systems.md",
+    "Operating Systems.md",
+    "Integration in Practise.md",
+    "Integration.md",
+    "Fundamental Theorem of Calculus.md",
+    "Anti-Derivative.md",
     "Canvas.canvas",
     "Untitled.canvas",
     "Pictures/jpg",

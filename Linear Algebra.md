@@ -26,7 +26,7 @@
 + [[Inner Product Spaces]]
 + [[Orthogonal and Orthonormal Sets of Vectors]]
 + [[The Gram-Schmidt Process]]
-+ 
+
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}
 \epsilon^\prime[T|_{A}]\epsilon & * \\
