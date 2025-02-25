@@ -25,6 +25,10 @@ OS main functions:
 + [[User Interfaces]]
 + [[Implementing an Operating System]]
 + [[Operating System Structure]]
++ [[OS Kernel]]
++ [[Kernel Process Scheduling]]
++ [[Amdahl's Law]]
++ [[Multithreading Models]]
 + 
 ## Small Notes
 + [[Input & Output]]

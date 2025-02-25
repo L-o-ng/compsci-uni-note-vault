@@ -7,4 +7,9 @@
 + [[Infinity in Limits]]
 + [[Continuity and Differentiability]]
 + [[Differentiation from First Principles]]
-+ 
+## Key Limits
+$$
+\eqalign{
+\bullet& \lim_{ x \to \infty } \left( \left( \frac{x}{x+k} \right)^{x} \right)=e^{ -k }
+}
+$$

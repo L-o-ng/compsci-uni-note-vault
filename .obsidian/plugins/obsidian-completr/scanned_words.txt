@@ -660,6 +660,8 @@ Invariant
 Improving
 Identify
 Improvements
+Interrupt
+Intra
 yZ
 yC
 yU
@@ -1268,6 +1270,11 @@ indented
 inconsistency
 implied
 innocent
+interactive
+instantly
+initiates
+initiated
+ing
 qi
 qH
 qSr
@@ -2072,6 +2079,9 @@ drop
 duplicate
 dependencies
 discovered
+divided
+dispatcher
+deallocated
 oL
 om
 oV
@@ -2340,6 +2350,10 @@ oNim
 optional
 org
 occurrence
+organises
+owned
+overheads
+orphan
 RD
 Rpbr
 RJ
@@ -2641,6 +2655,7 @@ Redesign
 Redundancy
 Reflexivity
 Rename
+Responsiveness
 nR
 nW
 nT
@@ -2890,6 +2905,7 @@ nonsensical
 normalisation
 nOy
 notations
+nest
 fg
 fU
 fk
@@ -3234,6 +3250,7 @@ fulfils
 foreign
 formalisation
 friendly
+fit
 hO
 hf
 hA
@@ -3535,6 +3552,7 @@ highly
 handle
 heuristics
 hated
+halts
 pY
 pC
 pc
@@ -3957,6 +3975,7 @@ procedural
 predicate
 proposition
 predicates
+paradigms
 DQ
 DM
 DU
@@ -4290,6 +4309,9 @@ Down
 Dependencies
 Determine
 Decide
+DOS
+Device
+Dispatcher
 sDK
 sk
 sz
@@ -4907,6 +4929,16 @@ scenarios
 suspects
 subsumes
 selects
+separable
+syscall
+spaghetti
+simultaneously
+switches
+switching
+scheduler
+servicing
+suspend
+shares
 TWe
 TBM
 Ti
@@ -5201,6 +5233,9 @@ Top
 Transitive
 Transitivity
 Third
+Tasking
+Threading
+Termination
 JP
 Ju
 JQ
@@ -5398,6 +5433,7 @@ JQlR
 JpL
 Juo
 Join
+Job
 zG
 zd
 zj
@@ -5583,6 +5619,7 @@ zwwwu
 zuu
 ziw
 zChaff
+zombie
 CD
 Cxi
 CJ
@@ -5931,6 +5968,8 @@ Choosing
 Closures
 Codd
 Compatibility
+Communcations
+Creation
 cd
 ce
 cNCw
@@ -6498,6 +6537,8 @@ compatible
 concatenating
 compatibility
 criterion
+concurrency
+continued
 kH
 ka
 kE
@@ -6693,6 +6734,7 @@ keeps
 knight
 kinds
 kwx
+kept
 LL
 LN
 Lx
@@ -6970,6 +7012,9 @@ Literals
 Lingeling
 Liz
 Left
+Limits
+Layered
+Linux
 tJ
 tf
 tR
@@ -7345,6 +7390,11 @@ teacher
 transitively
 theoretic
 telling
+tangled
+traced
+threading
+terminating
+terminated
 Bh
 Bda
 Br
@@ -8181,6 +8231,17 @@ mBi
 mandatory
 minimises
 murder
+monolithic
+microkernel
+modularity
+maximises
+maintains
+migrate
+multithread
+multiprocessor
+managed
+multithreading
+multicore
 WD
 WWx
 Wy
@@ -8396,6 +8457,7 @@ Week
 WgF
 WEd
 Wtw
+Windows
 uC
 uIOs
 uq
@@ -8639,6 +8701,7 @@ underlined
 updates
 unary
 union
+unrealistic
 AI
 Az
 Ab
@@ -9315,6 +9378,7 @@ Vkko
 Victory
 Valid
 Valued
+Virtual
 Mz
 MR
 Mc
@@ -9608,6 +9672,10 @@ Moskewicz
 Minisat
 Modification
 Modifying
+Monolithic
+Microkernel
+Mac
+Multithreading
 SQl
 SkBl
 SK
@@ -9980,6 +10048,10 @@ Separate
 Structured
 SEQUEL
 Semijoin
+Sharing
+Scalability
+Share
+States
 aQ
 ag
 aZ
@@ -10436,6 +10508,8 @@ allowable
 anomaly
 algebra
 acquaintance
+assigns
+achitectures
 wE
 wU
 wF
@@ -10707,6 +10781,8 @@ wizards
 wit
 wasteful
 week
+whereas
+waits
 vh
 vU
 vx
@@ -11589,6 +11665,7 @@ Goblins
 GUI
 Grasp
 Glucose
+Global
 xcb
 xa
 xX
@@ -11992,6 +12069,7 @@ Uses
 Uvr
 UnH
 Unary
+UNIX
 rn
 rM
 rI
@@ -12402,6 +12480,10 @@ retrieve
 replacing
 rename
 renamed
+responds
+residing
+recognise
+responsive
 ehO
 ef
 eWmI
@@ -12770,6 +12852,8 @@ ensured
 eliminates
 ensures
 equality
+exceed
+extra
 lD
 le
 lgAg
@@ -13083,6 +13167,8 @@ located
 lawless
 latter
 listed
+layered
+layers
 Ho
 Hf
 HdS
@@ -13333,6 +13419,7 @@ Hideout
 Hear
 Hides
 Hajo
+Handler
 FC
 FT
 FP
@@ -13560,6 +13647,7 @@ Foreign
 Functional
 Flattening
 Fill
+FLIH
 jY
 jx
 jRg
@@ -14528,6 +14616,10 @@ bipartite
 batch
 bipartition
 branching
+busy
+belong
+blocked
+blocking
 ED
 EXD
 Es
@@ -14816,6 +14908,7 @@ Engineering
 Extending
 Een
 Equijoin
+Economy
 äq
 gh
 gCn

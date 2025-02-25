@@ -43,3 +43,23 @@ For example, with a time-consuming process, A:
 2) The OS saves its information into PCB A and restores state from PCB B.
 3) B executes.
 4) This repeats many times per seconds.
+## Process Creation
+A new process can create a number of child processes, which can in turn create other processes. This forms a [[Trees|tree]] of processes. Generally, the processes are identified and managed by a process ID.
+### Resource Share
+There are 3 possible ways to split resources between the process tree:
+1) The parent and child processes share all resources;
+2) The child process shares a subset of the parent's resources;
+3) The parent and child processes share no resources.
+### Execution
+There are 2 ways to handle process execution:
+1) The parent and child execute concurrently;
+2) The parent waits until the child terminates.
+## Process Termination
+When the process has executed its last statement, it asks the OS to delete it with the `exit()` syscall. This outputs the data from the child processes to the parent. The child processes' resources are deallocated.
+The parent process can also terminate its child processes if:
++ They exceed their allocated resources;
++ The task is no longer required;
++ The parent is itself terminating.
+### Termination States
++ If there is no parent `wait()`ing, then the process is called a **zombie**.
++ If the parent terminated without `wait()`ing, then the process is an **orphan**.
