@@ -30,3 +30,4 @@ Once the *formulae* of a logic have been defined, there are 2 fundamental aspect
 + [[SAT-Solving]]
 + ...
 + [[First-Order Logic]]
++ 

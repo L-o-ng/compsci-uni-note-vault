@@ -11,10 +11,14 @@
             "id": "7439301eaa5f6493",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "The Travelling Salesman Problem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Travelling Salesman Problem"
             }
           }
         ]
@@ -167,6 +171,17 @@
   },
   "active": "7439301eaa5f6493",
   "lastOpenFiles": [
+    "Hamiltonian Cycles.md",
+    "The Travelling Salesman Problem.md",
+    "Graph Connectivity.md",
+    "Eulerian Circuits.md",
+    "More Complicated First-Order Formulae.md",
+    "First-Order Logic.md",
+    "Building First-Order Formulae.md",
+    "Logic.md",
+    "Graph Theory.md",
+    "Interesting Graphs.md",
+    "Graph Theory Terminology.md",
     "CPU Scheduling.md",
     "Untitled.md",
     "Pictures/Priority Scheduling Example 1.png",
@@ -192,17 +207,6 @@
     "Elements of Real Analysis.md",
     "Single Maths A.md",
     "Limits.md",
-    "Methods for Computing Limits.md",
-    "Pure Literals.md",
-    "Relational Calculus and Algebra.md",
-    "SAT-Solving.md",
-    "Satisfiability of Formulae and Clause-Sets.md",
-    "Advanced Adders.md",
-    "Normalisation in the Relational Data Model.md",
-    "List of Defining Clause-Sets.md",
-    "The Gram-Schmidt Process.md",
-    "CT Week 16.md",
-    "Linear Algebra.md",
     "Canvas.canvas",
     "Untitled.canvas",
     "Pictures/jpg",

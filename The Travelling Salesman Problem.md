@@ -13,3 +13,5 @@ We can try a greedy approach:
 + Iteratively move to the nearest unvisited city.
 + Output the resulting tour.
 The tour is optimal in some cases, but not all!
+
+We can also view it as an instance of [[Hamiltonian Cycles]].

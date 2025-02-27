@@ -1276,6 +1276,7 @@ instantly
 initiates
 initiated
 ing
+isolated
 qi
 qH
 qSr
@@ -1476,6 +1477,8 @@ query
 quad
 qSG
 qCB
+quantifiers
+quantifier
 Xz
 XQ
 XX
@@ -2084,6 +2087,7 @@ divided
 dispatcher
 deallocated
 difficulty
+digraph
 oL
 om
 oV
@@ -2913,6 +2917,7 @@ nOy
 notations
 nest
 ness
+nonexistence
 fg
 fU
 fk
@@ -3258,6 +3263,7 @@ foreign
 formalisation
 friendly
 fit
+forgetting
 hO
 hf
 hA
@@ -3561,6 +3567,7 @@ heuristics
 hated
 halts
 heavily
+hypothesis
 pY
 pC
 pc
@@ -3984,6 +3991,7 @@ predicate
 proposition
 predicates
 paradigms
+pendant
 DQ
 DM
 DU
@@ -4320,6 +4328,7 @@ Decide
 DOS
 Device
 Dispatcher
+Detecting
 sDK
 sk
 sz
@@ -4950,6 +4959,7 @@ shares
 submitted
 shorter
 slice
+supplied
 TWe
 TBM
 Ti
@@ -5986,6 +5996,8 @@ Compatibility
 Communcations
 Creation
 Criteria
+Connectivity
+Cycles
 cd
 ce
 cNCw
@@ -6557,6 +6569,7 @@ concurrency
 continued
 convoy
 chunks
+cycles
 kH
 ka
 kE
@@ -7416,6 +7429,8 @@ terminating
 terminated
 throughput
 turnaround
+ternary
+travel
 Bh
 Bda
 Br
@@ -8264,6 +8279,7 @@ managed
 multithreading
 multicore
 multiprogramming
+maximal
 WD
 WWx
 Wy
@@ -8480,6 +8496,7 @@ WgF
 WEd
 Wtw
 Windows
+Weak
 uC
 uIOs
 uq
@@ -8725,6 +8742,7 @@ unary
 union
 unrealistic
 undertakes
+undirected
 AI
 Az
 Ab
@@ -10087,6 +10105,7 @@ SJF
 SRTF
 Starvation
 Starvatio
+Strong
 aQ
 ag
 aZ
@@ -10546,6 +10565,8 @@ acquaintance
 assigns
 achitectures
 ageing
+arity
+ary
 wE
 wU
 wF
@@ -10819,6 +10840,7 @@ wasteful
 week
 whereas
 waits
+weakly
 vh
 vU
 vx
@@ -11057,6 +11079,7 @@ voice
 valley
 visited
 validation
+visit
 Ny
 Ngl
 Nz
@@ -13465,6 +13488,8 @@ Hear
 Hides
 Hajo
 Handler
+Handshaking
+Hamiltonian
 FC
 FT
 FP
@@ -14960,6 +14985,7 @@ Een
 Equijoin
 Economy
 Emptive
+Eulerian
 äq
 gh
 gCn
