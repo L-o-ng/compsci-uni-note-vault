@@ -29,6 +29,7 @@ OS main functions:
 + [[Kernel Process Scheduling]]
 + [[Amdahl's Law]]
 + [[Multithreading Models]]
++ [[CPU Scheduling]]
 + 
 ## Small Notes
 + [[Input & Output]]

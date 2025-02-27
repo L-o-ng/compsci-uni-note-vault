@@ -351,6 +351,7 @@ Pronounced
 Predicate
 Proposition
 Peter
+Priority
 IHDR
 IDATx
 ID
@@ -2082,6 +2083,7 @@ discovered
 divided
 dispatcher
 deallocated
+difficulty
 oL
 om
 oV
@@ -2656,6 +2658,10 @@ Redundancy
 Reflexivity
 Rename
 Responsiveness
+Response
+Remaining
+Round
+Robin
 nR
 nW
 nT
@@ -2906,6 +2912,7 @@ normalisation
 nOy
 notations
 nest
+ness
 fg
 fU
 fk
@@ -3553,6 +3560,7 @@ handle
 heuristics
 hated
 halts
+heavily
 pY
 pC
 pc
@@ -4939,6 +4947,9 @@ scheduler
 servicing
 suspend
 shares
+submitted
+shorter
+slice
 TWe
 TBM
 Ti
@@ -5236,6 +5247,9 @@ Third
 Tasking
 Threading
 Termination
+Term
+Throughput
+Turnaround
 JP
 Ju
 JQ
@@ -5434,6 +5448,7 @@ JpL
 Juo
 Join
 Job
+Jumping
 zG
 zd
 zj
@@ -5970,6 +5985,7 @@ Codd
 Compatibility
 Communcations
 Creation
+Criteria
 cd
 ce
 cNCw
@@ -6539,6 +6555,8 @@ compatibility
 criterion
 concurrency
 continued
+convoy
+chunks
 kH
 ka
 kE
@@ -7015,6 +7033,7 @@ Left
 Limits
 Layered
 Linux
+Long
 tJ
 tf
 tR
@@ -7395,6 +7414,8 @@ traced
 threading
 terminating
 terminated
+throughput
+turnaround
 Bh
 Bda
 Br
@@ -8242,6 +8263,7 @@ multiprocessor
 managed
 multithreading
 multicore
+multiprogramming
 WD
 WWx
 Wy
@@ -8702,6 +8724,7 @@ updates
 unary
 union
 unrealistic
+undertakes
 AI
 Az
 Ab
@@ -8983,6 +9006,7 @@ Anomaly
 Avoiding
 Armstrong
 Augmentation
+Ageing
 KN
 KV
 KO
@@ -9676,6 +9700,9 @@ Monolithic
 Microkernel
 Mac
 Multithreading
+Multiprogramming
+Medium
+Multilevel
 SQl
 SkBl
 SK
@@ -10052,6 +10079,14 @@ Sharing
 Scalability
 Share
 States
+Schedulers
+Short
+Served
+Shortest
+SJF
+SRTF
+Starvation
+Starvatio
 aQ
 ag
 aZ
@@ -10510,6 +10545,7 @@ algebra
 acquaintance
 assigns
 achitectures
+ageing
 wE
 wU
 wF
@@ -12070,6 +12106,7 @@ Uvr
 UnH
 Unary
 UNIX
+Utilisation
 rn
 rM
 rI
@@ -12484,6 +12521,7 @@ responds
 residing
 recognise
 responsive
+restart
 ehO
 ef
 eWmI
@@ -12854,6 +12892,11 @@ ensures
 equality
 exceed
 extra
+empting
+emptive
+empted
+empt
+elapsed
 lD
 le
 lgAg
@@ -13169,6 +13212,8 @@ latter
 listed
 layered
 layers
+latency
+lengthy
 Ho
 Hf
 HdS
@@ -13648,6 +13693,8 @@ Functional
 Flattening
 Fill
 FLIH
+FCFS
+Feedback
 jY
 jx
 jRg
@@ -14305,6 +14352,7 @@ Query
 Quotient
 QWEd
 Quel
+Quantum
 ba
 bM
 bhz
@@ -14620,6 +14668,8 @@ busy
 belong
 blocked
 blocking
+burst
+bursts
 ED
 EXD
 Es
@@ -14909,6 +14959,7 @@ Extending
 Een
 Equijoin
 Economy
+Emptive
 äq
 gh
 gCn
