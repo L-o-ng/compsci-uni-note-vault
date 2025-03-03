@@ -6001,6 +6001,7 @@ Criteria
 Connectivity
 Cycles
 Connectives
+Commands
 cd
 ce
 cNCw
@@ -7050,6 +7051,7 @@ Limits
 Layered
 Linux
 Long
+Least
 tJ
 tf
 tR
@@ -7434,6 +7436,7 @@ throughput
 turnaround
 ternary
 travel
+trust
 Bh
 Bda
 Br
@@ -7710,6 +7713,7 @@ Bottom
 Boyce
 BCNF
 Besides
+Best
 ZY
 Zu
 ZzJ
@@ -8283,6 +8287,8 @@ multithreading
 multicore
 multiprogramming
 maximal
+measurements
+minimising
 WD
 WWx
 Wy
@@ -9028,6 +9034,7 @@ Avoiding
 Armstrong
 Augmentation
 Ageing
+Approximation
 KN
 KV
 KO
@@ -10109,6 +10116,7 @@ SRTF
 Starvation
 Starvatio
 Strong
+Squares
 aQ
 ag
 aZ
@@ -12551,6 +12559,7 @@ recognise
 responsive
 restart
 relate
+rewrite
 ehO
 ef
 eWmI
@@ -13727,6 +13736,7 @@ Fill
 FLIH
 FCFS
 Feedback
+Fitting
 jY
 jx
 jRg
@@ -14995,6 +15005,7 @@ Economy
 Emptive
 Eulerian
 Equalities
+Equation
 äq
 gh
 gCn

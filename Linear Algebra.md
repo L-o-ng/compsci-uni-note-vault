@@ -26,6 +26,9 @@
 + [[Inner Product Spaces]]
 + [[Orthogonal and Orthonormal Sets of Vectors]]
 + [[The Gram-Schmidt Process]]
++ [[Least Squares Solutions for Inconsistent Linear Systems]]
++ [[Linear Regression]]
++ 
 
 
 $$_{B^\prime}[T]_{B}=\left[\begin{array}{c|c}
