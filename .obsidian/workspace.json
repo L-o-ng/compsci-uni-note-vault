@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "Notes/Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -170,6 +169,8 @@
   },
   "active": "9b7734d0cb669858",
   "lastOpenFiles": [
+    "Notes/Careers.md",
+    "Notes/Year 1 Computer Science.md",
     "The Gram-Schmidt Process.md",
     "Untitled.md",
     "Templates/Template.md",
@@ -195,8 +196,6 @@
     "Eulerian Circuits.md",
     "Logic.md",
     "Graph Theory.md",
-    "Interesting Graphs.md",
-    "Graph Theory Terminology.md",
     "Pictures/Priority Scheduling Example 1.png",
     "Pictures/RR Example 1.png",
     "Pictures/SRTF Example 1.png",
