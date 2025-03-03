@@ -2,8 +2,8 @@
 ## Column Space and Rank 
 All vectors can be written as [[Linear Combinations]] of [[Linear Maps and Basis Vectors|Basis Vectors]].
 Under a [[Linear Maps|Linear Map]] $f:X \to Y,f(a\mathbf{x}+b\mathbf{y})=af(\mathbf{x})+bf(\mathbf{y})$, where $f(X)$ is the span of the columns, called the **column space**.
-The **column rank** is defined as the *dimension* of the column space.
-	Or, the number of linearly independent columns.
+The **column rank** is defined as the *dimension* of the column space, or equally, the number of linearly independent columns.
+See [[Least Squares Solutions for Inconsistent Linear Systems#Column Space]] for more.
 ## Row Space and Rank 
 Row space and rank are defined similarly.
 *Row space* is defined as the span of all the row vectors. *Row rank* is the dimension of the row space. Alternatively, *rank* can be defined as the number of linearly independent rows.

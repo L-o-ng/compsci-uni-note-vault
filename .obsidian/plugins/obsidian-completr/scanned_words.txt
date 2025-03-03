@@ -1479,6 +1479,7 @@ qSG
 qCB
 quantifiers
 quantifier
+quantify
 Xz
 XQ
 XX
@@ -2088,6 +2089,7 @@ dispatcher
 deallocated
 difficulty
 digraph
+domains
 oL
 om
 oV
@@ -5998,6 +6000,7 @@ Creation
 Criteria
 Connectivity
 Cycles
+Connectives
 cd
 ce
 cNCw
@@ -10567,6 +10570,8 @@ achitectures
 ageing
 arity
 ary
+abbreviated
+appearing
 wE
 wU
 wF
@@ -12545,6 +12550,7 @@ residing
 recognise
 responsive
 restart
+relate
 ehO
 ef
 eWmI
@@ -12920,6 +12926,7 @@ emptive
 empted
 empt
 elapsed
+existential
 lD
 le
 lgAg
@@ -14378,6 +14385,7 @@ Quotient
 QWEd
 Quel
 Quantum
+Quantifiers
 ba
 bM
 bhz
@@ -14986,6 +14994,7 @@ Equijoin
 Economy
 Emptive
 Eulerian
+Equalities
 äq
 gh
 gCn
