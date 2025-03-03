@@ -3,5 +3,7 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Pictures",
   "useTab": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes"
 }

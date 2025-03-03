@@ -352,6 +352,7 @@ Predicate
 Proposition
 Peter
 Priority
+Phylogenetic
 IHDR
 IDATx
 ID
@@ -663,6 +664,7 @@ Identify
 Improvements
 Interrupt
 Intra
+Inductive
 yZ
 yC
 yU
@@ -2668,6 +2670,8 @@ Response
 Remaining
 Round
 Robin
+Repeating
+Rooted
 nR
 nW
 nT
@@ -2920,6 +2924,7 @@ notations
 nest
 ness
 nonexistence
+neighbour
 fg
 fU
 fk
@@ -3266,6 +3271,7 @@ formalisation
 friendly
 fit
 forgetting
+forest
 hO
 hf
 hA
@@ -3570,6 +3576,7 @@ hated
 halts
 heavily
 hypothesis
+horizontal
 pY
 pC
 pc
@@ -4962,6 +4969,7 @@ submitted
 shorter
 slice
 supplied
+segments
 TWe
 TBM
 Ti
@@ -5262,6 +5270,7 @@ Termination
 Term
 Throughput
 Turnaround
+Trees
 JP
 Ju
 JQ
@@ -7437,6 +7446,7 @@ turnaround
 ternary
 travel
 trust
+traverse
 Bh
 Bda
 Br
@@ -7714,6 +7724,9 @@ Boyce
 BCNF
 Besides
 Best
+Bioinformatics
+Base
+Bipartition
 ZY
 Zu
 ZzJ
@@ -9035,6 +9048,7 @@ Armstrong
 Augmentation
 Ageing
 Approximation
+Alternative
 KN
 KV
 KO
@@ -10117,6 +10131,7 @@ Starvation
 Starvatio
 Strong
 Squares
+Step
 aQ
 ag
 aZ
@@ -10580,6 +10595,7 @@ arity
 ary
 abbreviated
 appearing
+acyclic
 wE
 wU
 wF
@@ -13253,6 +13269,7 @@ layered
 layers
 latency
 lengthy
+lemma
 Ho
 Hf
 HdS

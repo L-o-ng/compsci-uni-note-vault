@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Linear Regression.md",
+                "file": "Notes/Graph Isomorphism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression"
+              "title": "Graph Isomorphism"
+            }
+          },
+          {
+            "id": "0a942b9b895cc59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Trees in Graph Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trees in Graph Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,11 +89,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -137,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "Notes/Trees in Graph Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,10 +164,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Linear Regression"
+              "title": "Backlinks for Trees in Graph Theory"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,13 +185,22 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "9b7734d0cb669858",
+  "active": "0a942b9b895cc59c",
   "lastOpenFiles": [
+    "Notes/Graph Isomorphism.md",
+    "Notes/Graph Theory.md",
+    "Notes/Trees in Graph Theory.md",
+    "Notes/MfCS Week 6.md",
+    "Pictures/Rooted Tree Graph Theory.png",
+    "Templates/Template.md",
+    "Pictures/Trees and Forests graph example.png",
+    "Notes/Trees.md",
+    "Notes/Graph Connectivity.md",
+    "Notes/Linear Regression.md",
     "Notes/Careers.md",
     "Notes/Year 1 Computer Science.md",
     "The Gram-Schmidt Process.md",
     "Untitled.md",
-    "Templates/Template.md",
     "Linear Regression.md",
     "Templates",
     "Linear Algebra.md",
@@ -189,13 +216,6 @@
     "Solving Complex Equations.md",
     "Sorting Algorithms.md",
     "Selection Sort.md",
-    "More Complicated First-Order Formulae.md",
-    "The Travelling Salesman Problem.md",
-    "Hamiltonian Cycles.md",
-    "Graph Connectivity.md",
-    "Eulerian Circuits.md",
-    "Logic.md",
-    "Graph Theory.md",
     "Pictures/Priority Scheduling Example 1.png",
     "Pictures/RR Example 1.png",
     "Pictures/SRTF Example 1.png",
@@ -204,8 +224,6 @@
     "Pictures/FCFS Example 1.png",
     "Pictures/Thread creation via library.png",
     "Pictures/Multithreading model many to many.png",
-    "Pictures/Multithreading model one to one.png",
-    "Pictures/Multithreading model many to one.png",
     "Canvas.canvas",
     "Untitled.canvas",
     "Pictures/jpg",

@@ -6,4 +6,5 @@
 + [[Heaps]]
 + [[Sorting Trees and Decision Trees]]
 + [[Selection and Adversaries]]
++ [[Trees in Graph Theory]]
 + 

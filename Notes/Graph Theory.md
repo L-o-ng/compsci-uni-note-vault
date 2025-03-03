@@ -18,5 +18,8 @@ It often helps to draw graphs:
 + [[Graph Classes]]
 + [[Interesting Graphs]]
 + [[Graph Connectivity]]
-+ 
++ [[Eulerian Circuits]]
++ [[Hamiltonian Cycles]]
++ [[Trees in Graph Theory]]
++ [[Graph Isomorphism]]
 + 
