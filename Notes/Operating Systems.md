@@ -30,6 +30,8 @@ OS main functions:
 + [[Amdahl's Law]]
 + [[Multithreading Models]]
 + [[CPU Scheduling]]
++ [[Multilevel Queues]]
++ [[OS Memory Management]]
 + 
 ## Small Notes
 + [[Input & Output]]

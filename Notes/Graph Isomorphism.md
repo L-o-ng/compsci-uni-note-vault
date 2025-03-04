@@ -15,9 +15,18 @@ In other words, $G \ismorph G'$ when:
 Isomorphism is an equivalence relationship:
 + $G \ismorph G$: every graph is isomorphic to itself;
 + If $G_{1} \ismorph G_{2}$ and $G_{2} \ismorph G_{3}$ then $G_{1} \ismorph G_{3}$.
-todo! continue this
 
+If $G,G'$ are isomorphic then they share *all* their structural characteristics:
++ Their number of vertices and edges;
++ Their degree sequence;
++ (Strong) connectivity;
++ [[Eulerian Circuits]];
++ [[Hamiltonian Cycles]];
++ [[Map Colouring|Chromatic Number]]
++ Size of its largest independent set...
+However, *none* of these **show** isomorphism. They can **only** be used to show non-isomorphism.
 ## Isomorphism in Trees
+
 
 ---
 ## Examples

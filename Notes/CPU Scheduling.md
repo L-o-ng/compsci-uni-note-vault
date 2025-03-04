@@ -1,6 +1,7 @@
 #notes 
 
 See [[Processes]], [[Kernel Process Scheduling]].
+See also: [[Multilevel Queues]]
 ## Multiprogramming
 **Multiprogramming** maximises CPU utilisation by keeping several processes in memory concurrently.
 When one process is waiting, the OS executes a process in the ready queue.
