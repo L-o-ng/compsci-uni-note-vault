@@ -27,4 +27,7 @@ We can read $\vDash$ as "models".
 ## Notes
 + [[Building First-Order Formulae]]
 + [[More Complicated First-Order Formulae]]
-+ 
++ [[First-Order Syntax]]
++ [[First-Order Logical Equivalence]]
++ [[Well-Known First-Order Equivalences]]
+

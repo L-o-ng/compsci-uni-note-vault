@@ -356,6 +356,7 @@ Phylogenetic
 PmUw
 Puv
 Prc
+Proposal
 IHDR
 IDATx
 ID
@@ -670,6 +671,8 @@ Intra
 Inductive
 Isomorphism
 IMI
+Illustrations
+Illustration
 yZ
 yC
 yU
@@ -1289,6 +1292,8 @@ indefinite
 isomorphism
 iJU
 iuo
+irregular
+illustrate
 qi
 qH
 qSr
@@ -1494,6 +1499,7 @@ quantifier
 quantify
 qUj
 qqn
+quantifications
 Xz
 XQ
 XX
@@ -2108,6 +2114,8 @@ domains
 detecting
 downgrade
 dDn
+discontinuity
+discourse
 oL
 om
 oV
@@ -2948,6 +2956,7 @@ neighbour
 njnl
 noy
 nSVy
+neq
 fg
 fU
 fk
@@ -3303,6 +3312,7 @@ fLY
 fjb
 fKhX
 feu
+forall
 hO
 hf
 hA
@@ -4038,6 +4048,8 @@ partitioned
 predetermined
 pog
 pNT
+propose
+piecewise
 DQ
 DM
 DU
@@ -5017,6 +5029,12 @@ service
 structural
 swv
 slkk
+sensible
+semantic
+signature
+sentence
+speak
+scopes
 TWe
 TBM
 Ti
@@ -6068,6 +6086,7 @@ Connectives
 Commands
 Combine
 CMF
+Constructions
 cd
 ce
 cNCw
@@ -6645,6 +6664,9 @@ characteristics
 connectivity
 cZt
 ccb
+centred
+constructions
+conjuncts
 kH
 ka
 kE
@@ -8379,6 +8401,7 @@ multilevel
 meticulously
 maximised
 mmmv
+multiplying
 WD
 WWx
 Wy
@@ -9134,6 +9157,8 @@ Alternative
 Allocates
 Azx
 Aohim
+Again
+Atoms
 KN
 KV
 KO
@@ -10229,6 +10254,8 @@ Simulation
 Size
 SSSpp
 Sczz
+Subtleties
+Subtlety
 aQ
 ag
 aZ
@@ -10696,6 +10723,9 @@ acyclic
 adaptation
 analyse
 allocate
+atoms
+atom
+amend
 wE
 wU
 wF
@@ -12706,6 +12736,7 @@ relocation
 rGd
 rPPPzZ
 ryTM
+restrict
 ehO
 ef
 eWmI
@@ -13084,6 +13115,7 @@ elapsed
 existential
 ending
 exited
+eqalign
 lD
 le
 lgAg
@@ -13405,6 +13437,7 @@ lemma
 lhrJR
 lttT
 lVv
+legal
 Ho
 Hf
 HdS
@@ -13894,6 +13927,7 @@ Fixed
 Formula
 Flb
 Fragmentation
+Fourier
 jY
 jx
 jRg
