@@ -15211,6 +15211,7 @@ Equalities
 Equation
 EBAsKKl
 EEEm
+Equivalences
 äq
 gh
 gCn
