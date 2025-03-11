@@ -1,12 +1,5 @@
 #notes 
 
-## Commands
-$$
-\text{Click here for command definitions!}
-\newcommand\free[1]{\operatorname{free}(#1)}
-$$
----
-
 Every well-formed formula of first-order logic is constructed from *atoms*, or *atomic formula*. We completely define the syntax of first-order logic by defining what we mean by atoms and constructions we are allowed to use.
 ## Semantics
 An **interpretation**/**structure** for a first order formula $\phi$ is:

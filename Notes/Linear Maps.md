@@ -6,7 +6,7 @@ This means than a linear map *respects* linear combinations.
 Linear maps are sometimes called *linear* *transformations* or *vector space homomorphisms*.
 If $V=W$ then $f$ is an *endomorphism*.
 All linear maps preserve lines.
-### Examples
+## Examples
 + Scaling on $\mathbb{R}^3$
 + Reflection
 + Rotation

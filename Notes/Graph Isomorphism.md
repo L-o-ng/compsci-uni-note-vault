@@ -1,9 +1,4 @@
 #notes 
-## Commands
-$$
-\text{Click here for command definitions!}
-\newcommand{\ismorph}{\overset{\sim}{=}}
-$$
 ## See Also
 + [[Trees in Graph Theory]] (for [[#Isomorphism in Trees]])
 ## Graph Isomorphism

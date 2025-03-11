@@ -357,6 +357,8 @@ PmUw
 Puv
 Prc
 Proposal
+Pushing
+Pulling
 IHDR
 IDATx
 ID
@@ -1500,6 +1502,9 @@ quantify
 qUj
 qqn
 quantifications
+quantified
+quantification
+quantitative
 Xz
 XQ
 XX
@@ -2389,6 +2394,7 @@ owned
 overheads
 orphan
 oWVVu
+overwrites
 RD
 Rpbr
 RJ
@@ -4050,6 +4056,8 @@ pog
 pNT
 propose
 piecewise
+pulled
+prescribed
 DQ
 DM
 DU
@@ -5035,6 +5043,10 @@ signature
 sentence
 speak
 scopes
+scope
+showed
+straight
+suitably
 TWe
 TBM
 Ti
@@ -6667,6 +6679,7 @@ ccb
 centred
 constructions
 conjuncts
+complements
 kH
 ka
 kE
@@ -8402,6 +8415,8 @@ meticulously
 maximised
 mmmv
 multiplying
+manipulating
+matters
 WD
 WWx
 Wy
@@ -8870,6 +8885,7 @@ uwq
 uMM
 uGYyyTTd
 uWWI
+universally
 AI
 Az
 Ab
@@ -11901,6 +11917,7 @@ Global
 Generated
 Ggg
 GHp
+Great
 xcb
 xa
 xX
@@ -12314,6 +12331,7 @@ UNIX
 Utilisation
 UVVed
 UVve
+Unique
 rn
 rM
 rI
@@ -12737,6 +12755,7 @@ rGd
 rPPPzZ
 ryTM
 restrict
+rearranged
 ehO
 ef
 eWmI
@@ -13116,6 +13135,8 @@ existential
 ending
 exited
 eqalign
+existentially
+experiments
 lD
 le
 lgAg
@@ -13928,6 +13949,7 @@ Formula
 Flb
 Fragmentation
 Fourier
+Fit
 jY
 jx
 jRg
@@ -14362,6 +14384,7 @@ Occurrence
 Optional
 Outer
 Ohh
+Occurrences
 QiG
 QFJ
 QUR
@@ -14595,6 +14618,8 @@ Quantifiers
 Queuing
 QQxSsSMM
 QiM
+Quantifier
+Quantifications
 ba
 bM
 bhz
@@ -15212,6 +15237,7 @@ Equation
 EBAsKKl
 EEEm
 Equivalences
+Equivalently
 äq
 gh
 gCn

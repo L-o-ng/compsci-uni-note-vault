@@ -1,11 +1,7 @@
 #notes 
-## Commands
-$$
-\text{Click for commands!}
-\DeclareMathOperator{\cspace}{\mathcal{C}}
-\DeclareMathOperator{\span}{\operatorname{span}}
-\newcommand\proj[2]{\operatorname{proj}_{#1}({#2})}
-$$
+## See Also
++ [[QR Decomposition]]
++ [[Linear Regression]]
 ## Column Space
 Let $A=\begin{bmatrix}\mathbf{u}_{1}|\mathbf{u}_{2}|\dots|\mathbf{u}_{n}\end{bmatrix}$ be an $m\times n$ matrix with column vectors $\mathbf{u}_{1},\mathbf{u}_{2},\dots,\mathbf{u}_{n}$.
 The **column space** of $A$ is a subspace of $\Bbb{R}^{m}$, denoted by $\mathcal{C}(A)$ and defined as:
@@ -54,6 +50,40 @@ So:
 
 >For every linear system $A\mathbf{x}=\mathbf{b}$, the associated normal system $A^{T}A\mathbf{x}=A^{T}\mathbf{b}$ is consistent, and its solutions are exactly least square solutions of $A\mathbf{x}=\mathbf{b}$.
 >Moreover, if $W$ is the column space of $A$ and $\mathbf{x}_{0}$ is any least squares solution of $A\mathbf{x}=\mathbf{b}$ then $A\mathbf{x}_{0}=\proj{W}{\mathbf{b}}$.
+## When Are Least Squares Solutions Unique?
+Equivalently: when does a normal system $A^{T}A\mathbf{x}=A^{T}\mathbf{b}$ have a unique solution?
+### Theorem
+>For any $m\times n$ matrix $A$, $A$ has linearly independent columns if and only if $A^{T}A$ is invertible.
+### Proof
++ The columns of $A$ are linearly independent if and only if $A\mathbf{x}=\mathbf{0}$ has only the trivial solution.
++ $A^{T}A$ is square, so it is invertible if and only if $A^{T}A\mathbf{x}=\mathbf{0}$ has only the trivial solution.
++ Each solution of $A\mathbf{x}=\mathbf{0}$ is a solution of $A^{T}A\mathbf{x}=\mathbf{0}$.
++ Let $\mathbf{x}_{0}$ be a solution of $A^{T}A\mathbf{x}=\mathbf{0}$; ie, $A^{T}A\mathbf{x}_{0}=\mathbf{0}$. Then, $A\mathbf{x}_{0}$ is both in the column space of $A$ and in the null space of $A^{T}$ (which are orthogonal complements to each other). Hence, $A\mathbf{x}_{0}=\mathbf{0}$.
++ Thus, $A\mathbf{x}=\mathbf{0}$ has only the trivial solution if and only if the same is true for $A^{T}A\mathbf{x}=\mathbf{0}$.
+### Finding a Unique Least Squares Solution
+Assume that $A$ is an $m\times n$ matrix with linearly independent column vectors.
+
+From the [[#Theorem|previous theorem]], for every column $\mathbf{b} \in \mathbb{R}^{m}$, the least squares solution to $A\mathbf{x}=\mathbf{b}$ (or a solution to $A^{T}A\mathbf{x}=A^{T}\mathbf{b}$) is unique:
+$$
+\mathbf{x}=(A^{T}A)^{-1}A^{T}\mathbf{b}
+$$
+For the last item, substitute $A=QR$ into the first equation above and simplify:
+$$
+\eqalign{
+\mathbf{x}&=(A^{T}A)^{-1}A^{T}\mathbf{b} \\
+&=((QR)^{T}(QR))^{-1}(QR)^{T}\mathbf{b} \\
+&=(R^{T}Q^{T}QR)^{-1}R^{T}Q^{T}\mathbf{b} \\
+&=(R^{T}IR)^{-1}R^{T}Q^{T}\mathbf{b} \\
+&=(R^{T}R)^{-1}R^{T}Q^{T}\mathbf{b} \\
+&=R^{-1}(R^{T})^{-1}R^{T}Q^{T}\mathbf{b}=\underline{R^{-1}Q^{T}\mathbf{b}}
+}
+$$
+Note that $Q^{T}Q=I$ because $Q$ has orthogonal columns.
+
+So, if $A=QR$ is a $QR$ decomposition (which exists under our assumption), then:
+$$
+\mathbf{x}=R^{-1}Q^{T}\mathbf{b}\text{ or equivalently }R\mathbf{x}=Q^{T}\mathbf{b}
+$$
 ## Example
 Q: Find least squares solutions for the following linear system, using the Euclidean dot product.
 $$

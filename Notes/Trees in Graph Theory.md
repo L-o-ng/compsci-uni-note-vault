@@ -1,9 +1,4 @@
 #notes 
-## Commands
-$$
-\text{Click here for command definitions!}
-\newcommand{\leaves}{ℓ}
-$$
 ## See Also
 + [[Trees]]
 ## Trees

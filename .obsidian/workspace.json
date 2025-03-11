@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "90f135a5a23c821a",
+        "id": "923b5a38d4cf3bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e50c6f9c38bdbb",
+            "id": "871038b85ccb3acb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Well-Known First-Order Equivalences.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Well-Known First-Order Equivalences"
-            }
-          },
-          {
-            "id": "02f192e921f7213d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -63,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\proj",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -106,12 +91,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linear Regression.md",
+                "file": "Notes/Matrix Decomposition.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Linear Regression"
+              "title": "Outgoing links from Matrix Decomposition"
             }
           },
           {
@@ -149,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Trees in Graph Theory.md",
+                "file": "Notes/Matrix Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trees in Graph Theory"
+              "title": "Backlinks for Matrix Decomposition"
             }
           }
         ],
@@ -180,44 +165,44 @@
       "switcher:Open quick switcher": false
     }
   },
-  "active": "d8e50c6f9c38bdbb",
+  "active": "871038b85ccb3acb",
   "lastOpenFiles": [
-    "Notes/First-Order Logic.md",
-    "Notes/Well-Known First-Order Equivalences.md",
-    "Notes/First-Order Logical Equivalence.md",
-    "Notes/First-Order Syntax.md",
-    "Notes/Solving Complex Equations.md",
+    "Notes/Least Squares Solutions for Inconsistent Linear Systems.md",
+    "Notes/Projection Matrices.md",
+    "Notes/LaTeX Command Definitions.md",
+    "Notes/Linear Regression.md",
+    "Notes/Projection.md",
+    "Templates/Template.md",
     "Notes/Year 1 Computer Science.md",
-    "Pictures/Parse Tree Example First Order Syntax.png",
-    "Notes/Calculus.md",
+    "Notes/Trees in Graph Theory.md",
+    "Notes/Matrix Decomposition.md",
+    "Notes/Graph Isomorphism.md",
+    "Notes/First-Order Syntax.md",
+    "Notes/Matrix Dimensional Space and Rank.md",
+    "Notes/Linear Algebra.md",
+    "Notes/Linear Maps.md",
+    "Notes/Hyperbolic Functions.md",
+    "Notes/Integration.md",
+    "Notes/Integrating Rational Functions.md",
     "Notes/Fourier Series.md",
-    "Notes/Trigonometry.md",
-    "Notes/Main Trigonometric Functions.md",
-    "Notes/More Trigonometric Functions.md",
+    "Notes/Natural Deduction.md",
+    "Notes/Logic.md",
+    "Notes/Proof Systems on Propositional Logic.md",
+    "Notes/Propositional Logic.md",
+    "Notes/Integration in Theory.md",
+    "Notes/Well-Known First-Order Equivalences.md",
+    "Notes/Properties of the Integral.md",
+    "Notes/Fundamental Theorem of Calculus.md",
+    "Pictures/Parse Tree Example First Order Syntax.png",
     "Pictures/Fourier Series Example 1.png",
-    "Notes/OS Memory Management.md",
-    "Notes/Memory Addressing.md",
     "Pictures/Valid-Invalid Bit in Page Table.png",
-    "Notes/Memory Partitioning.md",
-    "Notes/Memory Fragmentation.md",
     "Pictures/Translation Look-Aside Buffer.png",
     "Pictures/Paging Hardware Flowchart.png",
     "Pictures/Address Translation Scheme.png",
     "Pictures/Pasted image 20250304133253.png",
-    "Notes/Contiguous Memory Allocation.md",
     "Pictures/Contiguous Allocation 1.png",
     "Pictures/Hardware support for relocation and limit registers..png",
     "Pictures/Memory Management Unit 2.png",
-    "Notes/Memory Cells.md",
-    "Notes/Types of Memory.md",
-    "Notes/Operating Systems.md",
-    "Notes/Terminology for Series.md",
-    "Notes/Thoughts.md",
-    "Notes/Graph Isomorphism.md",
-    "Notes/Least Squares Solutions for Inconsistent Linear Systems.md",
-    "Notes/Linear Algebra.md",
-    "Notes/Linear Maps.md",
-    "Notes/Trees in Graph Theory.md",
     "Templates",
     "Canvas.canvas",
     "Untitled.canvas",

@@ -28,6 +28,7 @@
 + [[The Gram-Schmidt Process]]
 + [[Least Squares Solutions for Inconsistent Linear Systems]]
 + [[Linear Regression]]
++ [[Projection Matrices]]
 + 
 
 
