@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "923b5a38d4cf3bc6",
+        "id": "8c1183c15786d224",
         "type": "tabs",
         "children": [
           {
-            "id": "871038b85ccb3acb",
+            "id": "545226726232cf0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Resolution on First-Order Logic.md",
+                "file": "Daily Notes/13-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resolution on First-Order Logic"
-            }
-          },
-          {
-            "id": "56872e926d6b3c3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Resolution as a Proof System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resolution as a Proof System"
+              "title": "13-03-2025"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Resolution",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,37 +166,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false
+      "switcher:Open quick switcher": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "871038b85ccb3acb",
+  "active": "545226726232cf0e",
   "lastOpenFiles": [
-    "Notes/Resolution as a Proof System.md",
-    "Notes/Resolution on First-Order Logic.md",
-    "Notes/First-Order Logic.md",
+    "Daily Notes/13-03-2025.md",
     "Notes/Prenex Normal Form.md",
-    "Notes/First-Order Logical Equivalence.md",
-    "Notes/Fourier Series.md",
-    "Notes/Least Squares Solutions for Inconsistent Linear Systems.md",
-    "Notes/Projection Matrices.md",
-    "Notes/LaTeX Command Definitions.md",
-    "Notes/Linear Regression.md",
-    "Notes/Projection.md",
-    "Templates/Template.md",
-    "Notes/Year 1 Computer Science.md",
-    "Notes/Trees in Graph Theory.md",
-    "Notes/Matrix Decomposition.md",
-    "Notes/Graph Isomorphism.md",
-    "Notes/First-Order Syntax.md",
-    "Notes/Matrix Dimensional Space and Rank.md",
+    "Templates/Template, Daily Note.md",
+    "Daily Notes/2025-03-13.md",
+    "Timestamps/2025/03-March/2025-03-14-Friday.md",
+    "Timestamps/2025/03-March",
+    "Timestamps/2025",
+    "Timestamps",
+    "Notes/Not Work.md",
+    "Daily Notes/<% moment(tp.file.title,'YYYY-MM-DD').format(\"dddd, MMMM DD, YYYY\") %>.md",
+    "Notes/2025-03-14.md",
+    "Notes/QR Decomposition.md",
+    "Daily Notes",
+    "Templates/Template, Note.md",
+    "Notes/Complex Vector Spaces.md",
+    "Notes/Convergence Tests.md",
+    "Notes/Computer Hardware.md",
+    "Notes/Circularly Linked Lists.md",
+    "Notes/Calculus of Limits Theorem.md",
+    "Notes/Bivariate Extrema Examples.md",
+    "Notes/Arithmetic Expressions on a Binary Tree.md",
+    "Notes/Algorithms over Implementations.md",
+    "Notes/AaDS Week 10.md",
+    "Notes/AaDS Week 3.md",
+    "Notes/Satisfiability of Formulae and Clause-Sets.md",
     "Notes/Linear Algebra.md",
-    "Notes/Linear Maps.md",
-    "Notes/Hyperbolic Functions.md",
-    "Notes/Integration.md",
-    "Notes/Integrating Rational Functions.md",
-    "Notes/Natural Deduction.md",
-    "Notes/Logic.md",
-    "Notes/Proof Systems on Propositional Logic.md",
+    "Notes/Inner Product Spaces.md",
+    "Notes/Standard Inner Product.md",
+    "Notes/Thoughts.md",
+    "Notes/Resolution as a Proof System.md",
     "Pictures/Parse Tree Example First Order Syntax.png",
     "Pictures/Fourier Series Example 1.png",
     "Pictures/Valid-Invalid Bit in Page Table.png",

@@ -359,6 +359,7 @@ Prc
 Proposal
 Pushing
 Pulling
+Prenex
 IHDR
 IDATx
 ID
@@ -2122,6 +2123,7 @@ downgrade
 dDn
 discontinuity
 discourse
+daily
 oL
 om
 oV
@@ -2396,6 +2398,7 @@ overheads
 orphan
 oWVVu
 overwrites
+observation
 RD
 Rpbr
 RJ
@@ -2966,6 +2969,7 @@ njnl
 noy
 nSVy
 neq
+night
 fg
 fU
 fk
@@ -4062,6 +4066,8 @@ piecewise
 pulled
 prescribed
 prefix
+plan
+prenex
 DQ
 DM
 DU
@@ -4403,6 +4409,7 @@ Deterministic
 Deallocates
 Decides
 DQP
+Daily
 sDK
 sk
 sz
@@ -5051,6 +5058,8 @@ scope
 showed
 straight
 suitably
+struggling
+subformula
 TWe
 TBM
 Ti
@@ -5359,6 +5368,8 @@ TQq
 TVW
 TPl
 Tricks
+Thursday
+Templates
 JP
 Ju
 JQ
@@ -6685,6 +6696,8 @@ centred
 constructions
 conjuncts
 complements
+cleaning
+continuing
 kH
 ka
 kE
@@ -7167,6 +7180,7 @@ Layered
 Linux
 Long
 Least
+Last
 tJ
 tf
 tR
@@ -7554,6 +7568,8 @@ travel
 trust
 traverse
 tJr
+touched
+template
 Bh
 Bda
 Br
@@ -8422,6 +8438,7 @@ mmmv
 multiplying
 manipulating
 matters
+mess
 WD
 WWx
 Wy
@@ -8639,6 +8656,7 @@ WEd
 Wtw
 Windows
 Weak
+Wednesday
 uC
 uIOs
 uq
@@ -9882,6 +9900,8 @@ Medium
 Multilevel
 Models
 MMU
+MMMM
+March
 SQl
 SkBl
 SK
@@ -10748,6 +10768,7 @@ allocate
 atoms
 atom
 amend
+accomplish
 wE
 wU
 wF
@@ -11703,6 +11724,7 @@ YAvii
 YCCCCC
 YCC
 YNn
+YYYY
 Gckud
 GN
 GD
@@ -15244,6 +15266,7 @@ EBAsKKl
 EEEm
 Equivalences
 Equivalently
+Establishing
 äq
 gh
 gCn
