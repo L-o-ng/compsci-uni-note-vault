@@ -2706,6 +2706,7 @@ Rooted
 RSQ
 RQL
 Relocation
+Renaming
 nR
 nW
 nT
@@ -5354,6 +5355,7 @@ TVVVSS
 TQq
 TVW
 TPl
+Tricks
 JP
 Ju
 JQ
@@ -10272,6 +10274,7 @@ SSSpp
 Sczz
 Subtleties
 Subtlety
+Substitution
 aQ
 ag
 aZ

@@ -30,4 +30,7 @@ We can read $\vDash$ as "models".
 + [[First-Order Syntax]]
 + [[First-Order Logical Equivalence]]
 + [[Well-Known First-Order Equivalences]]
++ [[Prenex Normal Form]]
++ [[Resolution on First-Order Logic]]
++ 
 
