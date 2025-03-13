@@ -1296,6 +1296,7 @@ iJU
 iuo
 irregular
 illustrate
+interpretations
 qi
 qH
 qSr
@@ -2707,6 +2708,7 @@ RSQ
 RQL
 Relocation
 Renaming
+Reduce
 nR
 nW
 nT
@@ -4059,6 +4061,7 @@ propose
 piecewise
 pulled
 prescribed
+prefix
 DQ
 DM
 DU
