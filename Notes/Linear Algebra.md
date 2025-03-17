@@ -29,6 +29,8 @@
 + [[Least Squares Solutions for Inconsistent Linear Systems]]
 + [[Linear Regression]]
 + [[Projection Matrices]]
++ [[Orthogonal Matrices]]
++ [[Spectral Decomposition#Orthogonally Diagonalising a Symmetric Matrix]]
 + 
 
 

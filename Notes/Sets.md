@@ -55,7 +55,7 @@ To infinity: \[a, $\infty$], note that this uses a half open set.
 On a graph, a closed bound is represented by a filled dot, and an open bound a circle.
 An interval is represented by a line connecting 2 bounds.
 ### New notation
-+ **Set Minus** - $A\backslash B=\set{a:a\in A,a\notin B}$, or the set of the elements of $A$ that are not n $B$.
++ **Set Minus** - $A\setminus B=\set{a:a\in A,a\notin B}$, or the set of the elements of $A$ that are not n $B$.
 + **Powerset** - $\mathcal{P}(A)=\set{A^\prime:A^\prime\subseteq A}$, or the set of all subsets of $A$.
 + **Cartesian Product of $A$ and $B$** - The set of all ordered pairs with first element from A and second from B; $A\times B=\set{(a,b):a\in A, b\in B}$. Note that $(a,b)$ denotes an ordered pair.
 + **\[n]** - In Computer Science, this commonly represents $\set{1, 2, 3, 4, ..., n}$.
@@ -65,7 +65,7 @@ Changing the order of their elements is significant.
 ## Set size
 The **cardinality** of a set is the number of distinct elements it contains.
 Two sets have the same size if there is a [[Functions in Computer Science#Injections, Surjections, and Bijections|bijection]] between them.
-	Formally, a set $A$ has size $n\in\mathbb{N}$ if there is a bijection between $A$ and the set \[$n$].
+Formally, a set $A$ has size $n\in\mathbb{N}$ if there is a bijection between $A$ and the set $[a]$.
 If the number of elements is unbounded, we say the **cardinality** is infinite.
 + If there is a **bijection**, $f:A\to\mathbb{N}$ or $f:\mathbb{N}\to A$, we say $A$ is countably infinite.
 + If there is no **bijection** $f:A\to\mathbb{N}$, we say $A$ is uncountably infinite.
