@@ -369,6 +369,7 @@ PPPPPPPP
 Principal
 PCA
 Preprocessing
+Particle
 IHDR
 IDATx
 ID
@@ -1317,6 +1318,9 @@ illustrate
 interpretations
 ihx
 iKS
+intrinsically
+interaction
+investigator
 qi
 qH
 qSr
@@ -1529,6 +1533,7 @@ quantitative
 qAn
 qcq
 qQ
+qubit
 Xz
 XQ
 XX
@@ -1716,6 +1721,7 @@ Xhk
 Xzz
 Xxk
 XwE
+XVth
 dB
 do
 dK
@@ -2151,6 +2157,8 @@ daily
 diagonalisation
 dID
 djk
+decoherence
+discuss
 oL
 om
 oV
@@ -2432,6 +2440,10 @@ oHy
 ovD
 onu
 oqc
+opened
+obstacle
+observers
+observer
 RD
 Rpbr
 RJ
@@ -2753,6 +2765,7 @@ RoOG
 RDW
 RHt
 Rvb
+Romeo
 nR
 nW
 nT
@@ -3372,6 +3385,9 @@ forall
 fuC
 fEc
 fFAA
+fortified
+feelings
+fashioned
 hO
 hf
 hA
@@ -3684,6 +3700,9 @@ hbb
 hnr
 hcMG
 huV
+harnessing
+hire
+hate
 pY
 pC
 pc
@@ -4125,6 +4144,12 @@ pJE
 pfv
 pAdR
 principal
+planes
+particle
+poison
+promised
+parents
+parties
 DQ
 DM
 DU
@@ -4471,6 +4496,9 @@ Diagonalising
 DzJ
 DbI
 DGCUE
+Dirac
+DEAD
+Deutsch
 sDK
 sk
 sz
@@ -5126,6 +5154,11 @@ sVk
 sJM
 sll
 sdQsW
+superpositions
+statistical
+superposition
+simulated
+sweet
 TWe
 TBM
 Ti
@@ -5437,6 +5470,9 @@ Tricks
 Thursday
 Templates
 TRPPPPPPP
+Think
+Tensor
+Teleportation
 JP
 Ju
 JQ
@@ -5641,6 +5677,8 @@ JwS
 JCj
 JTM
 Jcq
+Jozsa
+Juliet
 zG
 zd
 zj
@@ -6198,6 +6236,9 @@ CcM
 CFIq
 Chi
 Covariance
+Cat
+CNOT
+Classically
 cd
 ce
 cNCw
@@ -6790,6 +6831,12 @@ cRk
 covariance
 captures
 capturing
+classical
+collapse
+cat
+correlation
+couple
+century
 kH
 ka
 kE
@@ -6993,6 +7040,7 @@ kss
 kZF
 kXz
 kcM
+ket
 LL
 LN
 Lx
@@ -7672,6 +7720,9 @@ tvX
 thb
 tmf
 tsB
+tensor
+teleportation
+transfers
 Bh
 Bda
 Br
@@ -7955,6 +8006,10 @@ Bipartition
 Beware
 BHTTddd
 Bkk
+Born
+Bases
+Before
+Bell
 ZY
 Zu
 ZzJ
@@ -8771,6 +8826,7 @@ WtF
 WnL
 Wub
 WjD
+Worlds
 uC
 uIOs
 uq
@@ -9025,6 +9081,9 @@ uWWI
 universally
 ujK
 ugk
+unitary
+unbeknownst
+unable
 AI
 Az
 Ab
@@ -9322,6 +9381,8 @@ AmV
 AQQ
 AVE
 AAAAAAAyE
+ALIVE
+Achieving
 KN
 KV
 KO
@@ -9724,6 +9785,7 @@ Valued
 Virtual
 VkaA
 VoK
+Verona
 Mz
 MR
 Mc
@@ -10030,6 +10092,8 @@ MMMM
 March
 Mem
 Monday
+Measurement
+Michaelmas
 SQl
 SkBl
 SK
@@ -10431,6 +10495,8 @@ SSq
 SGN
 ScZ
 SnL
+Spaces
+Schrödinger
 aQ
 ag
 aZ
@@ -11193,6 +11259,8 @@ wgJ
 wMe
 wNdk
 wEo
+wavefunction
+worlds
 vh
 vU
 vx
@@ -11435,6 +11503,7 @@ visit
 vWVU
 vdJ
 variance
+vial
 Ny
 Ngl
 Nz
@@ -12533,6 +12602,8 @@ UkVZ
 UgK
 Ued
 UYz
+Unitary
+Understanding
 rn
 rM
 rI
@@ -12958,6 +13029,8 @@ ryTM
 restrict
 rearranged
 rOWg
+realm
+requiring
 ehO
 ef
 eWmI
@@ -13341,6 +13414,10 @@ existentially
 experiments
 edT
 explained
+encodes
+encoded
+exchanging
+entangles
 lD
 le
 lgAg
@@ -13667,6 +13744,8 @@ lUDpS
 lhm
 losing
 lossily
+likened
+love
 Ho
 Hf
 HdS
@@ -13923,6 +14002,8 @@ Hamiltonian
 Hobs
 HhT
 Hä
+Hilbert
+Hadamard
 FC
 FT
 FP
@@ -14605,6 +14686,8 @@ Occurrences
 Operators
 Orthogonally
 Oyo
+Orthonormal
+Oxbridge
 QiG
 QFJ
 QUR
@@ -15170,6 +15253,9 @@ bieUhxX
 bQgK
 bfn
 bWm
+bra
+bilinear
+bond
 ED
 EXD
 Es
@@ -15473,6 +15559,9 @@ EYfT
 ECh
 ElAZ
 EXq
+Evolution
+Eavesdropping
+Eve
 äq
 gh
 gCn
@@ -15746,6 +15835,7 @@ guilty
 gcE
 gkod
 gEK
+geographical
 Üfrpp
 ÜAv
 ÜK

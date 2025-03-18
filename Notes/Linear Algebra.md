@@ -31,6 +31,7 @@
 + [[Projection Matrices]]
 + [[Orthogonal Matrices]]
 + [[Spectral Decomposition#Orthogonally Diagonalising a Symmetric Matrix]]
++ [[Quantum Teleportation]]
 + 
 
 
