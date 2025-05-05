@@ -40,7 +40,7 @@ This is a better approximation since it also matches the second derivative of $f
 ## In General
 We can generalise to find that the ***Taylor Polynomial of degree*** $N$ for $f(x)$ about $x=a$ is:
 $$
-\small \boxed{ p_{N,a}(x)=f(a)+(x-a)f'(a)+ \frac{1}{2}(x-a)^{2}f''(a)+\frac{1}{3!}(x-a)^{3}f'''(a)\dots+\frac{1}{N!}(x-a)^{N}f^{N}(x)}
+ \boxed{ p_{N,a}(x)=f(a)+(x-a)f'(a)+ \frac{1}{2}(x-a)^{2}f''(a)+\frac{1}{3!}(x-a)^{3}f'''(a)\dots+\frac{1}{N!}(x-a)^{N}f^{N}(x)}
 $$
 We can also write:
 $$

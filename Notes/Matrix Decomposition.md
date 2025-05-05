@@ -6,4 +6,3 @@ See [[Augmented Matrices and Elementary Row Operations]], [[Gaussian Elimination
 + [[Eigendecomposition]]
 + [[QR Decomposition]]
 + [[Spectral Decomposition]]
-+ [[Singular Value Decomposition]]

@@ -5159,6 +5159,7 @@ statistical
 superposition
 simulated
 sweet
+skew
 TWe
 TBM
 Ti
@@ -5473,6 +5474,7 @@ TRPPPPPPP
 Think
 Tensor
 Teleportation
+Tuesday
 JP
 Ju
 JQ
@@ -8602,6 +8604,7 @@ mZJ
 mmMu
 mnko
 mxu
+memoization
 WD
 WWx
 Wy
@@ -9383,6 +9386,7 @@ AVE
 AAAAAAAyE
 ALIVE
 Achieving
+Anti
 KN
 KV
 KO
@@ -10094,6 +10098,8 @@ Mem
 Monday
 Measurement
 Michaelmas
+McLaurin
+Memoization
 SQl
 SkBl
 SK
@@ -10497,6 +10503,8 @@ ScZ
 SnL
 Spaces
 Schrödinger
+Skew
+Symmetry
 aQ
 ag
 aZ
@@ -10970,6 +10978,8 @@ amend
 accomplish
 applies
 alZ
+agrees
+analytic
 wE
 wU
 wF
@@ -13031,6 +13041,8 @@ rearranged
 rOWg
 realm
 requiring
+regrouping
+recurse
 ehO
 ef
 eWmI
@@ -14247,6 +14259,7 @@ FVD
 FyQF
 FKg
 FScYy
+Finally
 jY
 jx
 jRg

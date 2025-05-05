@@ -32,6 +32,7 @@
 + [[Orthogonal Matrices]]
 + [[Spectral Decomposition#Orthogonally Diagonalising a Symmetric Matrix]]
 + [[Quantum Teleportation]]
++ [[Symmetric, Hermitian and Other Matrices]]
 + 
 
 

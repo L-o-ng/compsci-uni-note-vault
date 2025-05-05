@@ -16,6 +16,6 @@
 + [[Integration]]
 + [[Group Theory]]
 + [[Series and Power Series]]
-+ 
++ [[Linear Algebra]]
 ## Quick Access
 + 
