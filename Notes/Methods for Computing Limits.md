@@ -1,4 +1,4 @@
-**#notes 
+#notes 
 
 For method 5, see [[Calculus of Limits Theorem]]
 For method 6, see [[Changing Variables in Limits]]
