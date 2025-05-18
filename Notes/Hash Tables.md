@@ -4,7 +4,6 @@ Suppose we want to store data consisting of key-value pairs.
 We want to be able to **look up** the values using the keys, and:
 + The total amount of data might be very large.
 + Our algorithm might perform many lookups.
-
 ## Definition
 A **hash table** consists of a bucket array and a hash function.
 A **bucket array** for a hash table is an array `A` of size `N`, where each cell of `A` is thought of as a *bucket*, storing a collection of key-value pairs.

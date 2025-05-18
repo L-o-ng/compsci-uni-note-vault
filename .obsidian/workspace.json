@@ -4,109 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7027322cfb3fb2b9",
+        "id": "ac27f604d4b4f3ff",
         "type": "tabs",
         "children": [
           {
-            "id": "aefd1c7694d56822",
+            "id": "f0c31f18dec63852",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Integrating Hard Trigonometric Functions.md",
+                "file": "Notes/File Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integrating Hard Trigonometric Functions"
+              "title": "File Management"
             }
           },
           {
-            "id": "61fa74c93ef35ece",
+            "id": "9b93b7d489ae6fe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Convergence.md",
+                "file": "Notes/CPU Scheduling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convergence"
-            }
-          },
-          {
-            "id": "63f8fab5d1f495e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Finding the Sum of a Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Finding the Sum of a Series"
-            }
-          },
-          {
-            "id": "639f0d6eacfac453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Hyperbolic Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hyperbolic Functions"
-            }
-          },
-          {
-            "id": "3caae11e697596f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Alternating Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alternating Series"
-            }
-          },
-          {
-            "id": "2068e156dc9fe12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Inner Product Spaces.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inner Product Spaces"
-            }
-          },
-          {
-            "id": "ef3323f759ab99cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Gaslighting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gaslighting"
+              "title": "CPU Scheduling"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graph",
+                "query": "multiprogramming",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,48 +185,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef3323f759ab99cb",
+  "active": "f0c31f18dec63852",
   "lastOpenFiles": [
-    "Notes/Year 1 Computer Science.md",
-    "Notes/Gaslighting.md",
-    "Notes/Methods for Computing Limits.md",
-    "Notes/Finding the Sum of a Series.md",
-    "Notes/Hyperbolic Functions.md",
-    "Notes/Inverse Hyperbolic Functions.md",
-    "Notes/Integrating Hard Trigonometric Functions.md",
-    "Notes/Convergence.md",
-    "Notes/Main Trigonometric Functions.md",
-    "Notes/Taylor Series.md",
-    "Notes/Symmetric, Hermitian and Other Matrices.md",
-    "Notes/Series and Power Series.md",
-    "Notes/Inner Product Spaces.md",
-    "Notes/The Gram-Schmidt Process.md",
-    "Notes/QR Decomposition.md",
-    "Notes/Complex Power Series.md",
-    "Notes/Generalised Power Series.md",
-    "Notes/Taylor's Theorem.md",
-    "Notes/Alternating Series.md",
-    "Notes/Convergence Tests.md",
-    "Notes/Limits.md",
-    "Notes/Integration.md",
-    "Notes/Solving Complex Equations.md",
-    "Notes/Complex Numbers.md",
-    "Notes/Transcendental Equations.md",
-    "Notes/Integrating Rational Functions.md",
-    "Pictures/Pasted image 20250506180047.png",
-    "Pictures/Quantum Teleportation Circuit.png",
-    "Pictures/Deutsch-Josza Algorithm Circuit.png",
-    "Pictures/Bell State circuit.png",
-    "Pictures/Gram-Schmidt Example 2.png",
+    "Pictures/Tree-Structured Directory.png",
+    "Pictures/Two-Level Directory.png",
+    "Pictures/Single-Level Directory.png",
+    "Pictures/Filesystem Organisation.png",
+    "Pictures/Directory File Access.png",
+    "Pictures/Index and Relative File Access.png",
+    "Pictures/Sequential Access File.png",
+    "Notes/OS Memory Management.md",
+    "Notes/File Management.md",
+    "Notes/Deadlock.md",
+    "Pictures/Bankers resource request algorithm.png",
+    "Pictures/Banker's Algorithm Example.png",
+    "Pictures/RAG Claim Edges.png",
+    "Pictures/RAG Example 3.png",
+    "Notes/RAID.md",
+    "Notes/Storage Management.md",
+    "Notes/Virtual Memory.md",
+    "Notes/CPU Scheduling.md",
+    "Notes/Processes.md",
+    "Notes/Memory Fragmentation.md",
+    "Notes/Types of Memory.md",
+    "Notes/Operating Systems.md",
+    "Notes/Multithreading Models.md",
+    "Notes/Amdahl's Law.md",
+    "Notes/OS Kernel.md",
+    "Notes/Databases.md",
+    "Notes/Relational Calculus and Algebra.md",
+    "Notes/Same Order Growth Rates.md",
+    "Notes/Asymptotics.md",
+    "Notes/Big-O Notation.md",
+    "Notes/Analysing QuickSort.md",
+    "Notes/Recurrences.md",
+    "Notes/Induction.md",
+    "Notes/Master Theorem.md",
+    "Notes/Eulerian Circuits.md",
+    "Notes/Minimum Spanning Trees.md",
     "Timestamps/2025/03-March",
     "Timestamps/2025",
     "Timestamps",
     "Daily Notes",
-    "Pictures/Parse Tree Example First Order Syntax.png",
-    "Pictures/Fourier Series Example 1.png",
-    "Pictures/Valid-Invalid Bit in Page Table.png",
-    "Pictures/Translation Look-Aside Buffer.png",
-    "Pictures/Paging Hardware Flowchart.png",
     "Templates",
     "Canvas.canvas",
     "Untitled.canvas",

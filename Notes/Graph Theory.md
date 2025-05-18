@@ -22,4 +22,8 @@ It often helps to draw graphs:
 + [[Hamiltonian Cycles]]
 + [[Trees in Graph Theory]]
 + [[Graph Isomorphism]]
++ [[Adjacency Lists and Matrices]]
++ [[Breadth First Search]]
++ [[Depth First Search]]
++ [[Minimum Spanning Trees]]
 + 

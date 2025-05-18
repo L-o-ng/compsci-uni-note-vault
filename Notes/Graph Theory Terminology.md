@@ -12,6 +12,8 @@ If $G=(V,E)$ is a graph, then:
 + With $\delta(G)$, or just $\delta$, we denote the *smallest* degree in $G$, and similarly $\Delta(G)$ or $\Delta$ denotes the *largest* degree.
 + A vertex with degree 0 is called an *isolated* vertex.
 + A vertex with degree 1 is called an *end*/*pendant* vertex.
+
+An **articulation point** is a vertex whose removal disconnects the graph.
 ### Walks, Paths, Cycles, and Distances
 A *walk* in a graph $G$ is a sequence of edges $v_{0}v_{1},v_{1}v_{2},v_{2}v_{3},\dots,v_{n-1}v_{n}$. In this case, we also say that $v_{0},v_{1},\dots,v_{n}$ is a walk in $G$.
 A walk $v_{0},v_{1},\dots,v_{n}$ in $G$ is a *path* if all $v_{i}$s are distinct. In this case we also say that $v_{0},v_{1},\dots,v_{n}$ is a path in $G$.

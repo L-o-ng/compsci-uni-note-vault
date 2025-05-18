@@ -12,7 +12,7 @@ We have at least $n!$ leaves - at least one for each outcome.
 Consider [[Selection Sort]]; a decision tree for a 3-element input may look like this:
 ![[Decision Tree Selection Sort.png]]
 On sorting the input sequence $<a_{1}=6;a_{2}=8;a_{3}=5>$: the permutation $<3,1,2>$ at the leaf indicates the sorted ordering.
-There are $3\neq 6$ possible permutations of the input elements, so the decision tree must have at least 6 leaves.
+There are 6 possible permutations of the input elements, so the decision tree must have at least 6 leaves.
 Note that *any* correct sorting algorithm must be able to produce each permutation of input. A necessary condition is that each of the $n!$ permutations must appear as a leaf of the decision tree.
 ## Worst Case Lower Bound
 The worst case lower bound is the length of the longest path from the root of the decision tree to any leaf - this represents the worst case number of comparisons for a given value of $n$.

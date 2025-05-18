@@ -12,4 +12,9 @@ It:
 + [[Memory Partitioning]]
 + [[Contiguous Memory Allocation]]
 + [[Memory Fragmentation]]
++ [[Virtual Memory]]
++ [[Storage Management]]
++ [[RAID]]
++ [[Deadlock]]
++ [[File Management]]
 + 
