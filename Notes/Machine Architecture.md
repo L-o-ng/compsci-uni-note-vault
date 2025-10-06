@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Topics
 + [[Little Minion Computer]]
 + [[Programming an LMC]]

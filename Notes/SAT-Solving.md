@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 **SAT-Solving** allows us to encode a problem as a propositional formula so that a solution corresponds to the formula having a satisfying truth assignment. 
 

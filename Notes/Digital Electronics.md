@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Digital Electronics refers to digital technology or circuits, which operate on digital signals.
 They are usually made from large assemblies of [[Gates|gates]].

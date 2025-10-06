@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 See [[Augmented Matrices and Elementary Row Operations]], [[Gaussian Elimination]].
 ## Types of Decomposition

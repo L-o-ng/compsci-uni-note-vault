@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Every logic comprises of:
 + A **formal language** for making statements about certain objects.

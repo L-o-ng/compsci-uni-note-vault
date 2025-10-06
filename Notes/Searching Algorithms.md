@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Suppose we have $n$ numbers in an array $A[1\dots n]$, and the numbers are sorted and pairwise distinct.
 Also, assume we have a number $x$ that is equal to one of the $n$ numbers above; that is: 

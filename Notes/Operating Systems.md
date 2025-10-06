@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 The job of an operating system is to manage **all** of a machine's resources.
 + Provides the interface between hardware and software.

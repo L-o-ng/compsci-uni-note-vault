@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Notes
 + [[STRIDE Threat Classification]]
 + [[Applied Cryptography]]

@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 The OS manages the system's memory resources to allocate it to the right processes at the right time.
 It:

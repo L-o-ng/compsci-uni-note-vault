@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Efficiency and complexity is mostly in the domain of [[Decision Problems]].
 ## Notes

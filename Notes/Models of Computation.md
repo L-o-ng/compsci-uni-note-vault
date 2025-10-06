@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Notes
 + [[Finite-State Automata]]
 + [[Regular Languages]]

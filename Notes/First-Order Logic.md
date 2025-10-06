@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Whereas the fundamental building block in [[Propositional Logic]] is the propositional variable, within first-order logic, it is the *predicate*.
 A *predicate symbol*, or *relation symbol*, is just a symbol with an associated arity: $P$ might be defined as a predicate symbol of arity $r$.

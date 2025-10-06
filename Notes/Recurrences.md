@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 To find a recurrence relation, we can follow this process:
 Note that many recursive algorithms are actually *hybrids* between iterative and recursive processes.

@@ -5,4 +5,5 @@
 + [[Theory of Computation]]
 + [[Networks and Systems]]
 + [[Programming Paradigms]]
++ [[Artificial Intelligence]]
 + 

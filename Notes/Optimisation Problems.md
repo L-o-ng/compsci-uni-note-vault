@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Optimisation problems have in common:
 + A set of instances,

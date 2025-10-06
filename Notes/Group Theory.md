@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Notes
 + [[Symmetries]]
 + [[Symmetry as a Group]]

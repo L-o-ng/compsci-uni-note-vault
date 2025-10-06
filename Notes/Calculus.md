@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 ## Topics
 + [[Functions in Computer Science]]

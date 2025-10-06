@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 A search problem has in common for each instance:
 + There are numerous acceptable solutions and one of these should be returned, or

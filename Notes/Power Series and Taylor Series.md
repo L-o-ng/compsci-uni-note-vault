@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Power series are series of the form $P(x)=\sum_{n=0}^{\infty}b_{n}x^{n}$.
 We refer to $\{ b_{0},b_{1},b_{2},\dots \}$ as the **coefficients** of the power series $P(x)$.

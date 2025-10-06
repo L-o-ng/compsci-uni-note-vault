@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Notes
 + [[Integration in Theory]]
 + [[Properties of the Integral]]

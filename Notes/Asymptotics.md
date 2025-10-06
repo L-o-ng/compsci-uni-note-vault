@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Relevant Notes
 + [[Time Complexity]]
 + [[Worst Case Time Complexity]]

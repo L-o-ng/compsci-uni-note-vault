@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Topics
 + [[Vector Spaces]]
 + [[Sets]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Systems Programming.md",
+                "file": "Notes/Machine Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Systems Programming"
+              "title": "Machine Learning"
             }
           }
         ]
@@ -185,12 +185,14 @@
   },
   "active": "75c2d2926e0f507f",
   "lastOpenFiles": [
-    "Notes/C++.md",
+    "Notes/Artificial Intelligence.md",
+    "Notes/Machine Learning.md",
+    "Notes/Year 2 Computer Science.md",
     "Notes/Systems Programming.md",
+    "Notes/C++.md",
     "Notes/C.md",
     "Notes/Programming Paradigms.md",
     "Notes/Programming Languages.md",
-    "Notes/Year 2 Computer Science.md",
     "Notes/Data Transformation.md",
     "Pictures/Vignere Cipher.png",
     "Notes/Applied Cryptography.md",
@@ -211,8 +213,6 @@
     "Notes/Regular Operations.md",
     "Notes/Finite State Machine.md",
     "Templates/Template, Note.md",
-    "Notes/Computer Systems.md",
-    "Notes/Theory of Computation.md",
     "Pictures/AVR Programming C++ Shell Example.png",
     "Pictures/Memory Management Unit 2.png",
     "Pictures/ER Modelling.png",

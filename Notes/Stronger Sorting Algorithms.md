@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 The algorithms covered in [[Sorting Algorithms]] are somewhere between $O(n\log n)$ and $O(n^2).$ That is no coincidence:
 

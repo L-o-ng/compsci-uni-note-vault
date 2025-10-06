@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Notes
 + [[Database Management Systems]]
 + [[Database Design]]

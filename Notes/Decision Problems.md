@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 **Decision** **Problems** share a common feature:
 + They consist of a set of instances such that, corresponding to any instance is the answer yes or no.

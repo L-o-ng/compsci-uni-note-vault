@@ -1,4 +1,4 @@
-#linker 
+#topic 
 ## Notes
 + [[Rooted Binary Trees]]
 + [[Tree Traversal]]

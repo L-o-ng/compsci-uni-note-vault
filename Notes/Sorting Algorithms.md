@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 ## Notes
 ### Traditional Algorithms

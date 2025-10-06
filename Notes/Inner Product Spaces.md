@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Recall that the [[Dot Product]] - or the ***Euclidean Inner Product*** - of vectors $\mathbf{u},\mathbf{v} \in \Bbb{R}^{n}$ is defined as $\mathbf{u}\cdot \mathbf{v}=u_{1}v_{1}+u_{2}v_{2}+\dots+u_{n}v_{n}$.
 Using the dot product, you can define *norms* such as the [[Euclidean Norm]], [[Manhattan Norm]], etc. 

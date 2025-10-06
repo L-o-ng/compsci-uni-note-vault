@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 All scientific disciplines can be said to have the solution of problems as their goal.
 Computer science is more interested in the process of finding that solution.

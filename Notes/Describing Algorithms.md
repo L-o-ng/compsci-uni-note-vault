@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 In all the problem-description pages, problems and algorithms have been defined in natural language. However, our intention is to eventually implement algorithms as programs for execution by computers: there is a disconnect. 
 We can move to an interim position: [[Pseudo-code]].

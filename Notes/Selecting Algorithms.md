@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 With [[Searching Algorithms]], we assumed that:
 + The input is *sorted*, and;

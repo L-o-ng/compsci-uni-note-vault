@@ -1,4 +1,4 @@
-#linker 
+#topic 
 
 Consider the infinite sum:
 $$
