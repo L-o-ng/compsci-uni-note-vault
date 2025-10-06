@@ -14,10 +14,4 @@ RE $R$ is a regular expression over the alphabet $\Sigma$ if $R$ is:
 5. $(R_{1}\circ R_{2})$ where $R_{1},R_{2}$ are REs;
 6. $(R_{1}^{*})$ where $R_{1}$ is an RE.
 
-
-
-
-
-
-
 See also: [[Regular Expressions]]

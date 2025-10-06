@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "tag:#linker",
+      "query": "tag:#topic",
       "color": {
         "a": 1,
         "rgb": 15543517
@@ -74,6 +74,6 @@
   "repelStrength": 12.2916666666667,
   "linkStrength": 1,
   "linkDistance": 182,
-  "scale": 0.2609674098494139,
+  "scale": 0.6126867556490065,
   "close": true
 }

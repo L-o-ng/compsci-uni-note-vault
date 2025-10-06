@@ -1377,6 +1377,7 @@ ikjXz
 inherited
 inductive
 installation
+improves
 qi
 qH
 qSr
@@ -3520,6 +3521,7 @@ flash
 flaw
 fully
 flows
+finally
 hO
 hf
 hA
@@ -4317,6 +4319,8 @@ pad
 permutated
 python
 popular
+prediction
+producing
 DQ
 DM
 DU
@@ -6502,6 +6506,7 @@ Caesar
 Cipher
 Concurrent
 Clik
+Computers
 cd
 ce
 cNCw
@@ -8046,6 +8051,7 @@ tBL
 threat
 threats
 transforming
+topic
 Bh
 Bda
 Br
@@ -8948,6 +8954,8 @@ minidisks
 mkks
 mMmEE
 modification
+manually
+mappings
 WD
 WWx
 Wy
@@ -10924,6 +10932,7 @@ SHA
 Statements
 Scripting
 SAS
+Summarily
 aQ
 ag
 aZ
@@ -11422,6 +11431,8 @@ attacks
 adversaries
 automate
 awareness
+arose
+anticipated
 wE
 wU
 wF
@@ -13558,6 +13569,7 @@ replaced
 resistant
 restarting
 rails
+rely
 ehO
 ef
 eWmI
@@ -14573,6 +14585,7 @@ Holes
 Hole
 Hashing
 Haskell
+Humans
 FC
 FT
 FP

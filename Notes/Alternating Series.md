@@ -1,4 +1,4 @@
-**#notes 
+#notes 
 
 We can make a general statement about [[Convergence Tests#Conditional Convergence|conditional convergence]] for an **alternating series**.
 

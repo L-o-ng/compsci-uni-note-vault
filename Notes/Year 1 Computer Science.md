@@ -1,6 +1,4 @@
 #root
-
-[[Year 2 Computer Science]] >>
 ## Modules
 + [[Algorithms & Data Structures]]
 + [[Computational Thinking]]
