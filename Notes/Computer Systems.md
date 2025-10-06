@@ -1,6 +1,6 @@
 #module 
 
-## Notes
+## Topics
 + [[Digital Electronics]]
 + [[Machine Architecture]]
 + [[Databases]]

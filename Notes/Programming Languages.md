@@ -1,6 +1,5 @@
 #linker
 ## Notes
-+ [[Programming Paradigms]]
 + [[Why so many Languages]]
 + [[Syntax and Semantics]]
 + [[Compilation and Interpretation]]

@@ -22,5 +22,3 @@
 			1) 💀
 	2) We can define ordered pairs with set theory. Define that $(a,b)=\{ \{ a \},\{ a,b \} \}$. Prove that $(a,b)=(c,d)$ if and only if $\{ \{ a \},\{ a,b \} \}=\{ \{ c \},\{ c,d \} \}$
 		1) 💀
-
-todo! remove the 💀s 

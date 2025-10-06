@@ -10,3 +10,5 @@ On input string $a_{1}a_{2}\dots a_{n}$ over $\sum$, $M$ yields a state sequence
 + $a_{1}a_{2}\dots a_{n}$ is **accepted** if $q_{n} \in F$.
 $M$ **accepts** a set of strings over $\sum$, namely: 
 + All those string that when input to $M$, the sequence of states ends in a final state.
+
+See also: [[Finite-State Automata]]

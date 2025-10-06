@@ -38,8 +38,3 @@ Assuming $A$ is symmetric,
 
 
 ---
-## Examples
-### Example 1 - Orthogonal Diagonalisation of a Symmetric Matrix
-Q: Orthogonally diagonalise $A=\begin{pmatrix}4&2&2\\2&4&2\\2&2&4\end{pmatrix}$.
-A:
-1) Find the eigenvalues of $A$: $\lambda_{1}=2,\lambda_{2}=8$. Find bases for the eigenspaces: todo!

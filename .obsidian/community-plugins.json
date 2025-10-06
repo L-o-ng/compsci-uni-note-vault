@@ -4,5 +4,6 @@
   "obsidian-functionplot",
   "customjs",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "mermaid-tools"
 ]

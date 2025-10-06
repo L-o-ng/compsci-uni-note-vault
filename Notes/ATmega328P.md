@@ -83,4 +83,4 @@ Assume that a pin has been declared as output pin. At any specific moment in the
 Either we send an outcoming electric signal through that pin, or not.  
 This is controlled by the corresponding bit of the I/O registers: **PORTB**, **PORTC**, and **PORTD**.
 ##### Example
-Assume pin `PB4` is input. The second bit `PORTB,4` of the register `PORTB` controls the current status of that pin. By setting that bit, we send electric current through that pin. By clearing it, the electric current stops.
+Assume pin `PB4` is output. The second bit `PORTB,4` of the register `PORTB` controls the current status of that pin. By setting that bit, we send electric current through that pin. By clearing it, the electric current stops.

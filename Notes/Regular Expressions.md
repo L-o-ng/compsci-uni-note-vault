@@ -1,5 +1,7 @@
 #definition 
 
+See also: [[Regular Languages]]
+
 >A **regular expression** over some alphabet $\sum$ (finite set of symbols):
 >	Any $a \in \sum$ is a regular expression.
 >	$\emptyset$ and $\epsilon$ are regular expressions.
