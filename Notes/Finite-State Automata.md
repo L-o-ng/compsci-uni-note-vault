@@ -11,10 +11,11 @@ Designing finite-state automata is a creative process, similar to programming. T
 
 
 
-See also: [[Finite State Machine]],
+See also: Finite State Machine todo! Relink once Y2 is large enough
 ## Examples
 ### Example 1: Formal Definition Example
 ### Example 2: Accepts strings ending in 1
 ### Example 3: Accepts strings ending in 0
 ### Example 4: Accepts strings starting and ending with the same symbol.
 ### Example 5: Counts modulo 3
+todo! fix mermaid

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "9bb7442843084841",
+        "id": "7b7e2f09b384e560",
         "type": "tabs",
         "children": [
           {
-            "id": "69afaaa44f386a47",
+            "id": "b2dcebd3a58354fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Probability.md",
+                "file": "Notes/Combining Automata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Probability"
+              "title": "Combining Automata"
+            }
+          },
+          {
+            "id": "7f77e6fd7b9f2d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Regular Languages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regular Languages"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Systems Programming.md",
+                "file": "Notes/Regular Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Systems Programming"
+              "title": "Backlinks for Regular Languages"
             }
           },
           {
@@ -163,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,44 +197,44 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "69afaaa44f386a47",
+  "active": "7f77e6fd7b9f2d00",
   "lastOpenFiles": [
+    "Notes/Regular Expressions.md",
+    "Notes/Generalised Norms.md",
+    "Notes/Finite-State Automata.md",
+    "Notes/Finite State Machine.md",
+    "Notes/Non-Deterministic State Machines.md",
+    "Pictures/NFA Example Computation Diagram.png",
+    "Pictures/NFA Example.png",
+    "Pictures/Concat NDSA.png",
+    "Notes/Models of Computation.md",
+    "Notes/Combining Automata.md",
+    "Notes/Fundamental Theorem of Algebra.md",
+    "Notes/Integrating Rational Functions.md",
+    "Pictures/Combining DSM Transition Function.png",
+    "Notes/Integration.md",
+    "Notes/Integrating Hard Trigonometric Functions.md",
+    "Notes/Regular Languages.md",
     "Notes/Theory of Probability.md",
+    "Notes/Data Transformation.md",
+    "Notes/Regular Operations.md",
+    "Notes/Theory of Computation.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/Data Science.md",
     "Notes/Probability.md",
     "Notes/Basics of Probability.md",
-    "Notes/Data Science.md",
-    "Notes/Year 2 Computer Science.md",
     "Notes/Problems in Software Engineering.md",
     "Notes/Ethics in Software Engineering.md",
     "Notes/Stakeholders.md",
     "Notes/Ill Structured Problems.md",
     "Notes/Software Engineering.md",
     "Notes/Machine Learning.md",
-    "Notes/Types of Machine Learning.md",
-    "Notes/Introduction to Machine Learning.md",
-    "Notes/Regular Languages.md",
-    "Notes/Models of Computation.md",
-    "Notes/Finite-State Automata.md",
-    "Notes/Theory of Computation.md",
     "Pictures/Unsupervised Learning.png",
-    "Notes/Year 1 Computer Science.md",
-    "Notes/Alternating Series.md",
-    "Notes/Calculus.md",
-    "Notes/Artificial Intelligence.md",
-    "Notes/Systems Programming.md",
-    "Notes/C++.md",
-    "Notes/C.md",
-    "Notes/Programming Paradigms.md",
-    "Notes/Programming Languages.md",
     "Pictures/Vignere Cipher.png",
     "Pictures/Vulnerability Life Cycle.png",
     "Pictures/AVR Programming C++ Shell Example.png",
     "Pictures/Memory Management Unit 2.png",
     "Pictures/ER Modelling.png",
-    "Pictures/Tree-Structured Directory.png",
-    "Pictures/Two-Level Directory.png",
-    "Pictures/Single-Level Directory.png",
-    "Pictures/Filesystem Organisation.png",
     "Timestamps/2025/03-March",
     "Timestamps/2025",
     "Timestamps",

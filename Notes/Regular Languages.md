@@ -1,6 +1,6 @@
 #notes 
 
-The [[Finite State Machine|DFA]] $M$ *recognises* the language $L$ if $L=\{ w|M \text{ accepts }w \}$.
+The [[Finite-State Automata|DFA]] $M$ *recognises* the language $L$ if $L=\{ w|M \text{ accepts }w \}$.
 A language is called *regular* if some DFA recognises it.
 ## Regular Expressions
 A regular expression (RE) $R$ **defines** a regular language $L$. We shall eventually prove that $RE \equiv DFA$. todo!
@@ -14,4 +14,4 @@ RE $R$ is a regular expression over the alphabet $\Sigma$ if $R$ is:
 5. $(R_{1}\circ R_{2})$ where $R_{1},R_{2}$ are REs;
 6. $(R_{1}^{*})$ where $R_{1}$ is an RE.
 
-See also: [[Regular Expressions]]
+See also: Regular Expressions  todo! Relink once Y2 is large enough

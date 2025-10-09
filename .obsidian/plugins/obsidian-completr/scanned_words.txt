@@ -395,6 +395,8 @@ Poplog
 Perl
 Prograph
 PIet
+Probability
+Parallel
 IHDR
 IDATx
 ID
@@ -726,6 +728,7 @@ IBb
 ILYJ
 Integrity
 Identification
+Impossible
 yZ
 yC
 yU
@@ -2537,6 +2540,7 @@ oPV
 organized
 outcoming
 occasional
+observations
 RD
 Rpbr
 RJ
@@ -2874,6 +2878,8 @@ Risk
 ROT
 Rail
 Reinforcement
+Relink
+Run
 nR
 nW
 nT
@@ -3524,6 +3530,7 @@ flaw
 fully
 flows
 finally
+fits
 hO
 hf
 hA
@@ -4323,6 +4330,7 @@ python
 popular
 prediction
 producing
+precedence
 DQ
 DM
 DU
@@ -5389,6 +5397,8 @@ secret
 sliding
 synchronisation
 savings
+statistics
+simulate
 TWe
 TBM
 Ti
@@ -6509,6 +6519,8 @@ Cipher
 Concurrent
 Clik
 Computers
+Conventionally
+Combination
 cd
 ce
 cNCw
@@ -7143,6 +7155,7 @@ ciphertext
 carrying
 calling
 commands
+collecting
 kH
 ka
 kE
@@ -8961,6 +8974,7 @@ mMmEE
 modification
 manually
 mappings
+mermaid
 WD
 WWx
 Wy
@@ -9461,6 +9475,7 @@ understands
 unauthorised
 unprivileged
 unseen
+uncertain
 AI
 Az
 Ab
@@ -9781,6 +9796,7 @@ Attacks
 Attack
 ASCII
 Ada
+Automata
 KN
 KV
 KO
@@ -10940,6 +10956,7 @@ Scripting
 SAS
 Summarily
 Supervised
+Sample
 aQ
 ag
 aZ
@@ -12241,6 +12258,7 @@ NFS
 Nkk
 NkS
 NIM
+Naively
 Yk
 YZ
 Yoj
@@ -13582,6 +13600,7 @@ rely
 reinforcement
 reinforce
 rewarded
+rewound
 ehO
 ef
 eWmI
@@ -13990,6 +14009,9 @@ exploitation
 encoding
 encrypted
 exploration
+experiment
+explanation
+exhausted
 lD
 le
 lgAg
@@ -16210,6 +16232,7 @@ Exploit
 Encoding
 Encryption
 Erlang
+Experiment
 äq
 gh
 gCn
