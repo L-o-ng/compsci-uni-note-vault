@@ -2536,6 +2536,7 @@ owner
 oPV
 organized
 outcoming
+occasional
 RD
 Rpbr
 RJ
@@ -2872,6 +2873,7 @@ Repudiation
 Risk
 ROT
 Rail
+Reinforcement
 nR
 nW
 nT
@@ -7642,6 +7644,7 @@ Ljl
 Lip
 Lisp
 Lava
+Labelled
 tJ
 tf
 tR
@@ -8052,6 +8055,8 @@ threat
 threats
 transforming
 topic
+train
+treat
 Bh
 Bda
 Br
@@ -9455,6 +9460,7 @@ uBB
 understands
 unauthorised
 unprivileged
+unseen
 AI
 Az
 Ab
@@ -10933,6 +10939,7 @@ Statements
 Scripting
 SAS
 Summarily
+Supervised
 aQ
 ag
 aZ
@@ -13110,6 +13117,8 @@ UNO
 Unsigned
 Unverified
 Unprotected
+Unsupervised
+Unlabelled
 rn
 rM
 rI
@@ -13570,6 +13579,9 @@ resistant
 restarting
 rails
 rely
+reinforcement
+reinforce
+rewarded
 ehO
 ef
 eWmI
@@ -13977,6 +13989,7 @@ exploits
 exploitation
 encoding
 encrypted
+exploration
 lD
 le
 lgAg
