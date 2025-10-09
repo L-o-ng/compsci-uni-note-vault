@@ -11,10 +11,14 @@
             "id": "69afaaa44f386a47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Probability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Probability"
             }
           }
         ]
@@ -181,6 +185,11 @@
   },
   "active": "69afaaa44f386a47",
   "lastOpenFiles": [
+    "Notes/Theory of Probability.md",
+    "Notes/Probability.md",
+    "Notes/Basics of Probability.md",
+    "Notes/Data Science.md",
+    "Notes/Year 2 Computer Science.md",
     "Notes/Problems in Software Engineering.md",
     "Notes/Ethics in Software Engineering.md",
     "Notes/Stakeholders.md",
@@ -189,7 +198,6 @@
     "Notes/Machine Learning.md",
     "Notes/Types of Machine Learning.md",
     "Notes/Introduction to Machine Learning.md",
-    "Notes/Year 2 Computer Science.md",
     "Notes/Regular Languages.md",
     "Notes/Models of Computation.md",
     "Notes/Finite-State Automata.md",
@@ -204,11 +212,7 @@
     "Notes/C.md",
     "Notes/Programming Paradigms.md",
     "Notes/Programming Languages.md",
-    "Notes/Data Transformation.md",
     "Pictures/Vignere Cipher.png",
-    "Notes/Applied Cryptography.md",
-    "Notes/System Security.md",
-    "Notes/Networks and Systems.md",
     "Pictures/Vulnerability Life Cycle.png",
     "Pictures/AVR Programming C++ Shell Example.png",
     "Pictures/Memory Management Unit 2.png",
