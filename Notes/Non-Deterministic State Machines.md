@@ -21,3 +21,9 @@ There are 3 potential problems:
 ![[NFA Example Computation Diagram.png]]
 Conventionally, a single step in a computation consists of first reading the next input symbol followed by taking any number of $\varepsilon$-transitions.
 
+---
+
+See:
++ [[Computing Non-Deterministic Finite State Automata]]
++ [[Converting an NFA into a DFA]]
++ 

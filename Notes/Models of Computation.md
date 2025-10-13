@@ -5,4 +5,5 @@
 + [[Regular Operations]]
 + [[Combining Automata]]
 + [[Non-Deterministic State Machines]]
++ [[Computing Non-Deterministic Finite State Automata]]
 + 
