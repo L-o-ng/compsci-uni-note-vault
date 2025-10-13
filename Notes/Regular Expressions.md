@@ -1,6 +1,6 @@
 #definition 
 
-See also: Regular Languages  todo! Relink once Y2 is large enough
+See also: Regular Languages  tolargedo!
 
 >A **regular expression** over some alphabet $\sum$ (finite set of symbols):
 >	Any $a \in \sum$ is a regular expression.
