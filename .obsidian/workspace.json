@@ -25,10 +25,14 @@
             "id": "d257967f2f89e842",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/System Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "System Security"
             }
           },
           {
@@ -60,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,16 +226,25 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "31482c6e0b7cfb14",
+  "active": "d257967f2f89e842",
   "lastOpenFiles": [
-    "Pictures/NFA to DFA conversion 2.png",
+    "Notes/Malware.md",
+    "Notes/System Security.md",
+    "Notes/Malware Prevention.md",
+    "Notes/Applied Cryptography.md",
+    "Notes/Models of Computation.md",
+    "Notes/Malware Taxonomy.md",
+    "Notes/Malicious Code.md",
+    "Pictures/Reference Monitoring.png",
+    "Notes/Ethical Hacking.md",
+    "Notes/Data Transformation.md",
     "Notes/Converting an NFA into a DFA.md",
+    "Pictures/NFA to DFA conversion 2.png",
     "Pictures/NFA to DFA conversion 1.png",
     "Pictures/Converting an NFA into a DFA.png",
     "Notes/Non-Deterministic State Machines.md",
     "Notes/Computing Non-Deterministic Finite State Automata.md",
     "Notes/Combining Automata.md",
-    "Notes/Models of Computation.md",
     "Notes/Theory of Computation.md",
     "Notes/Year 2 Computer Science.md",
     "Notes/Regular Languages.md",
@@ -248,17 +261,9 @@
     "Notes/Integration.md",
     "Notes/Integrating Hard Trigonometric Functions.md",
     "Notes/Theory of Probability.md",
-    "Notes/Data Transformation.md",
     "Notes/Regular Operations.md",
-    "Notes/Data Science.md",
-    "Notes/Probability.md",
-    "Notes/Basics of Probability.md",
-    "Notes/Problems in Software Engineering.md",
-    "Notes/Ethics in Software Engineering.md",
-    "Notes/Stakeholders.md",
     "Pictures/Unsupervised Learning.png",
     "Pictures/Vignere Cipher.png",
-    "Pictures/Vulnerability Life Cycle.png",
     "Timestamps/2025/03-March",
     "Timestamps/2025",
     "Timestamps",

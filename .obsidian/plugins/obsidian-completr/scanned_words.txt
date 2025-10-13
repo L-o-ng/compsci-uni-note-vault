@@ -400,6 +400,9 @@ Parallel
 Phee
 PhW
 PEr
+Port
+Ping
+Password
 IHDR
 IDATx
 ID
@@ -735,6 +738,9 @@ Impossible
 IVV
 ItQI
 IDATU
+Intelligence
+Injection
+Installing
 yZ
 yC
 yU
@@ -2268,6 +2274,7 @@ designed
 dpPF
 drcc
 dfffrrrrr
+decrypts
 oL
 om
 oV
@@ -2906,6 +2913,9 @@ RAAAA
 RGGG
 RsB
 Rivv
+RSA
+Reconnaissance
+Rootkit
 nR
 nW
 nT
@@ -3176,6 +3186,7 @@ nzi
 nVZ
 nloo
 nformation
+nmap
 fg
 fU
 fk
@@ -3563,6 +3574,7 @@ fwwwWVV
 ftuuY
 fwvv
 fffqq
+freeze
 hO
 hf
 hA
@@ -3892,6 +3904,7 @@ hSQ
 hGy
 hteeebb
 hTD
+hacking
 pY
 pC
 pc
@@ -4372,6 +4385,9 @@ postpone
 pxjj
 pOO
 pLOO
+passive
+permanent
+practiced
 DQ
 DM
 DU
@@ -4740,6 +4756,10 @@ Denial
 Decryption
 Declarative
 Dataflow
+Diffie
+Decrypt
+DVWA
+Dorking
 sDK
 sk
 sz
@@ -5442,6 +5462,7 @@ statistics
 simulate
 stNo
 shown
+scanning
 TWe
 TBM
 Ti
@@ -5771,6 +5792,13 @@ Threats
 Threat
 TCL
 Transitions
+Tools
+Techniques
+Tunneling
+Trojan
+Tracks
+Timestomp
+Timestamp
 JP
 Ju
 JQ
@@ -6570,6 +6598,10 @@ Computers
 Conventionally
 Combination
 CxA
+Cracking
+Clearing
+Ccleaner
+Command
 cd
 ce
 cNCw
@@ -7208,6 +7240,8 @@ collecting
 cvvc
 ccD
 corollary
+configuration
+collected
 kH
 ka
 kE
@@ -7715,6 +7749,8 @@ Labelled
 LGG
 Loo
 Lccc
+Logging
+Log
 tJ
 tf
 tR
@@ -8135,6 +8171,8 @@ tnll
 tggg
 tQDU
 tzcccfffll
+traces
+team
 Bh
 Bda
 Br
@@ -8431,6 +8469,9 @@ BEB
 BmY
 Bootloader
 BgZ
+Bob
+Banner
+Backdoors
 ZY
 Zu
 ZzJ
@@ -9047,6 +9088,7 @@ mermaid
 mFG
 mHK
 mllT
+malicious
 WD
 WWx
 Wy
@@ -9279,6 +9321,8 @@ WEoK
 Whether
 WLL
 WOY
+Whois
+Wireshark
 uC
 uIOs
 uq
@@ -9874,6 +9918,10 @@ ASCII
 Ada
 Automata
 AZZH
+Alice
+Angry
+Accounts
+Alteration
 KN
 KV
 KO
@@ -10067,6 +10115,8 @@ KUB
 KHg
 KoOW
 KRQ
+Kali
+Keystroke
 VU
 VB
 Vt
@@ -10615,6 +10665,9 @@ MFa
 Micro
 Mapping
 Malicious
+Metasploitable
+Maltego
+Metasploit
 SQl
 SkBl
 SK
@@ -11039,6 +11092,17 @@ Summarily
 Supervised
 Sample
 SPPPP
+Signature
+Source
+Social
+Scanning
+Scanner
+Sweeps
+SQLmap
+SSH
+Stealth
+Steganography
+Sanitisation
 aQ
 ag
 aZ
@@ -11543,6 +11607,9 @@ acH
 aUL
 aWW
 aYV
+anybody
+active
+actionable
 wE
 wU
 wF
@@ -11843,6 +11910,8 @@ weight
 whom
 wsl
 wih
+wanting
+wants
 vh
 vU
 vx
@@ -12350,6 +12419,11 @@ NIM
 Naively
 NFA
 NNr
+Nmap
+Network
+Nessus
+Netcat
+Ngrok
 Yk
 YZ
 Yoj
@@ -12787,6 +12861,8 @@ Grouping
 Gvl
 Generation
 GFx
+Grabbing
+Gaining
 xcb
 xa
 xX
@@ -13703,6 +13779,10 @@ ryWW
 rrrjjjjj
 rehhH
 rexxX
+retrieves
+relies
+receives
+risky
 ehO
 ef
 eWmI
@@ -14115,6 +14195,9 @@ experiment
 explanation
 exhausted
 eqQ
+encrypts
+established
+ethical
 lD
 le
 lgAg
@@ -14456,6 +14539,9 @@ lifetime
 levation
 lack
 lww
+leakage
+lab
+logs
 Ho
 Hf
 HdS
@@ -14727,6 +14813,12 @@ Haskell
 Humans
 Hdgg
 HYDs
+Hellman
+Hacking
+Hydra
+Hijacking
+Horses
+Histories
 FC
 FT
 FP
@@ -14985,6 +15077,7 @@ Foxpro
 FQAAA
 Fqb
 FHV
+Factorisation
 jY
 jx
 jRg
@@ -15438,6 +15531,9 @@ Oriented
 Openwire
 ObX
 ODlz
+OSINT
+OpenVAS
+Overflows
 QiG
 QFJ
 QUR
@@ -16030,6 +16126,7 @@ bpPf
 bqss
 bww
 blllbbbyy
+bespoke
 ED
 EXD
 Es
@@ -16358,6 +16455,10 @@ Experiment
 EVVd
 EtZ
 EIK
+Ethical
+Exploration
+Escalation
+Empire
 äq
 gh
 gCn

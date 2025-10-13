@@ -2,6 +2,8 @@
 ## Notes
 + [[STRIDE Threat Classification]]
 + [[Applied Cryptography]]
++ [[Ethical Hacking]]
++ [[Malware]]
 + 
 ## Terminology
 + A **subject** has an *identity* and some *capabilities*;
