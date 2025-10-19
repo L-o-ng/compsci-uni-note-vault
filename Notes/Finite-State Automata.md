@@ -11,7 +11,7 @@ Designing finite-state automata is a creative process, similar to programming. T
 
 
 
-See also: Finite State Machine tolargedo!
+See also: [[Finite State Machine]]
 ## Examples
 ### Example 1: Formal Definition Example
 ### Example 2: Accepts strings ending in 1

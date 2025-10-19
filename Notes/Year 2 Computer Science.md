@@ -6,4 +6,5 @@
 + [[Artificial Intelligence]]
 + [[Software Engineering]]
 + [[Data Science]]
++ [[Computer Science Year 2 Practicals]]
 + 

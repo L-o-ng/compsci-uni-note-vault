@@ -7,4 +7,7 @@ A well-defined learning task is thus given by $\langle T,P,E \rangle$
 ## Notes
 + [[Introduction to Machine Learning]]
 + [[Types of Machine Learning]]
++ [[Approaching Machine Learning]]
++ [[IDEs for Machine Learning]]
++ [[Data in Machine Learning]]
 + 

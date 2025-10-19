@@ -6,8 +6,7 @@ A **Buffer Overflow Attack** is the most commonly exploited vulnerability by wor
 We have a virtual address space of $V=2^{n}$. We assume a Linux 32-bit process memory layout, where the stack grows towards lower memory addresses. Text and data segments are loaded from an executable file.
 Our focus is the *stack*.
 ## Stack and Stack frame
-tolargedo! link to stack
-A stack is a LIFO queue with relevant operations `PUSH` and `POP`. The stack pointer points to the last/lowest stack address. Data written to local variables grows towards higher memory addresses. A **stack frame** is the portion of a stack allocated to a single procedure call.
+A [[Stacks|Stack]] is a LIFO queue with relevant operations `PUSH` and `POP`. The stack pointer points to the last/lowest stack address. Data written to local variables grows towards higher memory addresses. A **stack frame** is the portion of a stack allocated to a single procedure call.
 ![[Buffer Overflow Stack Frame.png]]
 A stack frame contains function args, local variables, and information to restore the caller's state. The frame pointer and stack pointer delimit the frame. Information is access relative to the frame pointer as the stack pointer can move during execution.
 ## Vulnerability
