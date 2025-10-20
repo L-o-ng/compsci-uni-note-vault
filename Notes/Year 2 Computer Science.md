@@ -1,4 +1,6 @@
 #root 
+
+<< [[Year 1 Computer Science]] | \[\[Year 3 Computer Science]] >>
 ## Modules
 + [[Theory of Computation]]
 + [[Networks and Systems]]
