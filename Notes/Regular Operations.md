@@ -11,3 +11,7 @@
 	+ Alternatively, $A^{*}=\cup ^{\infty}_{i=0}A^{i}$
 
 Parentheses may be omitted provided the precedence order is $*,\circ,cup$ highest to lowest.
+## Closure
++ Union: $$A \cup B=\{ x|x \in A \text{ or }x \in B \}$$
++ Concatenation: $$A \circ B = \{ xy|x \in A\text{ and }y \in B \}$$
++ Star: $$A^{*}=\{ x_{1}x_{2}\dots x_{k}|k \geq 0\text{ and }x_{i} \in A\text{ for every }i, 1 \leq i \leq k \}$$

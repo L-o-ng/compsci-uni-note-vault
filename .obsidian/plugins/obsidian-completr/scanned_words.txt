@@ -406,6 +406,8 @@ Password
 Principle
 Permutations
 PMF
+Population
+Pigeon
 IHDR
 IDATx
 ID
@@ -747,6 +749,7 @@ Installing
 Incorrect
 Indistinguishable
 Item
+Imbalanced
 yZ
 yC
 yU
@@ -1407,6 +1410,7 @@ iSD
 invoked
 injected
 injection
+intact
 qi
 qH
 qSr
@@ -1630,6 +1634,7 @@ qVV
 qPj
 qEK
 queen
+qualitative
 Xz
 XQ
 XX
@@ -2294,6 +2299,9 @@ deconstructed
 distinguished
 dispersion
 deviation
+dataset
+datasets
+disproportionately
 oL
 om
 oV
@@ -2592,6 +2600,7 @@ oll
 occupy
 optimises
 optimally
+overload
 RD
 Rpbr
 RJ
@@ -3604,6 +3613,7 @@ flaws
 fields
 firmware
 flashing
+freely
 hO
 hf
 hA
@@ -3934,6 +3944,8 @@ hGy
 hteeebb
 hTD
 hacking
+histogram
+histograms
 pY
 pC
 pc
@@ -4426,6 +4438,9 @@ poker
 pack
 phishing
 profit
+phenomenon
+pigeon
+pumping
 DQ
 DM
 DU
@@ -4799,6 +4814,7 @@ Decrypt
 DVWA
 Dorking
 Distributions
+Dataset
 sDK
 sk
 sz
@@ -5514,6 +5530,14 @@ site
 steam
 stolen
 summarise
+spending
+sampling
+significative
+significance
+skewed
+sampled
+stating
+straightforward
 TWe
 TBM
 Ti
@@ -6661,6 +6685,8 @@ CNU
 Collect
 Cumulative
 CDF
+Completeness
+Combating
 cd
 ce
 cNCw
@@ -7309,6 +7335,13 @@ color
 cards
 classic
 centre
+compromise
+comparable
+correspondent
+conflicting
+conflict
+containers
+container
 kH
 ka
 kE
@@ -8251,6 +8284,7 @@ twice
 tens
 tampered
 thief
+trained
 Bh
 Bda
 Br
@@ -9174,6 +9208,7 @@ marbles
 marble
 monitor
 mass
+minority
 WD
 WWx
 Wy
@@ -9408,6 +9443,7 @@ WLL
 WOY
 Whois
 Wireshark
+Whole
 uC
 uIOs
 uq
@@ -9683,6 +9719,8 @@ uVV
 ukjj
 unsafe
 understood
+uniform
+unbiased
 AI
 Az
 Ab
@@ -10010,6 +10048,7 @@ Angry
 Accounts
 Alteration
 AYK
+Assumes
 KN
 KV
 KO
@@ -10765,6 +10804,7 @@ Modify
 MPF
 Mass
 Mean
+Misleadingly
 SQl
 SkBl
 SK
@@ -11202,6 +11242,7 @@ Steganography
 Sanitisation
 Simplified
 Subtasks
+Sampling
 aQ
 ag
 aZ
@@ -11721,6 +11762,7 @@ attack
 attacker
 altogether
 authentic
+abstracts
 wE
 wU
 wF
@@ -12026,6 +12068,7 @@ wants
 worms
 winning
 weighs
+wasting
 vh
 vU
 vx
@@ -13907,6 +13950,10 @@ receives
 risky
 round
 robs
+representative
+reject
+reflects
+rejects
 ehO
 ef
 eWmI
@@ -16605,6 +16652,7 @@ Ethical
 Exploration
 Escalation
 Empire
+Ensuring
 äq
 gh
 gCn
