@@ -1,6 +1,6 @@
 #daily-note
 
-<< [[<% tp.date.now("DD-MM-YYYY", -1) %>|Yesterday]] | <% moment(tp.file.title,'DD-MM-YYYY').format("dddd, MMMM DD, YYYY") %> | [[<% tp.date.now("DD-MM-YYYY", 1) %>|Tomorrow]] >>
+<< [[<% tp.date.now("DD-MM-YYYY", -1) %>|Previous]] | <% moment(tp.file.title,'DD-MM-YYYY').format("dddd, MMMM DD, YYYY") %> | [[<% tp.date.now("DD-MM-YYYY", 1) %>|Next]] >>
 
 ---
 ## 📒 Notes

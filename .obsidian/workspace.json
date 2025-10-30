@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "602e65cebdffd530",
+        "id": "15b16dcfc534048f",
         "type": "tabs",
         "children": [
           {
-            "id": "18138b63dd83b98a",
+            "id": "ccfe4e0dce3d3a60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Models of Computation.md",
+                "file": "Daily Notes/28-10-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Models of Computation"
+              "title": "28-10-2025"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,7 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -180,11 +178,23 @@
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "bases:Create new base": false
     }
   },
-  "active": "18138b63dd83b98a",
+  "active": "ccfe4e0dce3d3a60",
   "lastOpenFiles": [
+    "Daily Notes/28-10-2025.md",
+    "Daily Notes/30-10-2025.md",
+    "Daily Notes/18-03-2025.md",
+    "Daily Notes/14-10-2025.md",
+    "Daily Notes/17-10-2025.md",
+    "Daily Notes/23-10-2025.md",
+    "Daily Notes/14-03-2025.md",
+    "Templates/Template, Note.md",
+    "Templates/Template, Daily Note.md",
+    "Notes/Untitled.base",
+    "Notes/Models of Computation.md",
     "Notes/Theory of Computation.md",
     "Notes/Algorithms and Complexity.md",
     "Notes/Graph Colouring Problem.md",
@@ -198,21 +208,10 @@
     "Notes/Computational Thinking.md",
     "Notes/Efficiency and Complexity.md",
     "Notes/Divide-and-Conquer Algorithms.md",
-    "Notes/Models of Computation.md",
     "Notes/The Pumping Lemma.md",
     "Notes/Task Scheduling Problem.md",
     "Notes/IBM Project - Questions.md",
     "Notes/IBM Project - RPG Learning Adventure.md",
-    "Notes/Single Maths A.md",
-    "Notes/Linear Algebra.md",
-    "Notes/Quantum Teleportation.md",
-    "Notes/Polynomial Division.md",
-    "Notes/Quadratic Equations.md",
-    "Notes/Tristates.md",
-    "Daily Notes/28-10-2025.md",
-    "Notes/Untitled.base",
-    "Notes/Methods for Computing Limits.md",
-    "Notes/Hyperbolic Functions.md",
     "Pictures/Padlock Key Sharing Model.png",
     "Problems with TCP",
     "Pictures/Cookies.png",
