@@ -4,6 +4,8 @@
 + [[Applied Cryptography]]
 + [[Ethical Hacking]]
 + [[Malware]]
++ [[Session Hijacking]]
++ [[Network Security]]
 + 
 ## Terminology
 + A **subject** has an *identity* and some *capabilities*;
@@ -15,7 +17,7 @@ There are 3 main security properties, known as the **CIA Triad**:
 + **Confidentiality**: the outcomes of different actions in the system are only visible by authorised subjects;
 + **Integrity**: actions modifying the system can only be performed by authorised subjects
 + **Availability**: subjects can perform all actions they are authorised for.
-
+---
 + **Risk Modelling** describes the possible attacks and adversaries;
 + **Identification/Authentication** ensures the identity of entities;
 + **Access Control** describes which actions are secure.

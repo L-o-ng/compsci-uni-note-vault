@@ -408,6 +408,7 @@ Permutations
 PMF
 Population
 Pigeon
+Parameterised
 IHDR
 IDATx
 ID
@@ -750,6 +751,7 @@ Incorrect
 Indistinguishable
 Item
 Imbalanced
+Internet
 yZ
 yC
 yU
@@ -1411,6 +1413,11 @@ invoked
 injected
 injection
 intact
+intercepted
+intercept
+integration
+ideal
+induced
 qi
 qH
 qSr
@@ -1635,6 +1642,7 @@ qPj
 qEK
 queen
 qualitative
+quests
 Xz
 XQ
 XX
@@ -2302,6 +2310,11 @@ deviation
 dataset
 datasets
 disproportionately
+disrupt
+defend
+decrypt
+describe
+deletions
 oL
 om
 oV
@@ -2601,6 +2614,8 @@ occupy
 optimises
 optimally
 overload
+outsider
+observing
 RD
 Rpbr
 RJ
@@ -2949,6 +2964,8 @@ Reconnaissance
 Rootkit
 Repetitions
 Runtime
+Routing
+Replay
 nR
 nW
 nT
@@ -3221,6 +3238,7 @@ nloo
 nformation
 nmap
 nondecreasing
+nonce
 fg
 fU
 fk
@@ -3614,6 +3632,10 @@ fields
 firmware
 flashing
 freely
+focuses
+flood
+fool
+focusing
 hO
 hf
 hA
@@ -3946,6 +3968,7 @@ hTD
 hacking
 histogram
 histograms
+handshake
 pY
 pC
 pc
@@ -4441,6 +4464,9 @@ profit
 phenomenon
 pigeon
 pumping
+piece
+padlocks
+possession
 DQ
 DM
 DU
@@ -5538,6 +5564,9 @@ skewed
 sampled
 stating
 straightforward
+spoofing
+supposedly
+storylines
 TWe
 TBM
 Ti
@@ -5874,6 +5903,8 @@ Trojan
 Tracks
 Timestomp
 Timestamp
+TCP
+Telemetry
 JP
 Ju
 JQ
@@ -6687,6 +6718,8 @@ Cumulative
 CDF
 Completeness
 Combating
+Conquer
+Cographs
 cd
 ce
 cNCw
@@ -7342,6 +7375,15 @@ conflicting
 conflict
 containers
 container
+counts
+contact
+cryptographic
+compromised
+clarify
+clarification
+chromatic
+cograph
+cographs
 kH
 ka
 kE
@@ -7857,6 +7899,7 @@ Logging
 Log
 Locating
 LMB
+Localisation
 tJ
 tf
 tR
@@ -8285,6 +8328,8 @@ tens
 tampered
 thief
 trained
+talking
+telemetry
 Bh
 Bda
 Br
@@ -8585,6 +8630,9 @@ Bob
 Banner
 Backdoors
 BIOS
+BGP
+Border
+Branching
 ZY
 Zu
 ZzJ
@@ -9209,6 +9257,8 @@ marble
 monitor
 mass
 minority
+mentioned
+metrics
 WD
 WWx
 Wy
@@ -9721,6 +9771,7 @@ unsafe
 understood
 uniform
 unbiased
+understand
 AI
 Az
 Ab
@@ -10049,6 +10100,11 @@ Accounts
 Alteration
 AYK
 Assumes
+ARP
+Associates
+Autonomous
+Anybody
+Account
 KN
 KV
 KO
@@ -10245,6 +10301,7 @@ KRQ
 Kali
 Keystroke
 Knapsack
+Kerberos
 VU
 VB
 Vt
@@ -10805,6 +10862,7 @@ MPF
 Mass
 Mean
 Misleadingly
+MITM
 SQl
 SkBl
 SK
@@ -11243,6 +11301,8 @@ Sanitisation
 Simplified
 Subtasks
 Sampling
+Schroeder
+SkillsBuild
 aQ
 ag
 aZ
@@ -11763,6 +11823,9 @@ attacker
 altogether
 authentic
 abstracts
+anyone
+alive
+authenticate
 wE
 wU
 wF
@@ -12069,6 +12132,7 @@ worms
 winning
 weighs
 wasting
+writes
 vh
 vU
 vx
@@ -12586,6 +12650,7 @@ Nessus
 Netcat
 Ngrok
 NEAT
+Needham
 Yk
 YZ
 Yoj
@@ -13025,6 +13090,9 @@ Generation
 GFx
 Grabbing
 Gaining
+Gateway
+GCHQ
+Granite
 xcb
 xa
 xX
@@ -13954,6 +14022,13 @@ representative
 reject
 reflects
 rejects
+routing
+respond
+replay
+recipient
+reinterpretation
+risks
+readiness
 ehO
 ef
 eWmI
@@ -14373,6 +14448,13 @@ exploited
 enumerated
 engineering
 euros
+exchanged
+exponentiation
+encrypt
+earlier
+email
+equalities
+exploit
 lD
 le
 lgAg
@@ -14999,6 +15081,8 @@ Hijacking
 Horses
 Histories
 Human
+Hardness
+Heuristics
 FC
 FT
 FP
@@ -15260,6 +15344,7 @@ FHV
 Factorisation
 Factors
 Fractional
+Flow
 jY
 jx
 jRg
@@ -15967,6 +16052,7 @@ Qab
 QVVd
 Qdx
 Qloo
+QnA
 ba
 bM
 bhz
@@ -16320,6 +16406,7 @@ bypassed
 behaves
 bypassing
 baiting
+broadcasts
 ED
 EXD
 Es
@@ -16653,6 +16740,7 @@ Exploration
 Escalation
 Empire
 Ensuring
+Exchange
 äq
 gh
 gCn
@@ -16938,6 +17026,7 @@ gppP
 gffL
 granting
 generality
+granite
 Üfrpp
 ÜAv
 ÜK
