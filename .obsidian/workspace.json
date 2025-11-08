@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "15b16dcfc534048f",
+        "id": "2cb7a8fc18081971",
         "type": "tabs",
         "children": [
           {
-            "id": "ccfe4e0dce3d3a60",
+            "id": "b2d1b74118fd8f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/28-10-2025.md",
+                "file": "Notes/Algorithms and Complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28-10-2025"
+              "title": "Algorithms and Complexity"
+            }
+          },
+          {
+            "id": "50e10969f53d7818",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Algorithms & Data Structures Coursework.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algorithms & Data Structures Coursework"
             }
           }
         ]
@@ -138,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Regular Languages.md",
+                "file": "Notes/Algorithms and Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Regular Languages"
+              "title": "Backlinks for Algorithms and Complexity"
             }
           },
           {
@@ -182,46 +196,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "ccfe4e0dce3d3a60",
+  "active": "b2d1b74118fd8f2f",
   "lastOpenFiles": [
-    "Daily Notes/28-10-2025.md",
-    "Daily Notes/30-10-2025.md",
-    "Daily Notes/18-03-2025.md",
-    "Daily Notes/14-10-2025.md",
-    "Daily Notes/17-10-2025.md",
-    "Daily Notes/23-10-2025.md",
-    "Daily Notes/14-03-2025.md",
-    "Templates/Template, Note.md",
-    "Templates/Template, Daily Note.md",
-    "Notes/Untitled.base",
-    "Notes/Models of Computation.md",
-    "Notes/Theory of Computation.md",
+    "Notes/The Rod-Cutting Problem.md",
+    "Pictures/Rod Cutting 2.png",
+    "Pictures/Rod Cutting 1.png",
     "Notes/Algorithms and Complexity.md",
+    "Notes/Divide-and-Conquer Matrix Multiplication.md",
+    "Pictures/Strassens Algorithm.png",
+    "Notes/Theory of Computation.md",
+    "Notes/Master Theorem.md",
+    "Notes/Algorithms & Data Structures Coursework.md",
+    "Notes/Recurrences.md",
+    "Notes/Randomised Quicksort.md",
+    "Notes/Analysing QuickSort.md",
+    "Notes/AaDS Week 11.md",
+    "Notes/AaDS Week 10.md",
+    "Notes/AaDS Week 8.md",
+    "Notes/AaDS Week 7.md",
+    "Notes/The Maximum Subarray Problem.md",
     "Notes/Graph Colouring Problem.md",
     "Notes/Cographs and Cotrees.md",
+    "Notes/Models of Computation.md",
+    "Notes/Omega-Regular Languages.md",
+    "Notes/Theory of Probability.md",
+    "Notes/Polar Representation.md",
+    "Notes/Arg().md",
+    "Notes/Re() and Im().md",
+    "Notes/Complex Numbers.md",
+    "Notes/Functions of a Complex Variable.md",
+    "Notes/Trigonometry.md",
+    "Pictures/DFA Minimisation.png",
+    "Notes/Untitled.base",
     "Pictures/P4-free graphs.png",
-    "Notes/Solving Map Colouring.md",
-    "Notes/Problem Hardness.md",
-    "Notes/Map Colouring.md",
-    "Notes/Decision Problems.md",
-    "Notes/Fundamental Problems.md",
-    "Notes/Computational Thinking.md",
-    "Notes/Efficiency and Complexity.md",
-    "Notes/Divide-and-Conquer Algorithms.md",
-    "Notes/The Pumping Lemma.md",
-    "Notes/Task Scheduling Problem.md",
-    "Notes/IBM Project - Questions.md",
-    "Notes/IBM Project - RPG Learning Adventure.md",
     "Pictures/Padlock Key Sharing Model.png",
     "Problems with TCP",
     "Pictures/Cookies.png",
     "Pictures/Internal State Elimination.png",
     "Pictures/GNFA.png",
     "Pictures/Regular Expression to DFA.png",
-    "Pictures/Probability Tree Diagram.png",
-    "Pictures/Tabular Dataset.png",
-    "Pictures/Machine Learning Algorithm Examples.png",
-    "Pictures/Buffer Overflow Stack Frame.png",
     "Timestamps/2025/03-March",
     "Timestamps/2025",
     "Timestamps",

@@ -12,4 +12,7 @@
 + [[Converting a DFA into a RE]]
 + [[Non-Regular Languages]]
 + [[The Pumping Lemma]]
++ [[DFA Minimisation]]
++ [[Buchi Automata]]
++ [[Omega-Regular Languages]]
 + 

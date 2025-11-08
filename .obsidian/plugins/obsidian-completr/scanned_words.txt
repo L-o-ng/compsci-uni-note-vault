@@ -409,6 +409,7 @@ PMF
 Population
 Pigeon
 Parameterised
+Proceed
 IHDR
 IDATx
 ID
@@ -4467,6 +4468,9 @@ pumping
 piece
 padlocks
 possession
+preserving
+palindromes
+perfect
 DQ
 DM
 DU
@@ -4841,6 +4845,8 @@ DVWA
 Dorking
 Distributions
 Dataset
+DFAs
+Distinguishable
 sDK
 sk
 sz
@@ -6720,6 +6726,8 @@ Completeness
 Combating
 Conquer
 Cographs
+Contract
+Cotrees
 cd
 ce
 cNCw
@@ -7384,6 +7392,8 @@ clarification
 chromatic
 cograph
 cographs
+complementation
+cotree
 kH
 ka
 kE
@@ -8633,6 +8643,7 @@ BIOS
 BGP
 Border
 Branching
+Buchi
 ZY
 Zu
 ZzJ
@@ -10105,6 +10116,7 @@ Associates
 Autonomous
 Anybody
 Account
+Along
 KN
 KV
 KO
@@ -11303,6 +11315,7 @@ Subtasks
 Sampling
 Schroeder
 SkillsBuild
+Splitting
 aQ
 ag
 aZ
@@ -13093,6 +13106,7 @@ Gaining
 Gateway
 GCHQ
 Granite
+GNFA
 xcb
 xa
 xX
@@ -14029,6 +14043,9 @@ recipient
 reinterpretation
 risks
 readiness
+reachable
+rejected
+revisit
 ehO
 ef
 eWmI
@@ -16053,6 +16070,7 @@ QVVd
 Qdx
 Qloo
 QnA
+Question
 ba
 bM
 bhz
@@ -16741,6 +16759,8 @@ Escalation
 Empire
 Ensuring
 Exchange
+Eliminate
+Equivalent
 äq
 gh
 gCn

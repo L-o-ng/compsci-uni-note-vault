@@ -28,9 +28,12 @@ We can focus on the last approach and exploit the structure of the input to deve
 Now see [[Cographs and Cotrees]].
 
 ---
-
 ## Colouring Cographs
 Given a cograph $G$, construct its cotree $T_{G}$. This can be done in $O(n+m)$ time.
 We follow a **bottom-up** approach, where we only process node $x$ *after* processing its children:
 + **Leaves** - Each leaf represents a single vertex of $G$. The chromatic number of a single vertex graph is 1;
-+ **Union-Nodes** - if $x$ is a $+$-node, then $\chi_{G}$ is the **maximum** of the chromatic numbers of the graphs $G_{Y}$, where $y$ is a child of $x$.
++ **Union-Nodes** - if $x$ is a $+$-node, then $\chi_{G}$ is the **maximum** of the chromatic numbers of the graphs $G_{Y}$, where $y$ is a child of $x$;
++ **Join-Nodes** - if $y$ is a $\times$-node, then $\chi_{G}$ is the **sum** of the chromatic numbers of the graphs $G_{y}$, where $y$ is a child of $x$.
+
+This way, the last node we process is the root $r$, which represents the graph $G_{r}=G$. As the number of nodes of $T$ is $O(n)$, and we used $O(n)$ time per node, the runtime is *polynomial*.
+
