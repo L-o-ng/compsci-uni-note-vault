@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 ## 1$^{\mathbf{st}}$ Degree Equations
 todo!
 ## 2$^{\mathbf{nd}}$ Degree Equations

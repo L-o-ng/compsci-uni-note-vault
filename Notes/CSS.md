@@ -1,4 +1,4 @@
-#notes #homework-needed 
+#notes
 
 Plain websites look bad!
 CSS can add style to a page, but it needs to balance information and purpose against noise.

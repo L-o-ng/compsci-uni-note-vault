@@ -410,6 +410,11 @@ Population
 Pigeon
 Parameterised
 Proceed
+PMS
+Payload
+Packet
+Policy
+Prevention
 IHDR
 IDATx
 ID
@@ -753,6 +758,9 @@ Indistinguishable
 Item
 Imbalanced
 Internet
+IPSec
+ISAKMP
+Intrusion
 yZ
 yC
 yU
@@ -1419,6 +1427,11 @@ intercept
 integration
 ideal
 induced
+issued
+ignorant
+implements
+inspect
+insider
 qi
 qH
 qSr
@@ -2316,6 +2329,10 @@ defend
 decrypt
 describe
 deletions
+denied
+deny
+detects
+deviating
 oL
 om
 oV
@@ -2617,6 +2634,7 @@ optimally
 overload
 outsider
 observing
+optionally
 RD
 Rpbr
 RJ
@@ -3240,6 +3258,7 @@ nformation
 nmap
 nondecreasing
 nonce
+networks
 fg
 fU
 fk
@@ -3637,6 +3656,8 @@ focuses
 flood
 fool
 focusing
+flexibly
+firewall
 hO
 hf
 hA
@@ -3970,6 +3991,8 @@ hacking
 histogram
 histograms
 handshake
+headers
+host
 pY
 pC
 pc
@@ -4471,6 +4494,10 @@ possession
 preserving
 palindromes
 perfect
+publicly
+preferences
+packet
+prone
 DQ
 DM
 DU
@@ -5573,6 +5600,11 @@ straightforward
 spoofing
 supposedly
 storylines
+sends
+stacked
+shadowed
+suspicious
+signatures
 TWe
 TBM
 Ti
@@ -5911,6 +5943,9 @@ Timestomp
 Timestamp
 TCP
 Telemetry
+TLS
+Transport
+Tunnel
 JP
 Ju
 JQ
@@ -6728,6 +6763,11 @@ Conquer
 Cographs
 Contract
 Cotrees
+CAs
+Cookies
+Cookie
+Configuration
+Correlation
 cd
 ce
 cNCw
@@ -7394,6 +7434,12 @@ cograph
 cographs
 complementation
 cotree
+certificate
+certification
+cookie
+cookies
+correlated
+conversely
 kH
 ka
 kE
@@ -7910,6 +7956,7 @@ Log
 Locating
 LMB
 Localisation
+Limitations
 tJ
 tf
 tR
@@ -8340,6 +8387,9 @@ thief
 trained
 talking
 telemetry
+transport
+traffic
+tunnelled
 Bh
 Bda
 Br
@@ -9270,6 +9320,8 @@ mass
 minority
 mentioned
 metrics
+monitored
+monitors
 WD
 WWx
 Wy
@@ -10117,6 +10169,8 @@ Autonomous
 Anybody
 Account
 Along
+Association
+Aware
 KN
 KV
 KO
@@ -11316,6 +11370,10 @@ Sampling
 Schroeder
 SkillsBuild
 Splitting
+SSL
+Stealing
+Stateful
+Shadowing
 aQ
 ag
 aZ
@@ -11839,6 +11897,9 @@ abstracts
 anyone
 alive
 authenticate
+authority
+auth
+activated
 wE
 wU
 wF
@@ -12664,6 +12725,7 @@ Netcat
 Ngrok
 NEAT
 Needham
+NIDS
 Yk
 YZ
 Yoj
@@ -13107,6 +13169,7 @@ Gateway
 GCHQ
 Granite
 GNFA
+Generalisation
 xcb
 xa
 xX
@@ -14472,6 +14535,8 @@ earlier
 email
 equalities
 exploit
+enc
+establishing
 lD
 le
 lgAg
@@ -14820,6 +14885,7 @@ layout
 lways
 laser
 loss
+locally
 Ho
 Hf
 HdS
@@ -15100,6 +15166,7 @@ Histories
 Human
 Hardness
 Heuristics
+Headers
 FC
 FT
 FP
@@ -15362,6 +15429,7 @@ Factorisation
 Factors
 Fractional
 Flow
+Filtering
 jY
 jx
 jRg
@@ -16761,6 +16829,7 @@ Ensuring
 Exchange
 Eliminate
 Equivalent
+Encapsulating
 äq
 gh
 gCn

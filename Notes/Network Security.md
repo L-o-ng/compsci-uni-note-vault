@@ -7,6 +7,8 @@ Network security focuses on the security of information exchanged between 2 diff
 ## Notes
 + [[Problems with TCP-IP Security]]
 + [[Key Sharing]]
-+ todo! network security slides
++ [[IPSec]]
++ [[Firewalls]]
++ [[Intrusion Detection Systems]]
 
 

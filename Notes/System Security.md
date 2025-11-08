@@ -2,10 +2,11 @@
 ## Notes
 + [[STRIDE Threat Classification]]
 + [[Applied Cryptography]]
-+ [[Ethical Hacking]]
-+ [[Malware]]
-+ [[Session Hijacking]]
 + [[Network Security]]
++ [[Authentication]]
++ [[Access Control]]
++ [[XAC]]
++ [[Privacy]]
 + 
 ## Terminology
 + A **subject** has an *identity* and some *capabilities*;
