@@ -42,8 +42,7 @@ These 2 quantities are used often to summarise a probability distribution.
 	+ The standard deviation of $X$ is $\sigma=\sqrt{ \sigma^{2} }$
 ### Two Laws
 1. Functions of random variables are also random variables;
-2. The law of the unconscious statistician:
-	1. Let $X$ be a random variable with PMF $f$ and $h:\mathbb{R} \to \mathbb{R}$ be an arbitrary function; then $Y=h(x)$ is also a random variable. If $X$ is discrete and takes values $\{ x_{1},x_{2},\dots \}$ then:$$E[Y]=E[h(X)]=\sum_{i}h(x_{i})f(x_{i})$$
+2. The [[Law of the Unconscious Statistician]].
 ### Transformed Random Variables
 The two laws draw the following conclusion:
 >One can perform arithmetic operations with random variables to get new ones, and the expectation and variance can be computed from them.

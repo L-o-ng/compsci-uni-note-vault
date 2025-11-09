@@ -419,6 +419,7 @@ PEP
 PDP
 Permissions
 Poisson
+PDF
 IHDR
 IDATx
 ID
@@ -1437,6 +1438,8 @@ implements
 inspect
 insider
 inherits
+interarrival
+intervals
 qi
 qH
 qSr
@@ -2339,6 +2342,8 @@ deny
 detects
 deviating
 distributions
+density
+deviations
 oL
 om
 oV
@@ -3269,6 +3274,7 @@ nmap
 nondecreasing
 nonce
 networks
+naturally
 fg
 fU
 fk
@@ -3668,6 +3674,7 @@ fool
 focusing
 flexibly
 firewall
+fall
 hO
 hf
 hA
@@ -4003,6 +4010,8 @@ histograms
 handshake
 headers
 host
+happening
+hour
 pY
 pC
 pc
@@ -4511,6 +4520,8 @@ prone
 permit
 permission
 parameter
+period
+proportions
 DQ
 DM
 DU
@@ -4888,6 +4899,8 @@ Dataset
 DFAs
 Distinguishable
 Duty
+Density
+Derivation
 sDK
 sk
 sz
@@ -5621,6 +5634,14 @@ suspicious
 signatures
 sessions
 successes
+statistician
+samples
+shaped
+spreads
+subtracting
+score
+scores
+sores
 TWe
 TBM
 Ti
@@ -5962,6 +5983,8 @@ Telemetry
 TLS
 Transport
 Tunnel
+Transformed
+Tail
 JP
 Ju
 JQ
@@ -6786,6 +6809,7 @@ Configuration
 Correlation
 Charge
 Capabilities
+Central
 cd
 ce
 cNCw
@@ -7458,6 +7482,9 @@ cookie
 cookies
 correlated
 conversely
+customers
+centres
+conclude
 kH
 ka
 kE
@@ -7975,6 +8002,7 @@ Locating
 LMB
 Localisation
 Limitations
+Linearity
 tJ
 tf
 tR
@@ -8411,6 +8439,8 @@ tunnelled
 tagging
 triple
 trials
+temperature
+tails
 Bh
 Bda
 Br
@@ -9347,6 +9377,8 @@ monitored
 monitors
 manageable
 multinomial
+memoryless
+minute
 WD
 WWx
 Wy
@@ -11406,6 +11438,7 @@ Shadowing
 Send
 SMS
 Separation
+SND
 aQ
 ag
 aZ
@@ -11935,6 +11968,7 @@ activated
 assigned
 activates
 assign
+arrivals
 wE
 wU
 wF
@@ -13656,6 +13690,7 @@ UOOO
 Untrusted
 Unordered
 Uniform
+Usefulness
 rn
 rM
 rI
@@ -14147,6 +14182,7 @@ reachable
 rejected
 revisit
 revoke
+room
 ehO
 ef
 eWmI
@@ -14576,6 +14612,10 @@ exploit
 enc
 establishing
 enforcement
+extends
+exponential
+elapsing
+entering
 lD
 le
 lgAg
@@ -16536,6 +16576,7 @@ broadcasts
 belongs
 binomial
 behind
+bell
 ED
 EXD
 Es
@@ -16874,6 +16915,9 @@ Eliminate
 Equivalent
 Encapsulating
 Extensions
+Expectation
+Expected
+Empirical
 äq
 gh
 gCn

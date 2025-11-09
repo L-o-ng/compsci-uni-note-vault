@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Special Discrete Distributions.md",
+                "file": "Notes/Data Science.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Special Discrete Distributions"
+              "title": "Data Science"
             }
           }
         ]
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -199,15 +198,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "5feeadba8254139e",
+  "active": "b2d1b74118fd8f2f",
   "lastOpenFiles": [
+    "Notes/Data Science.md",
+    "Notes/Probability.md",
+    "Notes/The Normal Distribution.md",
+    "Notes/Special Discrete Distributions.md",
+    "Notes/Specific Continuous Distributions.md",
+    "Notes/Continuous Distributions.md",
+    "Notes/Law of the Unconscious Statistician.md",
+    "Notes/Random Variables.md",
     "Pictures/Poisson 3.png",
     "Pictures/Poisson 2.png",
     "Pictures/Poisson 1.png",
-    "Notes/Special Discrete Distributions.md",
     "Notes/Further Trigonometric Identities.md",
-    "Notes/Probability.md",
-    "Notes/Data Science.md",
     "Notes/System Security.md",
     "Notes/XAC.md",
     "Notes/Access Control.md",
@@ -228,15 +232,10 @@
     "Notes/CSS.md",
     "Notes/Solving Complex Equations.md",
     "Pictures/Firewall Config Example.png",
-    "Pictures/Firewall Policy Configuration.png",
     "Notes/Malicious Code.md",
     "Notes/Malware.md",
     "Notes/Applied Cryptography.md",
     "Notes/Ethical Hacking.md",
-    "Notes/Data Transformation.md",
-    "Notes/Session Hijacking.md",
-    "Notes/IPSec.md",
-    "Notes/Algorithms & Data Structures Coursework.md",
     "Notes/Untitled.base",
     "Problems with TCP",
     "Timestamps/2025/03-March",
