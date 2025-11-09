@@ -415,6 +415,10 @@ Payload
 Packet
 Policy
 Prevention
+PEP
+PDP
+Permissions
+Poisson
 IHDR
 IDATx
 ID
@@ -1432,6 +1436,7 @@ ignorant
 implements
 inspect
 insider
+inherits
 qi
 qH
 qSr
@@ -2333,6 +2338,7 @@ denied
 deny
 detects
 deviating
+distributions
 oL
 om
 oV
@@ -2635,6 +2641,7 @@ overload
 outsider
 observing
 optionally
+organisations
 RD
 Rpbr
 RJ
@@ -2985,6 +2992,9 @@ Repetitions
 Runtime
 Routing
 Replay
+Request
+Role
+RBAC
 nR
 nW
 nT
@@ -4498,6 +4508,9 @@ publicly
 preferences
 packet
 prone
+permit
+permission
+parameter
 DQ
 DM
 DU
@@ -4874,6 +4887,7 @@ Distributions
 Dataset
 DFAs
 Distinguishable
+Duty
 sDK
 sk
 sz
@@ -5605,6 +5619,8 @@ stacked
 shadowed
 suspicious
 signatures
+sessions
+successes
 TWe
 TBM
 Ti
@@ -6768,6 +6784,8 @@ Cookies
 Cookie
 Configuration
 Correlation
+Charge
+Capabilities
 cd
 ce
 cNCw
@@ -8390,6 +8408,9 @@ telemetry
 transport
 traffic
 tunnelled
+tagging
+triple
+trials
 Bh
 Bda
 Br
@@ -8694,6 +8715,8 @@ BGP
 Border
 Branching
 Buchi
+Binding
+Bernoulli
 ZY
 Zu
 ZzJ
@@ -9322,6 +9345,8 @@ mentioned
 metrics
 monitored
 monitors
+manageable
+multinomial
 WD
 WWx
 Wy
@@ -9557,6 +9582,7 @@ WOY
 Whois
 Wireshark
 Whole
+Workflow
 uC
 uIOs
 uq
@@ -10171,6 +10197,8 @@ Account
 Along
 Association
 Aware
+ACM
+Administrative
 KN
 KV
 KO
@@ -10929,6 +10957,7 @@ Mass
 Mean
 Misleadingly
 MITM
+Memoryless
 SQl
 SkBl
 SK
@@ -11374,6 +11403,9 @@ SSL
 Stealing
 Stateful
 Shadowing
+Send
+SMS
+Separation
 aQ
 ag
 aZ
@@ -11900,6 +11932,9 @@ authenticate
 authority
 auth
 activated
+assigned
+activates
+assign
 wE
 wU
 wF
@@ -12207,6 +12242,8 @@ winning
 weighs
 wasting
 writes
+waited
+wear
 vh
 vU
 vx
@@ -14109,6 +14146,7 @@ readiness
 reachable
 rejected
 revisit
+revoke
 ehO
 ef
 eWmI
@@ -14537,6 +14575,7 @@ equalities
 exploit
 enc
 establishing
+enforcement
 lD
 le
 lgAg
@@ -15640,6 +15679,7 @@ jmfiAVv
 jmm
 jacks
 jack
+junior
 Ow
 Osg
 OguH
@@ -16493,6 +16533,9 @@ behaves
 bypassing
 baiting
 broadcasts
+belongs
+binomial
+behind
 ED
 EXD
 Es
@@ -16830,6 +16873,7 @@ Exchange
 Eliminate
 Equivalent
 Encapsulating
+Extensions
 äq
 gh
 gCn
@@ -17116,6 +17160,7 @@ gffL
 granting
 generality
 granite
+granted
 Üfrpp
 ÜAv
 ÜK

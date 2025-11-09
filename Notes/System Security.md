@@ -5,8 +5,11 @@
 + [[Network Security]]
 + [[Authentication]]
 + [[Access Control]]
++ [[Bell LaPadula Access Control]]
++ [[Relationship-Based Access Control]]
++ [[Chinese Wall Access Control]]
 + [[XAC]]
-+ [[Privacy]]
++ [[Privacy]] todo!
 + 
 ## Terminology
 + A **subject** has an *identity* and some *capabilities*;

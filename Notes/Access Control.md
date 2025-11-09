@@ -36,4 +36,13 @@ Subjects with similar access rights get placed into groups. Each file is associa
 $U$ is the set of users; $S$ is the set of sessions; $R$ is the set of roles; $P$ is the set of permissions; $UA(u)$ refers to the roles assigned to the user $u$; $PA(r)$ refers to the permissions assigned to role $r$.
 A user $u$ starts session $s$ and activates roles included in $UA(u(s))$.
 The session $s$ can perform the permission $p$ if and only if there exists a role $r$ activated by $s$ such that $p$ is in $PA(r)$.
-todo!
+#### Extensions
++ **Role Hierarchy**: A role can be more senior that another role and inherits the permission of the junior role;
++ **Separation of Duty**: two given roles cannot be activated at the same time;
++ **Binding of Duty**: Two roles should be activated together or not at all;
++ **Administrative RBAC**: Some roles can assign and/or revoke some other roles to users.
+## See Also
++ [[Bell LaPadula Access Control]]
++ [[Relationship-Based Access Control]]
++ [[Chinese Wall Access Control]]
++ 

@@ -5,5 +5,6 @@
   "customjs",
   "dataview",
   "templater-obsidian",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-style-settings"
 ]

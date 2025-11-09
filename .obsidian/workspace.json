@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb7a8fc18081971",
+        "id": "65e1d4a5d0db4307",
         "type": "tabs",
         "children": [
           {
-            "id": "b2d1b74118fd8f2f",
+            "id": "5feeadba8254139e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Access Control.md",
+                "file": "Notes/Special Discrete Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Access Control"
+              "title": "Special Discrete Distributions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "home",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +76,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "af9b3bc342b91640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2d1b74118fd8f2f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,12 +199,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2d1b74118fd8f2f",
+  "active": "5feeadba8254139e",
   "lastOpenFiles": [
+    "Pictures/Poisson 3.png",
+    "Pictures/Poisson 2.png",
+    "Pictures/Poisson 1.png",
+    "Notes/Special Discrete Distributions.md",
+    "Notes/Further Trigonometric Identities.md",
+    "Notes/Probability.md",
+    "Notes/Data Science.md",
+    "Notes/System Security.md",
+    "Notes/XAC.md",
+    "Notes/Access Control.md",
+    "Notes/Chinese Wall Access Control.md",
+    "Pictures/Chinese Wall AC 2.png",
+    "Pictures/Chinese Wall AC 1.png",
+    "Notes/Relationship-Based Access Control.md",
+    "Pictures/RS-B AC.png",
+    "Notes/Bell LaPadula Access Control.md",
+    "Pictures/BLP Lattice.png",
     "Pictures/AC Matrix.png",
     "Pictures/Access Control Workflow.png",
-    "Notes/System Security.md",
-    "Notes/Access Control.md",
     "Notes/Authentication.md",
     "Notes/Networks and Systems.md",
     "Notes/Network Security.md",
@@ -206,23 +237,8 @@
     "Notes/Session Hijacking.md",
     "Notes/IPSec.md",
     "Notes/Algorithms & Data Structures Coursework.md",
-    "Notes/Algorithms and Complexity.md",
-    "Notes/The Rod-Cutting Problem.md",
-    "Pictures/Rod Cutting 2.png",
-    "Pictures/Rod Cutting 1.png",
-    "Notes/Divide-and-Conquer Matrix Multiplication.md",
-    "Pictures/Strassens Algorithm.png",
-    "Notes/Theory of Computation.md",
-    "Notes/Master Theorem.md",
-    "Notes/Recurrences.md",
-    "Notes/Randomised Quicksort.md",
-    "Notes/Analysing QuickSort.md",
-    "Pictures/DFA Minimisation.png",
     "Notes/Untitled.base",
-    "Pictures/P4-free graphs.png",
-    "Pictures/Padlock Key Sharing Model.png",
     "Problems with TCP",
-    "Pictures/Cookies.png",
     "Timestamps/2025/03-March",
     "Timestamps/2025",
     "Timestamps",
