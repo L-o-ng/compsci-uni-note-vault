@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Networks.md",
+                "file": "Notes/Transmission Media.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Networks"
+              "title": "Transmission Media"
             }
           }
         ]
@@ -153,7 +163,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +172,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Networks"
+              "title": "Backlinks"
             }
           },
           {
@@ -197,9 +206,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "96f229127cd06d26",
+  "active": "f3c00eab2256380c",
   "lastOpenFiles": [
+    "Notes/Operating Systems.md",
+    "Notes/Transmission Media.md",
     "Notes/Network Elements.md",
+    "Notes/Networks.md",
     "Notes/Network Access.md",
     "Notes/Propositional Logic.md",
     "Notes/Access Control.md",
@@ -212,7 +224,6 @@
     "Pictures/Cable Network.png",
     "Pictures/Digital Subscriber Line.png",
     "Notes/Network Protocols.md",
-    "Notes/Transmission Media.md",
     "Pictures/Multimode.png",
     "Pictures/Single Mode Fibre Optic.png",
     "Pictures/Unshielded Twisted-Pair Cables.png",
@@ -220,7 +231,6 @@
     "Pictures/Coaxial Cable.png",
     "Notes/End Devices.md",
     "Notes/Intermediary Devices.md",
-    "Notes/Networks.md",
     "Pictures/Switch vs Router.png",
     "Notes/Networks and Systems.md",
     "Notes/Modal Logic.md",
@@ -234,7 +244,6 @@
     "Notes/Data Science.md",
     "Notes/Authentication.md",
     "Notes/Bell LaPadula Access Control.md",
-    "Notes/The Normal Distribution.md",
     "Notes/Untitled.base",
     "Problems with TCP",
     "Timestamps/2025/03-March",

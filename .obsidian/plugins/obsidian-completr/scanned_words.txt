@@ -428,6 +428,7 @@ PHd
 Ppq
 PUl
 PhP
+Pair
 IHDR
 IDATx
 ID
@@ -787,6 +788,7 @@ Intermediary
 IDATn
 ISE
 ISP
+Interference
 yZ
 yC
 yU
@@ -1495,6 +1497,7 @@ iYt
 iFV
 iGT
 installed
+immune
 qi
 qH
 qSr
@@ -2745,6 +2748,7 @@ oSE
 ofL
 ofd
 oYvt
+orbit
 RD
 Rpbr
 RJ
@@ -3106,6 +3110,8 @@ RMMu
 Rid
 RilQ
 REw
+Rates
+Radio
 nR
 nW
 nT
@@ -4151,6 +4157,7 @@ hjzh
 hVM
 homes
 headend
+hundred
 pY
 pC
 pc
@@ -4671,6 +4678,7 @@ printers
 pbQ
 pcVc
 phone
+pulses
 DQ
 DM
 DU
@@ -5826,6 +5834,10 @@ sWn
 slz
 sns
 station
+spaced
+spectrum
+satellite
+satellites
 TWe
 TBM
 Ti
@@ -6181,6 +6193,8 @@ TEo
 TuFWJ
 Tgw
 Today
+Transmit
+Twisted
 JP
 Ju
 JQ
@@ -7038,6 +7052,9 @@ CWTE
 CJC
 Cable
 Coax
+Category
+Coaxial
+Channels
 cd
 ce
 cNCw
@@ -7736,6 +7753,8 @@ cVwwn
 cUQ
 complementary
 cable
+cover
+cellular
 kH
 ka
 kE
@@ -8273,6 +8292,8 @@ LcR
 LUUE
 LVUU
 LANs
+LAN
+Low
 tJ
 tf
 tR
@@ -8727,6 +8748,7 @@ tZQdA
 tjJu
 tools
 telephone
+transmit
 Bh
 Bda
 Br
@@ -9697,6 +9719,9 @@ mmmUUU
 mpF
 mkm
 mcrp
+metres
+mobile
+miles
 WD
 WWx
 Wy
@@ -9939,6 +9964,8 @@ WVVVTT
 WMM
 WEQ
 Wireless
+WiFi
+Wide
 uC
 uIOs
 uq
@@ -10230,6 +10257,7 @@ ueg
 uMWUU
 upstream
 universities
+unavailable
 AI
 Az
 Ab
@@ -11847,6 +11875,9 @@ SgZZ
 SUh
 ScC
 Subscriber
+Shielded
+Signal
+Satellite
 aQ
 ag
 aZ
@@ -13708,6 +13739,7 @@ GCk
 GgO
 GsC
 Gbps
+Geostationary
 xcb
 xa
 xX
@@ -14177,6 +14209,8 @@ UtC
 UUN
 UWu
 ULAc
+UTP
+Unshielded
 rn
 rM
 rI
@@ -14691,6 +14725,7 @@ rfn
 rates
 router
 reaching
+repeaters
 ehO
 ef
 eWmI
@@ -15139,6 +15174,7 @@ ebK
 eQOD
 eGVl
 etT
+electromagnetic
 lD
 le
 lgAg
@@ -16066,6 +16102,8 @@ Fwu
 Fscc
 Fep
 Fibre
+Fibres
+Frequencies
 jY
 jx
 jRg
@@ -16547,6 +16585,9 @@ OFG
 OFD
 OSH
 OKf
+Optic
+Obstruction
+Orbit
 QiG
 QFJ
 QUR
@@ -17521,6 +17562,7 @@ EAXk
 EcX
 EZN
 Enterprise
+Earth
 äq
 gh
 gCn
