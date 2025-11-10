@@ -11,35 +11,35 @@
       "query": "tag:#root  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 14987035
       }
     },
     {
       "query": "tag:#module  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 11017402
       }
     },
     {
       "query": "tag:#notes  ",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 7986471
       }
     },
     {
       "query": "tag:#topic",
       "color": {
         "a": 1,
-        "rgb": 15543517
+        "rgb": 15590956
       }
     },
     {
       "query": "tag:#definition  ",
       "color": {
         "a": 1,
-        "rgb": 4475349
+        "rgb": 815365
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 12.2916666666667,
   "linkStrength": 1,
   "linkDistance": 248,
-  "scale": 0.011758413172697177,
+  "scale": 0.020673264067816534,
   "close": true
 }

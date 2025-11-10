@@ -9,8 +9,6 @@
 + [[Relationship-Based Access Control]]
 + [[Chinese Wall Access Control]]
 + [[XAC]]
-+ [[Privacy]] todo!
-+ 
 ## Terminology
 + A **subject** has an *identity* and some *capabilities*;
 + A **resource** has an *identity* and some *properties*;

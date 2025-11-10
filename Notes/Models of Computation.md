@@ -15,4 +15,5 @@
 + [[DFA Minimisation]]
 + [[Buchi Automata]]
 + [[Omega-Regular Languages]]
++ [[State Logic]]
 + 
