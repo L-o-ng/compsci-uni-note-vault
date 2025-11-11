@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Transmission Media.md",
+                "file": "Notes/Year 2 Computer Science.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Transmission Media"
+              "title": "Year 2 Computer Science"
             }
           }
         ]
@@ -84,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "af9b3bc342b91640",
@@ -206,10 +197,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "f3c00eab2256380c",
+  "active": "96f229127cd06d26",
   "lastOpenFiles": [
-    "Notes/Operating Systems.md",
+    "Notes/Year 1 Computer Science.md",
+    "Notes/Year 2 Computer Science.md",
     "Notes/Transmission Media.md",
+    "Notes/Programming Paradigms.md",
+    "Notes/Systems Programming.md",
+    "Notes/Operating Systems.md",
     "Notes/Network Elements.md",
     "Notes/Networks.md",
     "Notes/Network Access.md",
@@ -240,10 +235,6 @@
     "Notes/Omega-Regular Languages.md",
     "Notes/Probability.md",
     "Notes/Specific Continuous Distributions.md",
-    "Notes/Special Discrete Distributions.md",
-    "Notes/Data Science.md",
-    "Notes/Authentication.md",
-    "Notes/Bell LaPadula Access Control.md",
     "Notes/Untitled.base",
     "Problems with TCP",
     "Timestamps/2025/03-March",
