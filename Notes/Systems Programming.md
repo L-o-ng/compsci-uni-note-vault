@@ -4,7 +4,6 @@
 + [[C++]]
 + 
 
-
 ---
 
 Systems programming involves the development of the individual pieces of software that allow an entire system to function as a single unit.

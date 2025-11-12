@@ -3,7 +3,7 @@
 Two formulae $\phi,\psi$ are **logically equivalent** if they are true for the same set of models. In this case, we write $\phi \equiv \psi$.
 All logical equivalences from [[Propositional Logic]] give rise to equivalences in first-order logic; for example:
 $$
-\array{\text{As }p \implies q \equiv ¬p\vee q,\text{ for any propositional variables }p,q \\ \text{we must have that }\phi \implies \psi \equiv¬\phi \vee \psi\text{ for any first-order formulae }\phi,\psi}
+\small\array{\text{As }p \implies q \equiv ¬p\vee q,\text{ for any propositional variables }p,q \\ \text{we must have that }\phi \implies \psi \equiv¬\phi \vee \psi\text{ for any first-order formulae }\phi,\psi}
 $$
 
 Note that we have to take care as to exactly what an interpretation is when we plug in formulae in this way; for example, if:

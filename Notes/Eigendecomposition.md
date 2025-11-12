@@ -53,4 +53,3 @@ A matrix's eigendecomposition exists if and only if it is diagonalisable.
 ### Implications
 If we have a matrix of size $n\times n$ that has $n$ distinct eigenvalues, then we know that it has an eigendecomposition. Recall that $n$ distinct eigenvalues means that algebraic multiplicity of all eigenvalues is $1$.
 NB: This does **not** mean that a matrix that doesn't have $n$ distinct eigenvalue doesn't have an eigendecomposition.
-

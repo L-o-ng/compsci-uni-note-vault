@@ -21,6 +21,7 @@ Regardless of how we deal with collisions, a large number of them reduces the pe
 + [[Linear Probing]]
 + [[Quadratic Probing]]
 + [[Double Hashing]]
+
 Bullets 2, 3, and 4 are known as **open addressing schemes** as they store at most 1 entry to each bucket.
 ##### Efficiency
 Open addressing schemes are more memory efficient compared to separate chaining.
