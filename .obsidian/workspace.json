@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Year 2 Computer Science.md",
+                "file": "Notes/Special Discrete Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Year 2 Computer Science"
+              "title": "Special Discrete Distributions"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "af9b3bc342b91640",
@@ -197,10 +196,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "96f229127cd06d26",
+  "active": "f3c00eab2256380c",
   "lastOpenFiles": [
-    "Notes/Year 1 Computer Science.md",
+    "Notes/Special Discrete Distributions.md",
+    "Notes/DnD.md",
+    "Notes/DnD1 - Character.md",
+    "Notes/DnD1 - Story.md",
+    "Notes/DnD1 - Lore.md",
+    "Daily Notes/30-10-2025.md",
+    "Daily Notes/28-10-2025.md",
+    "Daily Notes/23-10-2025.md",
+    "Daily Notes/18-03-2025.md",
+    "Daily Notes/17-10-2025.md",
+    "Daily Notes/17-03-2025.md",
+    "Daily Notes/14-10-2025.md",
+    "Daily Notes/14-03-2025.md",
+    "Daily Notes/13-03-2025.md",
+    "Daily Notes",
     "Notes/Year 2 Computer Science.md",
+    "Notes/Year 1 Computer Science.md",
     "Notes/Transmission Media.md",
     "Notes/Programming Paradigms.md",
     "Notes/Systems Programming.md",
@@ -211,36 +225,21 @@
     "Notes/Propositional Logic.md",
     "Notes/Access Control.md",
     "Notes/System Security.md",
-    "Notes/XAC.md",
-    "Notes/Network Security.md",
-    "Notes/Intrusion Detection Systems.md",
     "Pictures/Wireless Home Networks.png",
     "Pictures/Ethernet.png",
     "Pictures/Cable Network.png",
     "Pictures/Digital Subscriber Line.png",
-    "Notes/Network Protocols.md",
     "Pictures/Multimode.png",
     "Pictures/Single Mode Fibre Optic.png",
     "Pictures/Unshielded Twisted-Pair Cables.png",
     "Pictures/Shielded Twisted-Pair Cables.png",
     "Pictures/Coaxial Cable.png",
-    "Notes/End Devices.md",
-    "Notes/Intermediary Devices.md",
     "Pictures/Switch vs Router.png",
-    "Notes/Networks and Systems.md",
-    "Notes/Modal Logic.md",
-    "Notes/State Logic.md",
-    "Notes/Models of Computation.md",
-    "Notes/Theory of Computation.md",
-    "Notes/Omega-Regular Languages.md",
-    "Notes/Probability.md",
-    "Notes/Specific Continuous Distributions.md",
     "Notes/Untitled.base",
     "Problems with TCP",
     "Timestamps/2025/03-March",
     "Timestamps/2025",
     "Timestamps",
-    "Daily Notes",
     "Templates",
     "Canvas.canvas",
     "Untitled.canvas",
