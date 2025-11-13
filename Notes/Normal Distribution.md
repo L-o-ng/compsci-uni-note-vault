@@ -28,7 +28,7 @@ e^{-\frac{1}{2}\left(\frac{x - \mu}{\sigma}\right)^2} \, dx \right)
 - \mu^2
 $$
 ## Usefulness
-The relationship between the sum of many independent random variables and the normal distribution is called the Central Limit Theorem (todo! link to this).
+The relationship between the sum of many independent random variables and the normal distribution is called the [[Central Limit Theorem]].
 ## The Empirical Rule
 No matter what $\mu$ and $\sigma$ are:
 + The area between $\mu - \sigma$ and $\mu + \sigma$ is about **68%**;

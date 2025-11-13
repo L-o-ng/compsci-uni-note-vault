@@ -39,4 +39,4 @@ There is an interesting property of the distribution of the time $X$ until the n
 
 --- 
 
-See also [[The Normal Distribution]]
+See also [[Normal Distribution]]

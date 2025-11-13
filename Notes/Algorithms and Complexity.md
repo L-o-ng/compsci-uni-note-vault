@@ -10,4 +10,5 @@
 + [[Master Theorem]]
 + [[Divide-and-Conquer Matrix Multiplication]]
 + [[The Rod-Cutting Problem]]
++ [[The Matrix Chain-Multiplication Problem]]
 + 

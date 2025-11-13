@@ -8,17 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d8f4fe9cf0d20f4a",
+            "id": "4f2613cff7b1e0fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Systems Programming.md",
+                "file": "Notes/Year 2 Computer Science.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Systems Programming"
+              "title": "Year 2 Computer Science"
             }
           }
         ]
@@ -74,7 +84,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "af9b3bc342b91640",
@@ -196,45 +207,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "d8f4fe9cf0d20f4a",
+  "active": "4f2613cff7b1e0fb",
   "lastOpenFiles": [
-    "Notes/Programming Paradigms.md",
+    "Notes/Algorithms and Complexity.md",
+    "Notes/The Matrix Chain-Multiplication Problem.md",
     "Notes/Year 2 Computer Science.md",
     "Notes/Year 1 Computer Science.md",
-    "Notes/Single Maths A.md",
-    "Notes/Polynomial Division.md",
-    "Notes/Fundamental Theorem of Algebra.md",
-    "Notes/Simplifying Surds.md",
-    "Notes/Elements of Real Analysis.md",
-    "Notes/Proof by Induction.md",
-    "Notes/Summations.md",
-    "Notes/Foundations.md",
-    "Notes/Satisfiability of Formulae and Clause-Sets.md",
-    "Notes/Propositional Logic.md",
-    "Notes/Logic.md",
-    "Notes/Components of Logic.md",
-    "Notes/Resolution as a Proof System.md",
-    "Notes/Natural Deduction.md",
-    "Notes/Proof Systems on Propositional Logic.md",
-    "Notes/Rank Nullity Theorem.md",
-    "Daily Notes/28-10-2025.md",
-    "Daily Notes/30-10-2025.md",
-    "Daily Notes/14-03-2025.md",
-    "Daily Notes/17-10-2025.md",
-    "Daily Notes/23-10-2025.md",
-    "Daily Notes/18-03-2025.md",
-    "Daily Notes/14-10-2025.md",
+    "Notes/Theory of Computation.md",
+    "Notes/Data Science.md",
+    "Notes/Statistics.md",
+    "Notes/Hypothesis Testing.md",
+    "Notes/Data Plots.md",
+    "Pictures/Scatter Diagram 2.png",
+    "Pictures/Scatter Diagram 1.png",
+    "Pictures/NQQ Plots.png",
+    "Pictures/Time-Sequence Plots.png",
+    "Pictures/Box Plot 2.png",
+    "Pictures/Box Plot 1.png",
+    "Pictures/Histograms 2.png",
+    "Pictures/Histograms 1.png",
+    "Pictures/Scatter Plot 2.png",
+    "Pictures/Scatter Plot 1.png",
+    "Notes/Statistical Inference.md",
+    "Notes/Normal Distribution.md",
+    "Notes/Samples and Populations.md",
+    "Notes/Standard Error.md",
+    "Notes/Central Limit Theorem.md",
+    "Notes/Theory of Probability.md",
+    "Notes/Solving Complex Equations.md",
+    "Notes/Generalised Norms.md",
+    "Notes/Buffer Overflow Attacks.md",
+    "Notes/Finite-State Automata.md",
+    "Notes/Regular Languages.md",
+    "Notes/Weak Law of Large Numbers.md",
+    "Notes/Strong Law of Large Numbers.md",
+    "Notes/Chebyshev's Inequality.md",
+    "Notes/Markov's Inequality.md",
+    "Notes/Probability.md",
+    "Notes/Joint Distributions.md",
     "Daily Notes",
-    "Pictures/Wireless Home Networks.png",
-    "Pictures/Ethernet.png",
-    "Pictures/Cable Network.png",
-    "Pictures/Digital Subscriber Line.png",
-    "Pictures/Multimode.png",
-    "Pictures/Single Mode Fibre Optic.png",
-    "Pictures/Unshielded Twisted-Pair Cables.png",
-    "Pictures/Shielded Twisted-Pair Cables.png",
-    "Pictures/Coaxial Cable.png",
-    "Pictures/Switch vs Router.png",
     "Notes/Untitled.base",
     "Problems with TCP",
     "Timestamps/2025/03-March",

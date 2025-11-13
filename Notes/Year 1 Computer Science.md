@@ -13,4 +13,3 @@
 + [[Careers]]
 + [[LaTeX Command Definitions]]
 + [[Gaslighting]]
-+ 

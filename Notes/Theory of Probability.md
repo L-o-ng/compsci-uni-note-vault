@@ -13,7 +13,7 @@
 ## Axioms of Probability
 + $P(E)$ is always between 0 and 1: $0\leq P(E)\leq 1$;
 + $P(S)=1$;
-+ For disjoint events $E_{1},E_{2},\dots,E_{n}$ with no intersection: (todo! drop a link to later explanation) $$P(E_{1}\cup E_{2} \cup \dots \cup E_{n})=\sum_{i=1}^{n}P(E_{i})$$
++ For disjoint events $E_{1},E_{2},\dots,E_{n}$ with no intersection: $$P(E_{1}\cup E_{2} \cup \dots \cup E_{n})=\sum_{i=1}^{n}P(E_{i})$$
 Other principles are derived from the above axioms:
 + **Complement Rule**: $$P(\bar{E})=P(S-E)=P(S)-P(E)=1-P(E)$$
 + **Impossible Rule**: $$P(\emptyset)=0$$

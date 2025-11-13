@@ -431,6 +431,9 @@ PhP
 Pair
 Peer
 Paradigms
+PMFs
+Proportion
+Progress
 IHDR
 IDATx
 ID
@@ -792,6 +795,7 @@ ISE
 ISP
 Interference
 Instant
+Inequalities
 yZ
 yC
 yU
@@ -1501,6 +1505,9 @@ iFV
 iGT
 installed
 immune
+imprecise
+identically
+inferences
 qi
 qH
 qSr
@@ -1730,6 +1737,7 @@ qww
 qAz
 qYcc
 qek
+quantifies
 Xz
 XQ
 XX
@@ -2436,6 +2444,7 @@ dYVEQ
 dml
 downstream
 dedicated
+draws
 oL
 om
 oV
@@ -2752,6 +2761,7 @@ ofL
 ofd
 oYvt
 orbit
+observed
 RD
 Rpbr
 RJ
@@ -4684,6 +4694,7 @@ pcVc
 phone
 pulses
 preferably
+plausible
 DQ
 DM
 DU
@@ -5846,6 +5857,7 @@ spectrum
 satellite
 satellites
 spare
+statistic
 TWe
 TBM
 Ti
@@ -6424,6 +6436,9 @@ JEE
 Jgx
 JGF
 Jan
+Joint
+JPMF
+JPDF
 zG
 zd
 zj
@@ -7066,6 +7081,9 @@ Category
 Coaxial
 Channels
 Catch
+Careful
+CLT
+Confidence
 cd
 ce
 cNCw
@@ -7766,6 +7784,8 @@ complementary
 cable
 cover
 cellular
+concepts
+claims
 kH
 ka
 kE
@@ -8760,6 +8780,7 @@ tjJu
 tools
 telephone
 transmit
+trait
 Bh
 Bda
 Br
@@ -9078,6 +9099,8 @@ BRR
 BEq
 Btf
 BHX
+Bivariate
+Bounds
 ZY
 Zu
 ZzJ
@@ -9733,6 +9756,7 @@ mcrp
 metres
 mobile
 miles
+marginal
 WD
 WWx
 Wy
@@ -10621,6 +10645,7 @@ AWMLZ
 Ar
 ARU
 App
+Although
 KN
 KV
 KO
@@ -11419,6 +11444,7 @@ MaL
 MNC
 Mbps
 Messaging
+Measure
 SQl
 SkBl
 SK
@@ -11891,6 +11917,10 @@ Subscriber
 Shielded
 Signal
 Satellite
+Statistical
+Statistics
+Statistic
+Std
 aQ
 ag
 aZ
@@ -12751,6 +12781,7 @@ wiM
 wmX
 wWH
 wxb
+wider
 vh
 vU
 vx
@@ -13017,6 +13048,7 @@ vYY
 vqY
 vzu
 vtU
+variability
 Ny
 Ngl
 Nz
@@ -13290,6 +13322,7 @@ NPI
 Nuld
 Networks
 Nov
+Notion
 Yk
 YZ
 Yoj
@@ -14740,6 +14773,7 @@ rates
 router
 reaching
 repeaters
+researcher
 ehO
 ef
 eWmI
@@ -15189,6 +15223,11 @@ eQOD
 eGVl
 etT
 electromagnetic
+explore
+explains
+estimator
+estimating
+estimation
 lD
 le
 lgAg
@@ -15550,6 +15589,7 @@ lAO
 laptops
 lNl
 lyOR
+lying
 Ho
 Hf
 HdS
@@ -16339,6 +16379,8 @@ jURT
 jZs
 jsz
 juA
+joint
+jointly
 Ow
 Osg
 OguH
@@ -17577,6 +17619,8 @@ EcX
 EZN
 Enterprise
 Earth
+Estimator
+Estimate
 äq
 gh
 gCn

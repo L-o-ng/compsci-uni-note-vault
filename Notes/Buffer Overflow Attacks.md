@@ -41,5 +41,3 @@ a buffer overflow causes a segfault.
 ./vuln `perl -e 'print "A" x 16'` 
 ```
 a buffer overflow causes a segfault.
-## Shell Code
-todo!

@@ -3,7 +3,7 @@
 The [[Finite-State Automata|DFA]] $M$ *recognises* the language $L$ if $L=\{ w|M \text{ accepts }w \}$.
 A language is called *regular* if some DFA recognises it.
 ## Regular Expressions
-A regular expression (RE) $R$ **defines** a regular language $L$. We shall eventually prove that $RE \equiv DFA$. todo!
+A regular expression (RE) $R$ **defines** a regular language $L$.
 This definition is inductive, which means there are initial REs, and new REs can be obtained from old ones by [[Regular Operations]].
 ### Definition
 RE $R$ is a regular expression over the alphabet $\Sigma$ if $R$ is:
