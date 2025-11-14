@@ -11,7 +11,6 @@
 + [[Computer Science Year 2 Practicals]]
 ## Todos
 ### Catch-up
-+ N&S, networks 2
 + AI
 ### Coursework
 
