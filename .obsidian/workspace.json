@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Year 2 Computer Science.md",
+                "file": "Notes/Weak Law of Large Numbers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Year 2 Computer Science"
+              "title": "Weak Law of Large Numbers"
             }
           }
         ]
@@ -209,6 +209,11 @@
   },
   "active": "4f2613cff7b1e0fb",
   "lastOpenFiles": [
+    "Notes/Statistics.md",
+    "Notes/Data Science.md",
+    "Notes/Probability.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/Strong Law of Large Numbers.md",
     "Notes/Packet Switching.md",
     "Pictures/Transmission Delay.png",
     "Pictures/Forwarding.png",
@@ -219,13 +224,10 @@
     "Pictures/OSI Model.png",
     "Notes/Networks.md",
     "Notes/Networks and Systems.md",
-    "Notes/Year 2 Computer Science.md",
     "Notes/Year 1 Computer Science.md",
     "Notes/Algorithms and Complexity.md",
     "Notes/The Matrix Chain-Multiplication Problem.md",
     "Notes/Theory of Computation.md",
-    "Notes/Data Science.md",
-    "Notes/Statistics.md",
     "Notes/Hypothesis Testing.md",
     "Notes/Data Plots.md",
     "Pictures/Scatter Diagram 2.png",
@@ -243,7 +245,6 @@
     "Notes/Finite-State Automata.md",
     "Notes/Regular Languages.md",
     "Notes/Weak Law of Large Numbers.md",
-    "Notes/Strong Law of Large Numbers.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
