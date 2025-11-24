@@ -17,7 +17,7 @@
 | Coursework                | Due Date | Status      |
 | ------------------------- | -------- | ----------- |
 | Security VM               | 6th Nov  | Done        |
-| Requirements Doc          | 20th Nov | In progress |
+| Requirements Doc          | 20th Nov | Done        |
 | Peer Review #1            | 29th Nov | Done        |
 | AI                        | 16th Dec | Not Started |
 | Programming Paradigms     | 11th Dec | In Progress |

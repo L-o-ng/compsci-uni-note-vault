@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "016c3700d7378716",
+        "id": "bbc89806f6e24c17",
         "type": "tabs",
         "children": [
           {
-            "id": "4f2613cff7b1e0fb",
+            "id": "6bcf98e7f79ebd5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Weak Law of Large Numbers.md",
+                "file": "Notes/Liballocator.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weak Law of Large Numbers"
+              "title": "Liballocator"
             }
           }
         ]
@@ -207,13 +207,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f2613cff7b1e0fb",
+  "active": "6bcf98e7f79ebd5a",
   "lastOpenFiles": [
-    "Notes/Statistics.md",
+    "Notes/The Rod-Cutting Problem.md",
+    "Notes/Algorithms and Complexity.md",
+    "Notes/Theory of Computation.md",
+    "Notes/Liballocator.md",
     "Notes/Data Science.md",
-    "Notes/Probability.md",
+    "Notes/Programming Paradigms.md",
     "Notes/Year 2 Computer Science.md",
+    "Notes/Weak Law of Large Numbers.md",
+    "Notes/Statistics.md",
+    "Notes/Hypothesis Testing.md",
+    "Notes/Central Limit Theorem.md",
     "Notes/Strong Law of Large Numbers.md",
+    "Notes/Probability.md",
     "Notes/Packet Switching.md",
     "Pictures/Transmission Delay.png",
     "Pictures/Forwarding.png",
@@ -225,10 +233,7 @@
     "Notes/Networks.md",
     "Notes/Networks and Systems.md",
     "Notes/Year 1 Computer Science.md",
-    "Notes/Algorithms and Complexity.md",
     "Notes/The Matrix Chain-Multiplication Problem.md",
-    "Notes/Theory of Computation.md",
-    "Notes/Hypothesis Testing.md",
     "Notes/Data Plots.md",
     "Pictures/Scatter Diagram 2.png",
     "Pictures/Scatter Diagram 1.png",
@@ -237,14 +242,9 @@
     "Notes/Normal Distribution.md",
     "Notes/Samples and Populations.md",
     "Notes/Standard Error.md",
-    "Notes/Central Limit Theorem.md",
     "Notes/Theory of Probability.md",
     "Notes/Solving Complex Equations.md",
     "Notes/Generalised Norms.md",
-    "Notes/Buffer Overflow Attacks.md",
-    "Notes/Finite-State Automata.md",
-    "Notes/Regular Languages.md",
-    "Notes/Weak Law of Large Numbers.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
