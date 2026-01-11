@@ -12,13 +12,18 @@
 ## Todos
 ### Catch-up
 + AI
++ Data Science
++ Networks and Systems
++ Programming Paradigms
++ Theory of Computation
++ 
 ### Coursework
 
-| Coursework                | Due Date | Status      |
-| ------------------------- | -------- | ----------- |
-| Security VM               | 6th Nov  | Done        |
-| Requirements Doc          | 20th Nov | Done        |
-| Peer Review #1            | 29th Nov | Done        |
-| AI                        | 16th Dec | Not Started |
-| Programming Paradigms     | 11th Dec | In Progress |
-| N&S Instant Messaging App | 8th Jan  | Not Started |
+| Coursework                | Due Date | Status |
+| ------------------------- | -------- | ------ |
+| Security VM               | 6th Nov  | Done   |
+| Requirements Doc          | 20th Nov | Done   |
+| Peer Review #1            | 29th Nov | Done   |
+| AI                        | 16th Dec | Done   |
+| Programming Paradigms     | 11th Dec | Done   |
+| N&S Instant Messaging App | 8th Jan  | Done   |
