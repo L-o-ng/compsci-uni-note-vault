@@ -16,4 +16,5 @@
 + [[Buchi Automata]]
 + [[Omega-Regular Languages]]
 + [[State Logic]]
-+ 
++ [[Computability]]
++

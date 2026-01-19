@@ -9,10 +9,9 @@
 + [[Software Engineering]]
 + [[Data Science]]
 + [[Computer Science Year 2 Practicals]]
-## Todos
+## To-do
 ### Catch-up
 + AI
-+ Data Science
 + Networks and Systems
 + Programming Paradigms
 + Theory of Computation
@@ -27,3 +26,5 @@
 | AI                        | 16th Dec | Done   |
 | Programming Paradigms     | 11th Dec | Done   |
 | N&S Instant Messaging App | 8th Jan  | Done   |
+|                           |          |        |
+|                           |          |        |

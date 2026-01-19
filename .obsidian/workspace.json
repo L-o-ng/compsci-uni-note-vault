@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc89806f6e24c17",
+        "id": "ac8bebd36b84a99c",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcf98e7f79ebd5a",
+            "id": "9b97fb840139005e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The Longest Common Subsequence Problem.md",
+                "file": "Notes/Computability.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Longest Common Subsequence Problem"
+              "title": "Computability"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "af9b3bc342b91640",
@@ -208,44 +208,44 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "6bcf98e7f79ebd5a",
+  "active": "9b97fb840139005e",
   "lastOpenFiles": [
-    "Pictures/LCS table.png",
-    "Notes/The Longest Common Subsequence Problem.md",
-    "Notes/Algorithms and Complexity.md",
-    "Notes/The Rod-Cutting Problem.md",
-    "Notes/The Matrix Chain-Multiplication Problem.md",
-    "Notes/Theory of Computation.md",
+    "Notes/Robinson's Arithmetic.md",
+    "Notes/Computability.md",
     "Notes/Models of Computation.md",
+    "Notes/Gödel's Incompleteness Theorems.md",
+    "Notes/Hilbert's Programme.md",
+    "Notes/The Step-Counter Function.md",
+    "Notes/Gödel Numbers.md",
+    "Notes/Primitive Recursive Functions.md",
+    "Notes/Recursion Theorem.md",
+    "Notes/Parameter Theorem.md",
+    "Notes/Computable Functions.md",
+    "Notes/t-Reducibility.md",
+    "Notes/Theory of Computation.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/m-Completeness.md",
+    "Notes/m-Reducibility.md",
+    "Notes/Types of Turing Machine.md",
+    "Notes/The Halting Problem.md",
+    "Notes/Turing Languages.md",
+    "Notes/Universal Turing Machine.md",
+    "Notes/Multitape Turing Machine.md",
+    "Notes/Non-Deterministic Turing Machine.md",
+    "Notes/The Turing Machine.md",
+    "Notes/The Church-Turing Thesis.md",
     "Notes/State Logic.md",
-    "Notes/Linear Temporal Logic.md",
+    "Notes/Probability.md",
+    "Pictures/Pasted image 20260112130405.png",
+    "Pictures/LCS table.png",
     "Pictures/Linear Time Logic Transition System Example.png",
     "Pictures/Linear Temporal Logic Semantics.png",
-    "Notes/Omega-Regular Languages.md",
-    "Notes/Buchi Automata.md",
-    "Notes/Modal Logic.md",
-    "Notes/Year 2 Computer Science.md",
-    "Notes/Liballocator.md",
-    "Notes/Data Science.md",
-    "Notes/Programming Paradigms.md",
-    "Notes/Weak Law of Large Numbers.md",
-    "Notes/Statistics.md",
-    "Notes/Hypothesis Testing.md",
-    "Notes/Central Limit Theorem.md",
-    "Notes/Strong Law of Large Numbers.md",
-    "Notes/Probability.md",
-    "Notes/Packet Switching.md",
     "Pictures/Transmission Delay.png",
     "Pictures/Forwarding.png",
     "Pictures/Routing Tables.png",
     "Pictures/OSI 3.png",
     "Pictures/OSI 2.png",
     "Pictures/OSI 1.png",
-    "Pictures/OSI Model.png",
-    "Notes/Networks.md",
-    "Notes/Networks and Systems.md",
-    "Notes/Year 1 Computer Science.md",
-    "Pictures/Scatter Diagram 2.png",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
