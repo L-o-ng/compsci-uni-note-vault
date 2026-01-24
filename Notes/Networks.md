@@ -2,7 +2,8 @@
 ## Notes
 + [[Network Elements]]
 + [[Packet Switching]]
-+ 
+
+todo!
 
 ---
 

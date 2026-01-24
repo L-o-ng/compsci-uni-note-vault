@@ -17,4 +17,4 @@
 + [[Omega-Regular Languages]]
 + [[State Logic]]
 + [[Computability]]
-+
++ todo! lambda caculus, kolmogorov complexity, entscheidunsproblem

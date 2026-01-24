@@ -15,4 +15,3 @@
 + [[The Step-Counter Function]]
 + [[Gödel's Incompleteness Theorems]]
 + [[Robinson's Arithmetic]]
-+ 

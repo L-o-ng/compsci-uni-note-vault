@@ -11,20 +11,23 @@
 + [[Computer Science Year 2 Practicals]]
 ## To-do
 ### Catch-up
-+ AI
-+ Networks and Systems
-+ Programming Paradigms
-+ Theory of Computation
-+ 
++ Term 1 todo!s
++ Term 2:
+	+ AI Search
+	+ Data Science Image Processing
+	+ Networks and Systems Databases
+	+ Programming Paradigms Functional Programming
+	+ Theory of Computation A&C 2
 ### Coursework
 
-| Coursework                | Due Date | Status |
-| ------------------------- | -------- | ------ |
-| Security VM               | 6th Nov  | Done   |
-| Requirements Doc          | 20th Nov | Done   |
-| Peer Review #1            | 29th Nov | Done   |
-| AI                        | 16th Dec | Done   |
-| Programming Paradigms     | 11th Dec | Done   |
-| N&S Instant Messaging App | 8th Jan  | Done   |
-|                           |          |        |
-|                           |          |        |
+| Coursework                | Due Date | Status      |
+| ------------------------- | -------- | ----------- |
+| Security VM               | 6th Nov  | Done        |
+| Requirements Doc          | 20th Nov | Done        |
+| Peer Review #1            | 29th Nov | Done        |
+| AI                        | 16th Dec | Done        |
+| Programming Paradigms     | 11th Dec | Done        |
+| N&S Instant Messaging App | 8th Jan  | Done        |
+| Tech Docs                 | 16th Mar | Not Started |
+| Image Processing          | 26th Feb | Not Started |
+| AI Search                 | 19th Feb | Not Started |

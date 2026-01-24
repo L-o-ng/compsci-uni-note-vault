@@ -10,4 +10,5 @@ A well-defined learning task is thus given by $\langle T,P,E \rangle$
 + [[Approaching Machine Learning]]
 + [[IDEs for Machine Learning]]
 + [[Data in Machine Learning]]
-+ 
+
+todo! eventually finish this

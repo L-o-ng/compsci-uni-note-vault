@@ -817,6 +817,8 @@ IOOG
 Ifff
 ITI
 Iuuuvvv
+Image
+Improve
 yZ
 yC
 yU
@@ -1533,6 +1535,9 @@ inspected
 incorporate
 innvww
 incompleteness
+imaging
+intensity
+individually
 qi
 qH
 qSr
@@ -1767,6 +1772,9 @@ quo
 qbIIIPP
 qRRR
 qEEE
+quantisation
+quoted
+quantised
 Xz
 XQ
 XX
@@ -2486,6 +2494,7 @@ differences
 dKRRR
 deDMbb
 devastating
+degradations
 oL
 om
 oV
@@ -3181,6 +3190,8 @@ Rejecting
 Ramanujan
 Rjj
 Recognisable
+RGB
+Representational
 nR
 nW
 nT
@@ -3464,6 +3475,8 @@ net
 nodal
 nlkk
 nnnh
+narrow
+normalises
 fg
 fU
 fk
@@ -5968,6 +5981,9 @@ subsequence
 subsequences
 sTTTvv
 snnn
+supervised
+spatial
+spreading
 TWe
 TBM
 Ti
@@ -6329,6 +6345,7 @@ Todos
 Tails
 Tailed
 TWCq
+Temporal
 JP
 Ju
 JQ
@@ -7924,6 +7941,8 @@ characterises
 coo
 configurations
 constitutes
+cope
+compresses
 kH
 ka
 kE
@@ -8938,6 +8957,9 @@ tlVe
 tuuO
 tape
 tapes
+toy
+tabular
+transforms
 Bh
 Bda
 Br
@@ -9929,6 +9951,7 @@ mmmY
 mWW
 marks
 multitape
+multidimensional
 WD
 WWx
 Wy
@@ -10469,6 +10492,7 @@ unavailable
 uPXc
 uuuuuu
 unformatted
+unsupervised
 AI
 Az
 Ab
@@ -12123,6 +12147,8 @@ Student
 Substructure
 Stores
 Strassen
+Spatial
+Scenes
 aQ
 ag
 aZ
@@ -12672,6 +12698,12 @@ arises
 allocating
 auxiliary
 aVV
+assistive
+aid
+aliasing
+arising
+appearance
+allocates
 wE
 wU
 wF
@@ -12991,6 +13023,7 @@ wWH
 wxb
 wider
 willing
+waveform
 vh
 vU
 vx
@@ -13259,6 +13292,8 @@ vzu
 vtU
 variability
 vuuihh
+vision
+viewing
 Ny
 Ngl
 Nz
@@ -15007,6 +15042,8 @@ revenue
 recomputing
 reconstructing
 rSS
+restoration
+recognition
 ehO
 ef
 eWmI
@@ -15468,6 +15505,7 @@ examine
 eIOO
 eeeh
 extending
+enhancement
 lD
 le
 lgAg
@@ -15832,6 +15870,7 @@ lyOR
 lying
 loookk
 legally
+logarithmic
 Ho
 Hf
 HdS
@@ -16906,6 +16945,7 @@ Overlapping
 OVP
 OMMMGG
 OWVV
+OpenCV
 QiG
 QFJ
 QUR
@@ -17165,6 +17205,7 @@ QRRr
 QcE
 Qcaa
 QQa
+Quantisation
 ba
 bM
 bhz
@@ -17539,6 +17580,7 @@ bgg
 blank
 believed
 blow
+brightens
 ED
 EXD
 Es
@@ -18203,6 +18245,8 @@ gwl
 grammar
 gdddhh
 gjkkSSS
+grayscale
+gray
 Üfrpp
 ÜAv
 ÜK
