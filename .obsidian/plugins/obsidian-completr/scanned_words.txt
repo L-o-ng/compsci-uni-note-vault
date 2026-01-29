@@ -443,6 +443,7 @@ Partitions
 Parenthesising
 Parenthesise
 Programme
+Pseudocode
 IHDR
 IDATx
 ID
@@ -1538,6 +1539,8 @@ incompleteness
 imaging
 intensity
 individually
+intensities
+inspired
 qi
 qH
 qSr
@@ -2818,6 +2821,8 @@ optimum
 oJKK
 oojj
 ordinary
+offset
+overexposure
 RD
 Rpbr
 RJ
@@ -3192,6 +3197,7 @@ Rjj
 Recognisable
 RGB
 Representational
+Relaxation
 nR
 nW
 nT
@@ -4788,6 +4794,7 @@ parenthesisations
 parenthesisation
 prefixes
 pHYs
+prevents
 DQ
 DM
 DU
@@ -5984,6 +5991,7 @@ snnn
 supervised
 spatial
 spreading
+solely
 TWe
 TBM
 Ti
@@ -6346,6 +6354,8 @@ Tails
 Tailed
 TWCq
 Temporal
+Tech
+Transformations
 JP
 Ju
 JQ
@@ -7227,6 +7237,8 @@ Characterising
 CBBT
 Cvvv
 CCCqq
+Currying
+Conventions
 cd
 ce
 cNCw
@@ -7943,6 +7955,8 @@ configurations
 constitutes
 cope
 compresses
+corrects
+caculus
 kH
 ka
 kE
@@ -8169,6 +8183,7 @@ kFm
 kEOO
 kSe
 kfhh
+kolmogorov
 LL
 LN
 Lx
@@ -10493,6 +10508,7 @@ uPXc
 uuuuuu
 unformatted
 unsupervised
+underexposure
 AI
 Az
 Ab
@@ -11662,6 +11678,7 @@ MUGYY
 Maff
 MMPS
 Motion
+Mar
 SQl
 SkBl
 SK
@@ -14039,6 +14056,7 @@ Gbps
 Geostationary
 Generic
 Gödel
+Gamma
 xcb
 xa
 xX
@@ -15044,6 +15062,7 @@ reconstructing
 rSS
 restoration
 recognition
+reduction
 ehO
 ef
 eWmI
@@ -15506,6 +15525,11 @@ eIOO
 eeeh
 extending
 enhancement
+enhanced
+enhances
+entscheidunsproblem
+effects
+enclosing
 lD
 le
 lgAg
@@ -15871,6 +15895,7 @@ lying
 loookk
 legally
 logarithmic
+luminescence
 Ho
 Hf
 HdS
@@ -16451,6 +16476,8 @@ Forwarding
 Fail
 Failing
 FLL
+Feb
+Forbids
 jY
 jx
 jRg
@@ -17581,6 +17608,7 @@ blank
 believed
 blow
 brightens
+binds
 ED
 EXD
 Es
@@ -17944,6 +17972,7 @@ Entire
 Enumerate
 EDQ
 ETWWGEE
+Encourages
 äq
 gh
 gCn
@@ -18247,6 +18276,7 @@ gdddhh
 gjkkSSS
 grayscale
 gray
+gamma
 Üfrpp
 ÜAv
 ÜK

@@ -14,9 +14,7 @@
 + Term 1 todo!s
 + Term 2:
 	+ AI Search
-	+ Data Science Image Processing
 	+ Networks and Systems Databases
-	+ Programming Paradigms Functional Programming
 	+ Theory of Computation A&C 2
 ### Coursework
 
