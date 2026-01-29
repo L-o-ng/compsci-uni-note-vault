@@ -5992,6 +5992,7 @@ supervised
 spatial
 spreading
 solely
+sink
 TWe
 TBM
 Ti
@@ -7957,6 +7958,8 @@ cope
 compresses
 corrects
 caculus
+consumes
+conservation
 kH
 ka
 kE
@@ -9967,6 +9970,7 @@ mWW
 marks
 multitape
 multidimensional
+material
 WD
 WWx
 Wy
@@ -11679,6 +11683,7 @@ Maff
 MMPS
 Motion
 Mar
+Material
 SQl
 SkBl
 SK
@@ -12721,6 +12726,8 @@ aliasing
 arising
 appearance
 allocates
+augmenting
+augment
 wE
 wU
 wF
@@ -15063,6 +15070,7 @@ rSS
 restoration
 recognition
 reduction
+relating
 ehO
 ef
 eWmI
@@ -15530,6 +15538,7 @@ enhances
 entscheidunsproblem
 effects
 enclosing
+exiting
 lD
 le
 lgAg
@@ -16478,6 +16487,8 @@ Failing
 FLL
 Feb
 Forbids
+Ford
+Fulkerson
 jY
 jx
 jRg
@@ -16702,6 +16713,7 @@ juA
 joint
 jointly
 jggW
+junctions
 Ow
 Osg
 OguH

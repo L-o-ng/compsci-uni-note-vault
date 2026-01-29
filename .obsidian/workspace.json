@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms and Complexity.md",
+                "file": "Notes/The Ford-Fulkerson Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algorithms and Complexity"
+              "title": "The Ford-Fulkerson Method"
             }
           }
         ]
@@ -210,9 +210,19 @@
   },
   "active": "d26728aa67764dba",
   "lastOpenFiles": [
+    "Notes/Augmenting Flow Paths.md",
+    "Pictures/Augmenting Paths.png",
+    "Notes/The Ford-Fulkerson Method.md",
+    "Notes/Residual Flow Networks.md",
+    "Pictures/Induced Residual Network.png",
+    "Notes/Algorithms and Complexity.md",
+    "Notes/Flow Networks.md",
+    "Pictures/Example Flow Network.png",
+    "Pictures/Flow Network.png",
+    "Notes/Graph Theory.md",
+    "Notes/The Maximum Flow Problem.md",
     "Notes/Dijkstra's Algorithm.md",
     "Notes/The Single-Source Shortest Paths Problem.md",
-    "Notes/Algorithms and Complexity.md",
     "Pictures/Graph as Adjacency Matrix.png",
     "Notes/Theory of Computation.md",
     "Notes/Year 2 Computer Science.md",
@@ -232,20 +242,9 @@
     "Pictures/HDR Processing.png",
     "Notes/Image Transforms.md",
     "Notes/Point Transform.md",
-    "Pictures/Point Transforms XOR.png",
-    "Pictures/Point Transforms Bit Planes.png",
-    "Pictures/Point Transforms Image Masking.png",
-    "Pictures/Point Transforms Difference Detection.png",
     "Notes/Quantisation.md",
     "Notes/Data Science.md",
     "Notes/Liballocator.md",
-    "Notes/Systems Programming.md",
-    "Notes/Networks and Systems.md",
-    "Notes/Networks.md",
-    "Notes/Packet Switching.md",
-    "Notes/Artificial Intelligence.md",
-    "Notes/Machine Learning.md",
-    "Notes/IDEs for Machine Learning.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
