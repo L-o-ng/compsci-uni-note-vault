@@ -17,8 +17,8 @@
 + [[Dijkstra's Algorithm]]
 + [[Flow Networks]]
 + [[The Maximum Flow Problem]]
-+ [[The Ford-Fulkerson Method]]
++ [[The Ford-Fulkerson Algorithm]]
 + [[The Edmonds-Karp Algorithm]]
-+ [[The Dancing Party Problem]]
++ [[The Dance Party Problem]]
 + [[Maximum Bipartite Matching]]
 + 

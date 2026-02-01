@@ -81,9 +81,9 @@ $$
 2. For all $X,Y \subseteq V$ we have $f(X,Y)=-f(Y,X)$ - a generalisation of $f(X,X)=0$ by the same reasoning;
 3. For all $X,Y,Z \subseteq V$ with $X \cap Y=\emptyset$ we have: $$\begin{align}f(X \cup Y,Z)&=f(X,Z)+f(Y,Z) \\ f(Z,X \cup Y) &=f(Z,X) + f(Z,Y)\end{align}$$Split summation into two: one over $X$, one over $Y$.
 ## Applications of Flow Networks
-+ [[The Dancing Party Problem]]
++ [[The Dance Party Problem]]
 + [[Maximum Bipartite Matching]]
 
 ---
 
-See now: [[The Ford-Fulkerson Method]], [[The Edmonds-Karp Algorithm]]
+See now: [[The Ford-Fulkerson Algorithm]], [[The Edmonds-Karp Algorithm]]

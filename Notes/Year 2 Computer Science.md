@@ -15,7 +15,6 @@
 + Term 2:
 	+ AI Search
 	+ Networks and Systems Databases
-	+ Theory of Computation A&C 2
 ### Coursework
 
 | Coursework                | Due Date | Status      |

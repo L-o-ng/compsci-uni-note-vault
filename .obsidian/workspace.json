@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The Ford-Fulkerson Method.md",
+                "file": "Notes/AI Search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Ford-Fulkerson Method"
+              "title": "AI Search"
             }
           }
         ]
@@ -210,13 +210,24 @@
   },
   "active": "d26728aa67764dba",
   "lastOpenFiles": [
-    "Notes/Augmenting Flow Paths.md",
-    "Pictures/Augmenting Paths.png",
-    "Notes/The Ford-Fulkerson Method.md",
-    "Notes/Residual Flow Networks.md",
-    "Pictures/Induced Residual Network.png",
+    "Notes/Artificial Intelligence.md",
+    "Notes/AI Search.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/The Ford-Fulkerson Algorithm.md",
     "Notes/Algorithms and Complexity.md",
+    "Notes/The Dance Party Problem.md",
+    "Notes/Maximum Bipartite Matching.md",
+    "Notes/Cuts in Flow Networks.md",
+    "Notes/Augmenting Flow Paths.md",
+    "Notes/Residual Flow Networks.md",
     "Notes/Flow Networks.md",
+    "Pictures/Maximum Bipartite Matching.png",
+    "Notes/The Edmonds-Karp Algorithm.md",
+    "Pictures/Network Flow Ford Fulkerson Runtime.png",
+    "Pictures/Max Flow = Min Cut.png",
+    "Pictures/Network Flow Cuts.png",
+    "Pictures/Augmenting Paths.png",
+    "Pictures/Induced Residual Network.png",
     "Pictures/Example Flow Network.png",
     "Pictures/Flow Network.png",
     "Notes/Graph Theory.md",
@@ -225,7 +236,6 @@
     "Notes/The Single-Source Shortest Paths Problem.md",
     "Pictures/Graph as Adjacency Matrix.png",
     "Notes/Theory of Computation.md",
-    "Notes/Year 2 Computer Science.md",
     "Notes/Models of Computation.md",
     "Notes/Lambda Calculus.md",
     "Notes/Functional Programming.md",
@@ -235,16 +245,7 @@
     "Notes/Image Processing.md",
     "Notes/Functional Point Transforms.md",
     "Pictures/Exponential Transform Example.png",
-    "Pictures/Logarithmic Transform Example.png",
-    "Pictures/Sigma in the Logarithmic Transform.png",
     "Notes/Dynamic Range.md",
-    "Pictures/HDR Tone-Mapping.png",
-    "Pictures/HDR Processing.png",
-    "Notes/Image Transforms.md",
-    "Notes/Point Transform.md",
-    "Notes/Quantisation.md",
-    "Notes/Data Science.md",
-    "Notes/Liballocator.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
