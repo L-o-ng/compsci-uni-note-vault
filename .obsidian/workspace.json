@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/AI Search.md",
+                "file": "Notes/Enhanced Entity Relationship Modelling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI Search"
+              "title": "Enhanced Entity Relationship Modelling"
             }
           }
         ]
@@ -208,11 +208,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "d26728aa67764dba",
+  "active": "f3c00eab2256380c",
   "lastOpenFiles": [
+    "Notes/Enhanced Entity Relationship Modelling.md",
+    "Notes/Advanced Databases.md",
+    "Notes/Entity Relationship Modelling.md",
+    "Notes/Networks and Systems.md",
+    "Notes/Databases.md",
+    "Notes/Networks.md",
+    "Notes/Year 2 Computer Science.md",
     "Notes/Artificial Intelligence.md",
     "Notes/AI Search.md",
-    "Notes/Year 2 Computer Science.md",
+    "Notes/Malware.md",
     "Notes/The Ford-Fulkerson Algorithm.md",
     "Notes/Algorithms and Complexity.md",
     "Notes/The Dance Party Problem.md",
@@ -238,14 +245,7 @@
     "Notes/Theory of Computation.md",
     "Notes/Models of Computation.md",
     "Notes/Lambda Calculus.md",
-    "Notes/Functional Programming.md",
-    "Notes/Programming Paradigms.md",
-    "README.md",
-    "Notes/Image Representation.md",
-    "Notes/Image Processing.md",
-    "Notes/Functional Point Transforms.md",
     "Pictures/Exponential Transform Example.png",
-    "Notes/Dynamic Range.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
