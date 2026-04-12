@@ -445,6 +445,7 @@ Parenthesise
 Programme
 Pseudocode
 Pairs
+Prime
 IHDR
 IDATx
 ID
@@ -1544,6 +1545,8 @@ individually
 intensities
 inspired
 irrational
+invented
+idiomatically
 qi
 qH
 qSr
@@ -2503,6 +2506,8 @@ devastating
 degradations
 dance
 dancing
+damping
+decidable
 oL
 om
 oV
@@ -3206,6 +3211,8 @@ RGB
 Representational
 Relaxation
 Residual
+Referential
+Robinson
 nR
 nW
 nT
@@ -3913,6 +3920,8 @@ fww
 fGDD
 formalism
 factory
+founded
+farms
 hO
 hf
 hA
@@ -4809,6 +4818,8 @@ poorly
 pucks
 pointless
 paired
+projections
+primitive
 DQ
 DM
 DU
@@ -6013,6 +6024,8 @@ seem
 shipping
 safely
 specialisation
+shorten
+subsystem
 TWe
 TBM
 Ti
@@ -6379,6 +6392,7 @@ Tech
 Transformations
 Total
 Trucks
+Transition
 JP
 Ju
 JQ
@@ -7991,6 +8005,7 @@ conservation
 capacities
 crates
 cancelled
+considers
 kH
 ka
 kE
@@ -8539,6 +8554,8 @@ Length
 LTL
 LCS
 LCSs
+Larry
+Lemmas
 tJ
 tf
 tR
@@ -9334,6 +9351,7 @@ Build
 Brute
 Bbk
 Bhh
+Brin
 ZY
 Zu
 ZzJ
@@ -10004,6 +10022,7 @@ multitape
 multidimensional
 material
 matchable
+monotonically
 WD
 WWx
 Wy
@@ -10250,6 +10269,7 @@ WiFi
 Wide
 WZXX
 Winnipeg
+Weight
 uC
 uIOs
 uq
@@ -10547,6 +10567,8 @@ uuuuuu
 unformatted
 unsupervised
 underexposure
+upcoming
+unites
 AI
 Az
 Ab
@@ -10904,6 +10926,7 @@ Assisting
 Approach
 Aaaa
 Accepting
+Augmentations
 KN
 KV
 KO
@@ -11115,6 +11138,7 @@ Kripke
 KBCC
 KSS
 Kurt
+Karp
 VU
 VB
 Vt
@@ -11721,6 +11745,7 @@ Mar
 Material
 Maximum
 Matching
+Monotonicity
 SQl
 SkBl
 SK
@@ -12210,6 +12235,10 @@ Spatial
 Scenes
 Shipments
 Summation
+Sergey
+Successive
+Self
+Sentence
 aQ
 ag
 aZ
@@ -12771,6 +12800,7 @@ admits
 augmentation
 admit
 adequate
+augmentations
 wE
 wU
 wF
@@ -13093,6 +13123,7 @@ willing
 waveform
 warehouse
 women
+weakest
 vh
 vU
 vx
@@ -15120,6 +15151,7 @@ relating
 restraint
 reverse
 residual
+regardless
 ehO
 ef
 eWmI
@@ -15589,6 +15621,7 @@ effects
 enclosing
 exiting
 exceeding
+expects
 lD
 le
 lgAg
@@ -15957,6 +15990,7 @@ logarithmic
 luminescence
 leased
 limiting
+labelling
 Ho
 Hf
 HdS
@@ -17673,6 +17707,7 @@ believed
 blow
 brightens
 binds
+billion
 ED
 EXD
 Es
@@ -18040,6 +18075,9 @@ Encourages
 Edmonton
 Enhanced
 EER
+Edmonds
+Executing
+Exponentiation
 äq
 gh
 gCn
@@ -18344,6 +18382,7 @@ gjkkSSS
 grayscale
 gray
 gamma
+gamed
 Üfrpp
 ÜAv
 ÜK

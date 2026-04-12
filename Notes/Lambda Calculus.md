@@ -10,11 +10,24 @@ We use an *inductive* argument to build all $\lambda$-expressions:
 	+ This represents the *application* of $M$ to $N$.
 
 Functions take exactly **one** argument. *Currying* is used to model multi-argument functions.
+
+So, in other words, we have each $\lambda$-term defined by:
+$$
+\eqalign{
+\langle\text{term}\rangle &:= &\langle\text{name}\rangle \\
+&|&(\lambda \langle\text{name}\rangle.\langle\text{term}\rangle) \\
+&|&(\langle\text{term}\rangle \langle\text{term}\rangle)
+}
+$$
 ### Conventions
 1. Application is left-associative;
 2. Abstraction is right-associative;
 3. Application has precedence over abstraction.
 ## Transformations
+We consider a $\lambda$-term to be in **normal form** if no $\beta$-reduction can be *applied* to it.
+We compute the *normal form* by repeatedly replacing the *leftmost* **bound** variable by the actual argument until we cannot reduce.
+### Church-Rosser Theorem
+If a $\lambda$-term has a normal form then that normal form is **unique**.
 ### Free and Bound Variables
 A variable is **bound** if it occurs in a function that takes a variable of the same name as input. For instance, $x$ in $\lambda x.x$ is bound. A variable binds to the closest function argument considering its enclosing functions.
 
@@ -40,3 +53,31 @@ $$
 \lambda x.(\lambda x.x) \equiv \lambda x.(\lambda y.y)
 \end{matrix}
 $$
+## Church Numerals
+The **Church numerals** $C_{0},C_{1},C_{2},\dots$ are defined as follows:
+$$
+\begin{align}
+C_{0}&\equiv \lambda sz.z  \\
+C_{1}&\equiv \lambda sz.s(z) \\
+C_{2}&\equiv \lambda sz.s(s(z)) \\
+&\vdots
+\end{align}
+$$
+### Successor
+We define the **successor** as:
+$$
+S=\lambda uvw.v(uvw)
+$$
+### Predecessor
+The *predecessor* is harder. We first define true and false:
+$$
+\begin{align}
+T&\equiv \lambda xy.x  \\
+F&\equiv \lambda xy.y
+\end{align}
+$$
+We represent a pair $(a,b)$ by $\lambda z.zab$. We can define: $\Phi=\lambda pz.z(S(pT))(pT)$, and so the predecessor is defined as:
+$$
+P \equiv \lambda n.n\Phi(\lambda z.zC_{0}C_{0})F
+$$
+

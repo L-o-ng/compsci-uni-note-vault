@@ -18,4 +18,5 @@
 + [[State Logic]]
 + [[Computability]]
 + [[Lambda Calculus]]
-+ todo! kolmogorov complexity, entscheidunsproblem
++ [[Kolgmogorov Complexity]]
++ [[The Undecidability of the Entscheidungsproblem]]
