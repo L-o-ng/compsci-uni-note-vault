@@ -1,6 +1,7 @@
 #notes 
 
 See first: [[First-Order Logic]]
+>[!question]
 >Is there an algorithm that, given any first-order logic statement, can decide in finite time whether it is universally valid?
 
 This is Turing's proof that there is no algorithm. This was the proof that killed Hilbert's programme to mechanically decide all of mathematics from axioms.

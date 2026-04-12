@@ -26,6 +26,7 @@ r_{n}=\max \{ p_{i}+r_{n-i}:1\leq i\leq n \}
 $$
 An idea arises: $p_{n}$ corresponds to no cuts and $p_{i}+r_{n-i}$ to cutting a rod of length $i$ and another rod of length $n-i$.
 To solve the original problem of size $n$, we can solve *independent* problems of the same type, but of smaller sizes.
+>[!definition]
 >**Optimal Substructure** refers to when optimal solutions to a problem incorporate optimal solutions to related sub-problems, which we may solve independently.
 ## Recursive Top-Down Implementation
 ```
@@ -44,6 +45,7 @@ op the maximum revenue possible for a rod of length n
 We still however have exponential runtime, as there are $2^{n}$ calls of the form `rod(p, k)` for $n\geq 1$.
 ## Dynamic Programming
 The naive solution is slow because it repeatedly solves the **same** sub-problems. We can arrange the sub-problems in order to solve them only **once**, saving the solution. If we need that solution, we can just look it up instead of recomputing.
+>[!definition]
 >**Dynamic Programming** refers to programs that use additional memory to save computation time; this is an example of a time-memory tradeoff.
 
 A dynamic programming algorithm runs in polynomial time, when both:

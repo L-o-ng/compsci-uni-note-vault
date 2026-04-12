@@ -40,6 +40,7 @@ Because of the **symmetry**, you can conclude other proportions. This is known a
 Because the curve is symmetric and the total area under it is 1, you can easily determine the area under the curve in the tails.
 ## Standard Normal Distribution
 The **Standard Normal Distribution** is a special case of the normal distribution with the following definition:
+>[!definition]
 >A random variable $Z$ with PDF as follows is called a standard normal random variable: $$f(z)=\frac{1}{\sqrt{ 2\pi }}e^{ -\frac{z^{2}}{2} }$$This is a normal random variable with parameters $\mu=0,\sigma^{2}=1$. The corresponding CDF is denoted as: $$\Phi(z)=P(Z\leq z)$$
 ### Conversion
 All normal distributions can be converted into the SND $Z$ by subtracting the mean and dividing by the standard deviation:

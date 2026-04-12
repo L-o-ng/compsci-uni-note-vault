@@ -3,6 +3,7 @@
 Let $w_{1},\dots,w_{n} \in \Bbb{R}$ be arbitrary positive numbers, called *weights*.
 The **Weighted Euclidean Inner Product** with weights $w_{1},\dots,w_{n}$ on $\Bbb{R}^{n}$ is defined as follows:
 
+>[!definition]
 >For vectors $\mathbf{u}=(u_{1},\dots,u_{n}),\space \mathbf{v}=(v_{1},\dots,v_{n})$:$$\langle\mathbf{u},\mathbf{v}\rangle=w_{1}u_{1}v_{1}+w_{2}u_{2}v_{2}+\dots+w_{n}u_{n}v_{n}$$
 
 It is easy to check that all four axioms of inner product are satisfied. If all $w_{i}=1$, this becomes the standard dot product.

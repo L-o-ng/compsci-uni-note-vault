@@ -447,6 +447,10 @@ Pseudocode
 Pairs
 Prime
 Perfect
+Pick
+Paul
+Proportional
+Prepaging
 IHDR
 IDATx
 ID
@@ -825,6 +829,8 @@ Image
 Improve
 Implicit
 Initial
+Informally
+Irrespective
 yZ
 yC
 yU
@@ -1549,6 +1555,10 @@ inspired
 irrational
 invented
 idiomatically
+insight
+incrementing
+infrequently
+intractable
 qi
 qH
 qSr
@@ -2511,6 +2521,8 @@ dancing
 damping
 decidable
 distinction
+descendant
+demonstrate
 oL
 om
 oV
@@ -2838,6 +2850,8 @@ offset
 overexposure
 obeying
 outgoing
+oracle
+oldest
 RD
 Rpbr
 RJ
@@ -3216,6 +3230,12 @@ Relaxation
 Residual
 Referential
 Robinson
+Reduction
+Report
+Return
+Reducibility
+Replacement
+Recently
 nR
 nW
 nT
@@ -3925,6 +3945,9 @@ formalism
 factory
 founded
 farms
+forwards
+film
+falsifies
 hO
 hf
 hA
@@ -4283,6 +4306,7 @@ hops
 hoo
 halting
 hockey
+hexagon
 pY
 pC
 pc
@@ -4823,6 +4847,8 @@ pointless
 paired
 projections
 primitive
+prolific
+prepaging
 DQ
 DM
 DU
@@ -5235,6 +5261,8 @@ DSS
 DEEeffFGG
 DDDDEE
 Decidable
+DFS
+Disqualify
 sDK
 sk
 sz
@@ -6031,6 +6059,11 @@ shorten
 subsystem
 suggest
 stark
+sociologists
+scientists
+substitutions
+suffers
+suspended
 TWe
 TBM
 Ti
@@ -6398,6 +6431,7 @@ Transformations
 Total
 Trucks
 Transition
+Thrashing
 JP
 Ju
 JQ
@@ -7287,6 +7321,9 @@ Conservation
 Cancellation
 Calgary
 Cut
+Callouts
+Cross
+Collaboration
 cd
 ce
 cNCw
@@ -8012,6 +8049,11 @@ crates
 cancelled
 considers
 classifies
+counterpart
+converse
+collaboration
+concatenated
+concise
 kH
 ka
 kE
@@ -8239,6 +8281,7 @@ kEOO
 kSe
 kfhh
 kolmogorov
+killed
 LL
 LN
 Lx
@@ -8562,6 +8605,7 @@ LCS
 LCSs
 Larry
 Lemmas
+LRU
 tJ
 tf
 tR
@@ -9033,6 +9077,7 @@ toy
 tabular
 transforms
 trucks
+thrashing
 Bh
 Bda
 Br
@@ -9358,6 +9403,9 @@ Brute
 Bbk
 Bhh
 Brin
+Back
+Bacon
+Belady
 ZY
 Zu
 ZzJ
@@ -10030,6 +10078,7 @@ material
 matchable
 monotonically
 matchings
+mechanically
 WD
 WWx
 Wy
@@ -10577,6 +10626,13 @@ underexposure
 upcoming
 unites
 unmatched
+updating
+useless
+unreachable
+unify
+undecidable
+uncommon
+unnecessary
 AI
 Az
 Ab
@@ -10935,6 +10991,9 @@ Approach
 Aaaa
 Accepting
 Augmentations
+Apr
+Acquaintance
+Associate
 KN
 KV
 KO
@@ -11147,6 +11206,7 @@ KBCC
 KSS
 Kurt
 Karp
+Kevin
 VU
 VB
 Vt
@@ -11756,6 +11816,7 @@ Matching
 Monotonicity
 Matchings
 Maximal
+Machines
 SQl
 SkBl
 SK
@@ -12249,6 +12310,10 @@ Sergey
 Successive
 Self
 Sentence
+Satisfiability
+SkillsQuest
+Shapes
+Strings
 aQ
 ag
 aZ
@@ -12811,6 +12876,12 @@ augmentation
 admit
 adequate
 augmentations
+agreed
+arguing
+acquainted
+appeared
+actor
+accordingly
 wE
 wU
 wF
@@ -13134,6 +13205,7 @@ waveform
 warehouse
 women
 weakest
+wight
 vh
 vU
 vx
@@ -13404,6 +13476,8 @@ variability
 vuuihh
 vision
 viewing
+variation
+victim
 Ny
 Ngl
 Nz
@@ -13683,6 +13757,7 @@ Naive
 NcW
 NKV
 Net
+NFAs
 Yk
 YZ
 Yoj
@@ -14628,6 +14703,7 @@ Unshielded
 Unknown
 UFOO
 UUUT
+Undecidable
 rn
 rM
 rI
@@ -15164,6 +15240,16 @@ reverse
 residual
 regardless
 road
+robus
+robust
+reducible
+refine
+resolves
+replies
+reversed
+regaining
+referenced
+resumes
 ehO
 ef
 eWmI
@@ -15634,6 +15720,8 @@ enclosing
 exiting
 exceeding
 expects
+encodings
+entscheidungsproblem
 lD
 le
 lgAg
@@ -16304,6 +16392,8 @@ HJR
 HEEE
 His
 Halting
+Hollywood
+Hexagon
 FC
 FT
 FP
@@ -16587,6 +16677,9 @@ Feb
 Forbids
 Ford
 Fulkerson
+Frequently
+Frame
+Frequency
 jY
 jx
 jRg
@@ -17083,6 +17176,7 @@ OVP
 OMMMGG
 OWVV
 OpenCV
+Oracle
 QiG
 QFJ
 QUR
@@ -17720,6 +17814,7 @@ blow
 brightens
 binds
 billion
+backward
 ED
 EXD
 Es
@@ -18090,6 +18185,11 @@ EER
 Edmonds
 Executing
 Exponentiation
+Encodings
+Erdos
+Equilateral
+Entscheidungsproblem
+Equal
 äq
 gh
 gCn

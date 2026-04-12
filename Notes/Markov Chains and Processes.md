@@ -5,6 +5,7 @@ We can think of the [[PageRank]] surfer as a **Markov Process**.
 + The probability of jumping depending only on the current state.
 + The PageRank is the *steady state probability* of being on a page.
 ## An Example: Weather
+>[!example]
 >The weather tomorrow will be the same as today.
 
 This is about 70% accurate.

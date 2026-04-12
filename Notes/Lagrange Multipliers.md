@@ -19,8 +19,9 @@ This level curve barely touches the restriction, so it is special.
 ## Constrained Optimisation
 Recall [[Multivariate Extrema]].
 Now consider that the variables are now *independent*.
->The goal of constrained optimisation is to minimise or maximise a function $f(\mathbf{x})$ where $x=(x_{1},\dots,x_{n})$ and $x_{1},\dots,x_{n}$ are not independent
->	relation $g(\mathbf{x})=0$ ; think of this as a constraint.
+>[!important]
+> + The goal of constrained optimisation is to minimise or maximise a function $f(\mathbf{x})$ where $x=(x_{1},\dots,x_{n})$ and $x_{1},\dots,x_{n}$ are not independent.
+> + We have relation $g(\mathbf{x})=0$ ; think of this as a constraint.
 
 If the constraint is very simple, we can solve it for 1 variable and plug it back into $f$, giving a usual min/max problem:
 $$

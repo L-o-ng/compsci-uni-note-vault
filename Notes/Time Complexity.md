@@ -1,6 +1,7 @@
 #definition 
 
-> The **time complexity** of an algorithm can be expressed in terms of the number of basic operations used by the algorithm when the input has a particular size.
+>[!abstract]
+>The **time complexity** of an algorithm can be expressed in terms of the number of basic operations used by the algorithm when the input has a particular size.
 ### Examples of Basic Operations
 + Addition
 + Multiplication

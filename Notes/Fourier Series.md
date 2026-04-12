@@ -9,6 +9,7 @@ Recall the [[Taylor Series]] definition. We can approximate any function centred
 We can propose a new series expansion that uses [[Trigonometry|Trigonometric Functions]] so that the series value converges to the function value at *almost* any point, even for irregular functions.
 Even when it does not converge exactly, it converges to a sensible value.
 
+>[!definition]
 >For a function $f(x),-\pi<x<\pi$, the **Fourier Series** is: 
 >$$f(x)\approx \frac{a_{0}}{2}+\sum_{n=1}^{\infty} a_{n}\cos nx+b_{n}\sin nx$$
 >where:

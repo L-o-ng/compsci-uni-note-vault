@@ -10,9 +10,9 @@ Algorithms should provide:
 We can use [[Big-Omega Notation]] as an immediate lower bound on any algorithmic solution.
 	So, any algorithm of $O(n)$ is efficient, but $O(n)$ is too stringent a condition for efficiency: sorting is $\Omega(n\log n)$.
 ## Definitions
->A problem is **efficiently solvable**, or **tractable**, if it can be solved by an algorithm of time-complexity $O(n^k)$ for some $k$, that is, in **polynomial time**.
-
->The **complexity class** of efficiently solvable problems is denoted **P** - polynomial time.
+>[!definition]
+> + A problem is **efficiently solvable**, or **tractable**, if it can be solved by an algorithm of time-complexity $O(n^k)$ for some $k$, that is, in **polynomial time**.
+> + The **complexity class** of efficiently solvable problems is denoted **P** - polynomial time.
 
 There are 2 valid objections: 
 + What about the hidden constants? How can you say a problem is tractable if the constants could be huge?
@@ -34,8 +34,8 @@ Or independent sets:
 + **Witness** - a set of $b$ vertices.
 + **Check** - is the set an independent set? $O(n^2)$.
 ## Efficiently Checkable
->A decision problem is **efficiently checkable** if:
->	given a polynomial **witness** that some instance is a yes-instance, we can **check** in polynomial time whether the witness is indeed a witness.
+>[!definition]
+>A decision problem is **efficiently checkable** if, given a polynomial **witness** that some instance is a yes-instance, we can **check** in polynomial time whether the witness is indeed a witness.
 
 Or, alternatively,
 + We are allowed to "guess" within a polynomial time algorithm to solve the problem, where we execute one thread for each possible guess:

@@ -71,9 +71,9 @@ $$
 
 ### Derived Rules
 #### Reductio Ad Absurdum (RAA)
->If from $¬\upvarphi$ I can prove $\perp$, then I can deduce $\upvarphi$.
+>[!definition] If from $¬\upvarphi$ I can prove $\perp$, then I can deduce $\upvarphi$.
 #### Law of the Excluded Middle (LEM)
->Either $\upvarphi$ is true or $¬\upvarphi$ is true.
+>[!definition] Either $\upvarphi$ is true or $¬\upvarphi$ is true.
 ## Examples
 ### Example 1 - Basic
 Here we prove the sequent $p,¬¬(q\wedge r)\vdash¬¬p\wedge r$:

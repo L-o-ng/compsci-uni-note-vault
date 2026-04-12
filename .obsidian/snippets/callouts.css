@@ -1,0 +1,34 @@
+.callout[data-callout="theorem"] {
+  --callout-color: 120, 80, 200;
+  --callout-icon: lucide-book-open;
+}
+
+.callout[data-callout="proof"] {
+  --callout-color: 80, 40, 160;
+  --callout-icon: lucide-pencil;
+}
+
+.callout[data-callout="theorem"] .callout-title,
+.callout[data-callout="proof"] .callout-title {
+  color: rgb(240, 200, 255);
+}
+
+.callout[data-callout="theorem"] .callout-content {
+  color: rgb(210, 170, 245);
+}
+
+.callout[data-callout="proof"] .callout-content {
+  color: rgb(180, 130, 240);
+}
+.callout[data-callout="definition"] {
+  --callout-color: 100, 60, 180;
+  --callout-icon: lucide-book-marked;
+}
+
+.callout[data-callout="definition"] .callout-title {
+  color: rgb(240, 200, 255);
+}
+
+.callout[data-callout="definition"] .callout-content {
+  color: rgb(180, 130, 230);
+}

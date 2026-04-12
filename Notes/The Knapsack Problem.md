@@ -4,6 +4,7 @@ We can consider **2 variants** of the knapsack problem.
 ## Variants
 ### Variant 1 - The 0-1 Knapsack
 This is the classic variant of the knapsack problem. 
+>[!question] Problem
 >A thief robs a store and finds $n$ items. Item $i$ is worth $v_{i}$ euros and weighs $w_{i}$ kilos. The thief can carry at most $W$ kilos in their knapsack. Which items can he take to maximise his profit?
 ### Variant 2 - The Fractional Knapsack
 We have the same setup as before, but now the thief can take *fractional* items.

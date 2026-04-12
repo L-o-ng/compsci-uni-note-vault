@@ -53,6 +53,7 @@ College(__college__, collegeAddress)
 Choosing where to split tables to normalise the database depends on finding functional dependencies. In [[#Avoiding Anomalies|this example]], the functional dependency was `id -> college -> collegeAddress`.
 To resolve these, we need to determine candidate keys, and which attributes to combine in the new tables.
 ### Formal Definition
+>[!definition]
 >If $A,B$ are two sets of attributes in a relation, we say that:$$\array{B\text{ is functionally dependent on }A \quad (A \to B)\\\text{or that }A\text{ functionally determines }B}$$if each value of $A$ is associated with exactly one value of $B$.
 
 This essentially means that if you know the value(s) of $A$ then you know the value(s) of $B$. Here, $A$ is called the **determinant** of $B$.
@@ -79,6 +80,7 @@ If $A \to B$ and $B \to C$ then $C$ is transitively dependent on $A$ via $B$.
 ### Computing Functional Dependencies
 Some functional dependencies are obvious from semantics; for example: `id -> (prename, surname)`. Some are less obvious.
 #### Closures on Dependencies
+>[!definition]
 >Given a set of functional dependencies $F$, its **closure** $F^{+}$ is the set of all functional dependencies that are implied by the dependencies in $F$.
 
 There is a set of **inference rules** to compute $F^{+}$.

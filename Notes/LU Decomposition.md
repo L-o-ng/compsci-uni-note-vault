@@ -1,5 +1,6 @@
 #notes
 
+>[!abstract]
 >An **LU Decomposition** of a square matrix $A$ is a product representation $A=LU$ where $L$ is *lower triangular* and $U$ is *upper triangular*.
 
 For example, $$A=\begin{pmatrix}2&6&2\\-3&-8&0\\4&9&2\end{pmatrix}=\begin{pmatrix}2 & 0 & 0 \\-3 & 1 & 0 \\4 & -3 & 7\end{pmatrix}\begin{pmatrix}1 & 3 & 1 \\0 & 1 & 3 \\0 & 0 & 1\end{pmatrix}=LU$$
@@ -26,6 +27,7 @@ This method reduces solving a linear system into 2 triangular systems. It is wid
 ## Finding an LU-Decomposition
 Let $A$ be a square matrix and $U$ its non-reduced [[Augmented Matrices and Elementary Row Operations#Row Echelon Form|row echelon form]], obtained by [[Gaussian Elimination]]. $U$ here is **always** *upper triangular*.
 
+>[!important]
 >If $A$ and $U$ are as above and **no row exchanges** were performed while obtaining $U$ from $A$, then $A$ can be factored $A=LU$, where $L$ is lower triangular.
 
 We exchange rows while computing $U$ only when 0 is in a pivot position - this can never happen due to the no row exchange condition.
@@ -67,6 +69,7 @@ $$
 The LU method fails when row exchanges must be used.
 We can instead permute rows/equations in advance.
 
+>[!definition]
 >A **permutation matrix** is a square matrix $P$ obtained from $I$ by permuting its rows.
 
 For example,
@@ -83,10 +86,12 @@ So,
 + $P$ is invertible and $P^{-1}=P^{T}$ which is also a permutation matrix.
 ## PLU Decomposition
 
+>[!definition] 
 >A **PLU-Decomposition** of a square matrix $A$ is a representation $A=PLU$ where $P$ is a permutation matrix, $L$ is lower triangular and $U$ is upper triangular.
 
 Note that $A=PLU$ is equivalent to $P^{T}A=LU$ because $P^{-1}=P^{T}$.
 
+>[!theorem]
 >Every square matrix has a PLU-decomposition.
 ### How to use it:
 + Since $P^{T}$ is invertible, $A\mathbf{x}=\mathbf{b}$ has the same solutions as $P^{T}A\mathbf{x}=P^{T}\mathbf{b}$.

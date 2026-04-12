@@ -60,5 +60,5 @@ For an undirected graph, forwards and backward edges are the same. We can refine
 	+ $e$ is a *forward* edge if DFS first considers $e$ from $u$;
 	+ $e$ is a *back* edge if DFS first considers $e$ from $v$.
 
->In an undirected graph, every edge is a tree edge or a back edge.
+>[!theorem] In an undirected graph, every edge is a tree edge or a back edge.
 

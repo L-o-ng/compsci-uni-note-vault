@@ -8,6 +8,7 @@ $$
 When $n\leq 305,g_{X}(n)<f_{s}(n)$ but when $n\geq 306,f_{s}(n)<g_{X}(n)$, so we choose selection sort on the slower machine.
 
 We ought to use a notation that suppresses all irrelevant constants and only details the dominant term of the complexity function: the [[Big-O Notation]].
+>[!definition]
 >For 2 functions, $f,g:\Bbb{N}\to \Bbb{N}$, we write $f=O(g)$ if there exists $n_{0}\in \Bbb{N}$ and $k \in \Bbb{Q}$ such that $f(n)\leq k\cdot g(n)$ whenever $n\geq n_{0}$.
 ## Reasons for Constrictions
 + $f(n)\leq k\cdot g(n)$ only need hold when $n\geq n_{0}$ since $O$ caters for when some algorithm might run quicker than another but only on a small number of inputs of small size.

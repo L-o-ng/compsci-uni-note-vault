@@ -28,6 +28,7 @@ $$
 ## Solving Systems
 Let us assume that we have an inconsistent linear system $A\mathbf{x}=\mathbf{b}$. Can we find a vector that comes **as close as possible** to being a solution?
 ### Least Squares Problem
+>[!question] Problem
 >Given a linear system $A\mathbf{x}=\mathbf{b}$ with $m$ equations and $n$ variables, find a vector $\mathbf{x}$ that minimises $\|\mathbf{b}-A\mathbf{x}\|$ with respect to the [[Inner Product Spaces|Euclidean Inner Product]] on $\Bbb{R}^{m}$.
 
 We call such a vector $\mathbf{x}$ a **least squares solution** to the system; the vector $\mathbf{b}-A\mathbf{x}$ the **least squares error vector**, and the number $\|\mathbf{b}-A\mathbf{x}\|$ the **least squares error**.
@@ -37,8 +38,10 @@ $$
 $$
 If we trust different measurements/equations differently, we can use the [[Weighted Euclidean Inner Product]] to compute the norm and get the weighted least squares.
 ### Best Approximation Theorem
+>[!theorem]
 >If $W$ is a finite-dimensional subspace in an inner product space $V$ and $\mathbf{b} \in V$ *then* $\proj{W}{\mathbf{b}}$ is the **best approximation** to $\mathbf{b}$ from $W$ in the sense that:$$\|\mathbf{b}-\proj{W}{\mathbf{b}}\|\leq \|\mathbf{b}-\mathbf{w}\|$$for each vector $\mathbf{w} \in W$ and the inequality is strict for all $\mathbf{w} \neq \proj{W}{\mathbf{b}}$.
 #### Proof
+>[!proof]
 >For any vector $\mathbf{w}\in W$, write $\mathbf{b}-\mathbf{w}=\underbrace{ (\mathbf{b}-\proj{W}{\mathbf{b}}) }_{ \text{in }W^{\bot} }+\underbrace{ (\proj{W}{\mathbf{b}}-\mathbf{w}) }_{ \text{in }W }$
 >By [[Pythagoras' Theorem]] we have $$\|\mathbf{b}-\mathbf{w}\|^{2}=\|\mathbf{b}-\proj{W}{\mathbf{b}}\|^{2}+\|\proj{W}{\mathbf{b}}-\mathbf{w}\|^{2}\geq \|\mathbf{b}-\proj{W}{\mathbf{b}}\|^{2}$$Moreover, the inequality is strict whenever $\mathbf{w}\neq\proj{W}{\mathbf{b}}$.
 ## Finding a Solution
@@ -57,11 +60,13 @@ $$
 This is called the **normal equation** or **normal system** associated with $A\mathbf{x}=\mathbf{b}$.
 So:
 
+>[!theorem]
 >For every linear system $A\mathbf{x}=\mathbf{b}$, the associated normal system $A^{T}A\mathbf{x}=A^{T}\mathbf{b}$ is consistent, and its solutions are exactly least square solutions of $A\mathbf{x}=\mathbf{b}$.
 >Moreover, if $W$ is the column space of $A$ and $\mathbf{x}_{0}$ is any least squares solution of $A\mathbf{x}=\mathbf{b}$ then $A\mathbf{x}_{0}=\proj{W}{\mathbf{b}}$.
 ## When Are Least Squares Solutions Unique?
 Equivalently: when does a normal system $A^{T}A\mathbf{x}=A^{T}\mathbf{b}$ have a unique solution?
 ### Theorem
+>[!theorem]
 >For any $m\times n$ matrix $A$, $A$ has linearly independent columns if and only if $A^{T}A$ is invertible.
 ### Proof
 + The columns of $A$ are linearly independent if and only if $A\mathbf{x}=\mathbf{0}$ has only the trivial solution.

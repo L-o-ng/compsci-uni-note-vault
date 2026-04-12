@@ -45,6 +45,7 @@ These 2 quantities are used often to summarise a probability distribution.
 2. The [[Law of the Unconscious Statistician]].
 ### Transformed Random Variables
 The two laws draw the following conclusion:
+>[!theorem] Conclusion
 >One can perform arithmetic operations with random variables to get new ones, and the expectation and variance can be computed from them.
 
 Some properties include:

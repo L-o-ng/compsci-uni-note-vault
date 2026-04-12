@@ -13,3 +13,20 @@
 + [[Careers]]
 + [[LaTeX Command Definitions]]
 + [[Gaslighting]]
+
+Callouts used:
+>[!question]
+
+>[!abstract]
+
+>[!important]
+
+>[!theorem]
+
+>[!proof]
+
+>[!definition]
+
+>[!example]
+
+>[!quote]

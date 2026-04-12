@@ -2,7 +2,7 @@
 
 An AVL tree is a self-balancing [[Binary Search Tree]] with the following property:
 
->For each node $v$, the height of $v$'s children differ by at most 1.
+>[!theorem] For each node $v$, the height of $v$'s children differ by at most 1.
 
 We use the definition of height of a node and assume:
 + the height of `null` is 0 and a proper leaf is 1;

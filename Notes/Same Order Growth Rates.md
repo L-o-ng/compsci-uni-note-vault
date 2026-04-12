@@ -1,6 +1,5 @@
 #notes 
-
-## Definition
+>[!definition]
 >Let $f,g:\mathbb{R} \to \mathbb{R}$.
 >We say $f(x)$ is $\Theta(g(x))$ if $f(x)$ is $O(g(x))$ and $f(x)$ is $\Omega(g(x))$.
 

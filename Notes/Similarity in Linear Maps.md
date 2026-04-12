@@ -8,5 +8,6 @@ This matrix is called the **matrix of T in S**.
 We also say that the matrix $[T]_{S}$ represents $T$ in basis $S$.
 If $S$ is the standard basis of $\Bbb{R}^{n}$ then $[T]_{S}$ is the standard matrix of $T$.
 
+>[!theorem]
 >Matrices $A,B$ are similar if and only if there is a linear operator $T:\Bbb{R}^{n}\to \Bbb{R}^{n}$ and 2 bases, $S,S'$ of $\Bbb{R}^{n}$ such that $A=[T]_{S}$ and $B=[T]_{S}$.
 

@@ -1,5 +1,6 @@
 #notes 
 
+>[!theorem]
 >If $A$ is an $n\times n$ matrix then $\lambda$ is an eigenvalue of $A$ if and only if it satisfies $\det(\lambda I-A)=0$.
 
 The equation $\det(\lambda I-A)=0$ is also called the **characteristic equation** of $A$.
@@ -63,5 +64,6 @@ Let $\lambda_{0}$ be an eigenvalue of matrix $A$.
 + The **algebraic multiplicity** of $\lambda_{0}$ is the power $k$ with which $(\lambda-\lambda_{0})$ appears as a factor of $\det(\lambda I-A)$ - the characteristic polynomial of $A$.
 	+ For example: If $\det(\lambda I-A)=(\lambda-2)^{3}\cdot(\lambda+5)^{2}\dots$ then it's 3 for 2 and 2 for -5.
 + The **geometric multiplicity** of $\lambda_{0}$ is the dimension of the eigenspace corresponding to $\lambda_{0}$
+>[!theorem]
 >Let $A$ be any square matrix. For every eigenvalue of $A$, its algebraic multiplicity is greater than or equal to its geometric multiplicity.
 

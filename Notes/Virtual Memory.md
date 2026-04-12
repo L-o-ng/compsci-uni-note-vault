@@ -67,6 +67,7 @@ We compare the number of page faults, looking for the lowest possible.
 #### FIFO Algorithm
 Associate with each page the time it was brought into memory. The victim page is the oldest page. This is simple to implement with a FIFO queue.
 ##### Belady's Anomaly
+>[!theorem] Anomaly
 >For some page fault algorithms, the page fault rate may increase as the number of allocated frames increases.
 
 Usually increasing he size of memory will improve the memory response and throughput; however, some combinations of demands will have fewer page faults with a smaller number of available frames. The FIFO algorithm suffers from this effect.

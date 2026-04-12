@@ -47,10 +47,11 @@ It can hence be removed by covering the adjacent prime implicants by a redundant
 ![[Static 1 hazard removal.png]]
 ## The Dynamic Discipline
 The **Dynamic Discipline** restricts us to using circuits satisfying timing constraints that allow us to combine components.
->$t_{\text{setup}}$ is the time before the rising edge during which the inputs **must** be stable.
->$t_{\text{hold}}$ is the time after the rising edge during which the inputs **must** be stable.
->$t_{\text{ccq}}$ is the time until output starts to change.
->$t_{\text{pcq}}$ is the time by which the output has stabilised.
+>[!definition]
+> + $t_{\text{setup}}$ is the time before the rising edge during which the inputs **must** be stable.
+> + $t_{\text{hold}}$ is the time after the rising edge during which the inputs **must** be stable.
+> + $t_{\text{ccq}}$ is the time until output starts to change.
+> + $t_{\text{pcq}}$ is the time by which the output has stabilised.
 
 ![[Dynamic Discipline.png]]
 With these constraints we can think of signals as discrete in time as well as logic.

@@ -1,5 +1,6 @@
 #notes 
 ## Minimum Spanning Tree Problem
+>[!question] Problem
 >Find a tree that *spans* the vertices and has **minimum** cost.
 
 A minimum spanning tree:
@@ -67,10 +68,11 @@ op MST
 	endwhile
 	return A
 ```
+>[!theorem]
 >Let $G=(V,E)$ be a connected undirected graph with a real-valued weight function $w$ defined on the edges $E$. Let $A \subseteq E$ such that $A$ is included in some MST of $G$, let $(S,V-S)$ be any cut of $G$ that respects $A$, and let $(u,v)$ be a light edge crossing $(S,V-S)$. Then the edge is *safe* for $A$.
 
 The above theorem implies correctness for Prim's algorithm.
-#### Corollary
+>[!theorem] Corollary
 >Let $G=(V,E)$ be a connected undirected graph with a real-valued weight function $w$ defined on the edges $E$. Let $A \subseteq E$ such that $A$ is included in some MST of $G$, and let $C=(V_{C},E_{C})$ be a connected component (tree) in the forest $G_{A}=(V,A)$. If $(u,v)$ is a light edge that connects $C$ to some other component in $G_{A}$, then the edge $(u,v)$ is *safe* for $A$.
 
 This implies correctness for Kruskal's algorithm.

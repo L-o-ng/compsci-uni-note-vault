@@ -21,11 +21,13 @@ The semantic of a first order formula in some interpretation is as follows:
 + We interpret $\forall x\phi$ as true if $\phi$ is true for all values of $x$;
 + We interpret $\exists x\phi$ as true if there is at least one value for $x$ making $\phi$ true.
 ## Atoms
+>[!definition]
 >If $P$ is a relation symbol of arity $r$ and $y_{1},\dots,y_{r}$ are (not necessarily distinct) variables or constant symbols, then $P(y_{1},\dots,y_{r})$ is an **atom** with free variables from $y_{1},\dots,y_{r}$ - this sequence can also contain constants and repeated items.
 >If $C,D$ are constant symbols, and $x,y$ are variables then $C=D,C=x,x=y$ are all **atoms** with, respectively, sets of free variables $\emptyset,\quad\{ x \},\quad \{ x,y \}$.
 
 The **signature** of the formula is its finite set of predicate (relation) and constant symbols.
 ## Constructions
+>[!definition]
 >If $\phi,\psi$ are formulae, with free variables $\free{\phi},\free{\psi}$, then:
 >$$\phi \vee \psi,\phi \wedge \psi,¬\phi$$
 >are formulae with, respectively, free variables $\free{\phi}\cup\free{\psi},\free{\phi}\cup\free{\psi},\free{\phi}$.

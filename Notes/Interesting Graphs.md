@@ -12,6 +12,7 @@ In the **Hollywood graph**, the vertices are all people (or only actors), and th
 
 Kevin Bacon is a famous Hollywood actor. The Bacon number of a person is the distance to Kevin Bacon in the Hollywood graph.
 ## The Erdos-Bacon Number
+>[!definition]
 >For any person, their Erdos-Bacon number is the sum of their Erdos Number and their Bacon Number.
 
 There are not many people with a small Erdos-Bacon number.

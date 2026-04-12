@@ -28,9 +28,9 @@ $$
 \boxed{¬\exists x\phi \equiv \forall x¬\phi}
 $$
 ### General Rule
->Negations can be *pushed through* universal quantifiers if we change the universal quantifier to an existential quantifier.
-
->Negations can be *pushed through* existential quantifiers if we change the existential quantifier to a universal quantifier.
+>[!theorem]
+> + Negations can be *pushed through* universal quantifiers if we change the universal quantifier to an existential quantifier.
+> + Negations can be *pushed through* existential quantifiers if we change the existential quantifier to a universal quantifier.
 #### Example
 Consider the formula $¬\exists x\forall y(¬E(x,y)\vee M(y,y,z,x))$. We have:
 $$
@@ -46,11 +46,13 @@ Let $I$ be some interpretation for $\forall x\phi \wedge \exists y\psi$; we have
 + $I \vDash\forall x\phi$ if and only if no matter which value from the domain of $I$ we give to the variable $x$, we have that $\phi(x)$ holds in $I$.
 + $I \vDash\exists y\psi$ if and only if there exists some value from the domain of $I$ for the variable $y$ such that $\psi(y)$ holds in $I$.
 Thus, 
+>[!theorem]
 >$I \vDash\forall x\phi \wedge \exists y\psi$ if and only if no matter which value we give to $x$, we have that $\phi(x)$ holds in $I$ and there exists some value for $y$ such that $\psi(y)$ holds in $I$.
 
 Consider now $\forall x \exists y(\phi \wedge \psi)$. Suppose that $I \vDash\forall x\exists y(\phi \wedge \psi)$. Choose *any* $u$ for $x$. There exists a $v$ for $y$ such that $\phi(u)\wedge \psi(v)$ holds.
 So, $I \vDash\forall x\phi \wedge \exists y\psi$. Hence, $\forall x\phi \wedge \exists y\psi \equiv \forall x\exists y(\phi \wedge \psi)$. Indeed, by the same token, $I \vDash\forall x\phi \wedge \exists y\psi \iff I \vDash\exists y\forall x(\phi \wedge \psi)$.
 ### General Rule
+>[!theorem]
 >Quantifications can be *pulled out* from inside logical connectives and the order of the quantifiers does not matter, so long as the names of the quantified variables are not used elsewhere.
 #### Examples
 ##### Example 1

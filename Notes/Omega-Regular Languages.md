@@ -5,9 +5,13 @@ An $\omega$-regular language is built upon [[Regular Languages]] using the follo
 2. $AB$ where $A$ is regular and $B$ is $\omega$-regular;
 3. $A^{\omega}$ which is $\{ a_{1}\dots|a_{i}\in A \}$ - an infinite sequence of words from $A$, where $A$ is regular and does not contain the empty word.
 
->**Theorem**: An $\omega$-language is $\omega$-regular if and only if some non-deterministic Buchi Automaton recognises it.
->**Proof**: Denote by $L_{pq}$ the regular language that takes us from state $p$ to state $q$. Observe that a Buchi Automaton recognises precisely the language $\cup_{q \in F}A_{q_{0}q}A^{\omega}_{qq}$, or in words: first reach an accepting state and then revisit it infinitely often.
+>[!theorem]
+>An $\omega$-language is $\omega$-regular if and only if some non-deterministic Buchi Automaton recognises it.
 
+>[!proof]
+>Denote by $L_{pq}$ the regular language that takes us from state $p$ to state $q$. Observe that a Buchi Automaton recognises precisely the language $\cup_{q \in F}A_{q_{0}q}A^{\omega}_{qq}$, or in words: first reach an accepting state and then revisit it infinitely often.
+
+>[!important]
 >The class of $\omega$-regular languages is closed under intersection and complementation.
 ## Examples
 For $\Sigma$ being $\{ 0,1 \}$:
@@ -20,10 +24,12 @@ For $\Sigma$ being $\{ 0,1,2 \}$:
 + $\{ a \in \Sigma^{\omega}|\text{In }a\text{, there are an even number of 0s between any two occurences of 1} \}$.
 ## Limits of Regular Languages
 Let $A$ be a regular language. The limit of $A$, $\lim A$ is the language: $$\{ a \in \Sigma^{\omega}|a\text{ has infinitely many prefixes in }A \}$$
+>[!important]
 >An $\omega$-language is a limit of a regular language if and only if some deterministic Buchi automaton recognises it.
 
 For example, $L_{1}$ from above is a limit of a regular language (namely $\{ 0,1\}^{*}0$), but $L_{2}$ is not.
 ### Buchi Automata That Cannot Be Made Deterministic
+>[!important]
 >$L_{2}$ cannot be recognised by a deterministic Buchi automaton.
 
 **Proof**:

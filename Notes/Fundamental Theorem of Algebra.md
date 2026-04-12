@@ -2,6 +2,7 @@
 
 See also: [[Polynomial Division]]
 
+>[!theorem]
 >Every algebraic equation of degree $n \ge 1, p(z)=0$ has at least one solution in $\mathbb{C}$.
 
 ## Consequence
@@ -21,7 +22,7 @@ So, a degree $n$ polynomial has exactly $n$ roots in $\mathbb{C}$. When counted 
 ##### Comparing $\mathbf{\mathbb{R}}$ to $\mathbf{\mathbb{C}}$
 + $z^4=1$ has 2 real solutions, $z=\pm 1$, but 4 complex solutions: $z=\pm 1,\pm i$.
 + $az^2+bz+c=0$ has no real solutions if $b^2-4ac<0$ but has 2 solutions in $\mathbb{C}$.
-+ $z^n=a$ has $n$ roots.
++ $z^n=a$ has $n$ roots...
 + $z^6-2z^3+2=0$ has 6 solutions.
 #### Corollary 2
 Every real polynomial $p(x)=a_{n}x^n+\dots+a_{0}$ with real coefficients $a_{0},a_{1}\dots a_{n} \in \mathbb{R}$ can be completely factorised into linear and quadratic real factors.

@@ -40,7 +40,7 @@ A matrix is in its **row echelon form**, or **ref** if it has the following prop
 Additionally, a matrix is in **reduced ref**, or **rref** if:
 + It is already in ref.
 + Each column that contains a leading 1 has 0s everywhere else.
->So, to solve linear systems, use **elementary row operations** to *transform* the augmented matrix to (r)ref.
+>[!abstract] So, to solve linear systems, use **elementary row operations** to *transform* the augmented matrix to (r)ref.
 ### Extracting Solutions
 Assume that we have transformed the augmented matrix of a linear system to a (r)ref. For examples, 
 $$

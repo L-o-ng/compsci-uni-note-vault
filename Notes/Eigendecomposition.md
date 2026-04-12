@@ -25,10 +25,11 @@ It also makes [[Principal Component Analysis]] easier.
 
 See [[Similarity of Matrices]], [[Similarity in Linear Maps]]
 ## Diagonalisation
+>[!definition]
 >A matrix $A$ is called **diagonalisable** if it is similar to a diagonal matrix - if there exists an invertible matrix $P$ such that $P^{-1}AP$ is diagonal, then $P$ is said to diagonalise $A$.
 
 $A$ is diagonalisable if it decomposes as $A=PDP^{-1}$ where $P$ is invertible and $D=\operatorname{diag}(\lambda_{1},\dots,\lambda_{n})$ is diagonal.
-
+>[!important]
 >$D=\operatorname{diag}(\lambda_{1},\dots,\lambda_{n})$ is shorthand for: $$\begin{pmatrix}\lambda_{1} & 0 & \cdots & 0 & 0 \\ 0 & \lambda_{2} & \cdots & 0 & 0 \\ \vdots & \vdots & \ddots & \vdots & \vdots \\ 0 & 0 & \cdots & \lambda_{n-1} & 0 \\ 0 & 0 & \cdots & 0 & \lambda_{n}\end{pmatrix}$$
 ### Properties
 >An $n\times n$ matrix is diagonalisable if it has $n$ linearly independent eigenvectors.

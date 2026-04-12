@@ -22,6 +22,7 @@ $$
 ## Hilbert Spaces
 In the quantum realm, classical states become elements for an orthonormal basis for a **Hilbert Space**. Quantum states are unit vectors within the Hilbert space. Measurement becomes an intrinsically statistical notion.
 ### Born's Rule
+>[!theorem]
 >Given a state $\ket{\psi}$ and an orthonormal basis $\{ \ket{\chi},\ket{\xi} \}$, the probability of measuring $\chi$ is $|\langle\chi\|\psi \rangle|^{2}$ and the probability of measuring $\xi$ is $|\langle\xi\|\psi \rangle|^{2}$.
 
 Intuitively, choosing an orthonormal basis in a 2D Hilbert space can be likened to choosing 2 half planes to measure the probability of finding a particle in either.
@@ -49,8 +50,10 @@ $$
 can be seen as a quantum analogue of negation, since $N\ket{0}=\ket{1},\quad N\ket{1}=\ket{0}$.
 ## Understanding Measurement
 ### Schrödinger's Cat 
+>[!definition]
 >A cat is placed in a box with a vial of poison. Before the box is opened, the cat is in a superposition of the states ‘DEAD’ and ‘ALIVE’. It is only ‘DEAD’ OR ‘ALIVE’ once the box is opened.
 ### Many Worlds Interpretation
+>[!definition]
 >All possible outcomes of measurements happen in different physical worlds.
 
 ---
@@ -117,13 +120,14 @@ We can therefore build the Bell state with the following circuit:
 ## Deutsch-Jozsa Algorithm
 Let $f:\{ 0,1 \}\mapsto \{ 0,1 \}$ be one of the following boolean functions:
 
-|      | $f_{00}$ | $f_{01}$ | $f_{10}$ | $f_{11}$ |
-| ---- | ------ | ------ | ------ | ------ |
+|        | $f_{00}$ | $f_{01}$ | $f_{10}$ | $f_{11}$ |
+| ------ | -------- | -------- | -------- | -------- |
 | $f(0)$ | $0$      | $0$      | $1$      | $1$      |
 | $f(1)$ | $0$      | $1$      | $0$      | $1$      |
 That is, $f$ is either *constant* or *balanced*.
 Classically, we need *two* calls to $f$ to determine whether it is constant or balanced. In Quantum, we need only **one**!
 
+>[!theorem]
 >Given a boolean function on $n$ bits that is promised to be constant or balanced, there is a quantum algorithm to tell whether $f$ is constant or balanced using only one call to $f$.
 ### Case $n=1$
 Let $U_{f}$ be the following quantum gate: for $x,y \in \{ 0,1 \}$
@@ -152,6 +156,7 @@ $$
 where 1 is love and 0 is hate.
 Her goal is to communicate $\xi$ to Romeo exchanging only classical information with him. She can now use quantum teleportation:
 
+>[!definition]
 >Quantum teleportation is a protocol that transfers a quantum state to any geographical location requiring the parties to exchange only classical information, so that observers are unable to observer $\xi$.
 ### Achieving Quantum Teleportation
 1) Juliet entangles $\ket{\xi}$ with the Bell state she shares with Romeo: $$\ket{\psi_{1}}=\ket{\xi} \otimes \ket{\psi} =\sqrt{ \frac{1}{2} }\alpha \ket{0} (\ket{00}+\ket{11}  )+\sqrt{ \frac{1}{2} }+\beta \ket{1} (\ket{00} +\ket{11} ) $$

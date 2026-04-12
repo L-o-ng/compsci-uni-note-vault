@@ -1,5 +1,8 @@
 {
   "cssTheme": "Royal Velvet",
   "theme": "obsidian",
-  "accentColor": "#cb0dce"
+  "accentColor": "#cb0dce",
+  "enabledCssSnippets": [
+    "callouts"
+  ]
 }

@@ -14,16 +14,18 @@ The facts that:
 2) $\bar{z_{1}+z_{2}}=\bar{z_{1}}+\bar{z_{2}}$;
 3) $\bar{z_{1}z_{2}}=\bar{z_{1}}\bar{z_{2}}$.
 immediately imply:
+>[!theorem]
 >For any vectors $\mathbf{u},\mathbf{v}\in \Bbb{C}^{n}$ and a scalar $k \in \Bbb{C}$, the following holds:
->	$\bar{\bar{\mathbf{u}}}=\mathbf{u}$
->	$\bar{k\mathbf{u}}=\bar{k}\bar{\mathbf{u}}$
->	$\bar{\mathbf{u}+\mathbf{v}}=\bar{\mathbf{u}}+\bar{\mathbf{v}}$
->	$\bar{\mathbf{u}-\mathbf{v}}=\bar{\mathbf{u}}-\bar{\mathbf{v}}$
+> + $\bar{\bar{\mathbf{u}}}=\mathbf{u}$
+> + $\bar{k\mathbf{u}}=\bar{k}\bar{\mathbf{u}}$
+> + $\bar{\mathbf{u}+\mathbf{v}}=\bar{\mathbf{u}}+\bar{\mathbf{v}}$
+> + $\bar{\mathbf{u}-\mathbf{v}}=\bar{\mathbf{u}}-\bar{\mathbf{v}}$
 
+>[!theorem]
 >If $A$ is an $m\times k$ complex matrix and $B$ is a $k\times n$ complex matrix then:
->	$\bar{\bar{A}}=A$
->	$\bar{(A^{T})}=\bar{(A)}^{T}$
->	$\bar{AB}=\bar{A}\bar{B}$
+> + $\bar{\bar{A}}=A$
+> + $\bar{(A^{T})}=\bar{(A)}^{T}$
+> + $\bar{AB}=\bar{A}\bar{B}$
 ## Complex Dot Product
 The complex dot product in $\Bbb{C}^{n}$ is defined as follows: if $\mathbf{u}=\{ u_{1},\dots,u_{n} \}$ and $\mathbf{v}=\{ v_{1},\dots,v_{n} \}$ then:
 $$
@@ -46,6 +48,7 @@ $$
 }
 $$
 
+>[!theorem]
 >For *any* vectors $\mathbf{u},\mathbf{v},\mathbf{w}\in \Bbb{C}^{n}$ and a scalar $k \in \Bbb{C}$ the following holds: $$\array{\mathbf{u}\cdot \mathbf{v}=\overline{\mathbf{v}\cdot \mathbf{u}} \\ \mathbf{u}\cdot(\mathbf{v}+\mathbf{w})=\mathbf{u}\cdot \mathbf{v}+\mathbf{u}\cdot \mathbf{w} \\ (k\mathbf{u})\cdot \mathbf{v}=k(\mathbf{u}\cdot \mathbf{v}), \mathbf{u}\cdot(k\mathbf{v})=\bar{k}(\mathbf{u}\cdot \mathbf{v}) \\ \mathbf{v}\cdot\mathbf{v}\geq 0, \mathbf{v}\cdot \mathbf{v}=0 \iff \mathbf{v}=\mathbf{0}}$$
 
 ## Complex Eigenvalues and Eigenvectors
@@ -55,11 +58,12 @@ As in the real case:
 + The eigenvalues of $A$ are the complex roots of $\det (\lambda I-A)=0$
 + The eigenspace of $A$ corresponding to an eigenvalue $\lambda_{0}$ is the solution space of the linear system $(\lambda_{0}I-A)\mathbf{x}=\mathbf{0}$ over $\Bbb{C}$.
 
->If $\lambda$ is an eigenvalue of a real $n\times n$ matrix $A$ and $\mathbf{x}$ is a corresponding eigenvector, then $\bar{\lambda}$ is also an eigenvalue of $A$ and $\bar{\mathbf{x}}$ is a corresponding eigenvector.
+>[!theorem] If $\lambda$ is an eigenvalue of a real $n\times n$ matrix $A$ and $\mathbf{x}$ is a corresponding eigenvector, then $\bar{\lambda}$ is also an eigenvalue of $A$ and $\bar{\mathbf{x}}$ is a corresponding eigenvector.
 ## Eigenvalues of Real Symmetric Matrices
->If $A$ is a real symmetric matrix then all complex eigenvalues of $A$ are real.
+>[!theorem] If $A$ is a real symmetric matrix then all complex eigenvalues of $A$ are real.
 
 ### Real $2\times 2$ Matrices with Complex Eigenvalues
+>[!theorem]
 >The complex eigenvalues of the real matrix $C=\begin{pmatrix}a&-b\\b&a\end{pmatrix}$ are $\lambda=a\pm bi$.
 >If $a,b$ are not both zero, then $C$ can be factored as:$$\begin{pmatrix}a & -b  \\
 b & a \end{pmatrix}=\begin{pmatrix}|\lambda| & 0 \\ 0 & |\lambda|\end{pmatrix}\begin{pmatrix}\cos \theta & -\sin \theta  \\ \sin \theta & \cos \theta\end{pmatrix}$$
@@ -67,4 +71,5 @@ b & a \end{pmatrix}=\begin{pmatrix}|\lambda| & 0 \\ 0 & |\lambda|\end{pmatrix}\b
 
 Geometrically, the operator $T_{C}$ is equal to rotation by $\theta$ followed by scaling by $|\lambda|$.
 
+>[!theorem]
 >Let $A$ be a real $2\times 2$ matrix with complex eigenvalues $\lambda=a\pm bi$ where $b\neq 0$. Then $A$ is similar to $\begin{pmatrix}a&-b \\ b&a\end{pmatrix}$

@@ -4,6 +4,7 @@
 + [[Inner Product Spaces]]
 + [[Eigendecomposition#Diagonalisation]]
 ## Orthogonal Matrices
+>[!definition]
 >A square matrix $Q$ is called **orthogonal** if $Q^{T}=Q^{-1}$ or equivalently, $Q^{T}Q=I$.
 ### Example
 Rotation and reflection matrices in $\mathbb{R}^{2}$ are orthogonal:
@@ -39,10 +40,11 @@ $$
 }
 $$
 ### Rows and Columns
+>[!theorem]
 >For any $n\times n$ matrix $Q$, the following are equivalent:
->1: $Q$ is orthogonal;
->2: The rows of $Q$ form an orthonormal basis in $\mathbb{R}^{n}$ with the Euclidean Inner Product;
->3: The columns of $Q$ form an orthonormal basis in $\mathbb{R}^{n}$ with the Euclidean Inner Product.
+> 1. $Q$ is orthogonal;
+> 2. The rows of $Q$ form an orthonormal basis in $\mathbb{R}^{n}$ with the Euclidean Inner Product;
+> 3. The columns of $Q$ form an orthonormal basis in $\mathbb{R}^{n}$ with the Euclidean Inner Product.
 #### Proof
 We prove $(1)\iff (3)$; the proof of $(1)\iff(2)$ is similar.
 If $Q=[\mathbf{u}_{1}|\dots|\mathbf{u}_{n}]$ then each entry $(i,j)$ in the product $Q^{T}Q$ is $\langle\mathbf{u}_{i},\mathbf{u}_{j}\rangle$.

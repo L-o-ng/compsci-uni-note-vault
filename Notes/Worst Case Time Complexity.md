@@ -1,5 +1,6 @@
 #definition 
 
+>[!abstract]
 >The **worst-case time complexity** of an algorithm can be expressed in terms of the *largest* number of basic operations used by the algorithm when the input has a particular size.
 
 Worst-case analysis tells us how many operations an algorithm requires to guarantee that it will produce a solution.

@@ -28,6 +28,7 @@ Consequently, for any truth assignment $f$:
 + $f$ satisfies $\upvarphi$ if and only if $f$ satisfies $\Uppsi$.
 + That is, $\upvarphi \equiv \Uppsi$.
 
+>[!theorem]
 >Every formula of propositional logic is equivalent to a formula in disjunctive normal form: a disjunction of conjunctions of literals.
 >Also, every truth table is the truth table of some propositional formula.
 
@@ -35,6 +36,7 @@ Now let $\upvarphi$ be some formula of propositional logic. The formula $¬\upva
 So, $\upvarphi$ is equivalent to the formula $¬(\chi_{1}\vee \chi_{2}\vee\dots \vee \chi_{n})$, which by the [[Propositional Logic#Generalised De-Morgan's Laws]], is equivalent to $¬\chi_{1}\wedge¬\chi_{2}\wedge\dots \wedge¬\chi_{n}$.
 Each $¬\chi_{i}$ is equivalent to a disjunction of literals by the same process.
 Therefore:
+>[!theorem]
 >Every formula of propositional logic is logically equivalent to a conjunction of disjunction of literals; a conjunction of clauses, in other words.
 >That is, a formula in conjunctive normal form.
 ## Application

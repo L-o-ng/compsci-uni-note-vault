@@ -6,11 +6,12 @@ Optimisation problems have in common:
 + such that each solution has a value measuring its quality.
 + The aim is to return the best solution.
 ## Formal Definition
+>[!definition]
 >An optimisation problem $O$ is defined as follows:
->	There is a set of instances $I$.
->	For every instance $x \in I$, there is a set of *feasible* solutions $f(x)$.
->	For every instance $x \in I$ and for every $y \in f(x)$ there is a value $v(x,y)\in \underbrace{\mathbf{N}}_{\text{\{0,1,2,...\}}}$ giving the measure of the feasible solution $y$ for the instance $x$.
->	There is a **goal** which is either *min* or *max* denoting whether the problem is a **minimisation** or a **maximisation** problem.
+> + There is a set of instances $I$.
+> + For every instance $x \in I$, there is a set of *feasible* solutions $f(x)$.
+> + For every instance $x \in I$ and for every $y \in f(x)$ there is a value $v(x,y)\in \underbrace{\mathbf{N}}_{\text{\{0,1,2,...\}}}$ giving the measure of the feasible solution $y$ for the instance $x$.
+> + There is a **goal** which is either *min* or *max* denoting whether the problem is a **minimisation** or a **maximisation** problem.
 
 To solve an optimisation problem, given $x \in I$,
 + We need to find a feasible solution of maximum/minimum measure, as appropriate.

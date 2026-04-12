@@ -13,6 +13,7 @@ Not only do we allow formulae like $P(x_{1},x_{2},\dots ,x_{r})$ as atomic formu
 The semantics of $x=y$ is that this atomic formula is true only if the value of $x$ is equal to the value of $y$.
 
 For example:
+>[!example]
 >Let $E$ be a binary predicate symbol. Consider the formula $(E(x,y)\wedge E(y,z))\implies¬(x=z)$.
 >If $E$ is interpreted as $E=\{ (x,y)\in \Bbb{N}^{2}:x<y \},x=5,y=7,z=11$ we can say that this formula is *true*.
 >Note that $¬(x=y)$ can be abbreviated as $(x \neq y)$ in some cases.
@@ -23,6 +24,7 @@ Given any formula with *free* variables, we can now **quantify** over these vari
 Suppose that $\phi(x)$ is a quantifier-free formula with one free variable $x$. Then $\forall x\phi(x)$ is a formula of first-order logic and has no free variables. The variable $x$ is a **bound** variable in $\forall x\phi(x)$.
 
 For example:
+>[!example]
 >Suppose that $Q$ is a unary relation symbol. Consider the formula $\forall xQ(x)$.
 >If we interpret $Q$ as the relation $Q=\{ u \in \Bbb{N} : u\text{ is even}\}$, then it is *false*.
 >If we interpret $Q$ as the relation $Q=\{ u \in \Bbb{N} : u\text{ is a square root}\}$, then it is *true*.

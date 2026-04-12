@@ -10,6 +10,7 @@ We want to find an algorithm that minimises any given DFA. The algorithm simply 
 
 Two states, $s,t$ are **equivalent** if any word $w$ which is accepted when starting from $s$ is accepted when starting from $t$ and vice-versa. In other words, there is no word that is accepted when starting from one of the states, but rejected when starting from the other.
 ### Equivalent and Distinguishable States
+>[!definition]
 >Let a DFA $M=(Q,\Sigma,\updelta,q_{0},F)$ be given and let $\hat{\updelta}:Q\times \Sigma^{*}\to Q$ be defined as: $$\array{\hat{\updelta}(s,\varepsilon)=S \\ \hat{\updelta(s,w_{1}w_{2}\dots w_{n})=\hat{\updelta}(\updelta(s,w_{1}),w_{2}\dots w_{n})}}$$
 >for every state $s$ and every word $w_{1}w_{2}\dots w_{n}$.
 >**Question**: What is $\{ w \in \Sigma^{*}|\hat{\updelta}(q_{0},w)\in F \}$?
@@ -31,12 +32,16 @@ Think of sets of states as teams of players that pass balls of different colours
 ## DFA Equivalence and Isomorphism
 Given two DFAs $M_{1},M_{2}$, how can we know they recognise the same language?
 We can put them **together**, apply the **minimisation** algorithm, as if they were a single automaton, and see whether the 2 start states are equivalent.
->**Corollary**: If $M_{1},M_{2}$ are 2 minimal DFAs that recognise the same language, the minimisation algorithm always produces a bijection between the equivalent states of $M_{1},M_{2}$. We say that they are **isomorphic**.
+>[!theorem]
+>If $M_{1},M_{2}$ are 2 minimal DFAs that recognise the same language, the minimisation algorithm always produces a bijection between the equivalent states of $M_{1},M_{2}$. We say that they are **isomorphic**.
 
->**Proof**: Build the bijection starting from the 2 start states.
+>[!proof]
+>Build the bijection starting from the 2 start states.
 
->**Theorem**: The Team-Splitting algorithm finds the minimal DFA equivalent to the original one.
+>[!theorem]
+>The Team-Splitting algorithm finds the minimal DFA equivalent to the original one.
 
->Proof. By first arguing that the DFA produced by the algorithm is equivalent to the minimal one, and then observing that the former cannot have unreachable or equivalent states, so it must be isomorphic to the latter.
+>[!proof]
+>By first arguing that the DFA produced by the algorithm is equivalent to the minimal one, and then observing that the former cannot have unreachable or equivalent states, so it must be isomorphic to the latter.
 
 ---

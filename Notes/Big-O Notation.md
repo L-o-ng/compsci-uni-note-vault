@@ -5,6 +5,7 @@ Usually, we don't need it. It is sufficient to **estimate** this number, or **gi
 For [[Worst Case Time Complexity]] analysis, we are more interested in *upper* bounds.
 These bounds should give us the possibility to estimate **growth** of the number of operations when the input size increases - it is important to estimate this when the input is *large*.
 ## Definition
+>[!definition]
 >Let $f,g :\mathbb{Z}\cup \mathbb{R}\to \mathbb{R}$. We say that $f$ is $O(g)$ if there are constants $C, k$ such that: $$|f(x)|\le C\cdot |g(x)|$$whenever $x \ge k$.
 >This is read as $f\text{ is big-}O\text{ of }g$.
 

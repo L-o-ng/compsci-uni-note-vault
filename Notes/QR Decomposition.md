@@ -44,6 +44,7 @@ $$
 $$
 From Gram-Schmidt, $\langle\mathbf{u}_{i},\mathbf{q}_{i}\rangle=\left\langle \mathbf{u}_{i}, \frac{1}{\|\mathbf{v}_{i}\|}\mathbf{v}_{i} \right\rangle= \frac{1}{\|\mathbf{v}_{i}\|}\langle\mathbf{u}_{i},\mathbf{v}_{i}\rangle= \frac{1}{\|\mathbf{v}_{i}\|}\langle\mathbf{v}_{i},\mathbf{v}_{i}\rangle>0$
 ## Theorem
+>[!theorem]
 >If $A$ is an $m\times n$ matrix with linearly independent column vectors, then it can be factored as:$$A=QR$$where $Q$ has orthonormal columns and $R$ is an invertible upper-triangular matrix.
 
 Note that for $m=n$, this theorem says that every invertible matrix has a $QR$-decomposition.

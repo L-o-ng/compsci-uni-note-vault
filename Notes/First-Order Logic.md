@@ -21,6 +21,7 @@ $$
 $$
 and consider the *interpretation* (*model*) of $T(x,y,z)$ in $T'$ with $x=6,y=3$. This is *true*.
 
+>[!important]
 >In this case we write $(T',x=6,y=3) \vDash T(x,y,z)$, or sometimes $(\Bbb{N},T', x=6,y=3)\vDash T(x,y,z)$.
 
 We can read $\vDash$ as "models".

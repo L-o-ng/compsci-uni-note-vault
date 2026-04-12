@@ -1,6 +1,7 @@
 #notes 
 ## NP
 Many problems we would like to be efficiently solvable *are* efficiently checkable.
+>[!definition]
 >The complexity class $\mathbf{NP}$, or non-deterministic polynomial time, consists of those decision problems that are efficiently checkable.
 ## P and NP
 Suppose that some problem $X$ is in $\mathbf{P}$.
@@ -17,14 +18,16 @@ Suppose we have 2 decision problems $X,Y$, and a polynomial time algorithm $a$ t
 + takes an instance $I$ of $X$ as input and provides an instance $a(I)$ of $Y$ as output.
 + is such that an instance $I$ of $X$ is a yes-instance if and only if the instance $a(I)$ of $Y$ is a yes-instance.
 So, essentially, $a$ quickly converts $X$ into $Y$.
+>[!definition]
 >We call such an algorithm $a$ a **polynomial time reduction**, or **polynomial time transformation** of $X$ to $Y$ and we write $X \to_{\text{poly}}Y$
->	We say that $Y$ is a polynomial time reduction/transformation of $X$.
+>We say that $Y$ is a polynomial time reduction/transformation of $X$.
 ### NP-Completeness
 Now suppose that there exists a problem $Y \in \mathbf{NP}$ with the property that:
 + for *any* problem $X \in \mathbf{NP}$ we have $X \to_{\text{poly}}Y$.
 Such problems are called $\mathbf{NP}$-complete, although as yet, we don't know of any such problems even exist!
 From the previous theorem,
 + If $Y \in \mathbf{P}$ then *every* problem $X \in \mathbf{NP}$ is also in $\mathbf{P}$: that is, $\mathbf{P}=\mathbf{NP}$.
+>[!theorem]
 >If $Y$ is an $\mathbf{NP}$-complete problem then $\mathbf{P}=\mathbf{NP}$ if and only if $Y \in \mathbf{P}$.
 
 Essentially, all of the difficulty is encapsulated in the difficulty of *one* problem: 

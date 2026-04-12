@@ -22,9 +22,9 @@ Let $F=\{ \{ x,y \},\{ \bar{y} \},\{ z,\bar{x},v \} \}$.
 + With a second step of unit propagation we obtain from $F'$ the clause-set $F''=\{ \{ z,v \} \}$.
 Consequently, $\operatorname{UP}(F)=\{ \{ z,v \} \}$.
 ## Order
->For any clause-set $F$, we have $\operatorname{UP(PL(UP}(F)))=\operatorname{PL(UP}(F))$.
-
->There is a clause-set $F$ such that $\operatorname{PL(UP(PL}(F))) \neq \operatorname{UP(PL}(F))$.
+>[!theorem]
+> 1. For any clause-set $F$, we have $\operatorname{UP(PL(UP}(F)))=\operatorname{PL(UP}(F))$.
+> 2. There is a clause-set $F$ such that $\operatorname{PL(UP(PL}(F))) \neq \operatorname{UP(PL}(F))$.
 
 For this reason, we compute $\operatorname{UP}$ first, then $\operatorname{PL}$.
 ## DPLL Algorithm

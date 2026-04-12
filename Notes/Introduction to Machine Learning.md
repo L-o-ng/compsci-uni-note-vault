@@ -2,6 +2,7 @@
 
 Machine learning arose from a simple question:
 
+>[!question]
 >Can a computer **learn** on its own in order to perform a specified task, rather than relying on a programmer explicitly setting up the rules for it?
 
 ```mermaid
@@ -25,4 +26,5 @@ stateDiagram
 
 So, machines learn **mappings** from input to output: when given input data, a machine will give the *prediction* of the output for that data.
 Summarily,
+>[!definition]
 >**Machine Learning** is the *process* of using a training set to *learn* features, continue modelling, and finally producing an efficient model.

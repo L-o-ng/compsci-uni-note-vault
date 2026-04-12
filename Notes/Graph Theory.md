@@ -2,6 +2,7 @@
 
 A **graph** is a mathematical model that represents objects and their relations, where objects can be any entity, and relations lie between pairs of objects.
 ## Formal Definition
+>[!definition]
 >A graph $G$ is a pair $(V(G),E(G))$, where $V(G)$ is a **nonempty** set of **vertices**, or *nodes*; and $E(G)$ is a set of *unordered pairs* $\{ u,v \}$ with $u,v \in V(G),u \neq v$, called the *edges* of $G$.
 ### Syntactic Semantics
 + $V(G)$ can be infinite, but graphs in this topic will be **finite**.

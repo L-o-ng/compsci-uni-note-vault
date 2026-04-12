@@ -21,10 +21,10 @@ Note that $R \subseteq E(R)$. We *modify* the construction as follows:
 4. $F'=\{ R \in Q'|\exists r \in R, r \in F \}$.
 ## Theorem
 We have now proven that
->Every NFA has an *equivalent* DFA.
+>[!theorem] Every NFA has an *equivalent* DFA.
 
 This has the corollary:
->A language is regular if and only if some NFA recognises it.
+>[!theorem] A language is regular if and only if some NFA recognises it.
 ## Example
 ![[NFA to DFA conversion 1.png]]
 ![[NFA to DFA conversion 2.png]]

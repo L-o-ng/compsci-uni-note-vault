@@ -2,6 +2,7 @@
 
 If we can travel along the edges of a given graph $G$ so that we start and finish at the same vertex while traversing each edge exactly once, the circuit in G produced by the traversal is called an **Eulerian Circuit**.
 
+>[!theorem]
 >A connected graph with at least two vertices has an Eulerian Circuit if and only if each of its vertices has even degree.
 ## Proof
 Necessity: each time this circuit passes through a vertex $v$, it contributes 2 to $\operatorname{deg}(v)$. Since each edge is used exactly once, $\operatorname{deg}(v)$ must be even.

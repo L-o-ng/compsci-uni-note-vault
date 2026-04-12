@@ -9,6 +9,7 @@ A recursive algorithm must:
 + Change its *state* and move towards the base case.
 + Call *itself*.
 ## Memoization
+>[!definition]
 >Storing the result of a computation so that it can be subsequently retrieved without repeating the computation is called **memoization**.
 
 [[Hash Tables]] are a good choice of data structure to implement this.

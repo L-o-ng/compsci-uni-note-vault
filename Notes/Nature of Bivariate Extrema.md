@@ -1,10 +1,11 @@
 #notes 
 
+>[!definition]
 >Suppose $f(x,y)\in C^{2}$ and $f_{x}(x_{0},y_{0})=0=f_{y}(x_{0},y_{0})$, then:
->	$(x_{0},y_{0})$ is a local maximum if $f_{xx}f_{yy}-f^{2}_{xy}>0, f_{xx}<0$ at $(x_{0},y_{0})$;
->	$(x_{0},y_{0})$ is a local minimum if $f_{xx}f_{yy}-f^{2}_{xy}>0, f_{xx}>0$ at $(x_{0},y_{0})$;
->	$(x_{0},y_{0})$ is a saddle point if $f_{xx}f_{yy}-f^{2}_{xy}<0$ at $(x_{0},y_{0})$;
->	If $f_{x x}f_{yy}-f^{2}_{xy}=0$ then the test is inconclusive and higher order derivatives must be analysed.
+> + $(x_{0},y_{0})$ is a local maximum if $f_{xx}f_{yy}-f^{2}_{xy}>0, f_{xx}<0$ at $(x_{0},y_{0})$;
+> + $(x_{0},y_{0})$ is a local minimum if $f_{xx}f_{yy}-f^{2}_{xy}>0, f_{xx}>0$ at $(x_{0},y_{0})$;
+> + $(x_{0},y_{0})$ is a saddle point if $f_{xx}f_{yy}-f^{2}_{xy}<0$ at $(x_{0},y_{0})$;
+> + If $f_{x x}f_{yy}-f^{2}_{xy}=0$ then the test is inconclusive and higher order derivatives must be analysed.
 
 Also notes that $f_{x x}f_{yy}-f^{2}_{xy}=f_{x x}f_{yy}-f_{xy}f_{yx}=\det(H_{f})$
 ## Eigenvalues

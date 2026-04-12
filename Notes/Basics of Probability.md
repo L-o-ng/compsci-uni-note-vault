@@ -15,12 +15,12 @@ If a procedure can be broken into a sequence of two tasks:
 + $n_{2}$ ways to do the second task;
 + There are $n_{1}n_{2}$ ways to complete the procedure.
 #### Generalised
->If a sequence of tasks $T_{1},T_{2},\dots,T_{m}$ can be done in $n_{1},n_{2},\dots,n_{m}$ ways, respectively, and every task arrives after the occurrence of the previous task, then there are $\Pi^{m}_{i=1}n_{i}$ ways to perform the task.
+>[!theorem] If a sequence of tasks $T_{1},T_{2},\dots,T_{m}$ can be done in $n_{1},n_{2},\dots,n_{m}$ ways, respectively, and every task arrives after the occurrence of the previous task, then there are $\Pi^{m}_{i=1}n_{i}$ ways to perform the task.
 ### The Sum Rule
 #### Simplified
 Consider two independent sub-tasks where we only need to do one of the two. If the first task can be done in $n_{1}$ ways and the second task can be done in $n_{2}$ ways then there are $n_{1}+n_{2}$ ways to finish the task.
 #### Generalised
->If a sequence of tasks $T_{1},T_{2},\dots,T_{m}$ can be done in $n_{1},n_{2},\dots,n_{m}$ ways respectively under the condition that no tasks can be performed simultaneously, then the number of ways to do one of these tasks is $\sum_{i=1}^{m}n_{i}$
+>[!theorem] If a sequence of tasks $T_{1},T_{2},\dots,T_{m}$ can be done in $n_{1},n_{2},\dots,n_{m}$ ways respectively under the condition that no tasks can be performed simultaneously, then the number of ways to do one of these tasks is $\sum_{i=1}^{m}n_{i}$
 ### Inclusion-Exclusion Principle
 If two tasks can be done at the same time (unlike the sum rule where they are independent) then there is a possibility of over-counting since some ways may be counted twice. We add up the number of ways to do each task, then subtract the number of ways to do both tasks.
 $$

@@ -1,7 +1,7 @@
 #notes 
 
 We can obtain a bound on the error in the approximation given by a [[Taylor Series]] $f(x)=p_{N,a}(x)$. This error bound is obtained by a careful analysis of a *remainder term*. The precise statement reads as follows:
-
+>[!theorem]
 >If $f(x)$ is differentiable $N+1$ times in a neighbourhood of $a$, $x$ is a point in this neighbourhood, and $f^{(N+1)}$ is continuous between $a$ and $x$, then: $$f(x)=p_{N,a}(x)+R_{N+1,a}(x)$$where$P_{N,a}(x)$ is the $N$-th Taylor polynomial for $f(x)$ around $a$ and $R_{N+1,a}(x)$ is the $N$-th **remainder term**.
 ## Lagrange Form of a Remainder
 The $N$-th remainder term is given by:

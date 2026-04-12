@@ -2,6 +2,7 @@
 
 A function is called **sublinear** if it grows slower than any linear function. With [[Little-o Notation]] we can make this definition very precise.
 ## Definition
+>[!definition]
 >A function $f(x)$ is called **sublinear** if $f(x)$ is $o(x)$, so if $\lim_{ x \to \infty } \frac{f(x)}{x}=0$.
 
 ### Examples

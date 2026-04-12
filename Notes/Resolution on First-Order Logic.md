@@ -4,6 +4,7 @@ Resolution is not only a proof system for [[Propositional Logic]], but it is a s
 + If $\Sigma$ is a set of first-order formulae and $\phi$ is a first-order formula such that for every interpretation $M,M \vDash \Sigma \implies M \vDash \phi$ then the proof system will answer "yes" - it satisfies **completeness**.
 + If the proof system answers "yes" on input ($\Sigma,\phi$) then for every interpretation $M,M \vDash \Sigma \implies M \vDash \phi$ - it satisfies **soundness**.
 
+>[!question] Problem
 >We are given a set of first-order formulae $\Sigma$ and another first order formula $\phi$, and we want to know whether or not for every interpretation $M$, if $M$ satisfies each formula in $\Sigma$ then $M$ necessarily satisfies $\phi$; that is, we want to know whether the conjunction of the formulae in $\Sigma$, also denoted $\Sigma$, is such that $\Sigma \implies \phi$ is valid (holds in all interpretations).
 ## Process
 1) Form the conjunction of all formulae in $\Sigma,¬\phi$.

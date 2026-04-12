@@ -3,6 +3,7 @@
 Let $\psi,\phi$ be two propositional formulae. Then $\phi$ is a **logical consequence** of $\psi$, or $\psi$ *entails* $\phi$, denoted $\psi \vDash \phi$, if every truth assignment that satisfies $\psi$ also satisfies $\phi$.
 Trivially, any formula is a consequent of an unsatisfiable formula.
 
+>[!theorem]
 >For any 2 propositional formulae $\psi,\phi$, we have $\psi \vDash\phi$ if and only if $\psi \wedge¬\phi$ is insatiable.
 
 Similarly, $\psi_{1},\dots,\psi_{n}\vDash\phi$ if and only if $\psi_{1}\wedge\dots \wedge \psi_{n}\wedge¬\phi$ is unsatisfiable.

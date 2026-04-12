@@ -1,5 +1,6 @@
 #notes
 ## Orthogonal Projections
+>[!definition]
 >If $W$ is a subspace in a finite-dimensional [[Inner Product Spaces|inner product space]] $V$ then every vector $\mathbf{u} \in V$ can be uniquely expressed as $\mathbf{u}=\mathbf{w}_{1}+\mathbf{w}_{2}$ where $\mathbf{w}_{1} \in W,\mathbf{w}_{2}\in W^{\bot}$.
 
 If $\mathbf{u},\mathbf{w}_{1},\mathbf{w}_{2}$ are as above then $\mathbf{w}_{1}$ is the orthogonal projection of $\mathbf{u}$ onto $W$.
@@ -15,6 +16,7 @@ $$
 \operatorname{proj}_{W}\mathbf{u}=\langle\mathbf{u},\mathbf{v}_{1}\rangle\mathbf{v}_{1}+\langle\mathbf{u},\mathbf{v}_{2}\rangle\mathbf{v}_{2}+\dots+\langle\mathbf{u},\mathbf{v}_{r}\rangle\mathbf{v}_{r}
 $$
 ## The Gram-Schmidt Orthogonalisation Process
+>[!theorem]
 >Every *non-zero*, *finite-dimensional* inner product space $V$ has an orthonormal basis.
 
 Let $W$ be a subspace of $V$ and let $\{ \mathbf{u}_{1},\dots,\mathbf{u}_{n} \}$ be a basis of $W$.

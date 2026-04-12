@@ -14,7 +14,10 @@ Design a good adversary to obtain a good **lower bound**.
 We want to find the max element in an unsorted array.
 In an array of size $n$, we can do this with $n-1$ comparisons. This is the same setup as with [[Sorting Trees and Decision Trees]] - only **comparisons** are relevant.
 
+>[!theorem]
 >**Any** comparison-based algorithm for this problem requires at least $n-1$ comparisons in the worst case.
+
+>[!proof]
 >Proof: after $\leq n-2$ comparisons, $\geq2$ elements are never lost. The adversary can make any the max and be consistent. So there is not enough information for the algorithm to make a decision. Therefore the algorithm needs to make at least $n-1$ comparisons.
 #### Adversary Strategy
 The only relevant information for the algorithm is how many elements lost the $\geq 1$ comparison. As soon as $n-1$ elements lost (at least once), the algorithm can make a decision - max is the one that has never lost.

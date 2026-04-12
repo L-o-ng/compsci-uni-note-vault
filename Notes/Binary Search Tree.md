@@ -2,9 +2,10 @@
 
 A **binary search tree** is a tree in which no node has more than 2 children, and one additional property:
 
+>[!theorem]
 >You must build and maintain the tree such that it is true for **every** node $v$ of the tree that:
->	**All** elements in its *left* subtree are smaller than $v$.
->	**All** elements in its *right* subtree are larger than $v$.
+> + **All** elements in its *left* subtree are smaller than $v$.
+> + **All** elements in its *right* subtree are larger than $v$.
 
 Operations that modify the tree must not destroy this property.
 ## As a Class

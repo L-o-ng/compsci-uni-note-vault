@@ -28,6 +28,7 @@ They use methods to:
 	+ The database structure is *self-describing* - it is ==data about data==;
 	+ Essentially, it is a form of *data abstraction* - a separation of the internal and external representation.
 ## Database Management Systems
+>[!definition]
 >A **Database Management System**, or DBMS, is a software system to *define*, *create*, *maintain*, and *control access* to a database.
 ### Components
 + **People**

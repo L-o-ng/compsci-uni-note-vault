@@ -16,11 +16,12 @@ Can you colour the regions of the map with 3 colours so that if any 2 regions to
 + radio frequency allocation
 ## Abstraction
 We can use discrete mathematics.
+>[!definition] Abstracting
 >We can represent an instance of the problem as a graph $G=(V,E)$ where
->	$V$ is a set of **vertices**
->		One for each region.
->	$E$ is a set of **edges**, or a set of pairs of distinct vertices.
->		A pair $(u,v)$ is in $E$ if and only if the region represented by $u$ touches the region represented by $v$.
+> + $V$ is a set of **vertices**
+> 	+ One for each region.
+>  + $E$ is a set of **edges**, or a set of pairs of distinct vertices.
+> 	 + A pair $(u,v)$ is in $E$ if and only if the region represented by $u$ touches the region represented by $v$.
 
 We can thus solve the problem by deciding if we can 3 colour a graph corresponding to a map:
 + Each vertex of $V$ is coloured red, green, or blue so that any pair of vertices joined by an edge of $E$ are coloured differently.

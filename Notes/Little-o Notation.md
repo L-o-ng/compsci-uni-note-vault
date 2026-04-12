@@ -2,11 +2,13 @@
 
 Little-o Notation is a tool for disregarding small-order terms.
 ## Definition
+>[!definition]
 >Let $f,g:\mathbb{R}\to \mathbb{R}$.
 >We say $f(x)$ is $o(g(x))$ when: $$\lim_{ x \to \infty } \frac{f(x)}{g(x)}=0$$
 
 Or, the fraction $\frac{f(x)}{g(x)}$ gets arbitrarily close to 0 when $x$ gets larger.
 ### Alternate Definition
+>[!definition]
 >$$o(g)=\{ f:\mathbb{N}\to \mathbb{N}|\forall C>0\exists k>0:C\cdot f(n)<g(n)\forall n \ge k \}$$
 
 This clearly shows $f(g)\text{ is }o(g(x))\implies f(x)\text{ is }O(g(x))$.

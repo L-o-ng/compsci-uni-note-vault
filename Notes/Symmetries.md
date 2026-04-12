@@ -1,6 +1,7 @@
 #notes 
 
-> A symmetry of an object is a transformation which leaves the object unchanged.
+>[!abstract]
+>A symmetry of an object is a transformation which leaves the object unchanged.
 ## Examples
 ### A Graph
 Consider the graph of $\cos x$: 

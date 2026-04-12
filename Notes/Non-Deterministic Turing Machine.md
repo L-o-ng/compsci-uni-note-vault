@@ -6,4 +6,5 @@ $$
 $$
 
 The machine accepts an input if there exists a computation that ends into an accepting configuration.
+>[!theorem]
 >Every non-deterministic TM has an **equivalent** deterministic TM.

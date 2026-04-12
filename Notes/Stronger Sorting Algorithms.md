@@ -2,6 +2,7 @@
 
 The algorithms covered in [[Sorting Algorithms]] are somewhere between $O(n\log n)$ and $O(n^2).$ That is no coincidence:
 
+>[!theorem]
 >For any **comparison-based** sorting algorithm $A$ and any $n \in \Bbb{N}$ large enough, there exists an input of length $n$ that requires $A$ to perform $\Omega(n\log n)$ comparisons.
 
 No algorithm, past, present, or future can consistently beat the stated bound.

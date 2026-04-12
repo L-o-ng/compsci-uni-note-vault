@@ -12,6 +12,7 @@ For a continuous random variable $X$, a probability density function is a functi
 Note that $<\equiv\leq$ here because $P(X=x)=0$.
 ## Cumulative Distribution Function
 This is the same concept as for discrete random variables:
+>[!theorem]
 >The CDF of a random variable $X$ is denoted by $F(x):\mathbb{R}\to[0,1]$, where $x \in \mathbb{R}$ and is given by: $$F(x)=P(X \leq x)=\int _{-\infty}^{x}f(t) \, dt $$
 
 As with discrete variables, a continuous CDF has the following properties:
@@ -54,4 +55,5 @@ Note that in general:
 + $E[\sqrt{ X }]\neq \sqrt{ E[X] }$.
 ## Functions of Random Variables
 Let $X$ be a random variable and $h:\mathbb{R}\to\mathbb{R}$ be an arbitrary function. Then $Y=h(X)$ is also a random variable. This is as for discrete random variables. Therefore, per the [[Law of the Unconscious Statistician]]:
+>[!theorem]
 >If $X$ is a continuous random variable and $Y=h(X)$ we will have: $$E(Y)=E(h(X))=\int _{-\infty}^{+\infty}h(x)f(x) \, dx $$

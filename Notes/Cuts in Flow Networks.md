@@ -5,8 +5,10 @@ If $f$ is a *flow* in $G$ then $f(S,T)$ is the **net flow** across cut $(S,T)$; 
 
 The net flow across any cut is the **same**.
 ## Net Flow Lemma
+>[!theorem]
 >Let $f$ be a flow in a flow network $G$ with source $s$ and sink $t$. Let $(S,T)$ be a cut of $G$. Then the flow across $(S,T)$ is $f(S,T)= |f|$
 ### Upper Cut Corollary
+>[!theorem]
 >The value of a flow $f$ in a network $G$ is **upper-bounded** by the *capacity* of any cut $(S,T)$ in $G$.
 
 Therefore, $\text{max-flow}\leq\text{min-cut}$

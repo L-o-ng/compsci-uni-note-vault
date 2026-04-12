@@ -6,6 +6,7 @@
 + **Sample Space** - the set of possible outcomes of an *experiment*.
 + **Event** - any subset of the *sample space*.
 ## The Theory of Probability
+>[!definition] The Theory
 >$S$ is a finite sample space of all outcomes; it is a set.
 >Assume all outcomes are equally likely.
 >$E$ is an event, also a set, where $E \subseteq S$.

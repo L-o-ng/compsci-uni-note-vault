@@ -3,6 +3,7 @@
 Consider the [[Markov Chains and Processes#An Example Weather|weather example]].
 The long range forecast is $\mathbf{w}_{\infty}$.
 We can write $T\mathbf{w}_{\infty}=\mathbf{w}_{\infty}$
+>[!definition]
 >$\mathbf{w}_{\infty}$ is an **eigenvector** with **eigenvalue** 1.
 >In general, if $A\mathbf{x}=\lambda \mathbf{x}$ then $\mathbf{x}$ is an *eigenvector* of $A$ with *eigenvalue* $\lambda$.
 ### Basis of Eigenvectors
@@ -16,7 +17,7 @@ If we can find a basis of eigenvectors, then:
 	+ $A^n=(P DP^{-1})^n=P D^nP^{-1}$
 + It is much quicker to find powers of matrices.
 ## In Depth
-
+>[!definition]
 >Let $A$ be an $n\times n$ matrix. A **non-zero** vector $\mathbf{x}\in \Bbb{R}^{n}$ is called an *eigenvector* of $A$ (or equivalently of the operator $T_{A}:\Bbb{R}^{n}\to \Bbb{R}^{n}$) if, for some scalar $\lambda$: $$A\mathbf{x}=\lambda \mathbf{x}\equiv T_{A}(\mathbf{x})=\lambda \mathbf{x}$$
 >In this case, $\lambda$ is called an **eigenvalue** of $A$ and of $T_{A}$ and $\mathbf{x}$ is an **eigenvector corresponding to** $\lambda$.
 
@@ -52,4 +53,5 @@ A\mathbf{x}=\begin{pmatrix}
 \end{pmatrix}=3\mathbf{x}
 $$
 ## Linear (In)Dependency
+>[!theorem]
 >If vectors $\mathbf{v}_{1},\dots,\mathbf{v}_{n}$ are eigenvectors of a matrix $A$ corresponding to pairwise distinct eigenvalues $\lambda_{1},\dots,\lambda_{n}$ then the set $\{ \mathbf{v}_{1},\dots,\mathbf{v}_{n} \}$ is linearly independent.

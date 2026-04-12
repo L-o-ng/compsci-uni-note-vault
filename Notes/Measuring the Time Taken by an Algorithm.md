@@ -4,9 +4,10 @@ We have a problem: we don't have a *formal* definition of [[Pseudo-code]].
 This makes a *formal* definition of time taken impossible.
 However, the analysis of algorithms is *purposefully* never precise. The whole approach allows us to work around irrelevant details.
 ## The Fundamental Assumption
+>[!definition] Assumption
 >Variables can be manipulated in a small, fixed number $c$ units of time, as can basic operations involving variables.
->	The actual value of $c$ is reflective upon the actual processor upon which the algorithm is eventually implemented and executed.
->	Basic list components are treated in the same way as variables.
+> + The actual value of $c$ is reflective upon the actual processor upon which the algorithm is eventually implemented and executed.
+> + Basic list components are treated in the same way as variables.
 ### In General
 **Any** basic algorithm operation can be undertaken in at most $c$ units of time.
 + For example, `x=A[pass]`; `pass < n`; `swap x and A[i]` = $3c$ units of time.

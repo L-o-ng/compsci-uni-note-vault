@@ -9,9 +9,10 @@ We can then express the *worst-case upper bound* as a function:$$
 f:\Bbb{N}\to \Bbb{N}
 $$So that any input of size $n$ is such that selection sort terminates in at most $f(n)$ units of time.
 ## Fundamental Assumption
+>[!definition] Assumption
 >We assume:
->	The size of an input is the number of *basic* objects it contains.
->	The time taken by an algorithm is strongly influenced by and increases with input size.
+> + The size of an input is the number of *basic* objects it contains.
+> + The time taken by an algorithm is strongly influenced by and increases with input size.
 ## An Example
 ![[Selection Sort Worst Case Upper Bound Analysis.png]]
 1) Fix the size of the input at $n$

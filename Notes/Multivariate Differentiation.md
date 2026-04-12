@@ -48,6 +48,7 @@ The vector of partial derivatives $\begin{pmatrix}f_{x}\\f_{y}\end{pmatrix}$ is 
 #### $\mathbf{\nabla}$ 
 This symbol is called a nabla.
 It is pronounced 'del' as an operator, or 'grad' when it is the result, just like 'derivative of' and 'gradient of'.
+>[!definition]
 >$\nabla f$ is a vector pointing in the direction of the greatest rate of increase of $f$ and having magnitude the rate of increase of $f$ in that direction.
 ## Functions of Multiple Real Variables
 We can consider functions of many more than 2 variables; for example, a 3D function $h(x,y,z)$ can represent heat at a point in 3D space.

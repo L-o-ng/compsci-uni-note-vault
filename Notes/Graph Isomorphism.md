@@ -11,6 +11,7 @@ $$
 ## See Also
 + [[Trees in Graph Theory]] (for [[#Isomorphism in Trees]])
 ## Graph Isomorphism
+>[!definition]
 >Two graphs $G=(V,E)$ and $G'=(V',E')$ are **isomorphic** if there exists a *bijective* function $f:V \to V'$ such that for every $u,v \in V$ we have $uv \in E\iff f(u)f(v)\in E'$. Then we write $G \ismorph G'$.
 
 In other words, $G \ismorph G'$ when:
@@ -33,8 +34,10 @@ However, *none* of these **show** isomorphism. They can **only** be used to show
 We have now seen rooted directed trees, where all paths depart from the root.
 Undirected rooted trees also exist as a tree $T$ and a specially designated root $r$.
 
+>[!definition]
 >Two rooted trees $T_{1}(V_{1},E_{1},r_{1})$ and $T_{2}(V_{2},E_{2},r_{2})$ are called **isomorphic** if there exists an *isomorphism bijection* $f:V_{1}\to V_{2}$ such that $f(r_{1})=r_{2}$.
 
+>[!definition]
 >In a rooted tree $T$ with root $r$, the level $L(i)$ is the set of vertices at distance $i$ from the root $r$.
 
 ---

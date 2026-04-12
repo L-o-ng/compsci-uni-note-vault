@@ -6,8 +6,7 @@ Suppose we are focused on the *implementations* of algorithms; time:
 + depends upon the system hardware.
 
 We therefore make the following decision:
-
->We work **only** with algorithms in the strong expectation that our analysis will be **machine-independent** but still closely related to and reflective of the time taken by **any** implementation of the algorithm on **any** given processor.
+>[!abstract] We work **only** with algorithms in the strong expectation that our analysis will be **machine-independent** but still closely related to and reflective of the time taken by **any** implementation of the algorithm on **any** given processor.
 
 This focus on algorithms and *not* implementations is in keeping with the usage of [[Pseudo-code]], and its independence of any programming language and processor.
 

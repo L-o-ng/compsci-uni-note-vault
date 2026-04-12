@@ -9,6 +9,7 @@ This is costly however:
 + For $n>0$, let $\psi_{n}$ be the formula:$$(x_{1}\wedge y_{1})\vee\dots \vee(x_{n}\wedge y_{n})$$
 + It turns out that $F_{CNF(\psi_{n})}$ is huge: $2^{n}$ clauses!
 
+>[!theorem]
 >For every $n>1$ there exists a propositional formula of length $2n$ for which any logically equivalent clause-set contains at least $2^{n}$ clauses.
 ## Tseitin's Fast Transformation
 In 1968, Tseitin devised a faster method. The idea is that transformation does not need to preserve logical equivalence, only equivalence with respect to satisfiability. This is called **equisatisfiability**; ==2 propositional formulae/clause-sets are equisatisfiable if both are satisfiable/unsatisfiable==.

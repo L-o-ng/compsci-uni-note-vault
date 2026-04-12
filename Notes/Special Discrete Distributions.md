@@ -3,6 +3,7 @@
 The simplest discrete random variable.
 Assumes only a finite number of possible values, each with equal probability.
 A random variable $X$ has discrete uniform distribution if each of the $n$ values in its range $x_{1},x_{2},\dots x_{n}$ has equal probability:
+>[!definition]
 >Suppose random variable $X$ has uniform distribution. The PMF of $X$ is given by $(X \textasciitilde \operatorname{Uni}(n))$:$$P(X=k)=f(k)=\frac{1}{n}$$
 
 Alternatively, suppose $X$ is a discrete uniform random variable on the consecutive integers $a,a+1,a+2,\dots,b, a\leq b$. Then: 
@@ -41,6 +42,7 @@ V(X)=p(1-p)=pq
 $$
 ## Discrete Binomial Distribution
 Consider a random experiment consisting of $n \in \mathbb{N}$ **independent** Bernoulli trials. If the probability of *success* for each trial is $p,0\leq p\leq 1$, and it is **constant**, then:
+>[!definition]
 >The random variable $X$ that equals the number of trials that result in a success is a **Binomial Random Variable** with parameters $n,p$. The PMF of $X$ is given by $(X \sim Bin(n,p))\space$: $$P(X=k)=f(k)=(^{n}_{k})p^{k}(1-p)^{n-k},k=0,1,\dots,n$$
 
 We can calculate the mean and variance of $X$ directly using the PMF; however, there is an easier way:
@@ -65,6 +67,7 @@ V(X)&=np(1-p)
 $$
 ## Discrete Geometric Distribution
 Consider a series of independent Bernoulli trials with constant probability of success $p$. Let the random variable $X$ denote the number of trials until the **first** success. Then:
+>[!definition]
 >$X$ is called a **Geometric Random Variable** with *parameter* $p$, such that $(X \sim Geom(p))\space$: $$\begin{matrix}P(X=k)=f(k)=p(1-p)^{k-1},k=1,2,\dots\\ E[X]=\frac{1}{p}\\ V(X)=\frac{1-p}{p^{2}}\end{matrix}$$
 ### Memoryless Property
 The geometric distribution has no memory of the past. If you have waited $k$ trials already without seeing a success, you must wait $m$ more trials to get success with probability: 
@@ -74,9 +77,11 @@ $$
 This distribution is the only discrete distribution satisfying this property. This means that for objects for which there is no *wear* during normal operation, the geometric distribution is a good model.
 ## Negative Binomial Distribution
 We can generalise the idea behind the geometric distribution - instead of waiting for the first success, we wait until $r$ successes.
+>[!definition]
 >Consider a series of independent Bernoulli trials with constant success probability $p$. Let the random variable $X$ denote the number of trials until $r \in \mathbb{N}$ successes are obtained. Then, $X$ is called a **negative binomial random variable** with parameters $p,r$, and $(X \sim NegBin(r,p))\space$: $$\small\begin{matrix}P(X=k)=f(k)=\begin{dcases}0, &\text{if }k<r \\ \begin{pmatrix}k-1 \\ r - 1\end{pmatrix}p^{r}(1-p)^{k-r},&\text{if }k\geq r \end{dcases}\space \text{where }k \in \mathbb{N}\\ E[X]=\frac{r}{p}\\ V(X)=r \frac{1-p}{p^{2}}\end{matrix}$$
 ## Poisson Distribution
 A **Poisson Random Variable** has a distribution that shows *how many times* an event is likely to happen within a specific period of time.
+>[!definition]
 >$X$ is called a **Poisson random variable** with parameter $\lambda>0$. It is the number of events in a *Poisson process*, $(X \sim Poisson(\lambda))\space$: $$\begin{matrix}P(X=k)=f(k)=\frac{e^{ -\lambda }\lambda^{k}}{k!},k=0,1,2,\dots\\ E[X]=\lambda\\ V(X)=\lambda\end{matrix}$$
 ### Derivation
 Suppose you want to model the **number of customers** entering a store over the period of one day. Let's make 2 assumptions:

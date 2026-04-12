@@ -1,5 +1,6 @@
 #notes 
 
+>[!abstract]
 >Explainability can be seen as a measure of quality on the explanation graph that can be built around the different decisions made within the AC system.
 ## Well-Explained Security
 ### Specification

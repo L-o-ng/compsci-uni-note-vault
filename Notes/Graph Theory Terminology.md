@@ -27,9 +27,10 @@ The *diameter* of a graph is the largest distance between two vertices in it.
 ### Handshaking Lemma
 This is the relationship between the sum of the degrees of the vertices of a graph and the number of edges in that graph.
 
+>[!theorem]
 >Let $G=(V,E)$ be a graph. Then: $$\sum_{v \in V}\operatorname{deg}(v)=2|E| $$
 
 This is useful for proving nonexistence of some graphs with certain properties.
-#### Corollary
+>[!theorem] Corollary
 >In every undirected graph $G$, the number of vertices with an odd degree is even.
 
