@@ -13,6 +13,7 @@
 + [[The Matrix Chain-Multiplication Problem]]
 + [[The Longest Common Subsequence Problem]]
 + [[The Matching Problem]]
++ [[The Vertex Cover Problem]]
 + [[The Single-Source Shortest Paths Problem]]
 + [[Dijkstra's Algorithm]]
 + [[Flow Networks]]

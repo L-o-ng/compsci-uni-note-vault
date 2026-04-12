@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/The Matching Problem.md",
+                "file": "Notes/Theory of Computation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Matching Problem"
+              "title": "Theory of Computation"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "af9b3bc342b91640",
@@ -210,8 +209,19 @@
   },
   "active": "d26728aa67764dba",
   "lastOpenFiles": [
-    "Notes/Algorithms and Complexity.md",
+    "Notes/Complexity Classes.md",
     "Notes/Theory of Computation.md",
+    "Notes/Algorithms and Complexity.md",
+    "Notes/The Matching Problem.md",
+    "Notes/The Vertex Cover Problem.md",
+    "Pictures/Vertex Cover 2.png",
+    "Pictures/Vertex Cover 1.png",
+    "Notes/Finding Augmenting Paths.md",
+    "Notes/Augmenting Paths.md",
+    "Notes/Augmenting Flow Paths.md",
+    "Notes/Alternating Paths and Cycles.md",
+    "Pictures/Matchings 2 Alternating Paths.png",
+    "Pictures/Matchings 1.png",
     "Notes/Machine Learning.md",
     "Notes/AI Search.md",
     "Notes/Models of Computation.md",
@@ -219,7 +229,6 @@
     "Notes/Kolgmogorov Complexity.md",
     "Notes/Lambda Calculus.md",
     "Notes/Year 2 Computer Science.md",
-    "Notes/The Matching Problem.md",
     "Notes/Maximum Bipartite Matching.md",
     "Notes/Omega-Regular Languages.md",
     "Notes/Computability.md",
@@ -230,22 +239,12 @@
     "Notes/Primitive Recursive Functions.md",
     "Notes/Parameter Theorem.md",
     "Notes/State Logic.md",
-    "Notes/Linear Temporal Logic.md",
-    "Notes/Probability.md",
-    "Notes/Special Discrete Distributions.md",
-    "Notes/The Halting Problem.md",
-    "Notes/Types of Turing Machine.md",
-    "Notes/The Turing Machine.md",
     "Pictures/Maximum Bipartite Matching.png",
     "Pictures/Network Flow Ford Fulkerson Runtime.png",
     "Pictures/Max Flow = Min Cut.png",
     "Pictures/Network Flow Cuts.png",
     "Pictures/Augmenting Paths.png",
     "Pictures/Induced Residual Network.png",
-    "Pictures/Example Flow Network.png",
-    "Pictures/Flow Network.png",
-    "Pictures/Graph as Adjacency Matrix.png",
-    "Pictures/Exponential Transform Example.png",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",

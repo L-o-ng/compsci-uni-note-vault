@@ -446,6 +446,7 @@ Programme
 Pseudocode
 Pairs
 Prime
+Perfect
 IHDR
 IDATx
 ID
@@ -823,6 +824,7 @@ Iuuuvvv
 Image
 Improve
 Implicit
+Initial
 yZ
 yC
 yU
@@ -2508,6 +2510,7 @@ dance
 dancing
 damping
 decidable
+distinction
 oL
 om
 oV
@@ -6026,6 +6029,8 @@ safely
 specialisation
 shorten
 subsystem
+suggest
+stark
 TWe
 TBM
 Ti
@@ -8006,6 +8011,7 @@ capacities
 crates
 cancelled
 considers
+classifies
 kH
 ka
 kE
@@ -10023,6 +10029,7 @@ multidimensional
 material
 matchable
 monotonically
+matchings
 WD
 WWx
 Wy
@@ -10569,6 +10576,7 @@ unsupervised
 underexposure
 upcoming
 unites
+unmatched
 AI
 Az
 Ab
@@ -11746,6 +11754,8 @@ Material
 Maximum
 Matching
 Monotonicity
+Matchings
+Maximal
 SQl
 SkBl
 SK
@@ -14141,6 +14151,7 @@ Geostationary
 Generic
 Gödel
 Gamma
+Grow
 xcb
 xa
 xX
@@ -15152,6 +15163,7 @@ restraint
 reverse
 residual
 regardless
+road
 ehO
 ef
 eWmI
