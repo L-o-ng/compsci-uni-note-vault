@@ -3236,6 +3236,7 @@ Return
 Reducibility
 Replacement
 Recently
+Richard
 nR
 nW
 nT
@@ -4849,6 +4850,7 @@ projections
 primitive
 prolific
 prepaging
+polynomially
 DQ
 DM
 DU
@@ -6064,6 +6066,7 @@ scientists
 substitutions
 suffers
 suspended
+simulates
 TWe
 TBM
 Ti
@@ -7324,6 +7327,8 @@ Cut
 Callouts
 Cross
 Collaboration
+Colourability
+Certificates
 cd
 ce
 cNCw
@@ -8054,6 +8059,10 @@ converse
 collaboration
 concatenated
 concise
+colourability
+colourable
+constructive
+certificates
 kH
 ka
 kE
@@ -11451,6 +11460,7 @@ Voice
 Various
 Version
 Vancouver
+Verifiers
 Mz
 MR
 Mc
@@ -12314,6 +12324,7 @@ Satisfiability
 SkillsQuest
 Shapes
 Strings
+Subset
 aQ
 ag
 aZ
@@ -12882,6 +12893,7 @@ acquainted
 appeared
 actor
 accordingly
+acceptor
 wE
 wU
 wF
@@ -13478,6 +13490,8 @@ vision
 viewing
 variation
 victim
+verifiers
+verifier
 Ny
 Ngl
 Nz
@@ -13758,6 +13772,7 @@ NcW
 NKV
 Net
 NFAs
+NDTM
 Yk
 YZ
 Yoj
@@ -15250,6 +15265,7 @@ reversed
 regaining
 referenced
 resumes
+reducibility
 ehO
 ef
 eWmI
@@ -18495,6 +18511,7 @@ grayscale
 gray
 gamma
 gamed
+guesses
 Üfrpp
 ÜAv
 ÜK

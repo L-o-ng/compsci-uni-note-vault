@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/P.md",
+                "file": "Notes/Complexity Classes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "P"
+              "title": "Complexity Classes"
             }
           }
         ]
@@ -210,9 +210,16 @@
   },
   "active": "a6aa4e8e52191a1f",
   "lastOpenFiles": [
-    "Notes/Polynomial Time Reducibility.md",
-    "Notes/P.md",
+    "Notes/Ladner's Theorem and NP-Indeterminate Problems.md",
     "Notes/Complexity Classes.md",
+    "Notes/NP-Completeness.md",
+    "Pictures/NP-Completeness 1.png",
+    "Notes/NP.md",
+    "Notes/P=NP.md",
+    "Notes/Non-Deterministic Time Complexity.md",
+    "Notes/Certificates and Verifiers.md",
+    "Notes/P.md",
+    "Notes/Polynomial Time Reducibility.md",
     "Notes/XAC.md",
     "Notes/Worst-Case Upper Bounds.md",
     "Notes/Worst Case Time Complexity.md",
@@ -230,12 +237,6 @@
     "Notes/The Rod-Cutting Problem.md",
     "Notes/The Pumping Lemma.md",
     "Notes/The Knapsack Problem.md",
-    "Notes/The Halting Problem.md",
-    "Notes/The Gram-Schmidt Process.md",
-    "Notes/The Edmonds-Karp Algorithm.md",
-    "Notes/Taylor's Theorem.md",
-    "Notes/t-Reducibility.md",
-    "Notes/Symmetries.md",
     "Pictures/Problem Classification.png",
     "Pictures/Vertex Cover 2.png",
     "Pictures/Vertex Cover 1.png",
@@ -245,7 +246,6 @@
     "Pictures/Network Flow Ford Fulkerson Runtime.png",
     "Pictures/Max Flow = Min Cut.png",
     "Pictures/Network Flow Cuts.png",
-    "Pictures/Augmenting Paths.png",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",

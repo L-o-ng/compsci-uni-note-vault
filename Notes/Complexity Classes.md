@@ -2,8 +2,12 @@
 ## Notes
 + [[P]]
 + [[Polynomial Time Reducibility]]
++ [[Certificates and Verifiers]]
++ [[Non-Deterministic Time Complexity]]
 + [[NP]]
++ [[P=NP]]
 + [[NP-Completeness]]
++ [[Ladner's Theorem and NP-Indeterminate Problems]]
 + 
 ---
 ## Optimisation vs Decision Problems
