@@ -1559,6 +1559,7 @@ insight
 incrementing
 infrequently
 intractable
+install
 qi
 qH
 qSr
@@ -2852,6 +2853,7 @@ obeying
 outgoing
 oracle
 oldest
+omit
 RD
 Rpbr
 RJ
@@ -3237,6 +3239,7 @@ Reducibility
 Replacement
 Recently
 Richard
+Restriction
 nR
 nW
 nT
@@ -3522,6 +3525,7 @@ nlkk
 nnnh
 narrow
 normalises
+newly
 fg
 fU
 fk
@@ -4308,6 +4312,7 @@ hoo
 halting
 hockey
 hexagon
+hardest
 pY
 pC
 pc
@@ -7329,6 +7334,10 @@ Cross
 Collaboration
 Colourability
 Certificates
+Cook
+Component
+Cover
+Clique
 cd
 ce
 cNCw
@@ -8063,6 +8072,8 @@ colourability
 colourable
 constructive
 certificates
+constituents
+clique
 kH
 ka
 kE
@@ -8615,6 +8626,7 @@ LCSs
 Larry
 Lemmas
 LRU
+Levin
 tJ
 tf
 tR
@@ -10088,6 +10100,7 @@ matchable
 monotonically
 matchings
 mechanically
+man
 WD
 WWx
 Wy
@@ -11461,6 +11474,7 @@ Various
 Version
 Vancouver
 Verifiers
+Vazirani
 Mz
 MR
 Mc
@@ -11827,6 +11841,7 @@ Monotonicity
 Matchings
 Maximal
 Machines
+Micali
 SQl
 SkBl
 SK
@@ -12325,6 +12340,8 @@ SkillsQuest
 Shapes
 Strings
 Subset
+Solved
+Sankowski
 aQ
 ag
 aZ
@@ -14242,6 +14259,7 @@ Generic
 Gödel
 Gamma
 Grow
+Generalisations
 xcb
 xa
 xX
@@ -15266,6 +15284,7 @@ regaining
 referenced
 resumes
 reducibility
+roads
 ehO
 ef
 eWmI
@@ -16921,6 +16940,7 @@ joint
 jointly
 jggW
 junctions
+junction
 Ow
 Osg
 OguH
