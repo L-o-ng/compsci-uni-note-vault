@@ -8,7 +8,8 @@
 + [[P=NP]]
 + [[NP-Completeness]]
 + [[Ladner's Theorem and NP-Indeterminate Problems]]
-+ 
++ [[Strong vs Weak NP-Completeness]]
++ [[coNP]]
 ---
 ## Optimisation vs Decision Problems
 See first [[Optimisation Problems]], [[Decision Problems]]

@@ -1560,6 +1560,7 @@ incrementing
 infrequently
 intractable
 install
+imposed
 qi
 qH
 qSr
@@ -3953,6 +3954,7 @@ farms
 forwards
 film
 falsifies
+finishes
 hO
 hf
 hA
@@ -4313,6 +4315,7 @@ halting
 hockey
 hexagon
 hardest
+hitting
 pY
 pC
 pc
@@ -4856,6 +4859,8 @@ primitive
 prolific
 prepaging
 polynomially
+pattern
+picking
 DQ
 DM
 DU
@@ -5270,6 +5275,7 @@ DDDDEE
 Decidable
 DFS
 Disqualify
+Drawing
 sDK
 sk
 sz
@@ -6440,6 +6446,7 @@ Total
 Trucks
 Transition
 Thrashing
+Travelling
 JP
 Ju
 JQ
@@ -7338,6 +7345,9 @@ Cook
 Component
 Cover
 Clique
+Collection
+Consistency
+Choice
 cd
 ce
 cNCw
@@ -8074,6 +8084,9 @@ constructive
 certificates
 constituents
 clique
+coming
+communicated
+connect
 kH
 ka
 kE
@@ -9099,6 +9112,8 @@ tabular
 transforms
 trucks
 thrashing
+traverses
+triangles
 Bh
 Bda
 Br
@@ -11475,6 +11490,7 @@ Version
 Vancouver
 Verifiers
 Vazirani
+Verify
 Mz
 MR
 Mc
@@ -12342,6 +12358,7 @@ Strings
 Subset
 Solved
 Sankowski
+Salesman
 aQ
 ag
 aZ
@@ -12911,6 +12928,7 @@ appeared
 actor
 accordingly
 acceptor
+arrive
 wE
 wU
 wF
@@ -14260,6 +14278,8 @@ Gödel
 Gamma
 Grow
 Generalisations
+Gadget
+Gadgets
 xcb
 xa
 xX
@@ -15285,6 +15305,8 @@ referenced
 resumes
 reducibility
 roads
+respective
+realised
 ehO
 ef
 eWmI
@@ -16429,6 +16451,7 @@ His
 Halting
 Hollywood
 Hexagon
+Hitting
 FC
 FT
 FP
@@ -18532,6 +18555,8 @@ gray
 gamma
 gamed
 guesses
+gadget
+gadgets
 Üfrpp
 ÜAv
 ÜK
