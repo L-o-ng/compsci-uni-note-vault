@@ -10,6 +10,8 @@
 + [[Ladner's Theorem and NP-Indeterminate Problems]]
 + [[Strong vs Weak NP-Completeness]]
 + [[coNP]]
++ [[Coping with Intractability]]
+
 ---
 ## Optimisation vs Decision Problems
 See first [[Optimisation Problems]], [[Decision Problems]]

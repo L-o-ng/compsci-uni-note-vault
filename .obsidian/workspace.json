@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4791a62cb23b4ec1",
+        "id": "a1799c2d3a2f062b",
         "type": "tabs",
         "children": [
           {
-            "id": "a6aa4e8e52191a1f",
+            "id": "4583467d29c66135",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/NP-Completeness.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "NP-Completeness"
+              "title": "New tab"
             }
           }
         ]
@@ -121,12 +107,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Matrix Decomposition.md",
+                "file": "Notes/Logic.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Matrix Decomposition"
+              "title": "Outgoing links from Logic"
             }
           },
           {
@@ -150,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Notes/Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Logic"
             }
           },
           {
@@ -164,6 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,26 +161,15 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "1b6468e87c8397d7",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mermaid-toolbar-view"
+              "title": "Backlinks for Logic"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,9 +185,18 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "a6aa4e8e52191a1f",
+  "active": "9967216292dc7627",
   "lastOpenFiles": [
+    "Notes/Mathematics for Computer Science.md",
     "Notes/Complexity Classes.md",
+    "Notes/Coping with Intractability.md",
+    "Notes/coNP.md",
+    "Pictures/NP and coNP.png",
+    "Notes/Logic.md",
+    "Notes/Conjunctive Normal Form.md",
+    "Notes/Other Logic Systems.md",
+    "Notes/Natural Deduction.md",
+    "Notes/Strong vs Weak NP-Completeness.md",
     "Notes/NP-Completeness.md",
     "Pictures/3-colouring from 3-SAT.png",
     "Pictures/Hamiltonian Cycle 3-SAT example.png",
@@ -229,7 +215,6 @@
     "Notes/Finding Augmenting Paths.md",
     "Notes/Algorithms and Complexity.md",
     "Notes/The Vertex Cover Problem.md",
-    "Pictures/Vertex Cover Reduction 5.png",
     "Notes/Polynomial Time Reducibility.md",
     "Notes/t-Reducibility.md",
     "Notes/Ladner's Theorem and NP-Indeterminate Problems.md",
@@ -238,13 +223,6 @@
     "Notes/Non-Deterministic Time Complexity.md",
     "Notes/Certificates and Verifiers.md",
     "Notes/XAC.md",
-    "Notes/Worst-Case Upper Bounds.md",
-    "Notes/Worst Case Time Complexity.md",
-    "Notes/Well-Known First-Order Equivalences.md",
-    "Notes/Weighted Euclidean Inner Product.md",
-    "Notes/Virtual Memory.md",
-    "Notes/Universal Turing Machine.md",
-    "Notes/Turing Languages.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",

@@ -2525,6 +2525,7 @@ decidable
 distinction
 descendant
 demonstrate
+despite
 oL
 om
 oV
@@ -6078,6 +6079,7 @@ substitutions
 suffers
 suspended
 simulates
+succinct
 TWe
 TBM
 Ti
@@ -6447,6 +6449,7 @@ Trucks
 Transition
 Thrashing
 Travelling
+Tautology
 JP
 Ju
 JQ
@@ -7348,6 +7351,7 @@ Clique
 Collection
 Consistency
 Choice
+Classical
 cd
 ce
 cNCw
@@ -9114,6 +9118,7 @@ trucks
 thrashing
 traverses
 triangles
+textbook
 Bh
 Bda
 Br
@@ -11858,6 +11863,8 @@ Matchings
 Maximal
 Machines
 Micali
+Modal
+Monotonic
 SQl
 SkBl
 SK
@@ -12359,6 +12366,7 @@ Subset
 Solved
 Sankowski
 Salesman
+Strongly
 aQ
 ag
 aZ
@@ -13527,6 +13535,7 @@ variation
 victim
 verifiers
 verifier
+verified
 Ny
 Ngl
 Nz
@@ -16738,6 +16747,7 @@ Fulkerson
 Frequently
 Frame
 Frequency
+Fuzzy
 jY
 jx
 jRg
