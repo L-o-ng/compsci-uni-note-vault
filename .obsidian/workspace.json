@@ -11,10 +11,24 @@
             "id": "4583467d29c66135",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Mask Convolution in Noise Filtering.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Mask Convolution in Noise Filtering"
             }
           }
         ]
@@ -169,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +200,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "9967216292dc7627",
+  "active": "4583467d29c66135",
   "lastOpenFiles": [
+    "Notes/Image Processing.md",
+    "Notes/Noise.md",
+    "Notes/Mask Convolution in Noise Filtering.md",
+    "Pictures/Pixel Neighbourhood.png",
+    "Pictures/Gaussian Noise.png",
+    "Pictures/Salt And Pepper Noise.png",
+    "Pictures/JPEG Artefacting.png",
+    "Pictures/Image Noise 1.png",
+    "Notes/Point Transform.md",
+    "Notes/Functional Point Transforms.md",
+    "Notes/Data Science.md",
     "Notes/Mathematics for Computer Science.md",
     "Notes/Complexity Classes.md",
     "Notes/Coping with Intractability.md",
@@ -202,11 +228,6 @@
     "Pictures/Hamiltonian Cycle 3-SAT example.png",
     "Pictures/Truth to Multiple Constraints.png",
     "Pictures/Constraint Gadget.png",
-    "Pictures/Consistency Gadget Shorthand.png",
-    "Pictures/Consistency Gadget.png",
-    "Pictures/Choice Gadget.png",
-    "Pictures/Clique SAT 2.png",
-    "Pictures/Clique SAT 1.png",
     "Notes/Computability.md",
     "Notes/Recursion Theorem.md",
     "Notes/Parameter Theorem.md",
@@ -217,12 +238,6 @@
     "Notes/The Vertex Cover Problem.md",
     "Notes/Polynomial Time Reducibility.md",
     "Notes/t-Reducibility.md",
-    "Notes/Ladner's Theorem and NP-Indeterminate Problems.md",
-    "Notes/NP.md",
-    "Notes/P=NP.md",
-    "Notes/Non-Deterministic Time Complexity.md",
-    "Notes/Certificates and Verifiers.md",
-    "Notes/XAC.md",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",

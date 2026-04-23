@@ -7,6 +7,8 @@
 + [[Local Transform]]
 + [[Global Transform]]
 + [[Functional Point Transforms]]
++ [[Noise]]
++ [[Mask Convolution in Noise Filtering]]
 + 
 
 ---
