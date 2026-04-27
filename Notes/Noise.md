@@ -60,12 +60,7 @@ Spatial Filtering has **two** types:
 + **Linear** filtering - the output pixel is a *linear* combination of the corresponding input pixel's neighbourhood;
 + **Non-Linear** filtering - the output pixel is a **non-linear** *function* of the corresponding input pixel's neighbourhood. In practice, some decision-based algorithm is employed.
 #### Linear Filters
-See [[Mask Convolution in Noise Filtering]].
-#### Non-Linear Filters
-For an $N\times N$ neighbourhood $N_{xy}$, centred at pixel $(x,y)$, indexed by $(s,t)$, the following filters can be defined to replace each pixel with the min/max/median of the input neighbourhood:
-+ Min: $$I_{\text{output}}(x,y)=\min_{(s,t)\in N_{xy}}\{ I_{\text{input}}(s,t) \}$$
-+ Max: $$I_{\text{output}}(x,y)=\max_{(s,t)\in N_{xy}}\{ I_{\text{input}}(s,t) \}$$
-+ Median: $$I_{\text{output}}(x,y)=\underset{(s,t \in N_{xy})}{\operatorname{median}}\{ I_{\text{input}}(s,t) \}$$
+See [[Convolution]].
 ##### Mean Filtering
 We replace a given pixel with the mean value of its neighbourhood. This eliminates sudden intensity jumps which could be caused by some noise processes.
 $$
@@ -83,8 +78,17 @@ The dimension of the neighbourhood $N_{xy}$ is $N\times N$. The $d$ lowest and $
 $$
 I_{\text{output}}(x,y)=\frac{N^{2}}{\sum_{(s,t)\in N_{xy}} \frac{1}{I_{\text{input}}(s,t)}}
 $$
+#### Non-Linear Filters
+For an $N\times N$ neighbourhood $N_{xy}$, centred at pixel $(x,y)$, indexed by $(s,t)$, the following filters can be defined to replace each pixel with the min/max/median of the input neighbourhood:
++ Min: $$I_{\text{output}}(x,y)=\min_{(s,t)\in N_{xy}}\{ I_{\text{input}}(s,t) \}$$
++ Max: $$I_{\text{output}}(x,y)=\max_{(s,t)\in N_{xy}}\{ I_{\text{input}}(s,t) \}$$
++ Median: $$I_{\text{output}}(x,y)=\underset{(s,t \in N_{xy})}{\operatorname{median}}\{ I_{\text{input}}(s,t) \}$$
 ##### Median Filtering
 We replace a given pixel with the median of its $N\times N$ neighbourhood. This is used to *eliminate* **sudden intensity jumps**. This requires **sorting** values, but is robust against outliers.
+##### Conservative Smoothing
+We compare a pixel value to the `min` and `max` of an $N\times N$ neighbourhood. The value is:
++ replaced by `min` if it is less than `min`;
++ replaced by `max` if it is more than `max`.
 
-
+This is useful for eliminating sudden intensity jumps, but does not change all pixels.
 

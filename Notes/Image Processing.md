@@ -4,11 +4,12 @@
 + [[Quantisation]]
 + [[Image Transforms]]
 + [[Point Transform]]
-+ [[Local Transform]]
-+ [[Global Transform]]
 + [[Functional Point Transforms]]
 + [[Noise]]
-+ [[Mask Convolution in Noise Filtering]]
++ [[Convolution]]
++ [[Gaussian Filtering]]
++ [[Bilateral Filters]]
++ [[Non-Local Means]]
 + 
 
 ---

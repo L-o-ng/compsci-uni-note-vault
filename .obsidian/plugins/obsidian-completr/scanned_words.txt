@@ -2536,6 +2536,8 @@ differencing
 destroying
 denoising
 dead
+designate
+discretise
 oL
 om
 oV
@@ -3973,6 +3975,7 @@ falsifies
 finishes
 filters
 filter
+fly
 hO
 hf
 hA
@@ -7389,6 +7392,7 @@ Consistency
 Choice
 Classical
 Capture
+Convolution
 cd
 ce
 cNCw
@@ -8129,6 +8133,7 @@ coming
 communicated
 connect
 cast
+convolution
 kH
 ka
 kE
@@ -8685,6 +8690,7 @@ Levin
 Lens
 Lossy
 Lighting
+Laplacian
 tJ
 tf
 tR
@@ -10166,6 +10172,7 @@ mechanically
 man
 mask
 modal
+masks
 WD
 WWx
 Wy
@@ -10413,6 +10420,7 @@ Wide
 WZXX
 Winnipeg
 Weight
+Weights
 uC
 uIOs
 uq
@@ -13001,6 +13009,7 @@ acceptor
 arrive
 adjustment
 abrupt
+averaging
 wE
 wU
 wF
@@ -15386,6 +15395,7 @@ roads
 respective
 realised
 recreation
+responses
 ehO
 ef
 eWmI
@@ -16231,6 +16241,7 @@ leased
 limiting
 labelling
 limitations
+localised
 Ho
 Hf
 HdS
@@ -18648,6 +18659,7 @@ gamed
 guesses
 gadget
 gadgets
+generalised
 Üfrpp
 ÜAv
 ÜK
