@@ -10,6 +10,8 @@
 + [[Gaussian Filtering]]
 + [[Bilateral Filters]]
 + [[Non-Local Means]]
++ [[Image Histograms]]
++ [[Global Image Transforms]]
 + 
 
 ---

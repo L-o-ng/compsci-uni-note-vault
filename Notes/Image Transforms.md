@@ -10,5 +10,5 @@ We can:
 ## Transformation Types
 An image transform, $I_{\text{input}}\to I_{\text{output}}$ may be:
 + A [[Point Transform]] involving one pixel at a time;
-+ A [[Local Transform]] involving the local image neighbourhood;
-+ A [[Global Transform]] involving the whole image.
++ A [[Convolution|Local Transform]] involving the local image neighbourhood;
++ A [[Global Image Transforms|Global Transform]] involving the whole image.

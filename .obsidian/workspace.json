@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1799c2d3a2f062b",
+        "id": "cf3ee10848d9c687",
         "type": "tabs",
         "children": [
           {
-            "id": "4583467d29c66135",
+            "id": "1495e88ff00a7356",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Image Processing.md",
+                "file": "Notes/Lighting and Shading.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Image Processing"
-            }
-          },
-          {
-            "id": "72022233c5833a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Relational Calculus and Algebra.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Relational Calculus and Algebra"
+              "title": "Lighting and Shading"
             }
           }
         ]
@@ -145,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Calculus.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Logic"
+              "title": "Outgoing links from Calculus"
             }
           },
           {
@@ -174,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Calculus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Logic"
+              "title": "Outline of Calculus"
             }
           },
           {
@@ -189,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Logic.md",
+                "file": "Notes/Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,11 +175,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Logic"
+              "title": "Backlinks for Calculus"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,43 +200,44 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "4583467d29c66135",
+  "active": "1495e88ff00a7356",
   "lastOpenFiles": [
-    "Notes/Convolution.md",
-    "Notes/Image Processing.md",
-    "Notes/Non-Local Means.md",
-    "Pictures/Non-Local Means Performance.png",
-    "Pictures/Pasted image 20260427145633.png",
-    "Pictures/Non-Local Means.png",
-    "Notes/Bilateral Filters.md",
-    "Pictures/Bilateral Filtering Standard Deviations.png",
-    "Pictures/Bilateral Filtering Details.png",
-    "Pictures/Bilateral Filter.png",
-    "Notes/Laplacian Filtering.md",
-    "Pictures/Laplacian Edge Sharpening 2.png",
-    "Pictures/Laplacian Edge Sharpening 1.png",
-    "Pictures/Laplacian Filter.png",
-    "Notes/Relational Calculus and Algebra.md",
-    "Notes/Databases.md",
-    "Notes/Lagrange Multipliers.md",
-    "Notes/Gaussian Filtering.md",
-    "Pictures/Gaussian Filter Example.png",
-    "Notes/Noise.md",
-    "Notes/Untitled.md",
-    "Notes/Eigendecomposition.md",
-    "Notes/Matrix Decomposition.md",
-    "Notes/Gaussian Elimination.md",
-    "Notes/LU Decomposition.md",
-    "Notes/Gaslighting.md",
-    "Notes/Natural Deduction.md",
-    "Notes/Logic.md",
-    "Notes/Proof Systems on Propositional Logic.md",
-    "Notes/Integrating Rational Functions.md",
+    "Notes/Rendering Pipeline.md",
+    "Notes/Lighting and Shading.md",
+    "Notes/Scene Control and Modelling Operations.md",
+    "Notes/MVP.md",
+    "Pictures/View Matrix.png",
+    "Notes/Delta Time.md",
+    "Notes/Transformation Sequencing.md",
+    "Notes/3D Transformations in Graphics.md",
+    "Notes/The Gimbal Lock Problem.md",
+    "Pictures/Gimbal Lock.png",
+    "Pictures/Quaternion.png",
+    "Notes/2D Transformations in Graphics.md",
+    "Pictures/Homogenous Coordinates.png",
+    "Pictures/Fundamental 2D transforms.png",
+    "Notes/Strong Law of Large Numbers.md",
+    "Notes/Statistics.md",
+    "Notes/Hypothesis Testing.md",
+    "Notes/Central Limit Theorem.md",
+    "Notes/Probability.md",
+    "Notes/Specific Continuous Distributions.md",
+    "Notes/Joint Distributions.md",
+    "Notes/Correlation Coefficient.md",
+    "Notes/Special Discrete Distributions.md",
+    "Notes/Continuous Distributions.md",
+    "Notes/Law of the Unconscious Statistician.md",
+    "Notes/Basics of Probability.md",
+    "Notes/Continuous Multivariate Distributions.md",
+    "Notes/Continuous Bivariate Distributions.md",
+    "Notes/Discrete Bivariate Distributions.md",
     "Notes/Year 1 Computer Science.md",
-    "Notes/Point Transform.md",
-    "Notes/Functional Point Transforms.md",
-    "Notes/Data Science.md",
-    "Notes/Mathematics for Computer Science.md",
+    "Notes/Conditional Probability.md",
+    "Pictures/Shader Pipeline.png",
+    "Pictures/Rasterisation Grid.png",
+    "Pictures/Backface Culling.png",
+    "Pictures/Clipping.png",
+    "Pictures/Perspective Projection Logic.png",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",
