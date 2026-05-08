@@ -1,6 +1,15 @@
 #topic 
 ## Notes
 + [[Rendering Pipeline]]
++ [[2D Transformations in Graphics]]
++ [[3D Transformations in Graphics]]
++ [[Transformation Sequencing]]
++ [[Delta Time]]
++ [[MVP]]
++ [[Lighting and Shading]]
++ [[Blinn-Phong Lighting Model]]
++ [[Simulating Lights]]
++ [[Shading Models]]
 + 
 
 ---

@@ -459,6 +459,8 @@ Perspective
 Pitch
 Planes
 Placement
+Philosophies
+Phong
 IHDR
 IDATx
 ID
@@ -841,6 +843,7 @@ Informally
 Irrespective
 Interior
 Incompressible
+Illumination
 yZ
 yC
 yU
@@ -1578,6 +1581,10 @@ ignores
 incompressible
 intersects
 interpolate
+interacts
+inherent
+indistinguishable
+illusion
 qi
 qH
 qSr
@@ -2560,6 +2567,8 @@ distant
 discarded
 distorts
 diagrams
+diffuse
+distribute
 oL
 om
 oV
@@ -3289,6 +3298,9 @@ Roll
 Rotations
 Resize
 Rigid
+Reveals
+Rendering
+Ray
 nR
 nW
 nT
@@ -3579,6 +3591,7 @@ neighbourhoods
 notable
 nearer
 numerals
+normals
 fg
 fU
 fk
@@ -4021,6 +4034,7 @@ focal
 faces
 fragment
 flawed
+fake
 hO
 hf
 hA
@@ -4384,6 +4398,10 @@ hardest
 hitting
 highlights
 hyperparameter
+hacks
+highlight
+halfway
+hits
 pY
 pC
 pc
@@ -4948,6 +4966,12 @@ primitives
 pyramidal
 pyramid
 posterior
+physically
+photon
+physics
+polygon
+projects
+preventing
 DQ
 DM
 DU
@@ -5371,6 +5395,7 @@ Descriptions
 Descriptive
 Discard
 Distant
+Diffuse
 sDK
 sk
 sz
@@ -6193,6 +6218,15 @@ smoothly
 scenes
 simulating
 squashes
+spectral
+simulation
+sphere
+specular
+scattering
+shade
+shading
+synthesising
+skip
 TWe
 TBM
 Ti
@@ -7481,6 +7515,9 @@ Culling
 CKJJ
 Centres
 Copies
+Conveys
+Calculates
+Clamping
 cd
 ce
 cNCw
@@ -8225,6 +8262,12 @@ convolution
 compressible
 clip
 ccm
+crucial
+cues
+curved
+compelling
+clamp
+cosine
 kH
 ka
 kE
@@ -9261,6 +9304,7 @@ textures
 thousands
 turning
 texture
+trillions
 Bh
 Bda
 Br
@@ -9596,6 +9640,7 @@ Boundary
 Backface
 Bvg
 Bayes
+Blinn
 ZY
 Zu
 ZzJ
@@ -10276,6 +10321,8 @@ modal
 masks
 margin
 mutually
+meshes
+matte
 WD
 WWx
 Wy
@@ -10525,6 +10572,7 @@ Winnipeg
 Weight
 Weights
 WDN
+Without
 uC
 uIOs
 uq
@@ -11202,6 +11250,7 @@ Alpha
 Activation
 Align
 Aspect
+Ambient
 KN
 KV
 KO
@@ -12566,6 +12615,11 @@ Shear
 Squash
 Stretch
 Slant
+Smooth
+Specular
+Simulating
+Sun
+Shader
 aQ
 ag
 aZ
@@ -13141,6 +13195,9 @@ abrupt
 averaging
 animating
 axes
+albedo
+ambient
+approximates
 wE
 wU
 wF
@@ -14033,6 +14090,7 @@ NTSC
 Noise
 Numerals
 Near
+Normals
 Yk
 YZ
 Yoj
@@ -15546,6 +15604,12 @@ ray
 rasterisation
 render
 resize
+reflectivity
+rays
+reflect
+reaches
+roughness
+revealing
 ehO
 ef
 eWmI
@@ -16022,6 +16086,7 @@ exposure
 effectiveness
 employed
 eye
+empirical
 lD
 le
 lgAg
@@ -16396,6 +16461,7 @@ localised
 lexicographically
 lBB
 likelihood
+lighting
 Ho
 Hf
 HdS
@@ -16704,6 +16770,8 @@ Highlighting
 Hyperparameter
 HSR
 Hodgeman
+Highlights
+Halfway
 FC
 FT
 FP
@@ -16997,6 +17065,7 @@ Framing
 Fragment
 FOV
 Far
+Flat
 jY
 jx
 jRg
@@ -17499,6 +17568,7 @@ Oracle
 Occlusion
 OBr
 Orthographic
+Occurs
 QiG
 QFJ
 QUR
@@ -18142,6 +18212,9 @@ blurring
 bins
 bilateral
 blurs
+bouncing
+bounces
+brightest
 ED
 EXD
 Es
@@ -18832,6 +18905,7 @@ generalised
 geometry
 gDM
 generating
+gradients
 Üfrpp
 ÜAv
 ÜK

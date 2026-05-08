@@ -7,10 +7,3 @@ The **rendering pipeline** is the sequence of steps a GPU follows to convert a 3
 ## Stages
 + [[Hardware Stages]]
 + [[Shaders]]
-+ [[2D Transformations in Graphics]]
-+ [[3D Transformations in Graphics]]
-+ [[Transformation Sequencing]]
-+ [[Delta Time]]
-+ [[MVP]]
-+ [[Lighting and Shading]]
-+ 
