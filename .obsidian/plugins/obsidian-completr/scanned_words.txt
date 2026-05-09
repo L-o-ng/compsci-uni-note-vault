@@ -844,6 +844,7 @@ Irrespective
 Interior
 Incompressible
 Illumination
+Iooz
 yZ
 yC
 yU
@@ -1585,6 +1586,9 @@ interacts
 inherent
 indistinguishable
 illusion
+iRyy
+iww
+ikkKIIA
 qi
 qH
 qSr
@@ -2569,6 +2573,7 @@ distorts
 diagrams
 diffuse
 distribute
+driving
 oL
 om
 oV
@@ -2904,6 +2909,8 @@ oscillation
 obscured
 outliers
 optimisations
+outwards
+organise
 RD
 Rpbr
 RJ
@@ -3301,6 +3308,8 @@ Rigid
 Reveals
 Rendering
 Ray
+REE
+Rhh
 nR
 nW
 nT
@@ -3592,6 +3601,7 @@ notable
 nearer
 numerals
 normals
+nnnBB
 fg
 fU
 fk
@@ -4035,6 +4045,7 @@ faces
 fragment
 flawed
 fake
+falloff
 hO
 hf
 hA
@@ -4402,6 +4413,8 @@ hacks
 highlight
 halfway
 hits
+hlii
+hierarchical
 pY
 pC
 pc
@@ -4972,6 +4985,8 @@ physics
 polygon
 projects
 preventing
+polyhedral
+perpendicularly
 DQ
 DM
 DU
@@ -6227,6 +6242,8 @@ shade
 shading
 synthesising
 skip
+spJJ
+specifically
 TWe
 TBM
 Ti
@@ -6603,6 +6620,7 @@ Trimmed
 Training
 Tuning
 Turn
+Texture
 JP
 Ju
 JQ
@@ -6829,6 +6847,7 @@ JPDF
 JJJz
 JPEG
 JmG
+JZq
 zG
 zd
 zj
@@ -7034,6 +7053,7 @@ zYY
 ztwBB
 zww
 zil
+zKKK
 CD
 Cxi
 CJ
@@ -7518,6 +7538,7 @@ Copies
 Conveys
 Calculates
 Clamping
+Coordinates
 cd
 ce
 cNCw
@@ -8268,6 +8289,8 @@ curved
 compelling
 clamp
 cosine
+calculations
+car
 kH
 ka
 kE
@@ -9305,6 +9328,9 @@ thousands
 turning
 texture
 trillions
+texels
+tuning
+trigonometry
 Bh
 Bda
 Br
@@ -9641,6 +9667,8 @@ Backface
 Bvg
 Bayes
 Blinn
+BJh
+Bulb
 ZY
 Zu
 ZzJ
@@ -10323,6 +10351,7 @@ margin
 mutually
 meshes
 matte
+mesh
 WD
 WWx
 Wy
@@ -11466,6 +11495,7 @@ Karp
 Kevin
 Kolmogorov
 Ktp
+KcVF
 VU
 VB
 Vt
@@ -11717,6 +11747,7 @@ Variations
 Vibration
 Varying
 View
+VBO
 Mz
 MR
 Mc
@@ -12091,6 +12122,7 @@ Median
 Maskless
 Marginals
 MVP
+Mip
 SQl
 SkBl
 SK
@@ -12620,6 +12652,7 @@ Specular
 Simulating
 Sun
 Shader
+Spinning
 aQ
 ag
 aZ
@@ -13198,6 +13231,7 @@ axes
 albedo
 ambient
 approximates
+artists
 wE
 wU
 wF
@@ -13525,6 +13559,8 @@ wight
 weighting
 wavelength
 winding
+weaker
+wheel
 vh
 vU
 vx
@@ -14091,6 +14127,8 @@ Noise
 Numerals
 Near
 Normals
+Nez
+Nedd
 Yk
 YZ
 Yoj
@@ -14763,6 +14801,7 @@ xjj
 xFA
 xRVVykh
 xPQkL
+xLL
 Uj
 UB
 UP
@@ -15045,6 +15084,7 @@ Unknown
 UFOO
 UUUT
 Undecidable
+UTTt
 rn
 rM
 rI
@@ -15610,6 +15650,7 @@ reflect
 reaches
 roughness
 revealing
+radially
 ehO
 ef
 eWmI
@@ -16087,6 +16128,8 @@ effectiveness
 employed
 eye
 empirical
+emit
+existant
 lD
 le
 lgAg
@@ -16772,6 +16815,7 @@ HSR
 Hodgeman
 Highlights
 Halfway
+HTTT
 FC
 FT
 FP
@@ -17066,6 +17110,7 @@ Fragment
 FOV
 Far
 Flat
+FwX
 jY
 jx
 jRg
@@ -18215,6 +18260,7 @@ blurs
 bouncing
 bounces
 brightest
+blF
 ED
 EXD
 Es
@@ -18593,6 +18639,7 @@ Equal
 Electrical
 Extrapolate
 Euler
+EEEii
 äq
 gh
 gCn

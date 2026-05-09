@@ -59,3 +59,10 @@ void main(){
 	vec3 finalLight = baseColor * att
 }
 ```
+## Dense Lighting Optimisation
+Point lights are computationally expensive, as their illumination must be evaluated for every fragment in all directions.
+Adding too many lights can crash the shader or slow the scene to a halt.
+### Distance-Based Culling
+We calculate the squared distance from every light to the camera. We then sort the lights and only enable the closest ones.
+### Light Baking
+For static objects, we can pre-calculate the lighting and save it into a 2D texture. The shader samples this texture with a second set of $(u,v)$ coordinates instead of running light equations. Real time lights are turned off for static geometry.

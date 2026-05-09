@@ -1,6 +1,6 @@
 #notes 
 
-See first [[2D Transformations in Graphics]]
+See first: [[2D Transformations in Graphics]].
 ## Matrices
 ### Translation
 $$
@@ -49,6 +49,6 @@ $$
 \end{pmatrix}
 $$
 ## Rotations
-Standard Euler angle rotations are intuitive, but flawed for animating complex 3D objects due to [[The Gimbal Lock Problem]]
+Standard Euler angle rotations are intuitive, but flawed for animating complex 3D objects due to [[The Gimbal Lock Problem]].
 4D quaternions address this.
 ![[Quaternion.png]]
