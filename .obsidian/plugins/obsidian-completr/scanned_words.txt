@@ -461,6 +461,7 @@ Planes
 Placement
 Philosophies
 Phong
+Primes
 IHDR
 IDATx
 ID
@@ -845,6 +846,8 @@ Interior
 Incompressible
 Illumination
 Iooz
+IOR
+Indeterminate
 yZ
 yC
 yU
@@ -1589,6 +1592,8 @@ illusion
 iRyy
 iww
 ikkKIIA
+inequivalent
+indeterminacy
 qi
 qH
 qSr
@@ -2574,6 +2579,9 @@ diagrams
 diffuse
 distribute
 driving
+discriminant
+dense
+deforming
 oL
 om
 oV
@@ -2911,6 +2919,7 @@ outliers
 optimisations
 outwards
 organise
+optimise
 RD
 Rpbr
 RJ
@@ -3310,6 +3319,9 @@ Rendering
 Ray
 REE
 Rhh
+Rays
+Refraction
+Reflected
 nR
 nW
 nT
@@ -4415,6 +4427,7 @@ halfway
 hits
 hlii
 hierarchical
+highlighted
 pY
 pC
 pc
@@ -4987,6 +5000,7 @@ projects
 preventing
 polyhedral
 perpendicularly
+providing
 DQ
 DM
 DU
@@ -6244,6 +6258,10 @@ synthesising
 skip
 spJJ
 specifically
+shallow
+summing
+shadow
+surprising
 TWe
 TBM
 Ti
@@ -6848,6 +6866,7 @@ JJJz
 JPEG
 JmG
 JZq
+Johnson
 zG
 zd
 zj
@@ -8291,6 +8310,7 @@ clamp
 cosine
 calculations
 car
+consequences
 kH
 ka
 kE
@@ -8848,6 +8868,7 @@ Lens
 Lossy
 Lighting
 Laplacian
+Ladner
 tJ
 tf
 tR
@@ -9331,6 +9352,8 @@ trillions
 texels
 tuning
 trigonometry
+transparent
+tracer
 Bh
 Bda
 Br
@@ -9669,6 +9692,8 @@ Bayes
 Blinn
 BJh
 Bulb
+Bounces
+Beer
 ZY
 Zu
 ZzJ
@@ -10352,6 +10377,9 @@ mutually
 meshes
 matte
 mesh
+materials
+modulated
+maximising
 WD
 WWx
 Wy
@@ -10911,6 +10939,7 @@ uncommon
 unnecessary
 upscaling
 unpredictable
+undecided
 AI
 Az
 Ab
@@ -12653,6 +12682,8 @@ Simulating
 Sun
 Shader
 Spinning
+Shadow
+Snell
 aQ
 ag
 aZ
@@ -13232,6 +13263,9 @@ albedo
 ambient
 approximates
 artists
+attenuated
+arriving
+animation
 wE
 wU
 wF
@@ -14606,6 +14640,7 @@ Gadgets
 Grayscale
 GPU
 GGIQ
+Garey
 xcb
 xa
 xX
@@ -15651,6 +15686,9 @@ reaches
 roughness
 revealing
 radially
+refraction
+refracting
+recalculation
 ehO
 ef
 eWmI
@@ -16130,6 +16168,7 @@ eye
 empirical
 emit
 existant
+expands
 lD
 le
 lgAg
@@ -16816,6 +16855,7 @@ Hodgeman
 Highlights
 Halfway
 HTTT
+Hits
 FC
 FT
 FP
@@ -18261,6 +18301,7 @@ bouncing
 bounces
 brightest
 blF
+bones
 ED
 EXD
 Es
@@ -18953,6 +18994,7 @@ geometry
 gDM
 generating
 gradients
+gathered
 Üfrpp
 ÜAv
 ÜK

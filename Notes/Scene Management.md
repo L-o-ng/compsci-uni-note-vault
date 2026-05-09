@@ -1,3 +1,5 @@
+#notes 
+
 >[!abstract]
 >A flat list approach to a scene means that relationships are non-existant:
 > + Moving a car requires individually translating its parts;
