@@ -2920,6 +2920,7 @@ optimisations
 outwards
 organise
 optimise
+occluded
 RD
 Rpbr
 RJ
@@ -3322,6 +3323,7 @@ Rhh
 Rays
 Refraction
 Reflected
+Rotate
 nR
 nW
 nT
@@ -4058,6 +4060,7 @@ fragment
 flawed
 fake
 falloff
+folder
 hO
 hf
 hA
@@ -5001,6 +5004,10 @@ preventing
 polyhedral
 perpendicularly
 providing
+polygons
+painted
+painter
+projective
 DQ
 DM
 DU
@@ -6262,6 +6269,7 @@ shallow
 summing
 shadow
 surprising
+squeezes
 TWe
 TBM
 Ti
@@ -6639,6 +6647,7 @@ Training
 Tuning
 Turn
 Texture
+TRS
 JP
 Ju
 JQ
@@ -7558,6 +7567,8 @@ Conveys
 Calculates
 Clamping
 Coordinates
+Calculate
+Currently
 cd
 ce
 cNCw
@@ -8311,6 +8322,8 @@ cosine
 calculations
 car
 consequences
+convention
+const
 kH
 ka
 kE
@@ -9354,6 +9367,8 @@ tuning
 trigonometry
 transparent
 tracer
+tearing
+tfile
 Bh
 Bda
 Br
@@ -9694,6 +9709,7 @@ BJh
 Bulb
 Bounces
 Beer
+Buffering
 ZY
 Zu
 ZzJ
@@ -10630,6 +10646,7 @@ Weight
 Weights
 WDN
 Without
+Walk
 uC
 uIOs
 uq
@@ -11777,6 +11794,8 @@ Vibration
 Varying
 View
 VBO
+VSync
+VRAM
 Mz
 MR
 Mc
@@ -12684,6 +12703,9 @@ Shader
 Spinning
 Shadow
 Snell
+Scanline
+Setup
+Sunday
 aQ
 ag
 aZ
@@ -13266,6 +13288,10 @@ artists
 attenuated
 arriving
 animation
+affine
+await
+app
+adapter
 wE
 wU
 wF
@@ -13875,6 +13901,8 @@ vAH
 vMNN
 volume
 volumes
+visibility
+vault
 Ny
 Ngl
 Nz
@@ -16169,6 +16197,7 @@ empirical
 emit
 existant
 expands
+excludes
 lD
 le
 lgAg
@@ -16544,6 +16573,7 @@ lexicographically
 lBB
 likelihood
 lighting
+lights
 Ho
 Hf
 HdS
@@ -16856,6 +16886,8 @@ Highlights
 Halfway
 HTTT
 Hits
+Historically
+Homogenous
 FC
 FT
 FP
@@ -18302,6 +18334,7 @@ bounces
 brightest
 blF
 bones
+bone
 ED
 EXD
 Es
@@ -18681,6 +18714,7 @@ Electrical
 Extrapolate
 Euler
 EEEii
+Emit
 äq
 gh
 gCn
@@ -18995,6 +19029,7 @@ gDM
 generating
 gradients
 gathered
+getAbstractFileByPath
 Üfrpp
 ÜAv
 ÜK

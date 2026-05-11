@@ -41,7 +41,7 @@ If light comes from *behind* the surface, then $\cos \theta$ becomes negative. W
 ### Dot Product
 The dot of two normalised vectors gives the cosine of the angle between them. We therefore have:
 $$
-\text{Diffuse Colour}=\max\{ 0,\vec{N},\vec{L} \}\times\text{Light Colour}
+\text{Diffuse Colour}=\max\{ 0,\vec{N} \cdot\vec{L} \}\times\text{Light Colour}
 $$
 ## Formula
 We sum the three components to obtain the final result:

@@ -11,7 +11,7 @@ A **transformation** is an operation that changes the position, rotation, or sca
 Currently, three different operations are performed. This is inefficient for a graphics pipeline as they cannot be easily chained together. We can represent these operations as [[Linear Algebra|Matrices]].
 ## Simple 2D Matrices
 We can represent a 2D point $P$ as a vector $\begin{pmatrix}x\\ y\end{pmatrix}$.
-Under this system, there is no transformation matrix, as that is an affine 
+Under this system, there is no transformation matrix, as that is an affine transformation.
 ### Scaling
 $$
 \begin{pmatrix}
@@ -67,7 +67,7 @@ M_{\text{rotate}} = \begin{pmatrix}
 0 & 0 & 1
 \end{pmatrix}
 $$
-#### Transformation
+#### Translation
 $$
 M_{\text{translate}}=\begin{pmatrix}
 1 & 0 & t_{x} \\
