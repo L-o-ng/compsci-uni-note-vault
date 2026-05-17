@@ -1,5 +1,5 @@
 {
-  "vimMode": true,
+  "vimMode": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "Pictures",
   "useTab": true,
@@ -13,5 +13,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "openBehavior": ""
+  "openBehavior": "",
+  "livePreview": true
 }

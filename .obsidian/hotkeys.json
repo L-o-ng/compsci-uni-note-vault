@@ -1,3 +1,11 @@
 {
-  "obsidian-completr:completr-blacklist-current-word": []
+  "obsidian-completr:completr-blacklist-current-word": [],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
 }

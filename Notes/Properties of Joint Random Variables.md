@@ -1,4 +1,4 @@
-#notes 
+**#notes 
 ## Independence
 Let $X$ and $Y$ be two random variables (if discrete, with values in $R$ and $S$ respectively; if continuous, with values in $\mathbb{R}$). We say $X$ and $Y$ are independent if one of the following equivalent statements holds:
 $$

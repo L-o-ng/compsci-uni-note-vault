@@ -1,0 +1,11 @@
+{
+	"id": "fast-callout",
+	"name": "Fast Callout",
+	"version": "1.0.5",
+	"minAppVersion": "0.15.0",
+	"description": "Lets you create callouts faster.",
+	"author": "Vikramadhitya Kalahasthi",
+	"authorUrl": "https://github.com/vkalahas",
+	"fundingUrl": "https://example.com",
+	"isDesktopOnly": false
+}

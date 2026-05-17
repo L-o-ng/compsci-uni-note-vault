@@ -462,6 +462,7 @@ Placement
 Philosophies
 Phong
 Primes
+PDFs
 IHDR
 IDATx
 ID
@@ -848,6 +849,7 @@ Illumination
 Iooz
 IOR
 Indeterminate
+IBO
 yZ
 yC
 yU
@@ -1594,6 +1596,11 @@ iww
 ikkKIIA
 inequivalent
 indeterminacy
+interpolates
+indents
+introduces
+infers
+implicit
 qi
 qH
 qSr
@@ -2041,6 +2048,7 @@ XeILL
 XYYY
 XAAAHHH
 XPZZ
+XYZ
 dB
 do
 dK
@@ -2582,6 +2590,7 @@ driving
 discriminant
 dense
 deforming
+dents
 oL
 om
 oV
@@ -3324,6 +3333,7 @@ Rays
 Refraction
 Reflected
 Rotate
+Returns
 nR
 nW
 nT
@@ -4061,6 +4071,7 @@ flawed
 fake
 falloff
 folder
+fetches
 hO
 hf
 hA
@@ -5432,6 +5443,8 @@ Descriptive
 Discard
 Distant
 Diffuse
+Directions
+Duck
 sDK
 sk
 sz
@@ -6270,6 +6283,9 @@ summing
 shadow
 surprising
 squeezes
+solid
+silhouette
+statically
 TWe
 TBM
 Ti
@@ -6648,6 +6664,8 @@ Tuning
 Turn
 Texture
 TRS
+Typing
+Translator
 JP
 Ju
 JQ
@@ -8324,6 +8342,10 @@ car
 consequences
 convention
 const
+coverage
+checked
+conversions
+curried
 kH
 ka
 kE
@@ -8882,6 +8904,7 @@ Lossy
 Lighting
 Laplacian
 Ladner
+Looking
 tJ
 tf
 tR
@@ -9369,6 +9392,11 @@ transparent
 tracer
 tearing
 tfile
+texel
+tilt
+turned
+triplets
+tried
 Bh
 Bda
 Br
@@ -9710,6 +9738,8 @@ Bulb
 Bounces
 Beer
 Buffering
+Backward
+Bump
 ZY
 Zu
 ZzJ
@@ -10396,6 +10426,7 @@ mesh
 materials
 modulated
 maximising
+modulate
 WD
 WWx
 Wy
@@ -11326,6 +11357,7 @@ Activation
 Align
 Aspect
 Ambient
+Annotation
 KN
 KV
 KO
@@ -12171,6 +12203,8 @@ Maskless
 Marginals
 MVP
 Mip
+Modern
+Modulation
 SQl
 SkBl
 SK
@@ -12706,6 +12740,7 @@ Snell
 Scanline
 Setup
 Sunday
+Saturday
 aQ
 ag
 aZ
@@ -13292,6 +13327,8 @@ affine
 await
 app
 adapter
+atlas
+annotated
 wE
 wU
 wF
@@ -13621,6 +13658,7 @@ wavelength
 winding
 weaker
 wheel
+wrinkles
 vh
 vU
 vx
@@ -13903,6 +13941,7 @@ volume
 volumes
 visibility
 vault
+variances
 Ny
 Ngl
 Nz
@@ -14669,6 +14708,8 @@ Grayscale
 GPU
 GGIQ
 Garey
+Gradient
+Generalise
 xcb
 xa
 xX
@@ -15717,6 +15758,9 @@ radially
 refraction
 refracting
 recalculation
+rasteriser
+react
+remap
 ehO
 ef
 eWmI
@@ -16198,6 +16242,7 @@ emit
 existant
 expands
 excludes
+enlarged
 lD
 le
 lgAg
@@ -16574,6 +16619,8 @@ lBB
 likelihood
 lighting
 lights
+loose
+library
 Ho
 Hf
 HdS
@@ -18335,6 +18382,10 @@ brightest
 blF
 bones
 bone
+bumps
+bend
+bricks
+bright
 ED
 EXD
 Es
@@ -18715,6 +18766,7 @@ Extrapolate
 Euler
 EEEii
 Emit
+Explicit
 äq
 gh
 gCn
@@ -19030,6 +19082,7 @@ generating
 gradients
 gathered
 getAbstractFileByPath
+guarantees
 Üfrpp
 ÜAv
 ÜK

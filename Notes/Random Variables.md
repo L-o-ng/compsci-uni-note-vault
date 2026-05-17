@@ -5,7 +5,6 @@ A **random variable**, or *stochastic* variable, is a function that assigns a nu
 + An infinite sequence of different values $x_{1},x_{2},\dots$ which can be distinguished from each other.
 
 In simple words, a random variable $X$ is discrete if it has countably many values.
-
 ## Probability Distributions
 The **probability distribution** of a random variable $X$ describes the probabilities associated with each possible outcome of $X$.
 Let $X$ be a discrete random variable, with possible values $x_{1},x_{2},\dots,x_{n}$. Then, these values are associated with probabilities given by $P(X=x_{k})=f(x_{k}),\space k=1,2,\dots,n$

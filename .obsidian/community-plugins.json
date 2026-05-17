@@ -1,14 +1,14 @@
 [
   "obsidian-completr",
+  "customjs",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-excalidraw-plugin",
   "obsidian-latex-suite",
   "obsidian-functionplot",
-  "customjs",
-  "dataview",
-  "templater-obsidian",
-  "mermaid-tools",
-  "obsidian-style-settings",
-  "3d-graph",
   "obsidian-paste-image-rename",
-  "daily-note-navbar",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-style-settings",
+  "auto-correct-capitals",
+  "fast-callout"
 ]

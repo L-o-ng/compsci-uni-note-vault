@@ -1,0 +1,13 @@
+{
+  "triggerPrefix": ";",
+  "calloutNicknames": {
+    "qs": "question",
+    "abs": "abstract",
+    "im": "important",
+    "th": "theorem",
+    "pr": "proof",
+    "def": "definition",
+    "ex": "example",
+    "qo": "quote"
+  }
+}

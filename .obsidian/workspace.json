@@ -4,55 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b1bae522b9e80bb8",
+        "id": "3da0e4efb4f529df",
         "type": "tabs",
         "children": [
           {
-            "id": "2e24ac1ec207f640",
+            "id": "162aa5deebe14ff0",
             "type": "leaf",
             "state": {
-              "type": "3d_graph_view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "cc56c656c881590b",
-            "type": "leaf",
-            "state": {
-              "type": "3d_graph_view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3D-Graph"
-            }
-          },
-          {
-            "id": "5dfe6555c4eb59da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/11-05-2026.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "11-05-2026"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,55 +158,54 @@
   "left-ribbon": {
     "hiddenItems": {
       "graph:Open graph view": false,
-      "periodic-notes:Open today": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "3d-graph:3D Graph": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5dfe6555c4eb59da",
+  "active": "162aa5deebe14ff0",
   "lastOpenFiles": [
-    "Notes/Not Work.md",
-    "Daily Notes/10-05-2026.md",
-    "Daily Notes/11-05-2026.md",
-    "Notes/Bones in Animation.md",
-    "Templates/Template, Daily Note.md",
-    "Templates/startup.md",
-    "Notes/Conjunctive Normal Form.md",
+    "Notes/Year 1 Computer Science.md",
+    "Daily Notes/17-05-2026.md",
+    "Notes/Haskell.md",
+    "Notes/Traversables.md",
+    "Notes/Folds.md",
+    "Pictures/Folds 2.png",
+    "Pictures/Folds.png",
+    "Notes/Monads.md",
+    "Notes/Applicatives.md",
+    "Notes/Functors.md",
+    "Notes/Function Composition in Haskell.md",
+    "Notes/Higher Order Functions in Haskell.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/Classes in Haskell.md",
+    "Notes/Types in Haskell.md",
+    "Notes/Lazy Evaluation.md",
+    "Pictures/Lazy Evaluation 5-1.png",
+    "Pictures/Lazy Evaluation 5.png",
+    "Pictures/Lazy Evaluation 4.png",
+    "Pictures/Lazy Evaluation 3.png",
+    "Pictures/Lazy Evaluation 2.png",
+    "Pictures/Lazy Evaluation.png",
+    "Notes/Recursion in Haskell.md",
+    "Notes/Haskell Basics.md",
+    "Notes/Recursion.md",
+    "Notes/Functional Programming.md",
+    "Notes/Lambda Calculus.md",
+    "Daily Notes/16-05-2026.md",
+    "Notes/Programming Paradigms.md",
+    "Daily Notes/12-05-2026.md",
     "Notes/Computer Graphics.md",
-    "Daily Notes",
-    "Notes/2D Transformations in Graphics.md",
-    "Notes/3D Transformations in Graphics.md",
     "Notes/Blinn-Phong Lighting Model.md",
-    "Notes/Transformation Sequencing.md",
-    "Notes/Rendering Pipeline.md",
-    "Notes/Hardware Stages.md",
-    "Notes/Shaders.md",
-    "Notes/Careers.md",
-    "Notes/Ladner's Theorem and NP-Indeterminate Problems.md",
-    "Notes/Scene Management.md",
-    "Notes/Graph Theory.md",
-    "Notes/Particles.md",
+    "Notes/Geometry in Computer Graphics.md",
+    "Daily Notes/11-05-2026.md",
+    "Daily Notes",
     "Pictures/Particles.png",
-    "Notes/Advanced Normal-Maps.md",
-    "Notes/Untitled.md",
-    "Notes/Real-Time Shadows.md",
-    "Notes/Post-Processing.md",
     "Pictures/Post-Processing 1.png",
-    "Notes/Ray Tracing.md",
-    "Pictures/Ray Tracing Shading.png",
-    "Pictures/Ray Tracing and Blinn Phong.png",
-    "Pictures/Ray Tracing Sum.png",
-    "Pictures/Snell's Law.png",
-    "Pictures/Ray Tracing.png",
-    "Pictures/Concatenating Transforms.png",
-    "Notes/Simulating Lights.md",
-    "Pictures/Env Mapping.png",
-    "Pictures/Gradient Approx.png",
     "Daily Notes",
     "Notes/Untitled.base",
     "Problems with TCP",

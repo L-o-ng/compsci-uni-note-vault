@@ -1,6 +1,7 @@
 #topic 
 ## Notes
 + [[Lambda Calculus]]
++ [[Haskell]]
 + 
 
 ---

@@ -19,5 +19,5 @@ dz &= 1.0 \div \text{strength}
 \end{align}
 $$
 ### Normalisation and Mapping
-The raw gradient $(dx,dy,dz)$ is turned into a unit vector. can now remap the data to $(R,G,B)$.
+The raw gradient $(dx,dy,dz)$ is turned into a unit vector. We can now remap the data to $(R,G,B)$.
 A lower strength value increases $dz$, and so blue increases.
