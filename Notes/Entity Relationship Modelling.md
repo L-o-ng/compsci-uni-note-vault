@@ -59,3 +59,8 @@ We need a logical way to represent relationships: we can use **foreign keys**.
 + `*:*` relationship:
 	+ Create a **separate relation** with 2 foreign keys;
 		+ This can also be done in the ER model.
+## $n$-ary Relationships
+![[Higher degree relations.png]]
+We have a **diamond** labelled by the *name* of the relationship.
+![[Higher Degree Multiplicity.png]]
+We can **fix** two entities to find the multiplicity with respect to them.

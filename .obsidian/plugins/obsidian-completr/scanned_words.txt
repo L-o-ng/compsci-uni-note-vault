@@ -463,6 +463,9 @@ Philosophies
 Phong
 Primes
 PDFs
+Parametric
+Polymorphism
+Pcu
 IHDR
 IDATx
 ID
@@ -850,6 +853,9 @@ Iooz
 IOR
 Indeterminate
 IBO
+Instancing
+IPl
+Intractability
 yZ
 yC
 yU
@@ -1601,6 +1607,7 @@ indents
 introduces
 infers
 implicit
+innermost
 qi
 qH
 qSr
@@ -2591,6 +2598,8 @@ discriminant
 dense
 deforming
 dents
+declarations
+datatype
 oL
 om
 oV
@@ -2930,6 +2939,11 @@ outwards
 organise
 optimise
 occluded
+obey
+ourselves
+outermost
+overloaded
+obR
 RD
 Rpbr
 RJ
@@ -3334,6 +3348,9 @@ Refraction
 Reflected
 Rotate
 Returns
+RFf
+RAQMi
+RgggQ
 nR
 nW
 nT
@@ -3626,6 +3643,9 @@ nearer
 numerals
 normals
 nnnBB
+needing
+numeric
+nearly
 fg
 fU
 fk
@@ -4072,6 +4092,8 @@ fake
 falloff
 folder
 fetches
+functor
+forces
 hO
 hf
 hA
@@ -4442,6 +4464,8 @@ hits
 hlii
 hierarchical
 highlighted
+haskell
+hSJM
 pY
 pC
 pc
@@ -5019,6 +5043,16 @@ polygons
 painted
 painter
 projective
+parameterise
+polymorphic
+polymorphism
+prelude
+parametric
+pPwh
+pJk
+prV
+pqj
+possesses
 DQ
 DM
 DU
@@ -5445,6 +5479,7 @@ Distant
 Diffuse
 Directions
 Duck
+DPk
 sDK
 sk
 sz
@@ -6286,6 +6321,13 @@ squeezes
 solid
 silhouette
 statically
+suggests
+succeed
+supported
+substituability
+supertype
+subtypes
+subclass
 TWe
 TBM
 Ti
@@ -6666,6 +6708,7 @@ Texture
 TRS
 Typing
 Translator
+TJA
 JP
 Ju
 JQ
@@ -6894,6 +6937,7 @@ JPEG
 JmG
 JZq
 Johnson
+JDL
 zG
 zd
 zj
@@ -7587,6 +7631,8 @@ Clamping
 Coordinates
 Calculate
 Currently
+Composes
+CQJ
 cd
 ce
 cNCw
@@ -8346,6 +8392,12 @@ coverage
 checked
 conversions
 curried
+currying
+clearer
+constructors
+constructor
+constrain
+czw
 kH
 ka
 kE
@@ -8574,6 +8626,9 @@ kSe
 kfhh
 kolmogorov
 killed
+keyword
+keyboard
+kpX
 LL
 LN
 Lx
@@ -8905,6 +8960,7 @@ Lighting
 Laplacian
 Ladner
 Looking
+Lrr
 tJ
 tf
 tR
@@ -9397,6 +9453,8 @@ tilt
 turned
 triplets
 tried
+tuugeVVf
+tHm
 Bh
 Bda
 Br
@@ -9740,6 +9798,8 @@ Beer
 Buffering
 Backward
 Bump
+Booleans
+Bind
 ZY
 Zu
 ZzJ
@@ -9953,6 +10013,7 @@ ZUA
 ZLN
 ZIe
 ZJJ
+Zkdc
 mJ
 mM
 mL
@@ -10427,6 +10488,11 @@ materials
 modulated
 maximising
 modulate
+mmmm
+monad
+monadic
+mappable
+metric
 WD
 WWx
 Wy
@@ -10678,6 +10744,9 @@ Weights
 WDN
 Without
 Walk
+Wrapping
+WHNF
+WSK
 uC
 uIOs
 uq
@@ -10988,6 +11057,12 @@ unnecessary
 upscaling
 unpredictable
 undecided
+unicode
+uncurrying
+uppercase
+uiO
+uvl
+uxxH
 AI
 Az
 Ab
@@ -11358,6 +11433,9 @@ Align
 Aspect
 Ambient
 Annotation
+Applicative
+Applicatives
+Argument
 KN
 KV
 KO
@@ -11574,6 +11652,9 @@ Kevin
 Kolmogorov
 Ktp
 KcVF
+KVd
+KGP
+KZB
 VU
 VB
 Vt
@@ -12205,6 +12286,11 @@ MVP
 Mip
 Modern
 Modulation
+Monads
+MTX
+MEr
+MgKgi
+Metric
 SQl
 SkBl
 SK
@@ -12741,6 +12827,10 @@ Scanline
 Setup
 Sunday
 Saturday
+Safe
+Straightforward
+Strict
+Subtype
 aQ
 ag
 aZ
@@ -13329,6 +13419,9 @@ app
 adapter
 atlas
 annotated
+applicative
+applicatives
+atY
 wE
 wU
 wF
@@ -13659,6 +13752,9 @@ winding
 weaker
 wheel
 wrinkles
+wraps
+wMn
+wyy
 vh
 vU
 vx
@@ -13942,6 +14038,11 @@ volumes
 visibility
 vault
 variances
+vzz
+vQR
+vyc
+vtl
+versions
 Ny
 Ngl
 Nz
@@ -14230,6 +14331,8 @@ Near
 Normals
 Nez
 Nedd
+NGJ
+NOOo
 Yk
 YZ
 Yoj
@@ -14710,6 +14813,7 @@ GGIQ
 Garey
 Gradient
 Generalise
+GEf
 xcb
 xa
 xX
@@ -15189,6 +15293,8 @@ UFOO
 UUUT
 Undecidable
 UTTt
+UnB
+UEu
 rn
 rM
 rI
@@ -15761,6 +15867,8 @@ recalculation
 rasteriser
 react
 remap
+redexes
+regard
 ehO
 ef
 eWmI
@@ -16243,6 +16351,12 @@ existant
 expands
 excludes
 enlarged
+elem
+extracted
+elegant
+encapsulating
+exceptional
+encapsulate
 lD
 le
 lgAg
@@ -16621,6 +16735,7 @@ lighting
 lights
 loose
 library
+lazily
 Ho
 Hf
 HdS
@@ -16935,6 +17050,7 @@ HTTT
 Hits
 Historically
 Homogenous
+Hoc
 FC
 FT
 FP
@@ -17230,6 +17346,9 @@ FOV
 Far
 Flat
 FwX
+Functors
+FQttt
+FgE
 jY
 jx
 jRg
@@ -17457,6 +17576,8 @@ jggW
 junctions
 junction
 jXW
+jUi
+jUJ
 Ow
 Osg
 OguH
@@ -18386,6 +18507,7 @@ bumps
 bend
 bricks
 bright
+binding
 ED
 EXD
 Es
@@ -18767,6 +18889,8 @@ Euler
 EEEii
 Emit
 Explicit
+EcL
+EQdlQ
 äq
 gh
 gCn
@@ -19083,6 +19207,9 @@ gradients
 gathered
 getAbstractFileByPath
 guarantees
+generically
+gFqmA
+gzh
 Üfrpp
 ÜAv
 ÜK
