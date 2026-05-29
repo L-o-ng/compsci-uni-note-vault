@@ -1,10 +1,23 @@
 #daily-note
 
-<< [[<% tp.date.now("DD-MM-YYYY", -1) %>|Previous]] | <% moment(tp.file.title,'DD-MM-YYYY').format("dddd, MMMM DD, YYYY") %> | [[<% tp.date.now("DD-MM-YYYY", 1) %>|Next]] >>
+<%*
+const nav = customJS.DailyNoteNav;
+const currentTitle = tp.file.title;
+
+const { prev, next } = nav.getNeighbours(app, currentTitle);
+await nav.patchPrevNoteNext(app, prev, currentTitle);
+
+const prevLink = prev ? "[[" + prev + "|Previous]]" : "Previous";
+const nextLink = next ? "[[" + next + "|Next]]" : "Next";
+
+const displayDate = moment(currentTitle, 'DD-MM-YYYY').format("dddd, MMMM DD, YYYY");
+
+tR += "<< " + prevLink + " | " + displayDate + " | " + nextLink + " >>";
+%>
 
 ---
-## 📒 Notes
-+ <% tp.file.cursor() %>
+## 📝 Notes
+- <% tp.file.cursor() %>
 
 ---
 ### Notes created today

@@ -1,0 +1,3 @@
+#notes 
+
+![[Block Diagrams.png]]
