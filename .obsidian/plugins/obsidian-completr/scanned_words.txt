@@ -5875,6 +5875,8 @@ Delivery
 Distribute
 Desription
 Deviation
+Decrease
+Dijkstra
 sDK
 sk
 sz
@@ -6776,6 +6778,9 @@ savepoints
 serialisation
 stale
 stratum
+sell
+subarray
+subarrays
 TWe
 TBM
 Ti
@@ -7430,6 +7435,7 @@ JKJ
 JJj
 JeHH
 JJK
+June
 zG
 zd
 zj
@@ -8179,6 +8185,7 @@ Calls
 Crashed
 Cause
 Crash
+Crossing
 cd
 ce
 cNCw
@@ -9266,6 +9273,7 @@ kllLLLT
 kWMM
 kGGGE
 kKg
+knew
 LL
 LN
 Lx
@@ -10147,6 +10155,7 @@ transactional
 totally
 transient
 temporary
+transportation
 Bh
 Bda
 Br
@@ -11254,6 +11263,7 @@ migration
 mimics
 mimicked
 meeting
+midpoint
 WD
 WWx
 Wy
@@ -13761,6 +13771,7 @@ Significantly
 Stratum
 Sender
 Sloppy
+Subarrays
 aQ
 ag
 aZ
@@ -15050,6 +15061,7 @@ vital
 victims
 virtualisation
 vCPU
+volatile
 Ny
 Ngl
 Nz
@@ -17007,6 +17019,9 @@ resilience
 renting
 rent
 recovered
+relaxing
+relaxes
+relaxed
 ehO
 ef
 eWmI
@@ -19804,6 +19819,7 @@ backups
 byzantine
 balancer
 bug
+buy
 ED
 EXD
 Es
@@ -20210,6 +20226,7 @@ Estimation
 Estimating
 Ease
 Eventual
+Entirely
 äq
 gh
 gCn

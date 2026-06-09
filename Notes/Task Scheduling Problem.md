@@ -3,7 +3,6 @@
 We are given a set $T$ of $n$ tasks. Each task $i$ has a start time $s_{i}$ and a finish time $f_{i}$.
 Every task is to be performed on a machine; every machine can only execute one task at a time. Two tasks $i,j$ can be scheduled on the same machine only if they are **non-conflicting**.
 We want to schedule all tasks using the **smallest** number of machines.
-
 ```mermaid
 gantt
 	dateFormat ss

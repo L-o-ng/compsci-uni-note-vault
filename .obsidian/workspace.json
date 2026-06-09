@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "976b4876937f0db3",
+            "id": "251ae10cc2079010",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algorithms and Complexity.md",
+                "file": "Daily Notes/07-06-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Algorithms and Complexity"
+              "title": "07-06-2026"
             }
           }
         ]
@@ -181,34 +181,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "976b4876937f0db3",
+  "active": "251ae10cc2079010",
   "lastOpenFiles": [
-    "Notes/Master Theorem.md",
-    "Notes/Algorithms and Complexity.md",
-    "Notes/The Vertex Cover Problem.md",
-    "Notes/The Ford-Fulkerson Algorithm.md",
-    "Notes/Models of Computation.md",
     "Notes/NP-Completeness.md",
+    "Daily Notes/07-06-2026.md",
     "Notes/Complexity Classes.md",
-    "Notes/Theory of Computation.md",
-    "Notes/Advanced Databases.md",
-    "Notes/Distributed Systems.md",
-    "Notes/Distributed Consistency.md",
-    "Notes/Distributed Fault Tolerance.md",
-    "Notes/Linearisability.md",
-    "Notes/Distributed Concurrency Control.md",
-    "Notes/Load Distributing.md",
-    "Notes/Receiver-Initiated Distribution.md",
-    "Notes/Sender-Initiated Distribution.md",
-    "Notes/Idle Queues.md",
-    "Notes/Power of D Balancing.md",
-    "Notes/Adaptive Distribution.md",
-    "Notes/Symmetric Distribution.md",
-    "Notes/Network Time Protocol.md",
-    "Notes/Active and Passive Replication.md",
-    "Notes/Replication.md",
-    "Notes/Virtualisation.md",
-    "Notes/Locking.md",
+    "Notes/Certificates and Verifiers.md",
+    "Notes/Polynomial Time Reducibility.md",
+    "Notes/NP.md",
+    "Notes/P.md",
+    "Notes/Linear Algebra.md",
+    "Notes/The Gram-Schmidt Process.md",
+    "Notes/Matrix Decomposition.md",
+    "Notes/LU Decomposition.md",
+    "Notes/QR Decomposition.md",
+    "Notes/Eigendecomposition.md",
+    "Notes/Principal Component Analysis.md",
+    "Notes/Eigenvectors and Eigenvalues.md",
+    "Notes/Single Maths A.md",
+    "Notes/Complex Numbers.md",
+    "Notes/Transcendental Equations.md",
+    "Notes/Trigonometry.md",
+    "Notes/Main Trigonometric Functions.md",
+    "Notes/Arc Lengths and Angles.md",
+    "Notes/Summations.md",
+    "Notes/Integration.md",
+    "Notes/Euler-Gamma Function.md",
+    "Notes/Integrating Rational Functions.md",
+    "Notes/Integrating Hard Trigonometric Functions.md",
     "Pictures/Distributed Fault Recovery-2.png",
     "Pictures/Distributed Fault Recovery-1.png",
     "Pictures/Distributed Fault Recovery.png",

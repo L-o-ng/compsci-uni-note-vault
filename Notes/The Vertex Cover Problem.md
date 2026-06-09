@@ -4,6 +4,7 @@ See first: [[The Matching Problem]]
 
 Suppose you have only a small number of cameras which you want to place at road junctions (vertices) in a city to that every road is covered.
 ![[Vertex Cover 1.png]]
+
 A **vertex cover** of a graph $G=(V,E)$ is a set $S \subseteq V$ so that each edge of $G$ has at least one end-vertex in $S$. The **vertex cover number** $\tau_{G}$ is the size of a **smallest** vertex cover of $G$. Our problem is in determining this number.
 ## Computing $\tau_{G}$
 Computing $\tau_{G}$ for any graph is NP-hard. However, this may change if we restrict the input to some class of graphs.
