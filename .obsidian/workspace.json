@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "03eb7fd5ca663840",
+        "id": "4d2ee492d257087c",
         "type": "tabs",
         "children": [
           {
-            "id": "251ae10cc2079010",
+            "id": "936801639482f75e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/07-06-2026.md",
+                "file": "Notes/Year 3 Computer Science.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07-06-2026"
+              "title": "Year 3 Computer Science"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,34 +183,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "251ae10cc2079010",
+  "active": "936801639482f75e",
   "lastOpenFiles": [
-    "Notes/NP-Completeness.md",
-    "Daily Notes/07-06-2026.md",
-    "Notes/Complexity Classes.md",
-    "Notes/Certificates and Verifiers.md",
-    "Notes/Polynomial Time Reducibility.md",
-    "Notes/NP.md",
-    "Notes/P.md",
-    "Notes/Linear Algebra.md",
-    "Notes/The Gram-Schmidt Process.md",
-    "Notes/Matrix Decomposition.md",
-    "Notes/LU Decomposition.md",
-    "Notes/QR Decomposition.md",
-    "Notes/Eigendecomposition.md",
-    "Notes/Principal Component Analysis.md",
-    "Notes/Eigenvectors and Eigenvalues.md",
-    "Notes/Single Maths A.md",
-    "Notes/Complex Numbers.md",
-    "Notes/Transcendental Equations.md",
-    "Notes/Trigonometry.md",
-    "Notes/Main Trigonometric Functions.md",
-    "Notes/Arc Lengths and Angles.md",
-    "Notes/Summations.md",
-    "Notes/Integration.md",
-    "Notes/Euler-Gamma Function.md",
-    "Notes/Integrating Rational Functions.md",
-    "Notes/Integrating Hard Trigonometric Functions.md",
+    "Notes/Advanced Computer Systems.md",
+    "Notes/Year 3 Computer Science.md",
+    "Notes/Bioinformatics and Natural Computing Algorithms.md",
+    "Notes/Cryptography.md",
+    "Notes/Digital Humanities.md",
+    "Notes/Interactive Media.md",
+    "Notes/Dissertation.md",
+    "Notes/Data Transformation.md",
+    "Notes/Applied Cryptography.md",
+    "Notes/Year 4 Computer Science.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/Year 1 Computer Science.md",
+    "Daily Notes/23-09-2026.md",
+    "Daily Notes/25-08-2026.md",
+    "Daily Notes/22-08-2026.md",
+    "Daily Notes/19-08-2026.md",
+    "Daily Notes/08-08-2026.md",
+    "Daily Notes/02-08-2026.md",
+    "Daily Notes/23-07-2026.md",
+    "Daily Notes/22-07-2026.md",
+    "Daily Notes/02-07-2026.md",
+    "Daily Notes/12-06-2026.md",
+    "Daily Notes/24-05-2026.md",
+    "Daily Notes/20-05-2026.md",
+    "Daily Notes/18-05-2026.md",
+    "Daily Notes/25-05-2026.md",
     "Pictures/Distributed Fault Recovery-2.png",
     "Pictures/Distributed Fault Recovery-1.png",
     "Pictures/Distributed Fault Recovery.png",
