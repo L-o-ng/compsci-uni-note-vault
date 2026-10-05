@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Year 1 Computer Science.md",
+                "file": "Notes/Protein Folding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Year 1 Computer Science"
+              "title": "Protein Folding"
+            }
+          },
+          {
+            "id": "8164c3d492b04110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NP-Completeness.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NP-Completeness"
             }
           }
         ]
@@ -185,8 +209,15 @@
   },
   "active": "936801639482f75e",
   "lastOpenFiles": [
-    "Notes/Year 2 Computer Science.md",
+    "Pictures/Protein Folding 1.png",
+    "Notes/Phylogenetic Tree Construction.md",
+    "Notes/Protein Folding.md",
+    "Notes/Sequence Alignment.md",
+    "Pictures/Sequence Alignment 1.png",
+    "Notes/Bioinformatics and Natural Computing Algorithms.md",
+    "Notes/NP-Completeness.md",
     "Notes/Year 3 Computer Science.md",
+    "Notes/Year 2 Computer Science.md",
     "Notes/Year 1 Computer Science.md",
     "Daily Notes/23-09-2026.md",
     "Notes/Matrix Dimensional Space and Rank.md",
@@ -205,12 +236,6 @@
     "Daily Notes/20-05-2026.md",
     "Daily Notes/31-05-2026.md",
     "Daily Notes/17-06-2026.md",
-    "Daily Notes/08-08-2026.md",
-    "Daily Notes/25-09-2026.md",
-    "Templates/Template, Note.md",
-    "Templates/Template, Daily Note.md",
-    "Notes/NP-Completeness.md",
-    "Notes/Complexity Classes.md",
     "Pictures/Distributed Fault Recovery-2.png",
     "Pictures/Distributed Fault Recovery-1.png",
     "Pictures/Distributed Fault Recovery.png",
@@ -223,7 +248,6 @@
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",
-    "Pictures/Network Time Protocol.png",
     "Daily Notes",
     "Daily Notes",
     "Notes/Untitled.base",
