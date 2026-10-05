@@ -11,9 +11,19 @@
             "id": "936801639482f75e",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1225f5c0e44f3d0f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Year 1 Computer Science.md",
+                "file": "Notes/Into The Maze.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Year 1 Computer Science"
+              "title": "Into The Maze"
             }
           }
         ]
@@ -186,8 +196,20 @@
   "active": "936801639482f75e",
   "lastOpenFiles": [
     "Notes/Year 2 Computer Science.md",
-    "Notes/Year 3 Computer Science.md",
+    "Notes/Into The Maze.md",
+    "Notes/ITM - Statuses.md",
+    "Notes/ITM - Meters.md",
     "Notes/Year 1 Computer Science.md",
+    "Notes/Not Work.md",
+    "Notes/Root.md",
+    "Daily Notes/05-10-2026.md",
+    "Daily Notes/23-07-2026.md",
+    "Daily Notes/02-08-2026.md",
+    "Daily Notes/22-07-2026.md",
+    "Notes/Web Services.md",
+    "Notes/Transactions.md",
+    "Notes/NP-Completeness.md",
+    "Notes/Year 3 Computer Science.md",
     "Daily Notes/23-09-2026.md",
     "Notes/Matrix Dimensional Space and Rank.md",
     "Notes/Number Systems.md",
@@ -199,18 +221,6 @@
     "Notes/Dynamic Range.md",
     "Notes/Non-Deterministic Time Complexity.md",
     "Notes/Canvas.md",
-    "Notes/Lazy Evaluation.md",
-    "Notes/Multiversion Timestamps.md",
-    "Notes/Sagas.md",
-    "Daily Notes/20-05-2026.md",
-    "Daily Notes/31-05-2026.md",
-    "Daily Notes/17-06-2026.md",
-    "Daily Notes/08-08-2026.md",
-    "Daily Notes/25-09-2026.md",
-    "Templates/Template, Note.md",
-    "Templates/Template, Daily Note.md",
-    "Notes/NP-Completeness.md",
-    "Notes/Complexity Classes.md",
     "Pictures/Distributed Fault Recovery-2.png",
     "Pictures/Distributed Fault Recovery-1.png",
     "Pictures/Distributed Fault Recovery.png",

@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": true,
+  "showTags": true,
+  "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": false,
@@ -62,18 +62,32 @@
         "a": 1,
         "rgb": 10279446
       }
+    },
+    {
+      "query": "tag:#centre  ",
+      "color": {
+        "a": 1,
+        "rgb": 382463
+      }
+    },
+    {
+      "query": "tag:#itm  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.45260416666667,
-  "lineSizeMultiplier": 0.559375,
+  "lineSizeMultiplier": 0.255020632737277,
   "collapse-forces": false,
   "centerStrength": 0.348958333333333,
   "repelStrength": 12.2916666666667,
   "linkStrength": 1,
   "linkDistance": 248,
-  "scale": 0.15952382452568978,
-  "close": false
+  "scale": 0.20470841482527832,
+  "close": true
 }
