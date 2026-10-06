@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "936801639482f75e",
+            "id": "6d4a4e30b5e60bd6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Introduction to Project Preparation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Project Preparation"
             }
           }
         ]
@@ -77,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "de83557098a9fda5",
@@ -170,11 +185,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "936801639482f75e",
+  "active": "6d4a4e30b5e60bd6",
   "lastOpenFiles": [
+    "Notes/Project Preparation.md",
+    "Notes/Introduction to Project Preparation.md",
+    "Notes/Dissertation.md",
+    "Notes/Year 3 Computer Science.md",
+    "Notes/Year 4 Computer Science.md",
+    "Notes/Year 2 Computer Science.md",
+    "Notes/Year 1 Computer Science.md",
+    "Notes/Interactive Media.md",
+    "Notes/Image Representation.md",
+    "Notes/Image Processing.md",
+    "Notes/Image Transforms.md",
+    "Notes/2D Transformations in Graphics.md",
+    "Notes/Computer Graphics.md",
+    "Notes/ITM - Meters.md",
     "Notes/MIPS.md",
     "Notes/A Knight's Tour.md",
-    "Notes/Image Processing.md",
     "Notes/Advanced Computer Systems.md",
     "Notes/Processor and Pipeline Fundamentals.md",
     "Notes/Pipeline Hazards.md",
@@ -193,21 +221,8 @@
     "Pictures/Pipeline Hazards-4.png",
     "Pictures/Pipeline Hazards-3.png",
     "Pictures/Pipeline Hazards-2.png",
-    "Notes/Year 3 Computer Science.md",
     "Daily Notes/06-10-2026.md",
-    "Notes/ITM - Meters.md",
-    "Notes/Year 2 Computer Science.md",
     "Notes/Into The Maze.md",
-    "Notes/ITM - Statuses.md",
-    "Notes/Year 1 Computer Science.md",
-    "Notes/Not Work.md",
-    "Notes/Root.md",
-    "Daily Notes/05-10-2026.md",
-    "Daily Notes/23-07-2026.md",
-    "Daily Notes/02-08-2026.md",
-    "Daily Notes/22-07-2026.md",
-    "Notes/Web Services.md",
-    "Notes/Transactions.md",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",

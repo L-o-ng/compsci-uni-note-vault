@@ -13,6 +13,8 @@
 + [[Careers]]
 + [[LaTeX Command Definitions]]
 + [[Gaslighting]]
++ [[Not Work]]
++ [[Into The Maze]]
 
 Callouts used:
 >[!question]
