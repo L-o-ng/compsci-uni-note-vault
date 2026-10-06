@@ -11,24 +11,10 @@
             "id": "936801639482f75e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Advanced Computer Systems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Advanced Computer Systems"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -65,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timestomp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +72,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,14 +172,20 @@
   },
   "active": "936801639482f75e",
   "lastOpenFiles": [
-    "Notes/Branch Prediction.md",
-    "Notes/Dynamic Branch Prediction.md",
-    "Pictures/Dynamic Branch Prediction-2.png",
-    "Pictures/Dynamic Branch Prediction-1.png",
-    "Pictures/Dynamic Branch Prediction.png",
+    "Notes/MIPS.md",
+    "Notes/A Knight's Tour.md",
+    "Notes/Image Processing.md",
     "Notes/Advanced Computer Systems.md",
     "Notes/Processor and Pipeline Fundamentals.md",
     "Notes/Pipeline Hazards.md",
+    "Notes/Dark Silicon.md",
+    "Notes/Branch Prediction.md",
+    "Notes/Dynamic Branch Prediction.md",
+    "Notes/Microarchitectural Constraints.md",
+    "Notes/Dennard Scaling.md",
+    "Pictures/Dynamic Branch Prediction-2.png",
+    "Pictures/Dynamic Branch Prediction-1.png",
+    "Pictures/Dynamic Branch Prediction.png",
     "Pictures/Pipeline Hazards-8.png",
     "Pictures/Pipeline Hazards-7.png",
     "Pictures/Pipeline Hazards-6.png",
@@ -200,10 +193,6 @@
     "Pictures/Pipeline Hazards-4.png",
     "Pictures/Pipeline Hazards-3.png",
     "Pictures/Pipeline Hazards-2.png",
-    "Notes/MIPS.md",
-    "Notes/Dark Silicon.md",
-    "Notes/Microarchitectural Constraints.md",
-    "Notes/Dennard Scaling.md",
     "Notes/Year 3 Computer Science.md",
     "Daily Notes/06-10-2026.md",
     "Notes/ITM - Meters.md",
@@ -219,7 +208,6 @@
     "Daily Notes/22-07-2026.md",
     "Notes/Web Services.md",
     "Notes/Transactions.md",
-    "Notes/NP-Completeness.md",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",

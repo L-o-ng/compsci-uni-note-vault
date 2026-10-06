@@ -503,6 +503,9 @@ Privileged
 Polled
 Procedural
 Pressure
+Promise
+Predictor
+Planned
 IHDR
 IDATx
 ID
@@ -1152,6 +1155,7 @@ yii
 yCG
 yyyyyyv
 youre
+yielding
 iv
 ic
 iXl
@@ -2811,6 +2815,9 @@ dashboards
 doubling
 delivering
 drive
+densities
+dim
+diminishing
 oL
 om
 oV
@@ -3626,6 +3633,7 @@ Responses
 Range
 Radiation
 Recommended
+Revolution
 nR
 nW
 nT
@@ -3936,6 +3944,8 @@ notification
 notifies
 nearby
 nominal
+nanometer
+nextinstruction
 fg
 fU
 fk
@@ -4411,6 +4421,7 @@ fluctuating
 ford
 fat
 frequencies
+fetched
 hO
 hf
 hA
@@ -4799,6 +4810,7 @@ hide
 hooks
 hook
 handles
+hotspots
 pY
 pC
 pc
@@ -5429,6 +5441,10 @@ paint
 prohibitive
 penalties
 powered
+predict
+predictor
+peak
+pivoted
 DQ
 DM
 DU
@@ -6807,6 +6823,15 @@ stratum
 sell
 subarray
 subarrays
+subthreshold
+skyrocket
+stall
+severe
+spend
+sleep
+stalled
+situations
+stalls
 TWe
 TBM
 Ti
@@ -7225,6 +7250,8 @@ Temperature
 Thirst
 Tendency
 TDP
+Target
+Through
 JP
 Ju
 JQ
@@ -7468,6 +7495,7 @@ JeHH
 JJK
 June
 July
+Joules
 zG
 zd
 zj
@@ -8220,6 +8248,7 @@ Crash
 Crossing
 CPI
 Convention
+Correlating
 cd
 ce
 cNCw
@@ -9061,6 +9090,8 @@ checksums
 causally
 causality
 chp
+ceased
+complexes
 kH
 ka
 kE
@@ -9663,6 +9694,7 @@ Loss
 Less
 Leg
 Latency
+Lunch
 tJ
 tf
 tR
@@ -10196,6 +10228,10 @@ transportation
 tone
 thermal
 targets
+temperatures
+throttled
+throtling
+thermally
 Bh
 Bda
 Br
@@ -11309,6 +11345,8 @@ midpoint
 maze
 microarchitecture
 miniaturisation
+margins
+multiprocessors
 WD
 WWx
 Wy
@@ -11585,6 +11623,8 @@ Web
 WSDL
 Workload
 WFG
+Wall
+Watt
 uC
 uIOs
 uq
@@ -12333,6 +12373,7 @@ Addiction
 Adrenaline
 Advanced
 ALUOp
+Architectural
 KN
 KV
 KO
@@ -13247,6 +13288,9 @@ MTBF
 Meters
 Mazification
 Malvino
+MOSFET
+Mega
+Multicore
 SQl
 SkBl
 SK
@@ -13832,6 +13876,9 @@ Scoreboards
 Stomach
 Sanity
 Stamina
+Shrinking
+Structural
+Shuffling
 aQ
 ag
 aZ
@@ -14461,6 +14508,8 @@ appliance
 apps
 adaptively
 annual
+accelerators
+architect
 wE
 wU
 wF
@@ -14815,6 +14864,7 @@ wdddrr
 wastage
 weakening
 wave
+wall
 vh
 vU
 vx
@@ -17085,6 +17135,7 @@ relaxing
 relaxes
 relaxed
 rode
+runaway
 ehO
 ef
 eWmI
@@ -18343,6 +18394,8 @@ Halts
 HUGE
 Health
 Hunger
+History
+Heterogeneous
 FC
 FT
 FP
@@ -18667,6 +18720,8 @@ Fails
 Frailty
 Future
 Funct
+Forced
+Fall
 jY
 jx
 jRg
@@ -19893,6 +19948,7 @@ balancer
 bug
 buy
 backing
+bubbles
 ED
 EXD
 Es
@@ -20302,6 +20358,8 @@ Eventual
 Entirely
 Energy
 EDP
+Era
+Extinction
 äq
 gh
 gCn
@@ -20639,6 +20697,7 @@ guidelines
 grc
 getNeighbours
 gradually
+gating
 Üfrpp
 ÜAv
 ÜK
