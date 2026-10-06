@@ -935,6 +935,8 @@ Incoming
 ISPs
 Idle
 Immunity
+Iron
+IPC
 yZ
 yC
 yU
@@ -2807,6 +2809,8 @@ deployment
 diversity
 dashboards
 doubling
+delivering
+drive
 oL
 om
 oV
@@ -3621,6 +3625,7 @@ Recieve
 Responses
 Range
 Radiation
+Recommended
 nR
 nW
 nT
@@ -3930,6 +3935,7 @@ nominate
 notification
 notifies
 nearby
+nominal
 fg
 fU
 fk
@@ -4404,6 +4410,7 @@ faulty
 fluctuating
 ford
 fat
+frequencies
 hO
 hf
 hA
@@ -5419,6 +5426,9 @@ polled
 parity
 pooooooookiieee
 paint
+prohibitive
+penalties
+powered
 DQ
 DM
 DU
@@ -7214,6 +7224,7 @@ Thorax
 Temperature
 Thirst
 Tendency
+TDP
 JP
 Ju
 JQ
@@ -8207,6 +8218,8 @@ Crashed
 Cause
 Crash
 Crossing
+CPI
+Convention
 cd
 ce
 cNCw
@@ -9047,6 +9060,7 @@ councils
 checksums
 causally
 causality
+chp
 kH
 ka
 kE
@@ -9648,6 +9662,7 @@ Lms
 Loss
 Less
 Leg
+Latency
 tJ
 tf
 tR
@@ -10179,6 +10194,8 @@ transient
 temporary
 transportation
 tone
+thermal
+targets
 Bh
 Bda
 Br
@@ -10557,6 +10574,7 @@ Backups
 Backend
 Behaviour
 Blood
+Building
 ZY
 Zu
 ZzJ
@@ -11289,6 +11307,8 @@ mimicked
 meeting
 midpoint
 maze
+microarchitecture
+miniaturisation
 WD
 WWx
 Wy
@@ -12311,6 +12331,8 @@ August
 Arm
 Addiction
 Adrenaline
+Advanced
+ALUOp
 KN
 KV
 KO
@@ -13224,6 +13246,7 @@ Monitor
 MTBF
 Meters
 Mazification
+Malvino
 SQl
 SkBl
 SK
@@ -14437,6 +14460,7 @@ agreement
 appliance
 apps
 adaptively
+annual
 wE
 wU
 wF
@@ -14790,6 +14814,7 @@ wff
 wdddrr
 wastage
 weakening
+wave
 vh
 vU
 vx
@@ -17059,6 +17084,7 @@ recovered
 relaxing
 relaxes
 relaxed
+rode
 ehO
 ef
 eWmI
@@ -18640,6 +18666,7 @@ Frontend
 Fails
 Frailty
 Future
+Funct
 jY
 jx
 jRg
@@ -19170,6 +19197,7 @@ Omission
 Overhead
 Offered
 Oxygen
+Opcode
 QiG
 QFJ
 QUR
@@ -20272,6 +20300,8 @@ Estimating
 Ease
 Eventual
 Entirely
+Energy
+EDP
 äq
 gh
 gCn
