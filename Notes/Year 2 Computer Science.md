@@ -9,6 +9,12 @@
 + [[Software Engineering]]
 + [[Data Science]]
 + [[Computer Science Year 2 Practicals]]
+## Other
++ [[Careers]]
++ [[LaTeX Command Definitions]]
++ [[Gaslighting]]
++ [[Not Work]]
++ [[Into The Maze]]
 ## Coursework
 
 | Coursework                | Due Date | Status |

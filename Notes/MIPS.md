@@ -27,7 +27,7 @@ In this example, it is assumed that:
 `beq $s1, $s2, m` : if `$s1 = $s2` then go to memory location `m`.
 `slt $s1, $s2, $s3` : if  `$s2 < $s3` then `$s1` takes the value 1, else 0.
 `j m` : jump to memory location `m`.
-### I-Type Instructions.
+### I-Type Instructions
 An **I-Type** instruction has the following format:
 + 6-bit opcode.
 + 5-bit Rs.
@@ -63,3 +63,54 @@ Where:
 + address is the memory location to jump to.
 #### Example
 `j 8` in machine code is `000010 00000000000000000000001000`.
+# Advanced
+![[MIPS.png]]
+Here, the first [[Adder]] is to executed instructions in sequence, and the second for [[#J-Type Instructions]].
+## Logic Design Convention
++ *Combinational* logic vs *Sequential* logic;
++ **Control Signals**: Signals used for multiplexor selection/driving operation of functional units;
++ **Data Signals**: contain information that is operated on by a functional unit.
+## Building a Single Cycle Datapath
+![[MIPS-1.png]]
+![[MIPS-2.png]]
+### ALU Control
+
+| ALU Control Lines | Function         |
+| ----------------- | ---------------- |
+| `0000`              | `AND`              |
+| `0001`              | `OR`               |
+| `0010`              | `add`              |
+| `0110`              | `subtract`         |
+| `0111`              | `set on less than` |
+| `1100`              | `NOR`              |
+
+| Opcode | ALUOp | Operation        | Funct Field | ALU Action       | ALU Control Input |
+| ------ | ----- | ---------------- | ----------- | ---------------- | ----------------- |
+| `LW`     | `00`    | `Load Word`        | `XXXXXX`      | `add`              | `0010`              |
+| `SW`     | `00`    | `Store Word`       | `XXXXXX`      | `add`              | `0010`              |
+| `BEQ`    | `01`    | `Branch Equal`     | `XXXXXX`      | `subtract`         | `0110`              |
+| `R-Type` | `10`    | `add`              | `100000`      | `add`              | `0010`              |
+| `R-Type` | `10`    | `subtract`         | `100010`      | `subtract`         | `0110`              |
+| `R-Type` | `10`    | `AND`              | `100100`      | `AND`              | `0000`              |
+| `R-Type` | `10`    | `OR`               | `100101`      | `OR`               | `0001`              |
+| `R-Type` | `10`    | `Set on less than` | `101010`      | `Set on less than` | `0111`              |
+
+### Instruction Classes
+See [[#I-Type Instructions]], [[#R-Type Instructions]], [[#J-Type Instructions]].
+### Overview
+![[MIPS-3.png]]
+![[MIPS-4.png]]
+## Performance
+$$
+t_{\text{pipelined}}=\frac{t_{\text{nonpipelined}}}{p}
+$$
+where $p$ is the number of pipeline stages.
+
+| Instruction Class | Fetch | Read  | ALU   | Data Access | Write | Total Time |
+| ----------------- | ----- | ----- | ----- | ----------- | ----- | ---------- |
+| `lw`                | `200ps` | `100ps` | `200ps` | `200ps`       | `100ps` | `800ps`      |
+| `sw`                | `200ps` | `100ps` | `200ps` | `200ps`       |       | `700ps`      |
+| `R-type`            | `200ps` | `100ps` | `200ps` |             | `100ps` | `600ps`      |
+| `beq`               | `200ps` | `100ps` | `200ps` |             |       | `500ps`      |
+![[MIPS-5.png]]
+Here we perform register writes first then all register reads, to avoid conflicts within the cycle.
