@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2ee492d257087c",
+        "id": "be52ba329f6a7cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4a4e30b5e60bd6",
+            "id": "1e9b1eb58bc48729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Introduction to Project Preparation.md",
+                "file": "Notes/Digital Humanities.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Introduction to Project Preparation"
+              "title": "Digital Humanities"
+            }
+          },
+          {
+            "id": "4c5c44132971d04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Year 1 Computer Science.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Year 1 Computer Science"
             }
           }
         ]
@@ -81,13 +105,15 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,32 +211,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6d4a4e30b5e60bd6",
+  "active": "1e9b1eb58bc48729",
   "lastOpenFiles": [
-    "Notes/Project Preparation.md",
-    "Notes/Introduction to Project Preparation.md",
-    "Notes/Dissertation.md",
     "Notes/Year 3 Computer Science.md",
+    "Notes/Cryptography.md",
+    "Notes/Private Key Cryptography.md",
+    "Notes/Perfect Cryptosystems.md",
+    "Notes/Cryptosystems.md",
+    "Pictures/Pasted image 20261009204609.png",
+    "Notes/Frequency Analysis.md",
+    "Notes/Kerchoffs's Principle.md",
+    "Notes/Cryptography Notation.md",
+    "Notes/Year 1 Computer Science.md",
+    "Notes/Applied Cryptography.md",
+    "Pictures/Private Key Cryptography.png",
+    "Daily Notes/09-10-2026.md",
     "Notes/Year 4 Computer Science.md",
     "Notes/Year 2 Computer Science.md",
-    "Notes/Year 1 Computer Science.md",
-    "Notes/Interactive Media.md",
-    "Notes/Image Representation.md",
-    "Notes/Image Processing.md",
-    "Notes/Image Transforms.md",
-    "Notes/2D Transformations in Graphics.md",
-    "Notes/Computer Graphics.md",
     "Notes/ITM - Meters.md",
-    "Notes/MIPS.md",
-    "Notes/A Knight's Tour.md",
-    "Notes/Advanced Computer Systems.md",
-    "Notes/Processor and Pipeline Fundamentals.md",
-    "Notes/Pipeline Hazards.md",
-    "Notes/Dark Silicon.md",
-    "Notes/Branch Prediction.md",
-    "Notes/Dynamic Branch Prediction.md",
-    "Notes/Microarchitectural Constraints.md",
-    "Notes/Dennard Scaling.md",
+    "Notes/Into The Maze.md",
+    "Notes/Bioinformatics and Natural Computing Algorithms.md",
+    "Daily Notes/08-10-2026.md",
+    "Daily Notes/07-10-2026.md",
+    "Notes/Networks and Systems.md",
+    "Notes/Theory of Computation.md",
+    "Notes/Complexity Classes.md",
+    "Notes/coNP.md",
+    "Notes/Algorithms and Complexity.md",
+    "Notes/Distributed Systems.md",
+    "Notes/Distributed Fault Tolerance.md",
+    "Notes/Linearisability.md",
     "Pictures/Dynamic Branch Prediction-2.png",
     "Pictures/Dynamic Branch Prediction-1.png",
     "Pictures/Dynamic Branch Prediction.png",
@@ -219,10 +249,6 @@
     "Pictures/Pipeline Hazards-6.png",
     "Pictures/Pipeline Hazards-5.png",
     "Pictures/Pipeline Hazards-4.png",
-    "Pictures/Pipeline Hazards-3.png",
-    "Pictures/Pipeline Hazards-2.png",
-    "Daily Notes/06-10-2026.md",
-    "Notes/Into The Maze.md",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",

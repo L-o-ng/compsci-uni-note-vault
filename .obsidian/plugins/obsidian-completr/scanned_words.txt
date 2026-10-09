@@ -507,6 +507,7 @@ Promise
 Predictor
 Planned
 Project
+PGGG
 IHDR
 IDATx
 ID
@@ -941,6 +942,7 @@ Idle
 Immunity
 Iron
 IPC
+Iee
 yZ
 yC
 yU
@@ -1750,6 +1752,9 @@ interference
 intervening
 inventory
 itm
+inclusion
+izz
+ihhh
 qi
 qH
 qSr
@@ -2819,6 +2824,8 @@ drive
 densities
 dim
 diminishing
+decipher
+ddddee
 oL
 om
 oV
@@ -4423,6 +4430,9 @@ ford
 fat
 frequencies
 fetched
+fsucyusdbj
+formulation
+fHO
 hO
 hf
 hA
@@ -5446,6 +5456,9 @@ predict
 predictor
 peak
 pivoted
+protecting
+plaintexts
+polyalphabetic
 DQ
 DM
 DU
@@ -5920,6 +5933,7 @@ Decrease
 Dijkstra
 Deadlines
 Deadline
+DRPP
 sDK
 sk
 sz
@@ -7497,6 +7511,7 @@ JJK
 June
 July
 Joules
+JKKe
 zG
 zd
 zj
@@ -7716,6 +7731,7 @@ ztFF
 zzZ
 zzt
 zvvvhh
+zzzIII
 CD
 Cxi
 CJ
@@ -8250,6 +8266,11 @@ Crossing
 CPI
 Convention
 Correlating
+Ciphertext
+Chosen
+Current
+Cryptosystems
+CGG
 cd
 ce
 cNCw
@@ -9093,6 +9114,9 @@ causality
 chp
 ceased
 complexes
+cryptosystems
+cryptosystem
+ciphers
 kH
 ka
 kE
@@ -9341,6 +9365,9 @@ kWMM
 kGGGE
 kKg
 knew
+kkkj
+kVG
+kWpppW
 LL
 LN
 Lx
@@ -9696,6 +9723,8 @@ Less
 Leg
 Latency
 Lunch
+Lecture
+Lppp
 tJ
 tf
 tR
@@ -10233,6 +10262,8 @@ temperatures
 throttled
 throtling
 thermally
+texts
+txT
 Bh
 Bda
 Br
@@ -10612,6 +10643,9 @@ Backend
 Behaviour
 Blood
 Building
+BHyyy
+BHuu
+BHyy
 ZY
 Zu
 ZzJ
@@ -11348,6 +11382,7 @@ microarchitecture
 miniaturisation
 margins
 multiprocessors
+mod
 WD
 WWx
 Wy
@@ -11626,6 +11661,7 @@ Workload
 WFG
 Wall
 Watt
+Workshop
 uC
 uIOs
 uq
@@ -12609,6 +12645,8 @@ KqqqUU
 KCCC
 Kww
 Knowing
+KKKz
+KKuuuuuu
 VU
 VB
 Vt
@@ -12880,6 +12918,7 @@ VKD
 Versions
 VMs
 Viva
+VdggO
 Mz
 MR
 Mc
@@ -14514,6 +14553,7 @@ adaptively
 annual
 accelerators
 architect
+abbbii
 wE
 wU
 wF
@@ -15483,6 +15523,8 @@ Nested
 Normally
 NTP
 Necessarily
+NNNAAA
+NNNT
 Yk
 YZ
 Yoj
@@ -15706,6 +15748,7 @@ YeS
 YXx
 YQB
 YEQ
+YYYyyy
 Gckud
 GN
 GD
@@ -16494,6 +16537,8 @@ Unnecessary
 Unstructured
 Updates
 Unintentional
+UCC
+UUUL
 rn
 rM
 rI
@@ -17654,6 +17699,7 @@ energy
 expandable
 embed
 edits
+eavesdroppers
 lD
 le
 lgAg
@@ -18064,6 +18110,7 @@ locates
 lose
 lived
 loading
+lacks
 Ho
 Hf
 HdS
@@ -18400,6 +18447,7 @@ Health
 Hunger
 History
 Heterogeneous
+Humanities
 FC
 FT
 FP
@@ -18726,6 +18774,7 @@ Future
 Funct
 Forced
 Fall
+FFFNNN
 jY
 jx
 jRg
@@ -19257,6 +19306,8 @@ Overhead
 Offered
 Oxygen
 Opcode
+Oct
+Owk
 QiG
 QFJ
 QUR
@@ -19530,6 +19581,8 @@ QPPPPPPP
 QYYYnn
 QaY
 Quality
+Qll
+QQPR
 ba
 bM
 bhz
