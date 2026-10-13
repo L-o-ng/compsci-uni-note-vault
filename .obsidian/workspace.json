@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4d2ee492d257087c",
+        "id": "be52ba329f6a7cfd",
         "type": "tabs",
         "children": [
           {
-            "id": "936801639482f75e",
+            "id": "4c5c44132971d04d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Protein Folding.md",
+                "file": "Notes/Hardware Speculation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Protein Folding"
-            }
-          },
-          {
-            "id": "8164c3d492b04110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/NP-Completeness.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NP-Completeness"
+              "title": "Hardware Speculation"
             }
           }
         ]
@@ -89,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "timestomp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +81,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,44 +187,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "936801639482f75e",
+  "active": "4c5c44132971d04d",
   "lastOpenFiles": [
-    "Pictures/Private Key Cryptography.png",
-    "Pictures/Pipeline Hazards.png",
-    "Pictures/Pipeline Hazards-8.png",
-    "Pictures/Pipeline Hazards-7.png",
-    "Pictures/Pipeline Hazards-6.png",
-    "Pictures/Pipeline Hazards-5.png",
-    "Pictures/Pipeline Hazards-4.png",
-    "Pictures/Pipeline Hazards-3.png",
-    "Pictures/Pipeline Hazards-2.png",
-    "Pictures/Pipeline Hazards-1.png",
-    "Pictures/MIPS.png",
-    "Notes/Root.md",
-    "Notes/Project Preparation.md",
-    "Notes/Processor and Pipeline Fundamentals.md",
-    "Notes/Private Key Cryptography.md",
-    "Notes/Pipeline Hazards.md",
-    "Notes/Perfect Cryptosystems.md",
-    "Notes/Microarchitectural Constraints.md",
-    "Notes/Kerchoffs's Principle.md",
-    "Notes/Introduction to Project Preparation.md",
-    "Notes/Frequency Analysis.md",
-    "Notes/Dynamic Branch Prediction.md",
-    "Notes/Dennard Scaling.md",
-    "Notes/Dark Silicon.md",
-    "Notes/Cryptosystems.md",
-    "Notes/Cryptography Notation.md",
-    "Notes/Branch Prediction.md",
-    "Notes/Phylogenetic Tree Construction.md",
-    "Notes/Protein Folding.md",
-    "Notes/Sequence Alignment.md",
-    "Notes/Bioinformatics and Natural Computing Algorithms.md",
-    "Notes/NP-Completeness.md",
+    "Pictures/Hardware Speculation.png",
+    "Notes/Out-Of-Order Execution.md",
+    "Notes/Hardware Speculation.md",
+    "Notes/Re-Order Buffer.md",
+    "Pictures/Re-Order Buffer.png",
+    "Notes/Tomasulo's Algorithm.md",
+    "Pictures/Tomasulo's Algorithm.png",
+    "Notes/Advanced Computer Systems.md",
     "Notes/Year 3 Computer Science.md",
+    "Notes/Processor and Pipeline Fundamentals.md",
+    "Notes/Pipeline Hazards.md",
+    "Notes/Branch Prediction.md",
+    "Notes/Dynamic Branch Prediction.md",
+    "Notes/MIPS.md",
+    "Notes/Branch Prediction Performance.md",
+    "Notes/Branch Target Buffer.md",
+    "Notes/Implementing Branch Prediction.md",
+    "Pictures/Implementing Branch Prediction.png",
+    "Daily Notes/13-10-2026.md",
+    "Notes/Bioinformatics and Natural Computing Algorithms.md",
+    "Notes/Phylogenetic Tree Construction.md",
     "Notes/Year 2 Computer Science.md",
     "Notes/Year 1 Computer Science.md",
-    "Daily Notes/23-09-2026.md",
+    "Daily Notes/12-10-2026.md",
+    "Pictures/Sequence Alignment 1.png",
+    "Pictures/Protein Folding 1.png",
+    "Notes/Sequence Alignment.md",
+    "Notes/Protein Folding.md",
+    "Notes/Digital Humanities.md",
+    "Notes/Cryptography.md",
+    "Notes/Private Key Cryptography.md",
+    "Pictures/Pasted image 20261009204609.png",
+    "Pictures/Private Key Cryptography.png",
+    "Pictures/Dynamic Branch Prediction-2.png",
+    "Pictures/Dynamic Branch Prediction-1.png",
+    "Pictures/Dynamic Branch Prediction.png",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",

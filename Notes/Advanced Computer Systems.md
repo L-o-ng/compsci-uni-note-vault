@@ -5,6 +5,8 @@
 + [[Dark Silicon]]
 + [[Processor and Pipeline Fundamentals]]
 + [[Branch Prediction]]
++ [[Out-Of-Order Execution]]
++ 
 
 ---
 

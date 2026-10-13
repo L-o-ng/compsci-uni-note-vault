@@ -502,13 +502,14 @@ Proxies
 Privileged
 Polled
 Procedural
-Protein
 Pressure
 Promise
 Predictor
 Planned
 Project
 PGGG
+Phylogenetics
+Protein
 IHDR
 IDATx
 ID
@@ -944,6 +945,7 @@ Immunity
 Iron
 IPC
 Iee
+Indicates
 yZ
 yC
 yU
@@ -1751,15 +1753,13 @@ introducing
 imposes
 interference
 intervening
-<<<<<<< HEAD
-inter
-=======
 inventory
 itm
 inclusion
 izz
 ihhh
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+informing
+inter
 qi
 qH
 qSr
@@ -2831,6 +2831,7 @@ dim
 diminishing
 decipher
 ddddee
+diseases
 oL
 om
 oV
@@ -3644,13 +3645,11 @@ Receivers
 Recieve
 Responses
 Range
-<<<<<<< HEAD
-RNA
-=======
 Radiation
 Recommended
 Revolution
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+RNA
+Reservation
 nR
 nW
 nT
@@ -4442,6 +4441,7 @@ fetched
 fsucyusdbj
 formulation
 fHO
+flags
 hO
 hf
 hA
@@ -5458,12 +5458,6 @@ polled
 parity
 pooooooookiieee
 paint
-<<<<<<< HEAD
-phylogenetic
-protein
-proteins
-predict
-=======
 prohibitive
 penalties
 powered
@@ -5474,7 +5468,11 @@ pivoted
 protecting
 plaintexts
 polyalphabetic
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+phylogenetic
+phylogenetics
+protein
+proteins
+pending
 DQ
 DM
 DU
@@ -5950,6 +5948,7 @@ Dijkstra
 Deadlines
 Deadline
 DRPP
+Darwin
 sDK
 sk
 sz
@@ -6854,9 +6853,6 @@ stratum
 sell
 subarray
 subarrays
-<<<<<<< HEAD
-species
-=======
 subthreshold
 skyrocket
 stall
@@ -6866,7 +6862,8 @@ sleep
 stalled
 situations
 stalls
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+species
+scoreboard
 TWe
 TBM
 Ti
@@ -7287,6 +7284,7 @@ Tendency
 TDP
 Target
 Through
+Tomasulo
 JP
 Ju
 JQ
@@ -9137,6 +9135,7 @@ complexes
 cryptosystems
 cryptosystem
 ciphers
+coat
 kH
 ka
 kE
@@ -10666,6 +10665,7 @@ Building
 BHyyy
 BHuu
 BHyy
+Blank
 ZY
 Zu
 ZzJ
@@ -14570,16 +14570,14 @@ agreement
 appliance
 apps
 adaptively
-<<<<<<< HEAD
-amino
-acids
-assemble
-=======
 annual
 accelerators
 architect
 abbbii
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+amino
+acids
+assemble
+awaiting
 wE
 wU
 wF
@@ -14935,6 +14933,7 @@ wastage
 weakening
 wave
 wall
+watch
 vh
 vU
 vx
@@ -16565,6 +16564,7 @@ Updates
 Unintentional
 UCC
 UUUL
+Upon
 rn
 rM
 rI
@@ -17209,13 +17209,11 @@ recovered
 relaxing
 relaxes
 relaxed
-<<<<<<< HEAD
-regulatory
-reconstruct
-=======
 rode
 runaway
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+regulatory
+reconstruct
+reservation
 ehO
 ef
 eWmI
@@ -17730,11 +17728,9 @@ energy
 expandable
 embed
 edits
-<<<<<<< HEAD
-evolutionary
-=======
 eavesdroppers
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+evolutionary
+exception
 lD
 le
 lgAg
@@ -18146,6 +18142,7 @@ lose
 lived
 loading
 lacks
+legs
 Ho
 Hf
 HdS
@@ -18810,6 +18807,8 @@ Funct
 Forced
 Fall
 FFFNNN
+Front
+Flag
 jY
 jx
 jRg
@@ -19343,6 +19342,7 @@ Oxygen
 Opcode
 Oct
 Owk
+Operate
 QiG
 QFJ
 QUR
@@ -19618,6 +19618,7 @@ QaY
 Quality
 Qll
 QQPR
+Quantify
 ba
 bM
 bhz
@@ -20041,6 +20042,8 @@ bug
 buy
 backing
 bubbles
+bioinformatics
+biodiversity
 ED
 EXD
 Es
@@ -20789,11 +20792,8 @@ guidelines
 grc
 getNeighbours
 gradually
-<<<<<<< HEAD
-genome
-=======
 gating
->>>>>>> 4b6659df0651845e4ca1930e944a3f0bfc929323
+genome
 Üfrpp
 ÜAv
 ÜK

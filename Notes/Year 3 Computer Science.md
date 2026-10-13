@@ -29,4 +29,4 @@
 - [ ] - Bioinformatics, Workshop, Oct 8 26
 - [x] - Cryptography, Lecture, Oct 9 26
 - [ ] - Digital Humanities, Lecture, Oct 9 26
-- [ ] 
+- [ ] - Bioinformatics, Lecture 2, Oct 12 
