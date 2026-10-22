@@ -117,6 +117,7 @@ A:
 		2) For $\lambda=-\frac{1}{2}$ we get from equation 1 that $y=-x$ so from equation 3 we get $x=\pm \frac{1}{\sqrt{ 2 }}$ and the extrema are found at $\left( \frac{1}{\sqrt{ 2 }}, -\frac{1}{\sqrt{ 2 }} \right)$ and $\left( -\frac{1}{\sqrt{ 2 }}, \frac{1}{\sqrt{ 2 }} \right)$, minima.
 
 $$
+\Large
 H = 
 \begin{bmatrix}
 \frac{\partial^2 \mathscr{L}}{\partial x^2} & \frac{\partial^2 \mathscr{L}}{\partial x \partial y} & \frac{\partial^2 \mathscr{L}}{\partial x \partial \lambda} \\

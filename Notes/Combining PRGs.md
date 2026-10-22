@@ -12,3 +12,4 @@ Suppose we have a black box PRG defined over $({\cal S,R})$ and are confident in
 ![[Combining PRGs-2.png]]
 ![[Combining PRGs-3.png]]
 ## Sequential Construction
+todo!

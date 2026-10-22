@@ -520,6 +520,10 @@ PAM
 Proj
 Prep
 PRG
+Prevents
+Posterior
+Probabilities
+PSI
 IHDR
 IDATx
 ID
@@ -1779,6 +1783,8 @@ integrates
 incur
 indel
 island
+islands
+indels
 qi
 qH
 qSr
@@ -2861,6 +2867,8 @@ diagonals
 descended
 dinucleotide
 deaminates
+degrades
+drops
 oL
 om
 oV
@@ -5527,6 +5535,8 @@ probabilistic
 probable
 phosphate
 promoters
+potensh
+profile
 DQ
 DM
 DU
@@ -6005,6 +6015,7 @@ DRPP
 Darwin
 Dario
 Drops
+Decoding
 sDK
 sk
 sz
@@ -6932,6 +6943,8 @@ slide
 scoring
 substrings
 super
+spread
+summed
 TWe
 TBM
 Ti
@@ -8367,6 +8380,7 @@ Consciousness
 Cytosine
 CpG
 Chains
+Ciphers
 cd
 ce
 cNCw
@@ -9222,6 +9236,7 @@ concern
 ciphertexts
 correlating
 chances
+confident
 kH
 ka
 kE
@@ -9832,6 +9847,7 @@ Lecture
 Lppp
 LFSRs
 Loops
+Labs
 tJ
 tf
 tR
@@ -11803,6 +11819,8 @@ Watt
 Workshop
 Wunsch
 Waterman
+WAR
+WAW
 uC
 uIOs
 uq
@@ -12146,6 +12164,10 @@ utilised
 unexpected
 upload
 ungapped
+unsurprisingly
+unrolling
+unrelated
+unlikely
 AI
 Az
 Ab
@@ -14091,6 +14113,7 @@ Seeds
 Seeding
 Sequences
 Stationary
+Scoreboard
 aQ
 ag
 aZ
@@ -14739,6 +14762,7 @@ alignments
 aligning
 ahead
 ancestral
+abandoned
 wE
 wU
 wF
@@ -16737,6 +16761,7 @@ UUUL
 Upon
 Uracil
 Unrelated
+Ungapped
 rn
 rM
 rI
@@ -17394,6 +17419,7 @@ redirect
 residues
 rarer
 repaired
+recur
 ehO
 ef
 eWmI
@@ -17923,6 +17949,7 @@ epigenetic
 enzymes
 emitted
 emission
+emits
 lD
 le
 lgAg
@@ -20251,6 +20278,10 @@ brain
 basically
 banded
 band
+bottlenecks
+basing
+builds
+benefit
 ED
 EXD
 Es
@@ -20663,6 +20694,7 @@ EDP
 Era
 Extinction
 Extension
+Emission
 äq
 gh
 gCn

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Pseudo-Random Generators and Stream Ciphers.md",
-                "mode": "source",
+                "file": "Notes/Bioinformatics and Natural Computing Algorithms.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pseudo-Random Generators and Stream Ciphers"
+              "title": "Bioinformatics and Natural Computing Algorithms"
             }
           },
           {
@@ -56,17 +56,31 @@
             }
           },
           {
-            "id": "ac8179f8d0c5d26c",
+            "id": "3abb2e72a1532e29",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Project Preparation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project Preparation"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -222,43 +236,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac8179f8d0c5d26c",
+  "active": "a392668325970001",
   "lastOpenFiles": [
+    "Notes/Project Preparation.md",
+    "Notes/Taylor Series.md",
+    "Notes/Fourier Series.md",
+    "Notes/Calculus.md",
+    "Notes/Functions in Computer Science.md",
+    "Notes/Lagrange Multipliers.md",
+    "Notes/Euler's Number.md",
+    "Notes/Jacobian Matrix.md",
+    "Notes/Automatic Differentiation.md",
+    "Notes/Bioinformatics and Natural Computing Algorithms.md",
+    "Notes/Banded Dynamic Programming.md",
+    "Notes/BLAST.md",
+    "Notes/Hidden Markov Models.md",
+    "Notes/Year 3 Computer Science.md",
     "Notes/Combining PRGs.md",
+    "Notes/Advanced Computer Systems.md",
+    "Notes/Out-Of-Order Execution.md",
+    "Notes/Tomasulo's Algorithm.md",
+    "Notes/Processor and Pipeline Fundamentals.md",
+    "Notes/Pipeline Hazards.md",
+    "Notes/MIPS.md",
+    "Notes/Branch Prediction.md",
+    "Notes/Microarchitectural Constraints.md",
+    "Notes/Stream Ciphers.md",
+    "Notes/Semantic Security.md",
+    "Notes/Pseudo-Random Generators and Stream Ciphers.md",
     "Pictures/Combining PRGs-3.png",
     "Pictures/Combining PRGs-2.png",
     "Pictures/Combining PRGs-1.png",
     "Pictures/Combining PRGs.png",
-    "Notes/Cryptography.md",
-    "Notes/Issues with Stream Ciphers.md",
-    "Notes/Stream Ciphers.md",
-    "Notes/Security of Stream Ciphers.md",
     "Pictures/Security of Stream Ciphers-3.png",
     "Pictures/Security of Stream Ciphers-2.png",
     "Pictures/Security of Stream Ciphers-1.png",
     "Pictures/Security of Stream Ciphers.png",
-    "Notes/Pseudo-Random Generators and Stream Ciphers.md",
-    "Notes/Semantic Security.md",
-    "Notes/Private Key Cryptography.md",
-    "Notes/Applied Cryptography.md",
-    "Notes/Year 3 Computer Science.md",
-    "Notes/Hidden Markov Models.md",
     "Pictures/Hidden Markov Models-1.png",
-    "Notes/CpG Islands.md",
     "Pictures/Hidden Markov Models.png",
-    "Notes/Bioinformatics and Natural Computing Algorithms.md",
-    "Notes/Markov Chains in Bioinformatics.md",
-    "Notes/Markov Chains and Processes.md",
-    "Notes/Ergodic Markov Chains.md",
-    "Notes/Finite Markov Chains.md",
-    "Notes/The Markov Property.md",
-    "Notes/Markov Chains and Hidden Markov Models.md",
-    "Notes/Probabilistic Models for Alignment.md",
-    "Notes/Heuristic Alignment.md",
-    "Notes/BLAST.md",
-    "Daily Notes/20-10-2026.md",
-    "Notes/FASTA.md",
-    "Notes/Banded Dynamic Programming.md",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",

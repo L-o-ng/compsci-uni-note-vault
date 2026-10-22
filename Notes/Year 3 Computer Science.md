@@ -38,4 +38,5 @@
 - [x] - Bioinformatics L3, Oct 19
 - [ ] - ACS L3, Oct 20
 - [ ] - Proj Prep L3, Oct 20
-- [ ] 
+- [ ] - Cryptography again
+- [ ] - Bioinformatics potensh !!
