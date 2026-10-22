@@ -19,3 +19,4 @@ This is about 70% accurate.
 ## Usage
 + Can be used to generate musical chord sequences, or indeed complete songs.
 
+For more in-depth exploration, see [[Markov Chains in Bioinformatics]] and [[Hidden Markov Models]].

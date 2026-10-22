@@ -1,10 +1,4 @@
-#topic 
-## Notes
-+ [[Sequence Alignment]]
-+ [[Protein Folding]]
-+ 
-
----
+#notes 
 
 To construct a phylogenetic tree, we:
 1. **Extract** a DNA sequence from each species;

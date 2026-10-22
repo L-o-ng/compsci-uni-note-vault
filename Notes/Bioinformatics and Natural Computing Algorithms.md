@@ -1,7 +1,23 @@
 #module 
 ## Notes
 + [[Phylogenetic Tree Construction]]
-+ 
++ [[Sequence Alignment]]
+	+ [[Protein Folding]]
+	+ [[Recursive Programming for Sequence Alignment]]
+	+ [[Dynamic Programming for Sequence Alignment]]
+	+ [[Ends-Free Alignment]]
+	+ [[Local Alignment]]
+	+ [[Sequence Alignment Space Complexity]]
++ [[Heuristic Alignment]]
+	+ [[Banded Dynamic Programming]]
+	+ [[FASTA]]
+	+ [[BLAST]]
+	+ [[Probabilistic Models for Alignment]]
++ [[Markov Chains in Bioinformatics]]
+	+ [[Finite Markov Chains]]
+	+ [[Ergodic Markov Chains]]
+	+ [[CpG Islands]]
+	+ [[Hidden Markov Models]]
 
 ---
 

@@ -1,4 +1,13 @@
 #notes 
+## Notes
++ [[Protein Folding]]
++ [[Recursive Programming for Sequence Alignment]]
++ [[Dynamic Programming for Sequence Alignment]]
++ [[Ends-Free Alignment]]
++ [[Local Alignment]]
++ [[Sequence Alignment Space Complexity]]
+
+---
 
 Recall our DNA/RNA bases: $\{ A,C,G,T \} / \{ A,C,G,U \}$.
 We have:
