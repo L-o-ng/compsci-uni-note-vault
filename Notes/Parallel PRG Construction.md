@@ -1,7 +1,7 @@
 #notes 
 
 If we know we have a black box PRG, what do we do if we want to generate more random bits?
-## Parallel Construction
+
 Suppose we have a black box PRG defined over $({\cal S,R})$ and are confident in generating seeds. We can build $G'$ over $({\cal S}^{n},{\cal R}^{n})$ by running $G$ $n$ times in parallel: $G'(s_{1},\dots,s_{n}):=(G(s_{1}),\dots,G(s_{n}))$. Perhaps unsurprisingly the security of this degrades with the number of parallel calls.
 
 > [!definition] 
@@ -11,5 +11,7 @@ Suppose we have a black box PRG defined over $({\cal S,R})$ and are confident in
 ![[Combining PRGs-1.png]]
 ![[Combining PRGs-2.png]]
 ![[Combining PRGs-3.png]]
-## Sequential Construction
-todo!
+
+---
+
+See [[Sequential PRG Construction]].

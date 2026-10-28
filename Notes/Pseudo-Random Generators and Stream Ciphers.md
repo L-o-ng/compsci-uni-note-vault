@@ -14,6 +14,8 @@ This modified OTP is a **stream cipher** and the function $G$ is a **pseudo-rand
 ## Pseudo-Random Generators
 > [!definition] 
 > A pseudo-random generator is a deterministic algorithm $G$ that takes as input a seed $s$ from a finite fixed seed space $\cal S$ and outputs $r$ from a finite output space $\cal R$. Typically, $\cal S,R$ are sets of bit strings of fixed lengths.
+
+A PRG differs from RNG in that only in RNG is **entropy** continuously added to the internal state. This can come from many sources, such as keyboard/mouse events or interrupts.
 ### Security
 For a PRG to be secure, the output should seem random. Or, given an output from the PRG and a random output, an adversary should not be able to distinguish between them. This is formalised in the following game:
 $$

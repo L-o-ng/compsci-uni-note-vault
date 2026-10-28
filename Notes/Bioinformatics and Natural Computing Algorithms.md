@@ -18,6 +18,12 @@
 	+ [[Ergodic Markov Chains]]
 	+ [[CpG Islands]]
 	+ [[Hidden Markov Models]]
++ [[Decoding and Evaluation]]
+	+ [[Viterbi's Algorithm]]
+	+ [[The Forward Algorithm]]
+	+ [[The Backward Algorithm]]
+	+ [[The Joined Algorithm]]
++ 
 
 ---
 

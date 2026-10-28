@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebde82dcc40838b1",
+            "id": "8546d169ac1078d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Bioinformatics and Natural Computing Algorithms.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Bioinformatics and Natural Computing Algorithms"
-            }
-          },
-          {
-            "id": "a392668325970001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Combining PRGs.md",
+                "file": "Notes/Data Encryption Standard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Combining PRGs"
+              "title": "Data Encryption Standard"
             }
           },
           {
-            "id": "3abb2e72a1532e29",
+            "id": "bc96beb38635d267",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Project Preparation.md",
+                "file": "Notes/Year 3 Computer Science.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project Preparation"
+              "title": "Year 3 Computer Science"
             }
           }
         ],
@@ -114,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "autokey",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,8 +114,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,44 +211,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a392668325970001",
+  "active": "bc96beb38635d267",
   "lastOpenFiles": [
-    "Notes/Project Preparation.md",
-    "Notes/Taylor Series.md",
-    "Notes/Fourier Series.md",
-    "Notes/Calculus.md",
-    "Notes/Functions in Computer Science.md",
-    "Notes/Lagrange Multipliers.md",
-    "Notes/Euler's Number.md",
-    "Notes/Jacobian Matrix.md",
-    "Notes/Automatic Differentiation.md",
+    "Scripts/countdown.js",
     "Notes/Bioinformatics and Natural Computing Algorithms.md",
-    "Notes/Banded Dynamic Programming.md",
-    "Notes/BLAST.md",
-    "Notes/Hidden Markov Models.md",
+    "Notes/Data Encryption Standard.md",
+    "Notes/Decoding and Evaluation.md",
+    "Notes/The Joined Algorithm.md",
+    "Pictures/The Joined Algorithm-2.png",
+    "Pictures/The Joined Algorithm-1.png",
+    "Pictures/The Joined Algorithm.png",
+    "Notes/The Backward Algorithm.md",
+    "Notes/The Forward Algorithm.md",
+    "Pictures/The Forward Algorithm-3.png",
+    "Pictures/The Forward Algorithm-2.png",
+    "Pictures/The Forward Algorithm-1.png",
+    "Pictures/The Forward Algorithm.png",
+    "Notes/Viterbi's Algorithm.md",
+    "Pictures/Viterbi's Algorithm-2.png",
+    "Pictures/Viterbi's Algorithm-1.png",
+    "Pictures/Viterbi's Algorithm.png",
     "Notes/Year 3 Computer Science.md",
-    "Notes/Combining PRGs.md",
-    "Notes/Advanced Computer Systems.md",
-    "Notes/Out-Of-Order Execution.md",
-    "Notes/Tomasulo's Algorithm.md",
-    "Notes/Processor and Pipeline Fundamentals.md",
-    "Notes/Pipeline Hazards.md",
-    "Notes/MIPS.md",
-    "Notes/Branch Prediction.md",
-    "Notes/Microarchitectural Constraints.md",
+    "Notes/Interactive Media.md",
+    "Notes/Cryptography.md",
+    "Notes/Properties of a Good Cipher.md",
+    "Notes/Cryptosystems.md",
+    "Notes/Private Key Cryptography.md",
+    "Notes/The Feistel Cipher.md",
+    "Notes/Block Ciphers.md",
+    "Notes/Non-Linearity in LFSRs.md",
+    "Notes/Building a Stream Cipher with LFSRs.md",
+    "Notes/Linear-Feedback Shift Registers.md",
+    "Notes/Untitled.md",
     "Notes/Stream Ciphers.md",
-    "Notes/Semantic Security.md",
     "Notes/Pseudo-Random Generators and Stream Ciphers.md",
-    "Pictures/Combining PRGs-3.png",
-    "Pictures/Combining PRGs-2.png",
-    "Pictures/Combining PRGs-1.png",
-    "Pictures/Combining PRGs.png",
-    "Pictures/Security of Stream Ciphers-3.png",
-    "Pictures/Security of Stream Ciphers-2.png",
-    "Pictures/Security of Stream Ciphers-1.png",
-    "Pictures/Security of Stream Ciphers.png",
-    "Pictures/Hidden Markov Models-1.png",
-    "Pictures/Hidden Markov Models.png",
+    "Notes/Linear Algebra.md",
+    "Notes/Kerchkhoffs's Principle.md",
+    "Notes/Sequential PRG Construction.md",
+    "Notes/Issues with Stream Ciphers.md",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",

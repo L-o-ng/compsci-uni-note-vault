@@ -6,7 +6,7 @@
 > We are interested in protecting the contents of **Alice's** message to **Bob** from *eavesdroppers*, or **Eve**.
 ## Notes
 + [[Cryptography Notation]]
-+ [[Kerchoffs's Principle]]
++ [[Kerchkhoffs's Principle]]
 + [[Cryptosystems]]
 + [[Perfect Cryptosystems]]
 + [[Stream Ciphers]]

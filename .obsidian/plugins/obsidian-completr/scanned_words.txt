@@ -524,6 +524,7 @@ Prevents
 Posterior
 Probabilities
 PSI
+Prussian
 IHDR
 IDATx
 ID
@@ -1785,6 +1786,11 @@ indel
 island
 islands
 indels
+inconvenience
+iterated
+inversion
+insecurity
+intentionally
 qi
 qH
 qSr
@@ -2263,6 +2269,7 @@ XaHI
 Xcc
 Xll
 XPT
+XORs
 dB
 do
 dK
@@ -2869,6 +2876,10 @@ dinucleotide
 deaminates
 degrades
 drops
+designs
+dow
+digrams
+diffusion
 oL
 om
 oV
@@ -4005,6 +4016,7 @@ nanometer
 nextinstruction
 neuroscientific
 neurobiology
+nonlinear
 fg
 fU
 fk
@@ -4489,6 +4501,7 @@ formalise
 favour
 filling
 formalised
+fashion
 hO
 hf
 hA
@@ -5537,6 +5550,7 @@ phosphate
 promoters
 potensh
 profile
+partly
 DQ
 DM
 DU
@@ -6016,6 +6030,9 @@ Darwin
 Dario
 Drops
 Decoding
+December
+Diffusion
+DES
 sDK
 sk
 sz
@@ -6945,6 +6962,11 @@ substrings
 super
 spread
 summed
+stretch
+supporting
+secrecy
+standardised
+scrutiny
 TWe
 TBM
 Ti
@@ -7370,6 +7392,7 @@ Traces
 Taken
 Thymine
 TATA
+Trivium
 JP
 Ju
 JQ
@@ -8381,6 +8404,9 @@ Cytosine
 CpG
 Chains
 Ciphers
+Crypto
+Combiner
+ChaCha
 cd
 ce
 cNCw
@@ -9237,6 +9263,9 @@ ciphertexts
 correlating
 chances
 confident
+crypto
+combiner
+collectively
 kH
 ka
 kE
@@ -9848,6 +9877,8 @@ Lppp
 LFSRs
 Loops
 Labs
+LSFR
+LFSR
 tJ
 tf
 tR
@@ -10394,6 +10425,8 @@ thrash
 transcription
 tissues
 transcribed
+timesteps
+timestep
 Bh
 Bda
 Br
@@ -11821,6 +11854,8 @@ Wunsch
 Waterman
 WAR
 WAW
+Warning
+Weaknesses
 uC
 uIOs
 uq
@@ -12168,6 +12203,8 @@ unsurprisingly
 unrolling
 unrelated
 unlikely
+undergo
+unbreakable
 AI
 Az
 Ab
@@ -12585,6 +12622,9 @@ Adenine
 Alignment
 Anatomy
 Alignments
+Auguste
+Arguments
+Autokey
 KN
 KV
 KO
@@ -12820,6 +12860,7 @@ Kww
 Knowing
 KKKz
 KKuuuuuu
+Kerchoffs
 VU
 VB
 Vt
@@ -13092,6 +13133,7 @@ Versions
 VMs
 Viva
 VdggO
+Viterbi
 Mz
 MR
 Mc
@@ -13512,6 +13554,7 @@ Mapped
 Mutation
 Match
 Methylated
+Malleability
 SQl
 SkBl
 SK
@@ -14114,6 +14157,9 @@ Seeding
 Sequences
 Stationary
 Scoreboard
+Specifically
+Salsa
+Shannon
 aQ
 ag
 aZ
@@ -14763,6 +14809,8 @@ aligning
 ahead
 ancestral
 abandoned
+although
+accurately
 wE
 wU
 wF
@@ -15121,6 +15169,8 @@ wall
 watch
 wellbeing
 wins
+workshop
+weaknesses
 vh
 vU
 vx
@@ -15738,6 +15788,9 @@ Necessarily
 NNNAAA
 NNNT
 Needleman
+November
+Nonlinear
+Nonlinearity
 Yk
 YZ
 Yoj
@@ -16245,6 +16298,7 @@ Guanine
 Gapped
 Genome
 Generators
+Game
 xcb
 xa
 xX
@@ -16762,6 +16816,7 @@ Upon
 Uracil
 Unrelated
 Ungapped
+Unsurprisingly
 rn
 rM
 rI
@@ -17420,6 +17475,9 @@ residues
 rarer
 repaired
 recur
+reuse
+reveal
+reproduce
 ehO
 ef
 eWmI
@@ -17950,6 +18008,10 @@ enzymes
 emitted
 emission
 emits
+eavesdropper
+enemy
+exposed
+eight
 lD
 le
 lgAg
@@ -18364,6 +18426,7 @@ lacks
 legs
 leaks
 leak
+linearity
 Ho
 Hf
 HdS
@@ -19033,6 +19096,9 @@ FFFNNN
 Front
 Flag
 FASTA
+Feistel
+Firstly
+FSR
 jY
 jx
 jRg
@@ -19570,6 +19636,7 @@ Operate
 Others
 OTP
 Ordinary
+Options
 QiG
 QFJ
 QUR
@@ -20282,6 +20349,8 @@ bottlenecks
 basing
 builds
 benefit
+bijections
+belief
 ED
 EXD
 Es
@@ -20695,6 +20764,7 @@ Era
 Extinction
 Extension
 Emission
+Expand
 äq
 gh
 gCn
@@ -21042,6 +21112,7 @@ genomes
 gene
 genes
 generator
+guessed
 Üfrpp
 ÜAv
 ÜK

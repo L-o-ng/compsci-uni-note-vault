@@ -10,7 +10,7 @@
   "latexProviderEnabled": true,
   "latexTriggerInCodeBlocks": true,
   "latexMinWordTriggerLength": 3,
-  "latexIgnoreCase": true,
+  "latexIgnoreCase": false,
   "fileScannerProviderEnabled": true,
   "fileScannerScanCurrent": true,
   "wordListProviderEnabled": false,

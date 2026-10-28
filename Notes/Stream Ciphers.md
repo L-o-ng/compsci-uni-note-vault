@@ -4,6 +4,7 @@
 + [[Pseudo-Random Generators and Stream Ciphers]]
 + [[Security of Stream Ciphers]]
 + [[Issues with Stream Ciphers]]
-+ [[Combining PRGs]]
++ [[Parallel PRG Construction]]
++ [[Sequential PRG Construction]]
 
 ---

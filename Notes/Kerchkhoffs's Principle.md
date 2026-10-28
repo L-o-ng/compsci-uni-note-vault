@@ -2,11 +2,11 @@
 
 If *Eve* knows both the *decoding algorithm* $d$ and the *key* $K$, then she can **decipher** the ciphertext. Therefore, at least one of the two must be kept secret. 
 
-**Auguste Kerchoffs** argued that only the *key* should be kept secret:
+**Auguste Kerchkhoffs** argued that only the *key* should be kept secret:
 > [!quote] 
 > The cipher method must not be required to be secret, and it must be able to fall into the hands of the enemy without inconvenience.
 
-This is known as **Kerchoffs's Principle**.
+This is known as **Kerchkhoffs's Principle**.
 ## Supporting Arguments
 There are three main supporting arguments for the principle:
 1. It is *much* easier to maintain secrecy of a short key than to keep secret the **more complex** algorithm they are using;
