@@ -4,6 +4,8 @@
 + [[The Forward Algorithm]]
 + [[The Backward Algorithm]]
 + [[The Joined Algorithm]]
++ [[HMM Parameter Estimation]]
++ 
 
 ---
 

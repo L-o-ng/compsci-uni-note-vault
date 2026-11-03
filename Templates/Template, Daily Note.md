@@ -15,9 +15,11 @@ const displayDate = moment(currentTitle, 'DD-MM-YYYY').format("dddd, MMMM DD, YY
 tR += "<< " + prevLink + " | " + displayDate + " | " + nextLink + " >>";
 %>
 
+<% tp.web.daily_quote() %>
+
 ---
 ## 📝 Notes
-- <% tp.file.cursor() %>
+<% tp.file.cursor() %>
 
 ---
 ### Notes created today
