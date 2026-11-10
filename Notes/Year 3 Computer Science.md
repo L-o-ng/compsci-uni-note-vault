@@ -20,6 +20,7 @@
 | Coursework                         | Countdown                                      | Deadline       | Status      |
 | ---------------------------------- | ---------------------------------------------- | -------------- | ----------- |
 | Advanced Computer Systems Report   | `$= customJS.Countdown.daysLeft("2026-11-19")` | 19 November 26 | Started     |
+| Digital Humanities Formative       | `$= customJS.Countdown.daysLeft("2026-11-19")` | 19 November 26 | Not Started |
 | Cryptography Workshop              | ---                                            | N/A, before CW | Not Started |
 | Cryptography Feistel Cipher        | `$= customJS.Countdown.daysLeft("2026-11-24")` | 24 November 26 | Started     |
 | Bioinformatics Poster, Code, Video | `$= customJS.Countdown.daysLeft("2026-12-03")` | 3 December 26  | Started     |
@@ -30,15 +31,15 @@
 
 ---
 ## Catch Up
-- [ ] - ?? Digital Humanities, Lecture, Oct 9 26
-- [ ] - ?? Digital Humanities, Lecture 2, Oct 16
-- [ ] - ?? DH L3, Oct 23
-- [ ] - Digital Humanitites L4 I GUESS
+- [ ] - Digital Humanities, Lecture, Oct 9 26
+- [ ] - Digital Humanities, Lecture 2, Oct 16
+- [ ] - Digital Humanities L3, Oct 23
+- [ ] - Digital Humanities L4
+- [ ] - Digital Humanities L5
 - [ ] - ACS L2, Oct 20
 - [ ] - ACS WS2
 - [ ] - ACS L3
-- [ ] - Proj Prep L3, Oct 20
-- [ ] - Project Prep L4
-- [ ] - Bioinformatics L5
+- [ ] - ACS WS3
+- [ ] - Bioinformatics L5, L6
 - [ ] - Just catch up on crypto twin
 

@@ -527,6 +527,13 @@ PSI
 Prussian
 Practicalities
 Poster
+Person
+POSTING
+Parser
+Player
+Positivist
+Participatory
+Pragmatist
 IHDR
 IDATx
 ID
@@ -966,6 +973,7 @@ Indicates
 Islands
 Island
 Intro
+Interpretive
 yZ
 yC
 yU
@@ -1798,6 +1806,8 @@ initialise
 innovative
 interactivity
 inaccuracies
+instantiates
+innovation
 qi
 qH
 qSr
@@ -2890,6 +2900,10 @@ digrams
 diffusion
 drawbacks
 delegation
+defs
+deliberation
+discipline
+dis
 oL
 om
 oV
@@ -3252,6 +3266,8 @@ overcome
 optimistic
 odds
 ownership
+objectives
+opinion
 RD
 Rpbr
 RJ
@@ -3713,6 +3729,10 @@ RNA
 Reservation
 Redirect
 Reconstructing
+Room
+Research
+Researchable
+Reductionist
 nR
 nW
 nT
@@ -4029,6 +4049,7 @@ neuroscientific
 neurobiology
 nonlinear
 necessity
+narrative
 fg
 fU
 fk
@@ -4521,6 +4542,11 @@ formatting
 formulas
 facilitating
 factual
+fruit
+fiction
+findings
+formulate
+five
 hO
 hf
 hA
@@ -5580,6 +5606,7 @@ privacy
 prompt
 praise
 pretend
+positivist
 DQ
 DM
 DU
@@ -6062,6 +6089,7 @@ Decoding
 December
 Diffusion
 DES
+Develops
 sDK
 sk
 sz
@@ -7000,6 +7028,13 @@ slop
 startup
 students
 surely
+sift
+subjective
+specifics
+society
+similarities
+studies
+seeks
 TWe
 TBM
 Ti
@@ -7426,6 +7461,8 @@ Taken
 Thymine
 TATA
 Trivium
+Tiles
+Theorist
 JP
 Ju
 JQ
@@ -8443,6 +8480,15 @@ ChaCha
 Countdown
 Claims
 ChatGPT
+Confucius
+CRYPTOGRAPHY
+Contributes
+Comparative
+Correlational
+Critique
+Controlled
+Concerning
+Constructivist
 cd
 ce
 cNCw
@@ -9307,6 +9353,11 @@ criticised
 comprehension
 category
 clunky
+courage
+conclusive
+casual
+causation
+constructivist
 kH
 ka
 kE
@@ -10476,6 +10527,12 @@ textually
 typo
 tended
 twin
+till
+topical
+timeframe
+thoroughly
+truths
+theorist
 Bh
 Bda
 Br
@@ -10871,6 +10928,7 @@ Biological
 BLOSUM
 Bulk
 Bach
+Baltasar
 ZY
 Zu
 ZzJ
@@ -11910,6 +11968,9 @@ WAW
 Warning
 Weaknesses
 Watching
+Worldgen
+Who
+Website
 uC
 uIOs
 uq
@@ -12262,6 +12323,7 @@ unbreakable
 underflows
 unaffected
 unbacked
+uncover
 AI
 Az
 Ab
@@ -12683,6 +12745,11 @@ Auguste
 Arguments
 Autokey
 Abstract
+Albert
+Answerable
+Arguable
+Addresses
+Analytical
 KN
 KV
 KO
@@ -13615,6 +13682,7 @@ Match
 Methylated
 Malleability
 Mentor
+Measurable
 SQl
 SkBl
 SK
@@ -14224,6 +14292,11 @@ SAM
 Study
 STD
 Socrates
+Stuff
+Survey
+Subjective
+Soft
+Seeks
 aQ
 ag
 aZ
@@ -14876,6 +14949,11 @@ abandoned
 although
 accurately
 adaptability
+awake
+answered
+academic
+artistic
+ambiguity
 wE
 wU
 wF
@@ -15237,6 +15315,8 @@ wins
 workshop
 weaknesses
 wrapper
+wronged
+wisdom
 vh
 vU
 vx
@@ -15549,6 +15629,7 @@ volatile
 vested
 video
 visualizing
+vague
 Ny
 Ngl
 Nz
@@ -15860,6 +15941,7 @@ Needleman
 November
 Nonlinear
 Nonlinearity
+Narrow
 Yk
 YZ
 Yoj
@@ -16370,6 +16452,7 @@ Generators
 Game
 GPT
 GUESS
+Gracian
 xcb
 xa
 xX
@@ -17552,6 +17635,7 @@ reproduce
 reliance
 rating
 realize
+restate
 ehO
 ef
 eWmI
@@ -18095,6 +18179,8 @@ enhancing
 ethics
 excluded
 engaging
+essay
+empowering
 lD
 le
 lgAg
@@ -18510,6 +18596,7 @@ legs
 leaks
 leak
 linearity
+literature
 Ho
 Hf
 HdS
@@ -19184,6 +19271,11 @@ Feistel
 Firstly
 FSR
 Figure
+Formative
+Focused
+Focuses
+Feasible
+Formulation
 jY
 jx
 jRg
@@ -19424,6 +19516,8 @@ jyy
 jjjl
 juCCC
 jsss
+judgement
+judge
 Ow
 Osg
 OguH
@@ -19724,6 +19818,7 @@ Ordinary
 Options
 ORBITS
 Overall
+Objective
 QiG
 QFJ
 QUR
@@ -20001,6 +20096,9 @@ Qll
 QQPR
 Quantify
 Quantity
+QUANTUM
+Quantitative
+Qualitative
 ba
 bM
 bhz
@@ -20441,6 +20539,10 @@ bijections
 belief
 bridge
 burning
+bears
+broad
+broadly
+breaking
 ED
 EXD
 Es
@@ -20855,6 +20957,14 @@ Extinction
 Extension
 Emission
 Expand
+Einstein
+Enemy
+Exploratory
+Explanatory
+Evidence
+Ethnographies
+Etc
+Establishes
 äq
 gh
 gCn

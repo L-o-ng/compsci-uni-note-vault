@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b053220de441257e",
+        "id": "35691dad6b13fe4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ecf62d998e105b95",
+            "id": "99472bf890e64381",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Year 3 Computer Science.md",
+                "file": "Notes/Eye of the Cathedral.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Year 3 Computer Science"
-            }
-          },
-          {
-            "id": "dc0476e6d97c6afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/LaTeX Command Definitions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "LaTeX Command Definitions"
+              "title": "Eye of the Cathedral"
             }
           }
         ]
@@ -211,45 +187,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ecf62d998e105b95",
+  "active": "99472bf890e64381",
   "lastOpenFiles": [
-    "Notes/LaTeX Command Definitions.md",
+    "Notes/Interactive Media.md",
     "Notes/Year 3 Computer Science.md",
-    "Daily Notes/01-11-2026.md",
+    "Notes/Digital Humanities.md",
+    "Notes/Project Preparation.md",
+    "Notes/Types of Research.md",
+    "Notes/SMART Research Questions.md",
+    "Notes/Types of Research Questions.md",
+    "Pictures/Formulating Research Questions-1.png",
+    "Pictures/Formulating Research Questions.png",
+    "Notes/Research Questions.md",
+    "Notes/Research Methodologies.md",
+    "Notes/Dissertation.md",
+    "Notes/Research Reliability and Validity.md",
+    "Pictures/Research Reliability and Validity.png",
+    "Pictures/Project Preparation.png",
+    "Notes/Academic Critique.md",
+    "Notes/Research Ethics.md",
+    "Daily Notes/15-10-2026.md",
+    "Daily Notes/16-10-2026.md",
+    "Daily Notes/19-10-2026.md",
+    "Daily Notes/20-10-2026.md",
+    "Daily Notes/27-10-2026.md",
+    "Daily Notes/28-10-2026.md",
     "Daily Notes/29-10-2026.md",
+    "Daily Notes/01-11-2026.md",
+    "Daily Notes/04-11-2026.md",
+    "Daily Notes/05-11-2026.md",
+    "Daily Notes/09-11-2026.md",
+    "Daily Notes/10-11-2026.md",
+    "Notes/Year 4 Computer Science.md",
     "Pictures/29-10-2026-1.png",
     "Pictures/29-10-2026.png",
     "Pictures/ai slop man.png",
-    "Notes/HMM Parameter Estimation.md",
-    "Notes/Decoding and Evaluation.md",
-    "Notes/The Joined Algorithm.md",
-    "Notes/The Backward Algorithm.md",
-    "Notes/The Forward Algorithm.md",
-    "Notes/Viterbi's Algorithm.md",
-    "Notes/Data Encryption Standard.md",
-    "Daily Notes/02-08-2026.md",
-    "Daily Notes/23-07-2026.md",
-    "Daily Notes/22-07-2026.md",
-    "Daily Notes/02-07-2026.md",
-    "Daily Notes/28-10-2026.md",
-    "Templates/Template, Daily Note.md",
-    "Notes/Digital Humanities.md",
     "Scripts/countdown.js",
-    "Notes/Bioinformatics and Natural Computing Algorithms.md",
     "Pictures/The Joined Algorithm-2.png",
     "Pictures/The Joined Algorithm-1.png",
     "Pictures/The Joined Algorithm.png",
-    "Pictures/The Forward Algorithm-3.png",
-    "Pictures/The Forward Algorithm-2.png",
-    "Pictures/The Forward Algorithm-1.png",
-    "Pictures/The Forward Algorithm.png",
-    "Notes/Interactive Media.md",
-    "Notes/Cryptography.md",
-    "Notes/Properties of a Good Cipher.md",
-    "Notes/Cryptosystems.md",
-    "Notes/Private Key Cryptography.md",
-    "Notes/The Feistel Cipher.md",
-    "Notes/Block Ciphers.md",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",
