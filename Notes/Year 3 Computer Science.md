@@ -31,11 +31,6 @@
 
 ---
 ## Catch Up
-- [ ] - Digital Humanities, Lecture, Oct 9 26
-- [ ] - Digital Humanities, Lecture 2, Oct 16
-- [ ] - Digital Humanities L3, Oct 23
-- [ ] - Digital Humanities L4
-- [ ] - Digital Humanities L5
 - [ ] - ACS L2, Oct 20
 - [ ] - ACS WS2
 - [ ] - ACS L3

@@ -15,7 +15,6 @@ Groups of bits have different names depending on size:
 + **Half Word** - 16 bits
 + **Word** - 32 bits
 + **Double Word** - 64 bits
-
 #### Basic Representation
 In decimal, each position for each digit represents $n^{10}$ of the digit in that place, where n is the index of that place.
 This works similarly in binary: each place is instead raised to the power of $2$ instead.
@@ -26,7 +25,6 @@ EG: ${1101}_{10}\text{ is base 10: decimal; }{1101}_{2}\text{ is base 2: binary.
 #### Fractions
 In decimal, the **Decimal/Radix Point** separates the integer and fractional parts of a number.
 This works similarly in binary. Place value after the radix point is raised to negative powers of 2.
-
 #### Decimal to Binary conversion
 1) Repeatedly divide the number by 2, until you reach 0 or 2.
 2) Write the remainders down **right to left** from the radix point.

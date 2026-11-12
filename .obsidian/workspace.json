@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "35691dad6b13fe4a",
+        "id": "4d248ad8f2fab3e0",
         "type": "tabs",
         "children": [
           {
-            "id": "99472bf890e64381",
+            "id": "828acbaab862ab18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Eye of the Cathedral.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eye of the Cathedral"
+              "title": "New tab"
             }
           }
         ]
@@ -89,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,45 +172,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "99472bf890e64381",
+  "active": "828acbaab862ab18",
   "lastOpenFiles": [
-    "Notes/Interactive Media.md",
+    "Pictures/Pasted image 20261111231602.png",
+    "Pictures/jpg.md",
     "Notes/Year 3 Computer Science.md",
+    "Daily Notes/11-11-2026.md",
+    "Templates/Template, Daily Note.md",
     "Notes/Digital Humanities.md",
-    "Notes/Project Preparation.md",
-    "Notes/Types of Research.md",
-    "Notes/SMART Research Questions.md",
-    "Notes/Types of Research Questions.md",
-    "Pictures/Formulating Research Questions-1.png",
-    "Pictures/Formulating Research Questions.png",
-    "Notes/Research Questions.md",
-    "Notes/Research Methodologies.md",
-    "Notes/Dissertation.md",
-    "Notes/Research Reliability and Validity.md",
-    "Pictures/Research Reliability and Validity.png",
-    "Pictures/Project Preparation.png",
-    "Notes/Academic Critique.md",
-    "Notes/Research Ethics.md",
-    "Daily Notes/15-10-2026.md",
-    "Daily Notes/16-10-2026.md",
-    "Daily Notes/19-10-2026.md",
-    "Daily Notes/20-10-2026.md",
-    "Daily Notes/27-10-2026.md",
-    "Daily Notes/28-10-2026.md",
-    "Daily Notes/29-10-2026.md",
-    "Daily Notes/01-11-2026.md",
-    "Daily Notes/04-11-2026.md",
-    "Daily Notes/05-11-2026.md",
-    "Daily Notes/09-11-2026.md",
-    "Daily Notes/10-11-2026.md",
-    "Notes/Year 4 Computer Science.md",
-    "Pictures/29-10-2026-1.png",
-    "Pictures/29-10-2026.png",
-    "Pictures/ai slop man.png",
+    "Notes/Authorship Attribution.md",
+    "Notes/Sentiment Analysis.md",
+    "Pictures/Authorship Attribution-5.png",
+    "Pictures/Authorship Attribution-4.png",
+    "Pictures/Authorship Attribution-3.png",
+    "Pictures/Authorship Attribution-3.png",
+    "Pictures/Authorship Attribution-2.png",
+    "Pictures/Authorship Attribution-1.png",
+    "Notes/Principal Component Analysis.md",
+    "Pictures/Authorship Attribution.png",
+    "Notes/Natural Language Processing.md",
+    "Pictures/Pasted image 20260124203202.png",
+    "Pictures/Mr Based.png",
+    "Pictures/Mr Acid.png",
+    "Notes/Dependency Grammars.md",
+    "Notes/Number Systems.md",
+    "Notes/Foundations.md",
+    "Notes/First-Order Syntax.md",
+    "Notes/Part of Speech Tagging.md",
+    "Notes/Named Entity Recognition and Disambiguation.md",
+    "Notes/Word Embeddings.md",
+    "Notes/Better Vector Representations.md",
+    "Notes/Matrix Decomposition.md",
+    "Notes/Language Models.md",
+    "Notes/Semantic Similarity.md",
+    "Notes/Documents as Vectors.md",
+    "Notes/Inverse Document Frequency.md",
+    "Notes/Cosine Similarity.md",
+    "Notes/Linear Combinations.md",
+    "Notes/Linear Maps.md",
     "Scripts/countdown.js",
-    "Pictures/The Joined Algorithm-2.png",
-    "Pictures/The Joined Algorithm-1.png",
-    "Pictures/The Joined Algorithm.png",
     "Scripts/dailyNoteNav.js~",
     "Scripts/dailyNoteNav.js",
     "Scripts",
